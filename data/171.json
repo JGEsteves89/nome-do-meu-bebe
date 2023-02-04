@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Lulas recheadas à grega",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/09/lulas-recheadas-grega.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lulas-recheadas-a-grega/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lula grande",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeitona picada",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 220,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1388,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2226,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 224,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 163,
+        "g": 220,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190° C.",
+      "Tempere as lulas com o alho em pó. Retire os tentáculos e limpe o interior. Reserve.",
+      "Numa taça, misture a courgette cortada em cubos pequenos, assim como o tomate e o queijo feta. Junte a cebola e as azeitonas.",
+      "Termine com duas colheres de azeite, a salsa e a hortelã picadas, e envolva.",
+      "Recheie as lulas com a mistura anterior. Pode colocá-las num copo para facilitar o processo.",
+      "Feche as lulas com palitos e coloque-as num tabuleiro de forno, assim como os tentáculos.",
+      "Regue com três colheres de sopa de azeite, com o vinho branco e leve a cozinhar no forno por cerca de 30 minutos, regando sempre que necessário com um pouco de água.",
+      "Para finalizar, regule o forno para a função grill e deixe cozinhar as lulas por 2 minutos de cada lado para ficarem mais douradas.",
+      "Entretanto, coza o arroz em água abundante temperada com o sal cerca de 10 minutos.",
+      "Sirva as lulas decoradas com folhas de hortelã e regue com o restante azeite. Acompanhe com o arroz polvilhado com mais salsa picada e com o tomate-cereja."
+    ]
+  },
+  {
+    "name": "Empada de coelho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085271",
+    "link": "https://www.pingodoce.pt/receitas/empada-de-coelho/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "coelho",
+        "qtd": 700,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "ramo"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "placas de massa quebrada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 700,
+        "g": 700,
+        "ml": 700
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 954,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 1531,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1816,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2360,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Limpe o coelho de peles e gorduras e corte-o em pedaços. Tempere com 1 colher de sobremesa de sal e pimenta qb, e esfregue os pedaços de coelho com meio limão. Descasque as cebolas e os dentes de alho e pique-os finamente. Deite o azeite num tacho, deixe aquecer bem e junte os pedaços de coelho. Frite-os rapidamente, mexendo até alourarem de todos os lados.",
+      "Reduza o calor, junte as cebolas e os dentes de alho picados e o ramo de salsa atado com a folha de louro. Tape e deixe cozinhar sobre lume brando cerca de 35 minutos, até o coelho estar macio (se necessário vá acrescentando água quente a pouco e pouco para evitar que se pegue ao fundo do tacho).",
+      "Corte o alho-francês em rodelas, pele o tomate, limpe-o de grainhas, pique-o em pedaços e pele as cenouras, cortando-as em meias luas.",
+      "Quando o coelho estiver macio, retire-o do tacho para outro recipiente e deite no tacho o alho-francês e as cenouras. Volte a tapar. Quando os legumes estiverem tenros, adicione os pedaços de tomate. Salpique com 1 pitada de sal e deixe cozinhar com o tacho tapado sobre lume brando, enquanto limpa os pedaços de coelho de ossos e desfia a carne.",
+      "Junte o coelho desfiado aos legumes, borrife com o vinagre, salpique com a farinha e junte a mostarda. Misture bem, rectifique os temperos e retire do lume 5 minutos depois. Deixe arrefecer um pouco.",
+      "Ligue o forno a 180 ºC.",
+      "Forre uma forma alta para tarte com uma das placas de massa, encha com o recheio e, por cima, coloque a outra placa de massa. Faça aderir bem as bordas da massa e corte o excesso. Pincele a superfície da massa com a gema desfeita e pique a massa com um garfo. Leve ao forno cerca de 40 minutos ou até a superfície estar dourada.",
+      "Acompanhe com salada ibérica temperada com um fio de azeite e vinagre balsâmico."
+    ]
+  },
+  {
+    "name": "Mexilhões de tomatada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449090142",
+    "link": "https://www.pingodoce.pt/receitas/mexilhoes-de-tomatada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "mexilhão",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "bolbo de funcho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hastes de tomilho",
+        "qtd": 2,
+        "unit": "haste"
+      },
+      {
+        "name": "coentros",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pão de mistura",
+        "qtd": 240,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1557,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2529,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1899,
+        "g": 240,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Limpe os mexilhões dos filamentos e raspe muito bem as conchas com uma faca.",
+      "Pele o tomate e corte-o em quartos, descasque os dentes de alho e corte-os em lâminas. Retire as folhas verdes do funcho, que deverá reservar, e corte o bolbo em rodelas finas.",
+      "Ponha ao lume um tacho com o azeite, os alhos picados e as rodelas de funcho e deixe refogar até ficarem tenras.",
+      "Adicione a malagueta, previamente limpa de sementes e cortada em pedaços. Deixe cozinhar durante 5 minutos.",
+      "Junte os mexilhões, tape e mantenha no lume até abrirem, abanando o tacho de vez em quando.",
+      "Pique as ervas e torre as fatias de pão. Antes de servir, salpique os mexilhões com as ervas aromáticas picadas. Sirva com as torradas."
+    ]
+  }
+]

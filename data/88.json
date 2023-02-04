@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Fusilli com camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/fusilli-com-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/fusilli-com-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa Napolitana Originale fusilli tricolor",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta vermelha fresca",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1525,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1603,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1711,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza a massa em água e sal durante sete minutos, até ficar al dente. Escorra e reserve.",
+      "Aqueça 2 colheres de sopa de azeite numa frigideira antiaderente.",
+      "Quando o azeite estiver quente, adicione-lhe a cebola e os dentes de alho picados. Salteie durante uns instantes.",
+      "Acrescente os pimentos cortados em cubos e o miolo de camarão. Mexa e deixe saltear.",
+      "Junte o tomate, cortado em cubos, e o molho pesto. Deixe cozinhar durante 2 minutos.",
+      "Misture a massa e a malagueta laminada. Envolva bem e salteie durante uns instantes.",
+      "Salpique com folhas de manjericão.",
+      "Acompanhe com rúcula temperada com uma colher de sobremesa de azeite."
+    ]
+  },
+  {
+    "name": "Gambão no forno com pimentos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/12/gambão-no-forno.jpg",
+    "link": "https://www.pingodoce.pt/receitas/gambao-no-forno-com-pimentos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "gambão congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "mix de pimentos",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "tortilha",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1122,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1683,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2546,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Descongele o gambão e coloque-o num tabuleiro de forno.",
+      "Salpique com o alho picado, as cebolas e os pimentos em rodelas.",
+      "Tempere com o sal e a pimenta, regue com o azeite, o vinho branco e leve\nao forno pré-aquecido a 190 °C, durante cerca de 20 minutos.",
+      "Polvilhe com os coentros picados e sirva com as tortilhas."
+    ]
+  },
+  {
+    "name": "Polvo à minhota",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/02/Polvo-a-minhota.jpg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-a-minhota/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pão saloio ou de mistura em fatias finas",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2484,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1932,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave o polvo e limpe-o da pele viscosa. Elimine a parte dura da boca, separe a cabeça e corte os tentáculos em pedaços. Coza o polvo em água a ferver durante cerca de 10 minutos.",
+      "Entretanto leve ao lume a cebola picada, previamente descascada, com o azeite e deixe refogar sobre lume brando até a cebola estar translúcida. Junte os pedaços de polvo bem escorridos e o tomate, previamente limpo de sementes e cortado em cubos pequenos. Tape e deixe cozinhar entre 10 e 15 minutos.",
+      "Regue com o vinho branco e adicione os dentes de alho esborrachados e um ramo de salsa atado com a folha de louro. Tape e deixe cozinhar sobre lume brando durante cerca de 40 minutos ou até o polvo estar macio. Tempere com o sal e salpique com salsa acabada de picar.",
+      "Acompanhe com fatias finas de pão torrado."
+    ]
+  }
+]

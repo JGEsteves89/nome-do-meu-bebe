@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Ninhos de legumes com ovo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/ninhos-de-legumes-com-ovo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ninhos-de-legumes-com-ovo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "courgette",
+        "qtd": 500,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 300,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 600,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M/L",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "abacate",
+        "qtd": 400,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "courgette",
+        "qtd": 500,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 300,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 600,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M/L",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "abacate",
+        "qtd": 400,
+        "unit": "g (2 unid.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 774,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 329,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 590,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 90,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 215,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1820,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2699,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 774,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 329,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 590,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 90,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 215,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1820,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2699,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Com a ajuda de um espiralizador de legumes, espiralize a curgete, a batata-doce e a cenoura.",
+      "Numa frigideira, salteie o alho em azeite, adicione os legumes espiralizados e deixe cozinhar em lume brando durante cerca de 4 minutos. Tempere com metade do sal e pimenta.",
+      "Prepare um tabuleiro de forno forrado com papel vegetal e pré-aqueça o forno a 120 ºC.",
+      "Faça 4 ninhos com os legumes, deixando uma cavidade.",
+      "Em cada uma das cavidades, abra um ovo.",
+      "Leve ao forno até que o ovo esteja cozinhado a seu gosto.",
+      "Retire e tempere com o restante sal e pimenta.",
+      "Sirva em pratos com fatias de abacate e polvilhe com coentros picados."
+    ]
+  },
+  {
+    "name": "Croquetes de arroz de tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/04/croquetes-arroz-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/croquetes-de-arroz-de-tomate/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "sobras de arroz de tomate frio",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo ralado",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mozzarella fresca aos cubos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha",
+        "qtd": 0.5,
+        "unit": "cháv."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 157,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2278,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1751,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1923,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Junte numa taça o arroz, o ovo, o queijo ralado, a salsa e pimenta a gosto. Misture tudo.",
+      "Para a cobertura, coloque em 3 taças diferentes a farinha, noutra os ovos batidos e na última o pão ralado.",
+      "Espalhe um pouco da mistura de arroz nas mãos e coloque no centro um quadrado de mozzarella. Feche formando uma bola.",
+      "Passe a bola pela farinha, em seguida pelo ovo e por fim pelo pão ralado.",
+      "Continue este processo até o arroz acabar.",
+      "Numa frigideira, aqueça o óleo e frite as bolas de arroz. Sirva-as quentes e decore com folhas de manjericão."
+    ]
+  },
+  {
+    "name": "Sopa de lentilhas com nabiças",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/11/sopa-de-lentilhas-com-nabicas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-lentilhas-com-nabicas/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "linguiça",
+        "qtd": 45,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "nabo",
+        "qtd": 180,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "lentilhas cozidas",
+        "qtd": 540,
+        "unit": "g (1 frasco)"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "nabiça",
+        "qtd": 150,
+        "unit": "g (1 emb.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1337,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1755,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2048,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1310,
+        "g": 540,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1754,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a linguiça em rodelas finas, leve ao lume numa panela e aloure de ambos os lados sobre lume forte. Retire e ponha a escorrer sobre papel absorvente.",
+      "Deite o azeite na panela, junte a cebola picada e leve ao lume. Adicione as cenouras peladas e cortadas em rodelas, o nabo e a abóbora limpos e cortados em cubos.",
+      "Tempere com o sal e pimenta moída no momento, polvilhe com os cominhos e com o tomilho, tape e deixe suar cerca de 10 minutos.",
+      "Junte as lentilhas e a água a ferver. Quando retomar fervura, adicione as nabiças, mexa e deixe cozinhar destapado durante mais 10 minutos.",
+      "Sirva a sopa com as rodelas de linguiça."
+    ]
+  }
+]

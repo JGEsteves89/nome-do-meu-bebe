@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Noodles com bimis",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/08/noodles-com-bimis-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/noodles-com-bimis-cogumelos-e-feijao-mungo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola fatiada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bimi",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "feijão mungo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "noodles",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 391,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 732,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1006,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1774,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num wok refogue a cebola e o alho no azeite.",
+      "Adicione os bimis em pedaços e deixe cozinhar em lume médio 5 minutos, mexendo sempre que necessário.",
+      "Junte os cogumelos em quartos, envolva e deixe cozinhar mais 3 minutos.",
+      "Adicione o feijão-mungo e a malagueta e tempere com o sal e o molho de soja, envolvendo bem.",
+      "Cozinhe os noodles conforme as instruções da embalagem e, em seguida, junte-os ao wok.",
+      "Envolva bem, salpique com o cebolinho picado e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Pizza de courgette e camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/pizza-courgette-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-courgette-e-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coentros",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "base de pizza de courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de camarão grande",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 289,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2267,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1612,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Utilize a base de pizza de courgette, já cozida.",
+      "Coloque o queijo por cima da base e espalhe o camarão.",
+      "Polvilhe com o alho em pó, a raspa de limão e os coentros picados.",
+      "Leve ao forno pré-aquecido por cerca de 12 minutos.",
+      "Retire, espalhe o tomate cortado em metades, regue com o azeite e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Atum grelhado com salada de batata",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/atum-grelhado-com-salada-de-batata.jpg",
+    "link": "https://www.pingodoce.pt/receitas/atum-grelhado-com-salada-de-batata/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata para cozer pequena",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "0.5 c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "bife de atum ultracongelado (já descongelado)",
+        "qtd": 3,
+        "unit": "x170 g"
+      },
+      {
+        "name": "floretes de brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate (maduro, mas firme)",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona verde descaroçada",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1332,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 377,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 249,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave muito bem as batatas e coza-as em água temperada com duas colheres de chá de sal.",
+      "Esprema os dentes de alho e deite metade deles para uma taça. Adicione o restante sal, pimenta moída no momento, os cominhos, o pimentão, uma colher de sopa de azeite e uma de sumo de limão. Mexa e barre os bifes de atum de ambos os lados com esta mistura. Deixe-os marinar cerca de 15 minutos.",
+      "Lave os floretes de brócolos e coza-os no micro-ondas num recipiente tapado, durante 7 minutos à potência máxima.",
+      "Numa taça grande, misture muito bem o restante azeite com os restantes alhos espremidos, o sumo de meio limão, pimenta e metade do cebolinho. Adicione as batatas bem escorridas, os floretes de brócolos, a cebola descascada e picada, o tomate, cortado em cubos pequenos, e as azeitonas. Misture delicadamente e salpique com o restante cebolinho.",
+      "Aqueça muito bem uma chapa para grelhados. Corte os bifes de atum ao meio e grelhe-os durante cerca de 1 minuto de cada lado.",
+      "Sirva com a salada de batata e decore com o restante limão cortado em meias-luas finas."
+    ]
+  }
+]

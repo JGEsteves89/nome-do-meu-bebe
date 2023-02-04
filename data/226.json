@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Bacalhau à Brás",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/03/bacalhau-a-bras.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-a-bras/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata",
+        "qtd": 800,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "lombo de bacalhau demolhado",
+        "qtd": 450,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "óleo",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "ramo"
+      },
+      {
+        "name": "azeitona preta",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 302,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1354,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 1801,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1386,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 239,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Descasque as batatas e corte-as em palitos muito finos, para obter batatas-palha. Coloque-as de molho em água por cerca de meia hora, para remover o excesso de goma.",
+      "Entretanto, retire a pele e as espinhas do bacalhau e desfie-o com as mãos.",
+      "Escorra as batatas e seque-as bem com uma toalha ou papel de cozinha. Frite-as no óleo previamente aquecido.",
+      "Enquanto isso, aqueça o azeite numa frigideira e refogue a cebola cortada, descascada e cortada em meias-luas, o alho, descascado e picado, e a folha de louro.",
+      "Quando a cebola e o alho começarem a ficar amolecidos, adicione o bacalhau desfiado e tape a frigideira.",
+      "Cozinhe em lume brando até o bacalhau ficar branco.",
+      "Retire a folha de louro da mistura e adicione as batatas fritas.",
+      "Junte os ovos, previamente batidos, mexa-os suavemente, permitindo que eles envolvam todos os ingredientes. Não deixe os ovos cozinharem e secarem demasiado.",
+      "Antes de servir polvilhe com salsa picada e decore com as azeitonas."
+    ]
+  },
+  {
+    "name": "Caldeirada de safio",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085283",
+    "link": "https://www.pingodoce.pt/receitas/caldeirada-de-safio/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "safio",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 480,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 80,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "amêijoa",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2335,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 480,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 80
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 111,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o safio em postas uniformes (depois de lavado e amanhado). Corte a cebola, os pimentos, o tomate e as batatas em rodelas.",
+      "Coloque as amêijoas no fundo do tacho e disponha, sobre elas, uma camada de batatas em rodelas salpicando com sal grosso. Junte algumas rodelas de tomate, cebola, pimentos e alho laminado, reservando uma parte para uso posterior.",
+      "Adicione as restantes batatas em rodelas e, em seguida, as postas de safio.Tape o peixe com a restante cebola, pimento e tomate e junte a hortelã da ribeira. Regue com azeite e vinho branco, e polvilhe com 1 colher de chá de sal grosso. Tape e deixe cozinhar lentamente, com o lume no mínimo, cerca de 30 minutos.",
+      "Sirva imediatamente."
+    ]
+  },
+  {
+    "name": "Pizza de anchovas e alcaparras",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/pizza-de-anchovas-pimentos-e-alcaparras-massa-alta.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-anchovas-pimento-e-alcaparras/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "base para pizza alta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate pelado",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "filete de anchova",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeitona verde",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "queijo Mozzarella ralado",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 295,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2518,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1051,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 242,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 240 ºC.",
+      "Numa bancada enfarinhada, estenda a massa com um rolo, dando-lhe um formato rectangular.",
+      "Coloque a massa em dois tabuleiros polvilhados com farinha.",
+      "Com a varinha mágica, triture a polpa de tomate.",
+      "Distribua quatro colheres de sopa de polpa em cada pizza e espalhe com a colher.",
+      "Escorra o azeite das anchovas, passe as alcaparras por água e distribua-as pelas pizzas.",
+      "Lave o pimento, corte-o em rodelas e espalhe-as também.",
+      "De seguida acrescente as azeitonas em rodelas e o queijo.",
+      "Polvilhe com os orégãos e leve ao forno durante 20 minutos.",
+      "Retire e salpique com manjericão fresco. Sirva de imediato."
+    ]
+  }
+]

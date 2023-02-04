@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Quiche Lorraine",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/03/617x370_quiche1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quiche/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa folhada",
+        "qtd": 230,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bacon",
+        "qtd": 6,
+        "unit": "fatia"
+      },
+      {
+        "name": "natas light",
+        "qtd": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 20,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1503,
+        "g": 230,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2271,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 269,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1762,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 2376,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Coloque a embalagem de massa folhada (não descarte o papel vegetal) sobre a tarteira com fundo amovível. Corte o excedente de massa com a ajuda de uma faca.",
+      "Numa taça, misture os ovos com o queijo parmesão ralado, as fatias de bacon cortadas em pedaços, as natas e a salsa picada.",
+      "Recheie a massa com esta mistura e leve ao forno até prender, cerca de 35 a 40 minutos.",
+      "A quiche Lorraine pode ser servida quente ou fria, idealmente com uma salada simples."
+    ]
+  },
+  {
+    "name": "Frango com risotto de morangos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449090119",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-risotto-de-morangos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 4,
+        "unit": "grão"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 L"
+      },
+      {
+        "name": "morango",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1720,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 174,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave a cenoura e o alho-francês e corte-os ao meio, no sentido do comprimento.",
+      "Ponha ao lume uma panela com a água, junte-lhe os legumes, a folha de louro, os grãos de pimenta, o sal e os peitos de frango. Assim que levantar fervura, tape e cozinhe em lume brando durante 30 minutos. Reserve.",
+      "Pique a cebola e lave os morangos. Tire-lhes os pedúnculos e corte-os ao meio. Reserve alguns.",
+      "Leve ao lume um tacho com 2 colheres de azeite, deixe aquecer e junte a cebola picada, mexendo até alourar. Adicione o arroz e mexa, deixando fritar até ficar translúcido.",
+      "Regue com o vinho e mexa à medida que for adicionando o caldo em que cozeu o frango e os legumes. 5 minutos depois, acrescente os morangos e deixe cozinhar mais um pouco.",
+      "Leve ao lume uma frigideira com o restante azeite e aloure os peitos de frango, escorridos, de ambos os lados. Retire do lume e corte-os em fatias.",
+      "Para servir, coloque o risotto com o frango cortado às fatias nos pratos e decore com os morangos reservados.Salpique com os coentros picados, um pouco de pimenta moída e sirva."
+    ]
+  },
+  {
+    "name": "Arroz de couve-flor com salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/09/arroz-couve-flor-salmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-couve-flor-com-salmao/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "lombo de salmão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz de couve-flor",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "ervilhas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 168,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 882,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o lombo de salmão com metade do sal, pimenta e sumo de limão. Reserve.",
+      "Aqueça o azeite numa frigideira, junte o arroz de couve-flor e salteie durante 3 minutos. Adicione as ervilhas e deixe cozinhar por mais 2 minutos. Tempere com o restante sal e com pimenta a gosto. Retire e coloque nas marmitas.",
+      "Na mesma frigideira, ainda quente, grelhe os lombos de salmão durante 2 minutos de cada lado. Retire-os para uma tábua de corte e fatie-os.",
+      "Distribua o salmão pelas duas lancheiras e polvilhe com o cebolinho picado."
+    ]
+  }
+]

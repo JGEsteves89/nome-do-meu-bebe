@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Lentilhas com legumes à indiana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/lentilhas-com-legumes-a-indiana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lentilhas-com-legumes-a-indiana/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "amêndoa laminada",
+        "qtd": 20,
+        "unit": "unid."
+      },
+      {
+        "name": "pera",
+        "qtd": 160,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 150,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "courgette",
+        "qtd": 200,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 80,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lentilhas cozidas",
+        "qtd": 200,
+        "unit": "g (0.5 frasco)"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "coco ralado",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 127,
+        "g": 20,
+        "ml": 20
+      },
+      {
+        "id": 1991,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 526,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 738,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1310,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 697,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 163,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aloure a amêndoa numa frigideira antiaderente e reserve.",
+      "Deite na mesma frigideira a pera cortada em fatias e aloure. Junte à amêndoa, deixando alguma para salpicar a salada no final.",
+      "Descasque e corte a cenoura em meias rodelas, assim como a courgette. Descasque e corte a cebola em meias-luas.",
+      "Deite o azeite e o caril na frigideira. Adicione a cenoura, a courgette, a cebola e os cogumelos, tempere com o sal e salteie sobre lume moderado, mexendo frequentemente durante cerca de 10 minutos. Retire do lume e adicione os coentros picados.",
+      "Passe as lentilhas por água corrente dentro de um coador e escorra muito bem.",
+      "Misture a rúcula com a pera e a amêndoa",
+      "Coloque os legumes, as lentilhas, o arroz cozido e a mistura de pera, rúcula e amêndoa, lado a lado, em duas lancheiras. Polvilhe as lentilhas com o coco ralado e por fim, salpique a salada com a amêndoa reservada."
+    ]
+  },
+  {
+    "name": "Moussaka de borrego",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/gratinado-de-borrego-com-beringela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/moussaka-de-borrego/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "beringela",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "perna de borrego sem osso e picada",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "canela em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "creme de soja culinária Pura Vida",
+        "qtd": 4,
+        "unit": "dl"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 363,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2336,
+        "g": 26,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1997,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 511,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2501,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2108,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 815,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Lave e corte as beringelas em rodelas. Disponha sobre uma grelha, tempere com sal e reserve.",
+      "Num tacho largo, aqueça o azeite, junte a cebola e os alhos picados, deixe refogar e adicione a carne picada.",
+      "Mexa e tempere com sal, pimenta, canela e cominhos e deixe refogar mais um pouco.",
+      "Refresque com o vinho e adicione o tomate e a polpa. Envolva e deixe cozinhar lentamente. Verifique os temperos.",
+      "Num recipiente de ir ao forno, disponha metade do recheio e cubra com rodelas de beringela.",
+      "Em cima, disponha o restante recheio e cubra com as restantes beringelas.",
+      "Envolva o creme de soja com um pouco de sal, um pouco de pimenta e a noz-moscada e espalhe sobre as rodelas de beringela.",
+      "Polvilhe com o queijo e leve ao forno a gratinar durante 15 a 20 minutos."
+    ]
+  },
+  {
+    "name": "Coelho no tacho com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/06/coelho-tacho-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/coelho-no-tacho-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cerveja",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "coelho cortado em pedaços pequenos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos pingo doce",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 598,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 700,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2113,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1845,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela grande, prepare uma marinada com 1 colher de chá de sal, o pimentão-doce e o alho em pó, a mostarda e a cerveja. Adicione o coelho em pedaços e misture muito bem.",
+      "Aqueça o azeite num tacho. Escorra os pedaços de coelho e frite-os, de todos os lados, em lume forte até alourarem.",
+      "Pique a cebola, corte o aipo em lâminas, e adicione-os ao coelho. Junte as folhas de louro. Reduza o lume.",
+      "Corte a courgette e a abóbora em cubos e adicione-as ao coelho. Tempere com o restante sal.",
+      "Misture a polpa de tomate com o líquido da marinada e deite sobre o coelho.",
+      "Junte o grão bem escorrido, e cozinhe com o tacho tapado em lume moderado, durante cerca de 25 minutos, mexendo de vez em quando.",
+      "Torre as fatias de pão.",
+      "Junte algumas folhas frescas de manjericão ao coelho e sirva-o acompanhado com as fatias de pão torrado."
+    ]
+  }
+]

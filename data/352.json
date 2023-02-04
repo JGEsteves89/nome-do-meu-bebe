@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Croquetes de vegetais com salada marroquina",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/croquetes-vegetais-salada-marroquina.jpg",
+    "link": "https://www.pingodoce.pt/receitas/croquetes-de-vegetais-com-salada-marroquina/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "croquetes de vegetais Pura Vida",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sultana",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "amêndoa laminada torrada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "hortelã picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "laranja (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "laranja (raspa)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "canela",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "chalota picada",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 824,
+        "g": 384,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 98,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2438,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 128,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 510,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Coloque os croquetes no forno, seguindo as instruções da embalagem.",
+      "Corte as cenouras em palitos, o aipo em rodelas, o alho-francês em rodelas finas e coloque tudo numa taça.",
+      "Adicione as sultana, as amêndoas torradas, os coentros e a hortelã picados, envolvendo bem.",
+      "Coloque todos os ingredientes do molho num frasco e agite bem. Regue a salada com o molho e misture. Sirva com os croquetes."
+    ]
+  },
+  {
+    "name": "Salada de quinoa com espinafres e morangos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/salada-de-quinoa-com-espinafres-e-morangos-pingo-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-quinoa-com-espinafres-e-morangos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "quinoa temperada",
+        "qtd": 2,
+        "unit": "emb. (500 g)"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "morango",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "mirtilo",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "nectarina",
+        "qtd": 2,
+        "unit": "unid. (160 g)"
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid. (200 g)"
+      },
+      {
+        "name": "queijo mozzarella mini",
+        "qtd": 2,
+        "unit": "emb. (250 g)"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2710,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 1720,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1635,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1773,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2265,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1442,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Disponha a quinoa e os espinafres numa travessa.",
+      "Arranje os morangos e corte-os em quartos. Em seguida, corte as nectarinas em meias-luas finas e o pepino em rodelas.",
+      "Escorra as mozzarellas mini e junte-as à salada.",
+      "Tempere com o mix de pimentas, hortelã e manjericão, azeite e vinagre balsâmico."
+    ]
+  },
+  {
+    "name": "Tiborna de bacalhau",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/06/tibornabacalhau_617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tiborna-de-bacalhau/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinhas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "couve-lombarda",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "broa de milho",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona preta",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "molho de salsa",
+        "qtd": 0.5,
+        "unit": "molho"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1350,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 581,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 790,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 434,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 231,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180˚C.",
+      "Num tabuleiro de forno, disponha os lombos de bacalhau previamente descongelados. Acrescente os alhos esmagados e regue tudo com uma colher de sopa de azeite.",
+      "Junte as cebolinhas descascadas e leve ao forno durante 15 minutos.",
+      "Retire do forno, deixe arrefecer um pouco e lasque o bacalhau grosseiramente. Reserve.",
+      "Numa panela, coza as couves (cortadas grosseiramente) em água temperada com sal. Com uma escumadeira, retire quando estiverem tenras mas ainda crocantes.",
+      "Num prato fundo de servir, disponha a broa partida em pedaços. Junte as couves alternadamente.",
+      "Em seguida, distribua o bacalhau lascado e regue com o azeite do assado.",
+      "Acrescente os alhos esmagados, regue com azeite e decore com azeitonas e a salsa em rama."
+    ]
+  }
+]

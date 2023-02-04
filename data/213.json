@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Frango no forno com mel e alho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/08/frango-no-forno-com-mel-e-alho.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-no-forno-com-mel-e-alho/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "beterraba",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "frango em pedaços pequenos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "mel",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "copo de água",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 365,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1092,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 1545,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C na função grill.",
+      "Tempere o frango com o sal, um pouco de pimenta e o alho em pó e coloque-o num tabuleiro.",
+      "Numa taça misture bem o alho picado, o mel, a água, o vinagre, o molho de soja e a salsa e verta o preparado por cima do frango.",
+      "Leve ao forno cerca de 20 minutos, virando o frango de vez em quando.",
+      "Corte os legumes no sentido do comprimento para uma tigela, polvilhe-os com os coentros e tempere-os com o sal, um pouco de pimenta, o azeite e o vinagre.",
+      "Sirva a salada a acompanhar o frango."
+    ]
+  },
+  {
+    "name": "Bola de sardinha com pimento",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/bola-sardinha-pimento-vermelho.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bola-de-sardinha-com-pimento/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho limpo em cubos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "fermento de padeiro fresco",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "água morna",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "sardinha sem pele e sem espinhas em tomate",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1026,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2395,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture as farinhas numa tigela com o sal, o tomilho e o alho em pó. Adicione os coentros e o pimento, mexa e abra uma cavidade ao meio. Deite aí o azeite (reserve um pouco) e o fermento, previamente dissolvido na água morna, e misture muito bem com uma colher de pau até a massa se soltar das paredes da tigela.",
+      "Continue a amassar com a mão mais alguns minutos até a massa deixar de se colar aos dedos (se for necessário salpique com um pouco mais de farinha). Molde em bola, tape com um pano e deixe levedar cerca de 1 hora, em local quente.",
+      "Forre um tabuleiro (18x21 cm) com uma folha de papel vegetal e pincele-a com o azeite reservado.",
+      "Divida a massa em duas porções e forre o fundo do tabuleiro com uma delas. Por cima, espalhe as sardinhas desfeitas em pedaços e cubra com a restante massa. Tape com um pano e deixe levedar 15 minutos.",
+      "Pré-aqueça o forno a 175 °C na função calor ventilado.",
+      "Coloque na base do forno uma taça resistente ao calor com água e coza a bola no centro do forno durante 30 minutos.",
+      "Sirva cortada em fatias, salpicada com alecrim."
+    ]
+  },
+  {
+    "name": "Fondue do mar",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/08/fondue-do-mar.jpg",
+    "link": "https://www.pingodoce.pt/receitas/fondue-do-mar/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "camarão calibre médio congelado",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "choco limpo inteiro congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "tamboril em cubos congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "óleo",
+        "qtd": 1,
+        "unit": "L"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 499,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 620,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2470,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 1000
+      }
+    ],
+    "steps": [
+      "Passe por água todos os ingredientes do fondue.",
+      "Descasque os camarões, deixando só a cabeça, e corte os chocos em argolas, deixando os tentáculos inteiros e secando-os muito bem.",
+      "Coloque o óleo no tacho do fondue e leve ao lume até aquecer.",
+      "Depois de estar quente, coloque-o por cima da\nlamparina e cozinhe os ingredientes.",
+      "Acompanhe com o molho verde, molho agridoce e molho de abacate e iogurte."
+    ]
+  }
+]

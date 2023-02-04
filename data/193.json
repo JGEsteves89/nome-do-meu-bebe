@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Omelete no forno com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/07/Omelete-forno-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/omelete-no-forno-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Marron",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "mix de vegetais a vapor",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz integral Pura Vida",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa seca",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 723,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1686,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 173,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 94,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2379,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Numa frigideira, salteie a cebola e os cogumelos, cortados em fatias finas, com o azeite durante 4 minutos.",
+      "Junte à frigideira o mix de vegetais, envolva e tempere com o alho em pó e com o mix de pimentas. Deite a mistura num prato de forno.",
+      "Bata os ovos numa taça e adicione a salsa picada, envolvendo.",
+      "Verta os ovos por cima dos legumes e leve ao forno por 30 minutos.",
+      "Sirva a omelete a acompanhar com arroz integral."
+    ]
+  },
+  {
+    "name": "Salada de batata-doce com ovos quentes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/11/salada-batata-doce-ovos-quentes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-batata-doce-com-ovos-quentes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata-doce laranja",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "salada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 333,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2350,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Corte a batata-doce em fatias grossas. Disponha-as num tabuleiro de forno. Tempere com o tomilho, o alho em pó, o sal e regue com uma colher de sopa de azeite. Leve ao forno por cerca de 30 minutos.",
+      "Com a ajuda de um descascador de legumes, corte o pepino em tiras e o tomate em metades.",
+      "Numa travessa, junte a salada, o pepino e o tomate. Disponha por cima a batata-doce e tempere com o restante azeite.",
+      "Num tacho com água, deixe cozer os ovos durante 5 a 6 minutos, no máximo. Descasque-os, corte ao meio e sirva sobre a salada. Polvilhe com pimenta acabada de moer."
+    ]
+  },
+  {
+    "name": "Quiche de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/10/quichedefrango.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quiche-de-frango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa folhada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafres picados",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "frango cozido desfiado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1503,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 914,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1092,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 170 ºC.",
+      "Forre uma tarteira (de fundo falso) com a massa.",
+      "Numa frigideira, salteie os espinafres e alho picado em azeite.",
+      "Deixe arrefecer ligeiramente, pique e reserve.",
+      "Numa tigela, bata bem os ovos com as natas, com a ajuda de um garfo.",
+      "Junte o frango desfiado, os espinafres picados, sal, pimenta e noz-moscada. Envolva bem.",
+      "Deite o preparado na forma, previamente forrada com a massa.",
+      "Leve ao forno durante 30 minutos."
+    ]
+  }
+]

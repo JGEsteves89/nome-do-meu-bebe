@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Tortitas com ovo escalfado e esparguete de courgette",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/tortitas-com-ovo-escalfado-e-esparguete-de-courgette.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tortitas-com-ovo-escalfado-e-esparguete-de-courgette/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "courgette spaghetti",
+        "qtd": 1,
+        "unit": "emb. (200 g)"
+      },
+      {
+        "name": "courgette espiralizada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tortitas de arroz integral sem sal Pingo",
+        "qtd": 8,
+        "unit": "unid"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 775,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa frigideira, adicione o dente de alho picado, junte o courgette spaghetti e cozinhe durante 5 minutos. Polvilhe com coentros picados e com o mix de pimentas. Reserve.",
+      "Coloque uma frigideira alta com água e com o vinagre ao lume e deixe ferver. Abra o ovo para dentro de uma colher e mantenha-a submersa dentro da água para o ovo escalfar até estar no ponto desejado.",
+      "Sirva o esparguete de courgette sobre duas tortitas, e disponha por cima o ovo escalfado.",
+      "Polvilhe com mais mix de pimentas e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Cataplana de vitela",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089437",
+    "link": "https://www.pingodoce.pt/receitas/cataplana-de-vitela/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de vitela",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 120,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1382,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1493,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere a carne cortada em cubos com a massa de pimentão, os alhos picados e o louro.",
+      "Coloque o azeite na cataplana e leve-a ao lume.",
+      "Adicione a carne temperada e deixe corar de todos os lados durante 4 a 5 minutos, mexendo de vez em quando e tendo o cuidado de manter a cataplana aberta.",
+      "Junte a cebola picada e envolva bem. Em seguida, acrescente o vinho branco e deixe levantar fervura.",
+      "Limpe os pimentos de sementes e corte-os em quadrados com 2 centímetros. Junte-os à carne, feche a cataplana e deixe cozinhar durante 10 minutos. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Filetes de pescada com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/10/filetes-de-pescada-com-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-pescada-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filetes de pescada do cabo",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "caril",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "batata",
+        "qtd": 700,
+        "unit": "g (6 unid.)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 80,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta moída",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "brócolos congelados pingo doce",
+        "qtd": 400,
+        "unit": "g (1 emb.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2695,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 524,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 700,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 441,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Tempere o peixe com o sumo de limão, o dente de alho, uma colher de café de sal e com o caril. Reserve.",
+      "Descasque as batatas e a cebola, e corte em fatias finas. Disponha-as no fundo de um prato de forno.",
+      "Regue com o azeite, tempere com uma colher de café de sal e com pimenta. Leve ao forno por 15 minutos.",
+      "Retire do forno e coloque por cima os filetes. Leve novamente a cozinhar por mais 12 minutos.",
+      "Enquanto isso, cozinhe os brócolos no micro-ondas durante 10 minutos com um pouco de água e o restante sal.",
+      "Sirva o peixe e as batatas com os brócolos."
+    ]
+  }
+]

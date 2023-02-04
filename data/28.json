@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Trutas de escabeche",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085279",
+    "link": "https://www.pingodoce.pt/receitas/trutas-de-escabeche/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "feijão-frade seco",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "truta",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "grelos",
+        "qtd": 1,
+        "unit": "molho"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1015,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2563,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1178,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Demolhe o feijão-frade em água de um dia para o outro. Escorra-o, coloque-o num tacho, cubra com água e tempere com 1 colher de chá de sal. Leve ao lume e deixe ferver em lume moderado a brando, com o tacho tapado, durante 45 minutos ou até o feijão estar macio. Escorra-o e reserve.",
+      "Lave as trutas por dentro e por fora e enxugue-as com papel de cozinha. Tempere-as com 1 colher de chá de sal e passe-as por farinha, sacudindo o excesso.",
+      "Numa frigideira larga, frite as trutas de ambos os lados sobre lume moderado em 2 colheres de sopa de azeite.",
+      "Descasque metade dos dentes de alho e as cebolas. Pele as cenouras. Corte tudo em rodelas finas.",
+      "Retire as trutas e coloque-as numa travessa funda. Limpe a frigideira com papel de cozinha. Deite mais 1 colher de sopa de azeite e salteie os dentes de alho, as cebolas, as cenouras em rodelas e a folha de louro. Deixe amolecer a cebola em lume brando.",
+      "Regue com o vinho branco e o vinagre, tempere com uma pitada de sal e pimenta e deixe ferver suavemente até os legumes estarem macios. Deite sobre as trutas e deixe arrefecer.",
+      "Numa panela com água coza os grelos, escolhidos e lavados e ferva 10 minutos. Escorra e esprema muito bem os grelos. Pique-os grosseiramente.",
+      "Esborrache os restantes dentes de alho e leve-os ao lume numa frigideira com 1 colher de sopa de azeite. Junte os grelos e salteie-os, mexendo de vez em quando, até estarem tenros.",
+      "Sirva as trutas já frias, acompanhadas com os grelos salteados e o feijão-frade cozido."
+    ]
+  },
+  {
+    "name": "Tortilhas de atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/tortilhas-de-atum.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/tortilhas-de-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "atum em azeite",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "iogurte natural",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "tortilha",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "folhas de alface",
+        "qtd": 4,
+        "unit": "folha"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 188,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 1240,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2546,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 73,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque a cenoura e rale-a num ralador, no crivo mais grosso.",
+      "Abra a lata de atum e escorra muito bem o azeite. Desfaça o atum em lascas e misture com a cenoura ralada.",
+      "Numa taça, misture o iogurte e o cebolinho picado.",
+      "Junte o molho de iogurte ao atum e cenoura.",
+      "Prepare as tortilhas colocando uma folha de alface em cima de cada uma. Barre-as com a pasta de atum e cenoura.",
+      "Enrole as tortilhas e envolva-as em película aderente. Guarde no frigorífico até à hora de servir."
+    ]
+  },
+  {
+    "name": "Tomate recheado à grega",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/tomate-recheado-a-grega.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tomate-recheado-a-grega/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "tomate rama",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz integral",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "aneto picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hortelã picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "canela em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "salada alentejana",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2502,
+        "g": 12,
+        "ml": 12
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 172,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 509,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 900
+      },
+      {
+        "id": 2225,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2351,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Corte a parte superior do tomate (guarde as “tampas”).",
+      "Retire a polpa e as sementes e reserve. Pique a cebola e os dentes de alho.",
+      "Numa frigideira com tampa, refogue a cebola e o alho com uma colher de sopa de azeite.",
+      "Adicione o arroz, envolva e deixe fritar durante 3 minutos, mexendo sempre.",
+      "Junte as ervas, as especiarias, o sal, o sumo de limão e a polpa que retirou ao tomate. Mexa e regue com a água a ferver.",
+      "Tape e deixe cozinhar cerca de 40 minutos ou até o arroz ter absorvido a água.",
+      "Misture o queijo no estufado. Recheie o tomate com este preparado, fechando cada um com as tampas reservadas.",
+      "Num tabuleiro forrado com papel vegetal, disponha os tomates, regue com azeite e leve ao forno durante 20 minutos ou até estarem assados.",
+      "Sirva frio ou morno acompanhado de uma salada."
+    ]
+  }
+]

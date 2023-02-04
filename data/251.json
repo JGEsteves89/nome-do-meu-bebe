@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bolinhos de sardinha",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/05/bolinhos-de-sardinha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bolinhos-de-sardinha/",
+    "portions": 14,
+    "ingredients": [
+      {
+        "name": "batata para cozer",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sardinha em azeite",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lima",
+        "qtd": 120,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2392,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 42,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1331,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque e lave as batatas. Corte-as em pedaços pequenos e coloque-as num tacho com água. Deixe cozinhar cerca de 15 minutos, ou até que estejam bem cozidas.",
+      "Entretanto, limpe a malagueta de sementes, pique-a e corte o alho-francês em fatias finas. Reserve.",
+      "Escorra as batatas e, numa taça, esmague-as com a ajuda de um esmagador de batatas.",
+      "Adicione o ovo, as sardinhas escorridas, a malagueta, o alho-francês, os coentros picados e a farinha. Tempere com sal e pimenta e esmague mais um pouco, misturando todos os ingredientes.",
+      "Forme bolinhos e leve ao frio.",
+      "Aqueça o azeite numa frigideira antiaderente e cozinhe os bolinhos durante cerca de 3 minutos de cada lado.",
+      "Sirva com as limas partidas em gomos."
+    ]
+  },
+  {
+    "name": "Pepino recheado com arroz e camarões",
+    "image": "https://www.youtube-nocookie.com/embed/eyOUaJgb5YY",
+    "link": "https://www.pingodoce.pt/receitas/pepino-recheado-com-arroz-e-camaroes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "arroz agulha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "miolo de camarão descongelado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 158,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1603,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o arroz no dobro da quantidade em água temperada com metade do sal. Quando estiver cozido, retire do tacho, coloque numa taça e deixe arrefecer. Se possível, leve ao frio.",
+      "Aqueça o azeite, juntamente com o alho picado. Quando estiver bem quente, adicione os camarões e cozinhe por 5 minutos.",
+      "Junte os camarões ao arroz frio, assim como o tomate cortado em quartos. Junte os coentros picados e misture.",
+      "Descasque os pepinos e corte-os ao meio. Retire as sementes e tempere com o restante sal.",
+      "Recheie os pepinos com o arroz e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Cannelloni de peixe",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/cannelloni-de-peixe.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cannelloni-de-peixe/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "chuchu",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 280,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "medalhão de pescada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo fresco para barrar",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "queijo mozzarella ralado em fios",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "folhas de massa fresca para lasanha",
+        "qtd": 6,
+        "unit": "folha"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2484,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 98,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 691,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 7,
+        "g": 280,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1538,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2242,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2256,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1509,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 165° C.",
+      "Numa frigideira antiaderente, refogue a cebola e o alho em azeite e louro.",
+      "Lamine o alho-francês e o talo de aipo, lave e junte à cebola. Retire as sementes do tomate, pique, adicione ao cozinhado e tempere com o sal e pimenta.",
+      "Tape e cozinhe durante 20 minutos, em lume brando. Regue com o vinho, mexa e deixe cozinhar mais 30 minutos.",
+      "Entretanto, prepare os cannelloni. Pique meio alho-francês, lave, escorra e leve ao lume com o azeite e o caril. Adicione o chuchu, descaroçado e picado, e a abóbora em cubos.",
+      "Tempere com pimenta e um pouco de sal e deite o restante nos legumes. Tape e cozinhe 20 minutos, em lume brando.",
+      "Com uma colher de pau, esmague grosseiramente a abóbora e o chuchu, adicione o peixe e cozinhe mais 10 minutos.",
+      "Desfaça o peixe com a colher de pau, junte o queijo creme e misture. Retire do lume e adicione o mozzarella.",
+      "Corte as folhas de lasanha ao meio, recheie com o preparado, enrole e disponha num tabuleiro.",
+      "Cubra os cannelloni com recheio que sobrar e leve ao forno durante 20 minutos. Retire a folha de louro e triture o molho de tomate. Disponha por cima dos cannelloni."
+    ]
+  }
+]

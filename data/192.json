@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Pizza de brócolos com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/pizza-de-brocolos-com-cogumelos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-da-horta/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "brócolos em ramos",
+        "qtd": 0,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "aveia",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha integral",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "ovo S (1 ovo + 1 clara)",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 60,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 438,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 201,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 969,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 735,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 60,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pique os ramos de brócolos no robot de cozinha ou no triturador até ficarem com aspecto de bagos de arroz e coza-os em água a ferver, temperada com a colher de chá de sal durante 4 minutos.",
+      "Escorra-os num passador de rede fina e deixe arrefecer um pouco.",
+      "Pré-aqueça o forno a 210 °C.",
+      "Coloque os brócolos num pano de cozinha e esprema-os de modo a eliminar toda a água.",
+      "Coloque-os numa tigela, junte a colher de sopa de azeite, os flocos de aveia, a farinha, os orégãos, o alho em pó, o ovo e a clara e misture bem.",
+      "Forre um tabuleiro do forno com papel vegetal e, por cima, deite o preparado, formando um círculo.",
+      "Leve ao forno cerca de 20 minutos.",
+      "Aqueça uma frigideira com o restante azeite e salteie os cogumelos 2 ou 3 minutos. Tempere com o restante sal e reserve.",
+      "Retire a base de pizza do forno, espalhe o molho de tomate na superfície e o queijo ralado e leve novamente ao forno até o queijo derreter.",
+      "Distribua os cogumelos por cima e deixe arrefecer um pouco antes de cortar as fatias."
+    ]
+  },
+  {
+    "name": "Sopa de bacalhau com grão e hortelã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/sopa-de-bacalhau-com-grao-e-hortela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-bacalhau-com-grao-e-hortela/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de caldeirada de bacalhau",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de grão cozido",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "água ou caldo de bacalhau",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 255,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque as sobras da caldeirada num tacho e junte o grão e um pé de hortelã. Regue com a água, ou com caldo de bacalhau bem quente e deixe ferver, suavemente, durante 5 minutos. Distribua pelos pratos e junte folhas de hortelã."
+    ]
+  },
+  {
+    "name": "Rolinhos de peru recheados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/rolinhos-de-peru-recheados.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/rolinhos-de-peru-recheados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tomate-cereja",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pão de mistura",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "beringela",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "bife de peru",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rúcula selvagem",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "queijo de ovelha curado amanteigado de Seia",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2486,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1899,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 363,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 382,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2330,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2218,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a beringela em fatias não muito grossas e ponha-as num passador de rede. Salpique-as com uma colher de sobremesa de sal e reserve.",
+      "Bata os bifes com um martelo de cozinha para ficarem finos, tempere com pimenta moída no momento e sumo de limão.",
+      "Passe as fatias de beringela por água, de forma a perderem o sal, e enxugue-as muito bem.",
+      "Por cima dos bifes, disponha as folhas de rúcula, as fatias de beringela e o queijo. Enrole e ate os rolinhos com fio de cozinha.",
+      "Aqueça o azeite numa frigideira e junte-lhe os dentes de alho, previamente pisados.",
+      "Introduza os rolinhos, deixando alourar de todos os lados, e tempere com a colher de café de sal. Regue com o vinho, tape e deixe cozinhar durante 20 minutos.",
+      "Adicione o tomate cortado ao meio, salpique com os orégãos e deixe cozinhar mais 5 minutos.",
+      "Sirva os rolinhos de peru sobre as fatias de pão torradas e acompanhe com o tomate."
+    ]
+  }
+]

@@ -1,0 +1,589 @@
+[
+  {
+    "name": "Galinha com arroz de forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/galinha-com-arroz-de-forno.jpg",
+    "link": "https://www.pingodoce.pt/receitas/galinha-com-arroz-de-forno/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "galinha ou frango do campo",
+        "qtd": 1,
+        "unit": "unid. (1,4Kg)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 250,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "aipo (talo)",
+        "qtd": 70,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "linguiça",
+        "qtd": 50,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 4,
+        "unit": "pés"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimentão-doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 4,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g (0.5 unid.)"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "passas de uva sem grainha",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 2,
+        "unit": "emb. (300 g)"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "bagos de romã",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1116,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1337,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2059,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2599,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 160,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1950,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2360,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 126,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2325,
+        "g": 40,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ate as pernas da galinha como se fosse para assar, coloque-a numa panela e junte-lhe as cenouras peladas e cortadas em palitos, o talo de aipo e a linguiça. Cubra com água, tempere com o sal e adicione 3 a 4 pés de salsa atados com a folha de louro. Leve a ferver, tapado e sobre lume brando cerca de 45 minutos.",
+      "Retire a galinha cuidadosamente, escorrendo-a bem do caldo e coloque-a num recipiente de forno.",
+      "Coe o caldo da cozedura e reserve cerca de 700 ml. Corte a linguiça em pedaços pequenos e esmague as cenouras com um garfo.",
+      "Pré-aqueça o forno a 200 °C.",
+      "Descasque os dentes de alho, esprema dois deles e misture-os com uma colher de sopa de azeite e com o pimentão-doce. Barre a galinha com a pasta obtida, borrife com três colheres de vinagre e leve ao forno a corar (tostar).",
+      "Pique os restantes dentes de alho e leve ao lume num tacho que possa ir ao forno, com duas colheres de sopa de azeite, a cebola e o alho-francês picados. Junte a cenoura esmagada, a linguiça e as passas. Regue com os 700 ml de caldo reservados e, quando ferver, introduza o arroz. Mexa e quando retomar fervura leve a cozinhar no forno durante cerca de 20 minutos ou até o arroz estar cozido e dourado.",
+      "Tempere a salada com o restante azeite e vinagre, junte as amêndoas, previamente tostadas, e os bagos de romã.",
+      "Sirva a galinha com o arroz e acompanhe com a salada."
+    ]
+  },
+  {
+    "name": "Empadão de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/empadao-de-salmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-salmao/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "lombo de salmão sem pele nem espinhas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "gengibre ralado",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "lima",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha picada",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "chalota picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde redondo",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "sobras de puré de batata",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sobra de gema de ovo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 612,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 735,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1021,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2159,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1816,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a\n180 ºC, na função ventilada\ncom grelha superior.\nTempere o salmão com\nmetade do sal, junte o alho\nespremido, o gengibre,\nraspa da casca e sumo da\nlima e a malagueta e deixe\nmarinar.",
+      "Aqueça o azeite numa\nfrigideira antiaderente e\naloure as chalotas. Junte\no salmão, tape e deixe\nsuar cerca de 5 minutos,\nsobre lume moderado.\nAdicione os cogumelos e\no feijão e salteie por mais\nalguns minutos, enquanto\nvai desfazendo o salmão\nem lascas. Junte o milho,\na farinha e o restante\nsal. Regue com o vinho\nbranco e deixe engrossar,\nmexendo de vez em\nquando.",
+      "Divida o cozinhado por\nduas formas, cubra com\no puré de batata, pincele\na superfície com a gema\ne leve ao forno cerca de\n20 minutos. Sirva com o\ntomate cortado em fatias."
+    ]
+  },
+  {
+    "name": "Salmão marinado com arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/salmao-marinado-com-arroz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-marinado-arroz/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de girassol",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta verde",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "lombo de salmão sem pele nem espinhas",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tiras de casca de limão",
+        "qtd": 2,
+        "unit": "tira"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "bimi",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 38,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2414,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1431,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1373,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 162,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 391,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Leve os dentes de alho ao micro-ondas durante 10 segundos, retire-lhes a pele e esmague-os.",
+      "Junte-lhes duas colheres de sopa de molho de soja, o vinagre de sidra, o açúcar mascavado, duas colheres de sopa de azeite e o sumo de um pedaço de raiz de gengibre, previamente pelada e ralada.",
+      "Misture bem e adicione metade das sementes, o cebolinho picado e as malaguetas cortadas em rodelas.",
+      "Coloque o salmão num tabuleiro de louça, polvilhe com metade do sal e regue com a mistura preparada. Tape com película aderente e reserve de um dia para o outro no frigorífico, virando-o de vez em quando.",
+      "Leve o salmão, juntamente com a marinada, ao forno pré-aquecido a 180˚ C e cozinhe-o durante 15 minutos.",
+      "Aqueça o restante azeite num tacho, junte-lhe o arroz e as tiras de casca de limão e deixe fritar um pouco.",
+      "Adicione a água a ferver e o restante sal, tape e coza durante 15 minutos.",
+      "Lave os bimi, disponha num recipiente de vidro, tape e coza no micro-ondas durante 4 minutos na potência máxima.",
+      "Misture o restante molho de soja com o mel, aqueça no micro-ondas durante 30 segundos na potência máxima e deite por cima do salmão.",
+      "Sirva polvilhado com as restantes sementes e acompanhado do arroz e dos bimi cozinhados ao vapor."
+    ]
+  }
+]

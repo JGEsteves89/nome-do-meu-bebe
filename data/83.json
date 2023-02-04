@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Salada fria de arroz com camarão e abacate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/salada-fria-arroz-com-camarao-abacate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-fria-de-arroz-com-camarao-e-abacate/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "amêndoa laminada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "camarão cozido",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "manga",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "abacate",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sobras de arroz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "talos de salsa picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 127,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 501,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1439,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aloure as amêndoas laminadas numa frigideira antiaderente. Retire as cabeças aos camarões e descasque-os. Reserve.",
+      "Descasque a manga, retire o caroço e corte-a em cubos. Lave o tomate e\ncorte-o ao meio. Retire a polpa do abacate, corte-o em cubos e regue-o com o sumo de limão. Reserve.",
+      "Misture as sobras de arroz com os talos de salsa, os camarões, a manga, o abacate e o tomate e salpique com a amêndoa tostada."
+    ]
+  },
+  {
+    "name": "Wraps de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/wraps-de-frango.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/wraps-de-frango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "farinha de milho integral",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "bife de frango",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sumo de limão",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelos",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 949,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 3
+      },
+      {
+        "id": 378,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 732,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Dilua o sal na água morna, junte as farinhas e o azeite e amasse até obter uma massa elástica e homogénea. Deixe descansar 30 minutos, tapada com um pano.",
+      "Corte os bifes de frango em tiras e tempere-as com a polpa de tomate diluída no sumo de limão.",
+      "Salteie as tiras de frango numa frigideira com o azeite até ficarem douradas.",
+      "Adicione os cogumelos, previamente laminados, a cenoura descascada e ralada, e o sal. Deixe cozinhar 5 a 6 minutos. Retire do lume e deixe arrefecer.",
+      "Divida a massa em quatro partes e, com a ajuda de um rolo, estenda-a de modo a formar quatro círculos.",
+      "Aqueça de novo a frigideira já vazia e cozinhe as tortilhas de ambos os lados. Deixe arrefecer.",
+      "Divida as folhas de espinafres, a mistura de frango e os cogumelos pelas tortilhas e enrole-as.",
+      "Embrulhe em película transparente e leve ao frigorífico."
+    ]
+  },
+  {
+    "name": "Couves-de-bruxelas com cenoura baby",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/couves-de-bruxelas-com-cenoura-baby.jpg",
+    "link": "https://www.pingodoce.pt/receitas/couves-de-bruxelas-com-cenoura-baby/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "couve-de-bruxelas congelada",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "limão (casca)",
+        "qtd": 2,
+        "unit": "tira"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa + 2 c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura baby congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "folhas de manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 784,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 589,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1442,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Mergulhe as couves-de-bruxelas num tacho com água a ferver com as tiras da casca de limão e deixe cozer durante cerca de 10 minutos.",
+      "Ao mesmo tempo, leve ao lume um tacho com metade do azeite, a cebola, descascada e picada, e metade do alho espremido. Adicione as cenouras e duas ou três hastes de tomilho. Tape e deixe cozinhar sobre lume moderado cerca de 15 minutos, agitando o tacho de vez em quando.",
+      "Entretanto, aloure a amêndoa numa frigideira antiaderente.",
+      "Escorra bem as couves e junte-as ao tacho com as cenouras e cozinhe durante mais 3 a 4 minutos sobre lume forte.",
+      "Triture metade da amêndoa com uma mão-cheia de folhas de manjericão, o restante azeite e alho espremido.",
+      "Envolva o molho de manjericão no cozinhado e salpique com a restante amêndoa tostada."
+    ]
+  }
+]

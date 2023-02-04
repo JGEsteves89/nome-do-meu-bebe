@@ -1,0 +1,396 @@
+[
+  {
+    "name": "Raviolis de espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/RaviolisEspargos_49914_617x370.png",
+    "link": "https://www.pingodoce.pt/receitas/raviolis-de-espargos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha de trigo",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ovo",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha curado em cunha",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha curado e ralado",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 954,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1816,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 894,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2194,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2193,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Ponha a farinha em monte sobre a mesa, abra uma cova no centro e coloque nela as gemas, o azeite e o sal. Amasse, juntando a água necessária para obter uma consistência lisa e elástica. Embrulhe em película aderente e deixe descansar durante 1 hora.",
+      "Coza os espargos em água temperada com sal, escorra, corte as pontas e reserve-as.",
+      "Corte os talos dos espargos em pedaços e pique-os na picadora, juntamente com o queijo, temperando a mistura com uma pitada de noz-moscada e pimenta qb. Reserve.",
+      "Estenda a massa com a máquina ou com um rolo até obter tiras finas com 8 cm de largura. Com um aro de metal ou um cortador de bolachas, recorte círculos de massa e coloque no centro de cada um deles uma colher de recheio. Dobre-os ao meio, formando meias-luas, e humedeça ligeiramente as extremidades, pressionando bem para não abrirem.",
+      "Ponha uma panela grande ao lume com bastante água, tempere com sal e introduza os raviolis e coza durante 3 minutos. Escorra-os e reserve.",
+      "Leve ao lume uma frigideira antiaderente com o azeite e as pontas dos espargos e salteie os raviolis. Sirva com as lascas de queijo da Ilha Curado."
+    ]
+  },
+  {
+    "name": "Abóboras com castanhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/07/aboboras-com-castanhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/aboboras-com-castanhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "abóbora butternut",
+        "qtd": 1,
+        "unit": ",6 kg (2 unid.)"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cogumelo",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "castanhas (descascadas e sem pele)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "quinoa cozida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sultana",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 10,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 708,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 557,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2720,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2438,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2717,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Corte as abóboras ao meio, retire-lhes as sementes e escave um pouco ao centro com a ajuda de uma colher, de forma a ter um buraco maior.",
+      "Coloque as metades de abóbora num tabuleiro de forno, tempere com metade do sal, pimenta e tomilho a gosto. Regue com duas colheres de sopa de azeite.",
+      "Leve ao forno a cozinhar por 30 minutos ou até as abóboras estarem cozinhadas.",
+      "Enquanto isso, salteie numa frigideira a cebola e o alho picados no restante azeite, até que a cebola fique translúcida.",
+      "Junte os cogumelos em pedaços, envolva e cozinhe cerca de 4 minutos. Adicione as castanhas descongeladas picadas e deixe cozinhar por mais 5 minutos.",
+      "Por fim, acrescente a quinoa, as sultanas e mais um pouco de tomilho. Tempere com restante sal e envolva.",
+      "Retire as abóboras do forno, recheie-as com a mistura de quinoa e polvilhe com tomilho fresco."
+    ]
+  },
+  {
+    "name": "Empadão de salmão com puré de brócolos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/10/empadao-salmao-pure-brocolos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-salmao-com-pure-de-brocolos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salmão",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2367,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 150 ºC.",
+      "Refogue a cebola picada e o alho-francês cortado em rodelas num tacho com o azeite, em lume brando, durante 3 minutos. Junte o salmão limpo e deixe que lasque. Adicione os espinafres e envolva. Junte o leite e tempere com o sal, envolva e coloque num prato de forno.",
+      "Entretanto, coza os brócolos e as batatas descascadas e cortadas em cubos num tacho com água até estarem bem tenros.",
+      "Escorra os brócolos e as batatas e disponha-os numa taça. Adicione o queijo parmesão, misture e esmague com a ajuda de um garfo. Coloque por cima da mistura de salmão e leve ao forno até servir."
+    ]
+  }
+]

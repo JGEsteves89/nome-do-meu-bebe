@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Caldo de peixe com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/caldo-de-peixe-com-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caldo-de-peixe-com-legumes/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "espinhas e pele de peixe",
+        "qtd": 670,
+        "unit": "g"
+      },
+      {
+        "name": "cascas de cebola",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "topos e pele de cenoura",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "parte verde do alho-francês",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 L"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1978,
+        "g": 670,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      }
+    ],
+    "steps": [
+      "Ferva lenta e prolongadamente (1 a 2 horas) os ingredientes na água.",
+      "Se quiser, pode ainda acrescentar tiras de casca de limão.",
+      "Com uma escumadeira, vá retirando a espuma que se for formando.",
+      "No final, coe o caldo através de um coador de rede fina.",
+      "Congele em frascos ou cuvetes devidamente identificados."
+    ]
+  },
+  {
+    "name": "Lombo de novilho Angus com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/lombo-de-novilho-angus-com-legumes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lombo-de-novilho-angus-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "laranja (sumo)",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "bimi",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "legumes grelhados congelados",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bife do lombo de novilho Angus",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "+ 0.5 c. de sopa"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cebola frita",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 391,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1273,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 389,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 573,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1078,
+        "g": 6,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 140 °C.",
+      "Descasque a cenoura, corte em rodelas e cozinhe com o sumo de laranja por 15 minutos.",
+      "Triture em puré. Coza os bimis por 2 minutos e arrefeça-os em água corrente.",
+      "Coloque os legumes grelhados no forno por 8 minutos.",
+      "Numa frigideira, com o azeite bem quente, sele a carne durante 3 minutos de cada lado. De seguida enrole-a em papel de alumínio e deixe repousar por 6 minutos.",
+      "Na mesma frigideira, salteie os bimis e deixar tostar um pouco. No final, junte o alho, descascado e cortado em rodelas finas. Retire e reserve.",
+      "Refresque a frigideira com o molho de soja, junte o mel e regue a carne com esta mistura.",
+      "Polvilhe com o cebolinho picado, cebola frita e flor de sal. Sirva com os legumes."
+    ]
+  },
+  {
+    "name": "Pescada em tomatada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/pescada-de-tomatada.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/pescada-em-tomatada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata para cozer",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola doce",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "aipo",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate em pedaços com orégãos e manjericão",
+        "qtd": 390,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pescada n.º 5",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 570,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2509,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 2113,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2011,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque as batatas num tacho, cubra com água e tempere com uma colher de chá de sal, deixando que cozam até estarem macias.",
+      "Descasque as cebolas e os dentes de alho e corte-os em rodelas finas, assim como o talo de aipo. Deite estes legumes num tacho largo, regue com o azeite e leve a cozinhar sobre lume moderado até a cebola estar mole.",
+      "Adicione ao tacho o tomate e a polpa, tape e deixe ferver suavemente cerca de 15 minutos.",
+      "Entretanto tempere as postas de pescada com metade do restante sal.",
+      "Separe os floretes dos brócolos e reserve os talos. Coloque os floretes dos brócolos num recipiente que possa ir ao micro-ondas, tape e coza durante 6 a 7 minutos, na potência máxima.",
+      "Tempere o molho de tomate com o restante sal e introduza nele as postas de pescada. Tape e deixe cozinhar durante 10 minutos.",
+      "Sirva o peixe com as batatas e os brócolos. Polvilhe com folhas frescas de manjericão."
+    ]
+  }
+]

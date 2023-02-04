@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Empadas vegetarianas com requeijão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/tacas-de-filo-com-creme-requeijao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empadas-vegetarianas-com-requeijao/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "requeijão de Seia",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "ramo"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 3,
+        "unit": "pétala"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "folhas de massa filo",
+        "qtd": 8,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sementes de linhaça Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sementes de abóbora Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mistura de salada",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "pepino pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2312,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 141,
+        "g": 16,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1502,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2421,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2418,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2405,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1670,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC, na função calor circulante com grelha inferior.",
+      "Misture o requeijão com os coentros e uma mão-cheia de folhas de hortelã picadas.",
+      "Junte o tomate seco cortado em pedaços e os ovos, mexa bem e adicione o amido de milho. Tempere com uma pitada de alho em pó e de pimenta. Reserve.",
+      "Pincele cada folha de massa filo com duas colheres de sopa de azeite e sobreponha-as quatro a quatro.",
+      "Corte cada bloco em seis quadrados e forre com eles as formas de um tabuleiro para queques.",
+      "Disponha o recheio dentro das “taças”, salpique com a mistura de sementes e leve ao forno cerca de 15 minutos.",
+      "Sirva com a mistura de salada e rodelas de pepino, temperadas com os restantes azeite e vinagre."
+    ]
+  },
+  {
+    "name": "Nigiri sushi",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/01/nigiri-sushi.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/nigiri-sushi/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 8,
+        "unit": "dl"
+      },
+      {
+        "name": "arroz para sushi",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "mirin",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de soja (para molhar)",
+        "qtd": 4,
+        "unit": "dl"
+      },
+      {
+        "name": "óleo",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "camarão descascado",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alga nori",
+        "qtd": 4,
+        "unit": "folha"
+      },
+      {
+        "name": "wasabi em pasta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1200
+      },
+      {
+        "id": 175,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1634,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 4
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 483,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 82,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2644,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com os 8 dl de água. Junte o arroz e, quando levantar fervura, tape e deixe cozer até absorver toda a água.",
+      "Retire do lume, junte o mirin e o açúcar, mexa bem e disponha num tabuleiro. Tape com um pano húmido e deixe arrefecer totalmente.",
+      "Bata os ovos, adicionando 2 colheres de molho de soja.",
+      "Aqueça uma frigideira antiaderente, previamente pincelada com óleo, e coloque nela metade dos ovos batidos.",
+      "Deixe solidificar e enrole com a ajuda de uma espátula. Junte os restantes ovos, deixe solidificar e enrole de novo. Retire do lume e deixe arrefecer.",
+      "Coloque os camarões em palitos de madeira e reserve.",
+      "Coloque ao lume um tacho com água abundante e com o sal. Quando levantar fervura, introduza os camarões, deixando ferver 2 a 3 minutos. Retire e reserve.",
+      "Corte a alga em tiras com cerca de meio centímetro e reserve.",
+      "Com as mãos molhadas, retire pequenas porções de arroz e molde-as em rolinhos, dispondo por cima os ovos e o camarão. À volta, coloque tiras de alga.",
+      "Sirva o nigiri sushi com o molho de soja e a pasta de wasabi."
+    ]
+  },
+  {
+    "name": "Empadão de alheira com cogumelos e agrião",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/empadao-de-alheira-com-cogumelos-e-agriao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-alheira-com-cogumelos-e-agriao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "puré de batata congelado",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alheira de Trás-os-Montes",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de agrião",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "gema de ovo",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2162,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1304,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 88,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2599,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 45,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1816,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Prepare o puré de batata com o leite, seguindo as instruções da embalagem.",
+      "Ao mesmo tempo, leve o azeite e a cebola ao lume numa frigideira e quando a cebola estiver mole e começar a alourar, adicione os cogumelos, previamente limpos e picados em pedaços. Salteie durante cerca de 5 minutos, mexendo frequentemente.",
+      "Entretanto, retire a pele às alheiras. Corte metade de uma alheira em rodelas finas e reserve. Desfaça as restantes cuidadosamente com a ponta dos dedos e junte aos cogumelos. Cozinhe sobre lume médio durante mais alguns minutos, mexendo ocasionalmente, até os cogumelos estarem tenros.",
+      "Borrife com o vinagre, junte as folhas de agrião, grosseiramente picadas, e misture bem. Deixe cozinhar sobre lume moderado, mexendo frequentemente, até cozinhar o agrião.",
+      "Espalhe metade do puré sobre um tabuleiro, por cima disponha o recheio de alheira e cubra com o restante puré. Disponha as rodelas de alheira reservadas sobre o puré. Pincele com a gema de ovo batida e leve ao forno durante cerca de 30 minutos."
+    ]
+  }
+]

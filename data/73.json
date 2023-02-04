@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Seitan com vegetais aromáticos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449090060",
+    "link": "https://www.pingodoce.pt/receitas/seitan-com-vegetais-aromaticos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "seitan",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "massa macarronete riscado",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de legumes para sopa camponesa",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de funcho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2400,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1332,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1522,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1657,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 2413,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o seitan em tiras pequenas, tempere-o com o molho de soja e a raspa da casca do limão.",
+      "Numa panela com água a ferver temperada com sal, coza a massa até estar al dente. Escorra e reserve.",
+      "Numa frigideira larga, com o azeite, salteie as tiras de seitan, a cebola em rodelas finas e a mistura de legumes.",
+      "Salpique com as sementes de funcho e pimenta moída na altura. Tape e deixe cozinhar, sobre lume moderado, até os legumes estarem tenros mas crocantes.",
+      "Junte a massa escorrida aos legumes e salpique com folhas de manjericão. Misture bem e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Legumes no forno com molho de mostarda e coentros",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/legumes-no-forno-com-molho-de-mostarda-e-coentros.jpg",
+    "link": "https://www.pingodoce.pt/receitas/legumes-no-forno-com-molho-de-mostarda-e-coentros/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "lima",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "iogurte natural",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "raspa da casca de lima",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1240,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 746,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Corte as cenouras em rodelas e a courgette ao meio, no sentido do comprimento, e a seguir em troços.",
+      "Descasque as batatas e corte-as em gomos.",
+      "Numa taça, junte todos os legumes e reserve.",
+      "Raspe a casca da lima e reserve-a. Esprema o sumo, misture-o com o azeite e o sal e regue os legumes com este preparado, misturando bem.",
+      "Num tabuleiro de forno, leve os legumes a assar durante 20 minutos ou até ficarem tenros.",
+      "Numa tigela, junte os iogurtes, a mostarda, os cominhos, a raspa da casca da lima reservada e os coentros e mexa bem.",
+      "Sirva os legumes com o molho."
+    ]
+  },
+  {
+    "name": "Pão da avó recheado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449090115",
+    "link": "https://www.pingodoce.pt/receitas/pao-da-avo-recheado/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "pão da avó familiar",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeitona verde recheada com pimento",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos frescos",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "farinheira",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "molho bechamel",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "queijo ralado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1867,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 252,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 732,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1032,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 981,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1690,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2278,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Corte a parte superior do pão como se fosse uma tampa e retire-lhe o miolo.",
+      "Aqueça o azeite e refogue a cebola, o alho e o alho-francês finamente picados. Adicione o fiambre, as azeitonas e os cogumelos laminados e envolva bem.",
+      "Junte a farinheira, sem pele e em pedaços, o miolo de pão, o leite e o molho bechamel. Tempere com sal e metade dos orégãos, mexa e deixe cozinhar durante 5 minutos. Adicione o tomilho e rectifique os temperos.",
+      "Recheie o pão com este preparado, polvilhe com orégãos e o queijo ralado e leve ao forno durante 10 minutos.",
+      "Sirva imediatamente. Acompanhe com uma salada de espinafres"
+    ]
+  }
+]

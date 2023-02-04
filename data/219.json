@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Gambão à mexicana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/12/gambao-mexicana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/gambao-a-mexicana/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "miolo de gambão",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "feijão preto cozido",
+        "qtd": 420,
+        "unit": "g"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "piripíri em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1617,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1008,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2601,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2099,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o miolo de gambão já descongelado com metade do sal, a paprica, o alho em pó, os orégãos e uma colher de sopa de azeite. Misture bem.",
+      "Enquanto isso, aqueça uma colher de sopa de azeite numa frigideira antiaderente e salteie o gambão durante 4 minutos. Retire e divida por duas lancheiras.",
+      "Escorra o feijão-preto e o milho e divida-os pelas lancheiras. Corte o tomate em metades e faça o mesmo.",
+      "Por fim, adicione os espinafres. Tempere quando servir com o restante sal, o azeite, o vinagre e o piri-piri."
+    ]
+  },
+  {
+    "name": "Perna de peru no forno com laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/perna-de-peru-no-forno-com-laranja.jpg",
+    "link": "https://www.pingodoce.pt/receitas/perna-de-peru-no-forno-com-laranja/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "canela em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "laranja (sumo e casca)",
+        "qtd": 200,
+        "unit": "ml (1 unid.)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g (1 0.5 unid.)"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 250,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 250,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 800,
+        "unit": "ml"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "brócolos cozidos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "perna de peru com pele",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 7,
+        "unit": "dente"
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 509,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1545,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 800
+      },
+      {
+        "id": 162,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 585,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2003,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 1493,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Limpe qualquer vestígio de penas ou canículas e coloque a perna de peru num tabuleiro de forno.",
+      "Descasque os dentes de alho, esmague num almofariz e misture-os com a massa de pimentão, metade do sal, os cominhos e a canela. Esfregue muito bem a perna de peru de todos os lados com a pasta anterior.",
+      "Regue a carne com o sumo de laranja e acrescente duas tiras do vidrado da casca. Deixe marinar de um dia para o outro em local fresco ou no frigorífico.",
+      "Ligue o forno a 130 °C.",
+      "Descasque e corte as cebolas e o alho-francês em rodelas. Pele as cenouras e corte-as em palitos. Misture os legumes e disponha-os no tabuleiro à volta da carne. Regue com o azeite e polvilhe com o tomilho.",
+      "Leve o tabuleiro ao forno e asse a carne durante cerca de 90 minutos, regando-a de vez em quando com o molho que se for formando.",
+      "Aumente a temperatura para os 180 °C, regue a carne com o mel e asse por mais 30 minutos ou até estar bem dourada.",
+      "Ao mesmo tempo, leve um tacho ao lume com a água temperada com o restante sal e duas tiras de casca de laranja. Quando ferver, introduza o arroz e deixe cozinhar tapado e em lume moderado, por 15 minutos ou até o arroz ter absorvido toda a água. Retire as cascas de laranja, mude para o recipiente de serviço e misture com o cebolinho picado.",
+      "Sirva a carne com o arroz e acompanhe com os brócolos cozidos."
+    ]
+  },
+  {
+    "name": "Penne com abóbora e queijo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/03/penne-com-abobora.jpg",
+    "link": "https://www.pingodoce.pt/receitas/penne-com-abobora-e-queijo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "polpa de abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "massa penne",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "água",
+        "qtd": 7,
+        "unit": "dl"
+      },
+      {
+        "name": "queijo mozzarella de búfala",
+        "qtd": 0,
+        "unit": ",5 emb."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1527,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1050
+      },
+      {
+        "id": 2259,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os talos dos bimi em pedaços e reserve as pontas.",
+      "Deite o azeite num tacho, junte os alhos laminados, a polpa de abóbora cortada em cubos pequenos, a massa, o sal, um pouco de pimenta e os talos dos bimi.",
+      "Mexa bem, deite a água, tape e leve a lume brando cerca de 20 minutos.",
+      "Ao meio do tempo, junte as pontas dos bimi e o mozzarella em pedaços e volte a tapar, mantendo no lume até ao final do tempo.",
+      "Polvilhe com orégãos e sirva."
+    ]
+  }
+]

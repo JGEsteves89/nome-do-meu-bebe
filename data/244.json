@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Salada de quinoa com presunto crocante",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/salada-de-presunto-crocante-e-quinoa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-presunto-com-quinoa/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "presunto porco preto 18 meses de cura",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "quinoa Pura Vida",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "legumes grelhados congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "orégão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2157,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 2292,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1273,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1807,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Coloque as fatias de presunto num tabuleiro de forno com papel vegetal. Leve ao forno até ficar crocante e seco. Reserve.",
+      "Num tacho, cozinhe a quinoa, conforme as instruções da embalagem, com metade do sal.",
+      "Entretanto, numa frigideira anti-aderente, torre as amêndoas laminadas e reserve-as.",
+      "Na mesma frigideira, salteie os legumes em metade do azeite, conforme instruções da embalagem. Tempere com o restante sal e pimenta a gosto.",
+      "Numa saladeira, misture a quinoa já cozida, os legumes, o tomate-cereja cortado em metades e o restante azeite.",
+      "Envolva bem e sirva com as fatias de presunto crocante, com as amêndoas e os orégãos frescos."
+    ]
+  },
+  {
+    "name": "Sopa de miso",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/sopa-de-miso.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-miso/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "pasta de miso de arroz integral",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "tofu",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alga nori",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos shimeji",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 4,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "nabo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "óleo de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 2,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1958,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2480,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 82,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 742,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1755,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1799,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2420,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho, aqueça o óleo de sésamo, junte a cebola e o alho-francês cortados em meia-lua muito finas, mexa sem deixar ganhar cor.",
+      "Adicione o nabo e cenoura cortados em cubos pequenos e os talos dos cogumelos em pequenas rodelas e salteie durante 1 minuto.",
+      "Junte a água e os cogumelos e deixe ferver em lume brando durante 12 minutos.",
+      "Acrescente o tofu em cubos pequenos e coza mais 5 minutos.",
+      "Num recipiente à parte, dissolva a pasta de miso de arroz integral em um pouco do caldo da cozedura dos legumes. Adicione-o ao tacho.",
+      "Sirva a sopa de miso com cebolo em rodelas, sementes de sésamo e tiras finas de alga nori."
+    ]
+  },
+  {
+    "name": "Sanduíche de veggie rice com queijo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/sanduiches-de-veggie-rice-com-queijo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sanduiche-de-veggie-rice-com-queijo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "veggie rice de couve-flor e brócolos congelado",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo parmigiano reggiano DOP Iguarias",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo mozzarella (não fresco)",
+        "qtd": 2,
+        "unit": "fatia"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão ou orégãos",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2586,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 1825,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2276,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2256,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 220 °C.",
+      "Cozinhe o veggie rice no micro-ondas por um minuto. Retire para um passador de rede fina e pressione de forma que toda a água escorra.",
+      "Depois de seco, ou menos húmido, coloque o veggie rice numa taça. Adicione o ovo, o queijo parmigiano, o alho em pó, o cebolinho picado, o sal e pimenta a gosto. Envolva.",
+      "Forre um tabuleiro de forno com papel vegetal e deite nele a mistura, fazendo dois discos idênticos, com cerca de meio dedo de altura e 12cm de diâmetro.",
+      "Leve ao forno cerca de 20 minutos.",
+      "Retire do forno e sobre um dos discos coloque as fatias de queijo mozzarella e de tomate. Por fim, polvilhe com manjericão ou orégãos. Cubra com o outro disco e leve novamente ao forno até que o queijo derreta."
+    ]
+  }
+]

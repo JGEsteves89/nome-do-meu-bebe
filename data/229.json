@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Arroz biryani com vegetais",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/arroz-biryani-com-vegetais.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-biryani-com-vegetais/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "amêndoa laminada",
+        "qtd": 30,
+        "unit": "unid."
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "erva-doce em grão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura chinesa de vegetais congelados",
+        "qtd": 1,
+        "unit": "emb. (400 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "sobra de arroz branco cozido solto (basmati ou agulha)",
+        "qtd": 0,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 127,
+        "g": 30,
+        "ml": 30
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 875,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1639,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2437,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve as amêndoas ao lume numa frigideira antiaderente larga e deixe alourar. Retire e reserve.",
+      "Na mesma frigideira, leve ao lume o pau de canela, a erva-doce e a folha de louro. Quando começar a libertar aroma, junte o azeite, a cebola descascadae e picada e a malagueta cortada em rodelas.",
+      "Polvilhe com o açafrão-da-índia e os cominhos, mexa e adicione a mistura de vegetais. Tempere com o sal, junte as sultanas e cozinhe sobre lume médio a forte, mexendo frequentemente, cerca de 10 minutos.",
+      "Adicione o arroz cozido, misture muito bem e deixe aquecer durante 2 a 3 minutos.",
+      "Salpique com coentros e as amêndoas tostadas."
+    ]
+  },
+  {
+    "name": "Carne de porco à alentejana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/10/carne-de-porco-a-alentejana-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/carne-de-porco-a-alentejana/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lombo de porco aos cubos",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "batata para fritar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "óleo",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "amêijoa",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeitona",
+        "qtd": 10,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1369,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1493,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2661,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 322,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 111,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 224,
+        "g": 10,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Num almofariz, pise os dentes de alho com o sal grosso.",
+      "Esfregue a carne com a pasta de alho e em seguida com a massa de pimentão. Deixe marinar de um dia para o outro.",
+      "Aqueça a banha num tacho, frite a carne até que esteja dourada e a seu gosto. Regue com um copo de vinho branco e deixe evaporar.",
+      "Descasque e corte as batatas em cubos, passe por duas águas e leve a cozer por cerca de 12 minutos. Escorra e seque bem.",
+      "Aqueça o óleo e frite as batatas até estarem douradas.",
+      "Enquanto isso, adicione as amêijoas à carne e deixe que abram.",
+      "Sirva a carne juntamente com as batatas e polvilhe com coentros picados."
+    ]
+  },
+  {
+    "name": "Cabrito no forno com arroz de açafrão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/cabrito-no-forno-com-figos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cabrito-no-forno-com-arroz-de-acafrao/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cabrito",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 2,
+        "unit": "haste"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "figo seco enfarinhado",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "romã",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 447,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 69,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1050,
+        "g": 12,
+        "ml": 12
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 158,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 2325,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ligue o forno nos 200 °C. Coloque o cabrito num tabuleiro de forno.",
+      "Com a ajuda de um espremedor, esprema os alhos. Coloque-os numa taça com metade do sal, o pimentão-doce, o vinagre balsâmico e 2 colheres de sopa de azeite.",
+      "Barre o cabrito com este preparado, esfregando a carne com as mãos para impregnar bem os temperos. Regue com o vinho branco, junte as folhas de louro e 2 hastes de alecrim e deixe marinar de um dia para o outro ou durante algumas horas.",
+      "Elimine os pedúnculos rijos dos figos e ponha-os de molho no vinho do Porto. Junte o pau de canela.",
+      "Regue o cabrito com o restante azeite e leve ao forno durante cerca de 20 minutos.",
+      "Ao fim desse tempo, retire 4 colheres de sopa do molho que se tiver formado para um tacho e disponha os figos e o vinho do Porto em torno da carne. Reduza a temperatura do forno para os 150 °C e deixe o cabrito assar durante mais 1 hora, regando-o de vez em quando com o molho.",
+      "Junte o açafrão ao molho do cabrito que colocou no tacho e leve a ferver. Adicione o arroz, deixe cozinhar 1 a 2 minutos, mexendo sempre. Regue com a água a ferver e tempere com o restante sal. Coza tapado durante cerca de 18 minutos.",
+      "Mude o arroz para um tabuleiro de forno, regue-o com mais 3 a 4 colheres de sopa do molho do cabrito e mexa com um garfo.",
+      "Aumente a temperatura do forno para os 200 °C. Leve o arroz ao forno juntamente com cabrito e cozinhe por mais 10 minutos.",
+      "Na altura de servir salpique o arroz com os bagos de romã e decore o cabrito com o restante alecrim. Sirva com a salada."
+    ]
+  }
+]

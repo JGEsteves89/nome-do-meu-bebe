@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Wraps de camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085419",
+    "link": "https://www.pingodoce.pt/receitas/wraps-de-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sêmea de trigo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 70,
+        "unit": "ml"
+      },
+      {
+        "name": "miolo de camarão de Moçambique",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "piripíri",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pasta de alho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "manga",
+        "qtd": 340,
+        "unit": "g"
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 120,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2402,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 70
+      },
+      {
+        "id": 1611,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2098,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1952,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1439,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 76,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2484,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a farinha, a sêmea de trigo e o sal numa tigela. Adicione o azeite e a água amornada e amasse bem. Molde a massa em bola e repouse durante 15 minutos.",
+      "Descongele e tempere o miolo de camarão com sal, o piripiri previamente limpo de sementes e picado em pedacinhos, o vinagre e a pasta de alho. Misture e deixe marinar enquanto prepara os restantes ingredientes.",
+      "Descasque a manga, retire-lhe o caroço e pique-a em dados pequenos. Corte a alface Iceberg em tiras finas, lave-a, escorra e misture-a com a manga. Adicione 1 colher de sopa de cebolinho picado e misture.",
+      "Numa frigideira antiaderente com azeite, introduza o camarão bem escorrido e cozinhe sobre lume médio durante 3 minutos. Adicione o líquido da marinada. Quando levantar fervura, adicione os camarões à salada e misture.",
+      "Quando servir, divida a massa preparada em 4 porções iguais e estenda-as com a ajuda do rolo da massa, o mais fino que conseguir.",
+      "Aqueça uma frigideira antiaderente sobre lume médio a forte e cozinhe os discos obtidos durante 1 minuto de cada lado.",
+      "Recheie com a mistura de camarão, enrole e sirva acompanhado com uma salada de tomate e pepino."
+    ]
+  },
+  {
+    "name": "Naco de Angus com batatas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/07/nacodeanguscombatatasrusticas617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/naco-de-angus-com-batatas-rusticas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata para assar",
+        "qtd": 0,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho fresco picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manjericão picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bife do acém redondo (3cm altura)",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 318,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1444,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 386,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Numa tigela, coloque as batatas em quartos e a courgette em rodelas.",
+      "Acrescente 1 dente de alho picado, o pimentão-doce, o tomilho, 1 colher de chá de sal, pimenta e 2 colheres de sopa de azeite. Misture bem.",
+      "Num tabuleiro forrado com papel vegetal, leve as batatas ao forno até estarem macias.",
+      "Misture a manteiga com as ervas e o restante alho picado.",
+      "Espalhe a mistura de manteiga num rectângulo de película aderente, forme um rolo e reserve-o no congelador.",
+      "Pincele os bifes com o restante azeite e pimenta.",
+      "Quando as batatas estiverem a sair do forno, grelhe os bifes numa chapa, ou grelha, durante 2 minutos, de cada um dos lados.",
+      "Salpique a carne com sal e sirva com as batatas, a courgette e a manteiga de ervas."
+    ]
+  },
+  {
+    "name": "Perna de peru assada",
+    "image": "https://www.youtube-nocookie.com/embed/ZOHdLZs_6O0",
+    "link": "https://www.pingodoce.pt/receitas/perna-de-peru-assada/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "perna de peru",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeitona verde descaroçada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinha",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "batata para assar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 2,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2003,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 245,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2060,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 580,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 318,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 350,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Com a mão, separe cuidadosamente a pele da carne na parte abaulada da perna de peru, de modo a não a rasgar. Salpique com um pouco de sal e coloque-a num tabuleiro de forno.",
+      "Pique finamente as azeitonas sem caroço, o tomate seco e os dentes de alho, tempere com 1 pitada de sal e adicione a salsa picada e 1 colher de sopa de azeite. Misture de modo a obter uma pasta.",
+      "Introduza cuidadosamente essa pasta entre a pele e a carne da perna de peru.",
+      "Misture o restante azeite com metade do colorau e o mel e barre a perna de peru com a mistura. Junte as folhas de louro e regue com o vinho branco. Salpique com um pouco de tomilho e deixe marinar de um dia para o outro em local fresco.",
+      "No dia seguinte, pré-aqueça o forno a 180 ºC e asse a perna de peru durante 30 minutos.",
+      "Descasque as cebolinhas e corte-as ao meio. Lave as batatas e corte-as em quartos. Pele as cenouras e corte-as em rodelas. Tempere a mistura de batatas, cebola e cenoura com o restante colorau, algumas folhinhas de tomilho e uma pitada de sal.",
+      "Num tabuleiro de forno, disponha os legumes à volta do peru. Leve novamente ao forno e deixe assar cerca de 1 hora e 15 minutos ou até a carne estar tenra e dourada.",
+      "Sirva acompanhada de uma mistura gourmet de alfaces."
+    ]
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Coelho no forno com batatas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/08/coelho-no-forno-com-batatas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/coelho-no-forno-com-batatas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "coelho cortado em pedaços pequenos",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tempero de manjericão e pimento assado",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "batata primor mini",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "pão meio sal",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 700,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2474,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 70,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 324,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 1917,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Espalhe os pedaços de coelho sobre um tabuleiro de forno, regue com o vinagre, adicione o tempero de manjericão e pimento assado e o alecrim. Salpique com o sal e misture muito bem.",
+      "Junte as batatas, a cebola descascada e cortada em gomos, os bimis cortados ao meio e os cogumelos. Misture tudo, borrife com\na água a ferver e leve ao forno durante 30 minutos.",
+      "Entretanto, corte o pão em fatias finas na diagonal, coloque-as num tabuleiro e pincele-as com azeite. Reserve.",
+      "Cerca de 5 minutos antes de tirar o coelho do forno leve o pão a tostar.",
+      "Sirva o coelho com o pão tostado."
+    ]
+  },
+  {
+    "name": "Espetadas de salmão e lulas",
+    "image": "https://www.youtube-nocookie.com/embed/PB-3yNjZ8lA",
+    "link": "https://www.pingodoce.pt/receitas/espetadas-de-salmao-e-lulas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lula limpa congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "salmão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "batata para cozer pequena",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hortelã picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de salada ibérica",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1390,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2367,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 320,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2488,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1673,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela, junte as lulas em pedaços e o salmão em cubos. Polvilhe com o alho em pó e pimenta e regue com sumo de limão.",
+      "Corte a courgette em rodelas, limpe o pimento de sementes, corte-o em quadrados e lave os tomates cherry.",
+      "Num tacho, coza as batatas em água temperada com sal até estarem macias.",
+      "Numa taça, junte os coentros e a hortelã picados, acrescente o azeite, o vinagre balsâmico e sal. Reserve.",
+      "Espete, alternadamente, os ingredientes preparados nos espetos.",
+      "Num grelhador já quente, cozinhe os espetos, de todos os lados. De vez em quando, pincele as espetadas com a mistura de azeite.",
+      "Tempere a salada ibérica com o que sobrar da mistura de azeite e sirva a acompanhar as espetadas."
+    ]
+  },
+  {
+    "name": "Lentilhas estufadas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085319",
+    "link": "https://www.pingodoce.pt/receitas/lentilhas-estufadas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lentilhas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "linguiça",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomate",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1309,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1337,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ponha as lentilhas de molho em água durante cerca de 1 hora.",
+      "Num tacho, salteie sobre lume brando os dentes de alho e as cebolas picadas finamente, bem como a linguiça sem pele e em pedacinhos.",
+      "Acrescente a courgette e a abóbora cortadas em cubos, o tomate cortado ao meio, limpo de sementes e cortado em cubos. Adicione as lentilhas demolhadas e bem escorridas. Adicione água a ferver até cobrir os legumes, salpique com sal e deixe cozinhar com o tacho tapado, sobre lume brando, cerca de 40 minutos, ou até as lentilhas estarem tenras.",
+      "Quando faltarem 10 minutos para as lentilhas estarem prontas, coloque os cuscuz num recipiente fundo, regue com 1,5 dl de água a ferver temperada com sal, mexa os cuscuz com um garfo, tape o recipiente e deixe hidratar.",
+      "Na altura de servir, volte a mexer os cuscuz com um garfo, decore com umas folhinhas de hortelã e sirva com as lentilhas."
+    ]
+  }
+]

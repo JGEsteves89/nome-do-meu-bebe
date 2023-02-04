@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Gambão no forno com molho de ervas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/camarao-no-forno-com-molho-de-ervas-617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/camarao-no-forno-com-molho-de-ervas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "concentrado de tomate",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "piripíri",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "mistura de ervas aromáticas picadas",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "gambão congelado",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "batata primor",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "mini-pimento colorido",
+        "qtd": 2,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 755,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2098,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 525,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1651,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1121,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 324,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1581,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture 1 dl de azeite com o concentrado de tomate, o molho de piripíri, o caril, duas colheres de sopa ervas picadas e uma colher de chá de sal.",
+      "Coloque o gambão (previamente descongelados) numa tigela grande, deite por cima o preparado, mexa bem, tape com película aderente e deixe marinar cerca de uma hora.",
+      "Pré-aqueça o forno a 220° C.",
+      "Coza as batatas em água temperada com o restante sal.",
+      "Disponha o gambão com a marinada e os pimentos num tabuleiro forrado com papel vegetal e leve ao forno cerca de 10 minutos.",
+      "Na altura de servir, corte as batatas ao meio tempere-as com o restante azeite, salpique com as restantes ervas picadas e sirva-as a acompanhar o gambão."
+    ]
+  },
+  {
+    "name": "Espetadas à madeirense com milho frito",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/espetada-a-madeirense-com-milho-frito.jpg",
+    "link": "https://www.pingodoce.pt/receitas/espetadas-a-madeirense-com-milho-frito/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "água",
+        "qtd": 8,
+        "unit": "cháv."
+      },
+      {
+        "name": "farinha de milho amarela",
+        "qtd": 200,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "caldo-verde",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "paus de loureiro verde",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "carne da vazia aos cubos",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2400
+      },
+      {
+        "id": 946,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 481,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 2697,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Deite o azeite e os alhos finamente ralados ou picados num tacho. Deixe cozinhar um minuto. Junte a água e deixe levantar fervura.",
+      "Dissolva a farinha num pouco de água fria e, quando a água do tacho estiver a ferver, adicione a farinha e mexa muito bem para fazer umas papas de milho.",
+      "Ao mesmo tempo, junte a couve. Tempere com o sal e misture tudo.",
+      "Vá mexendo para não ganhar grumos e deixe a farinha cozer em lume médio, cerca de 5 minutos, tendo cuidado para que não pegue ao tacho.",
+      "Quando a massa estiver com uma consistência sólida, desligue o lume, coloque num tabuleiro e deixe arrefecer. Leve ao frigorífico para solidificar, pelo menos 3 horas.",
+      "Quando a massa estiver no ponto, aqueça o óleo, corte a massa em palitos e frite até estarem bem lourinhos.",
+      "Com uma faca afiada, afie as pontas dos paus de loureiro de forma a criar espetos.",
+      "Espete os pedaços de carne nos espetos.",
+      "Tempere a carne com sal e grelhe, virando-a regularmente. Quando estiver cozinhada a gosto, sirva com os palitos de milho frito."
+    ]
+  },
+  {
+    "name": "Salada de pato com couve-roxa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/salada-de-pato-com-couve-roxa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-pato-couve-roxa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "juliana de couve-roxa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho (pequeno)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "uva preta sem grainha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "courgette (pequena)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "melão verde (de polpa limpa)",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "peito de pato",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha de trigo Pura Vida",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "água fria",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 792,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2574,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1550,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1973,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 38,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 960,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Deite a couve-roxa numa tigela, junte o pimento em tiras muito finas, os bagos de uva abertos, a courgette em rodelas muito finas e a polpa de meloa em cubos.",
+      "Adicione as 10 g do cebolinho picado, uma colher de chá de sal, o azeite e uma colher de sobremesa de vinagre balsâmico. Misture e reserve.",
+      "Noutra tigela, deite a farinha de trigo integral, junte o sal, o azeite e o cebolinho picado. Misture, adicione a água fria e mexa com uma colher de pau até formar uma bola. Amasse um pouco, tape e deixe repousar.",
+      "Com uma faca afiada, faça cortes na diagonal na pele do pato, criando losangos. Aqueça uma frigideira anti-aderente e introduza o pato com a pele virada para baixo.",
+      "Aloure até estar tostada e repita do outro lado. Escorra a gordura e tempere o pato com uma colher de café de sal e a pimenta.",
+      "Reduza o lume, tape e deixe cozinhar cerca de oito minutos. Polvilhe com o açúcar mascavado, junte o restante vinagre e retire do lume. Reserve tapado.",
+      "Divida a massa em quatro porções. Leve ao lume outra frigideira anti-aderente e aqueça-a. Com a ajuda de um rolo e farinha para polvilhar, estenda as porções de massa em rodelas finas e cozinhe-as, de ambos os lados, na frigideira cerca de um minuto.",
+      "Disponha a salada na lancheira e, por cima, distribua o pato, cortado em fatias finas.",
+      "Ferva os sucos que ficaram na frigideira até espessarem, deite sobre as fatias de pato e salpique com as sementes de sésamo.",
+      "Sirva com as panquecas preparadas."
+    ]
+  }
+]

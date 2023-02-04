@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Espetada de lulas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/espetadas-de-lulas-com-feijao-manteiga.jpg",
+    "link": "https://www.pingodoce.pt/receitas/espetada-de-lulas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lula",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "camarão 30/40 congelado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ananás em sumo natural",
+        "qtd": 2,
+        "unit": "rodela"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "feijão manteiga cozido",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1388,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 489,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 147,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1005,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Enfie nos espetos, alternadamente, lulas, camarões previamente descongelados e pedaços de ananás.",
+      "Tempere com uma colher de chá de sal e um pouco de pimenta, pincele com o azeite e grelhe as espetadas numa chapa ou grelhador bem quente. Retire e reserve.",
+      "Pique a cebola e o dente de alho finamente e refogue-os num tacho com as duas colheres de sopa de azeite.",
+      "Deixe murchar um pouco, junte o tomate limpo de grainhas e cortado em cubos e o feijão bem escorrido, tempere com o sal e um pouco de pimenta, envolva bem e deixe ferver cerca de 3 minutos.",
+      "Sirva as espetadas com o feijão-manteiga."
+    ]
+  },
+  {
+    "name": "Cantaril no forno com batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/cantaril-no-forno.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cantaril-no-forno-com-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola às rodelas",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate em pedaços com orégãos e manjericão",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cantaril",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "batata-doce em cubos",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hortelã-da-ribeira",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2509,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 513,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1197,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ° C.",
+      "Espalhe as rodelas de cebola, o alho e o aipo, cortados em rodelas finas, sobre um tabuleiro de louça.",
+      "Regue com o tomate em pedaços e o azeite e, por cima, coloque o cantaril. À volta, disponha as batatas e salpique tudo com o sal e a raspa da casca do limão.",
+      "Corte o limão em rodelas e introduza-o na barriga do peixe, juntamente com algumas hastes de hortelã-da-ribeira. Disponha mais alguns ramos entre os legumes e leve ao forno durante 25 minutos."
+    ]
+  },
+  {
+    "name": "Pudim de batata com farinheira",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/pudim-batata-farinheira.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pudim-de-batata-com-farinheira/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata Kennebec",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "farinheira de Portalegre IGP",
+        "qtd": 230,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 312,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2344,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 983,
+        "g": 230,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1444,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Coza as batatas em água temperada com sal.",
+      "Tire a pele à farinheira e desfaça-a com um garfo.",
+      "Passe as batatas, já cozidas, pelo passe-vite e misture o puré obtido com a farinheira desfeita.",
+      "Pré-aqueça o forno a 180 ºC.",
+      "Junte a farinha e as gemas à mistura de batata e farinheira envolvendo bem.",
+      "Bata as claras em castelo e incorpore-as, com cuidado, no preparado anterior.",
+      "Barre uma forma com manteiga, polvilhe-a com o pão ralado e deite nela a mistura de puré, levando ao forno durante cerca de 30 minutos.",
+      "Lave o feijão-verde, corte-o em tiras e coza-o em água temperada com sal. Depois de pronto, desenforme o pudim e sirva-o com o feijão-verde temperado com um fio de azeite e vinagre."
+    ]
+  }
+]

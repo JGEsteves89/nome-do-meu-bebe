@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Salada de fim de Verão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/salada-de-fim-de-verao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-fim-verao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "ovo de codorniz",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "posta de atum em azeite",
+        "qtd": 3,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pera Rocha em calda",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1818,
+        "g": 12,
+        "ml": 12
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1014,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2127,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1994,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1624,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os ovos em água temperada com o sal durante 5 minutos.",
+      "Lave os ramos de brócolos, escorra-os e coloque-os numa taça de vidro.",
+      "Cubra com película aderente e coza no micro-ondas 5 minutos na potência máxima.",
+      "Deite o feijão num coador de rede, passe-o por água corrente, escorra-o bem e coloque numa saladeira.",
+      "Adicione o atum de 2 latas bem escorrido e o restante com o azeite da conserva.",
+      "Lave o tomate e corte-o ao meio. Descasque a cebola e pique-a finamente.",
+      "Descasque as peras e corte-as em cubos pequenos.",
+      "Disponha os brócolos cozidos na saladeira com o feijão, junte o tomate, a cebola, as peras, as nozes grosseiramente partidas e a salsa picada.",
+      "Misture bem e decore com os ovos de codorniz, descascados e cortados ao meio."
+    ]
+  },
+  {
+    "name": "Risotto de carne",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/risotto-de-carne.jpg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-de-carne/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de carne estufada ou guisada com molho e legumes ±",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 533,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 174,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Separe a carne e os legumes (se os tiver) do molho. Reserve. Junte a água necessária ao molho, para perfazer cerca de 250ml de líquido, e leve a ferver suavemente num tacho. Rectifique o sal se houver necessidade.",
+      "Noutro tacho, aloure a cebola com o azeite. Acrescente o arroz e frite cerca de 1 minuto, mexendo frequentemente. Refresque com o vinho e deixe ferver, misturando sempre até que o arroz tenha absorvido quase todo o líquido.",
+      "A pouco e pouco, vá adicionando o caldo de carne, à medida que o arroz o for absorvendo, e continue a mexer com frequência.",
+      "Desfie a carne, corte os legumes, em pedaços pequenos, e junte-os ao arroz quando este estiver quase pronto, envolvendo delicadamente (deve ficar cozido mas cremoso). No final, salpique-o com a salsa."
+    ]
+  },
+  {
+    "name": "Caldo de marisco",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089560",
+    "link": "https://www.pingodoce.pt/receitas/caldo-de-marisco/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cantaril inteiro",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "camarão 30/40 inteiro",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mexilhão com casca",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "robalo inteiro",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 513,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1557,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 2318,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 587,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 19,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2344,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Limpe os peixes e retire-lhes os filetes, reservando as espinhas e as cabeças ou peça na peixaria para os prepararem. Descasque o camarão, retire-lhe a cabeça e as tripas, mantendo o último anel e a cauda.",
+      "Lave bem as espinhas e as cabeças, coloque-as numa panela com água e leve a lume brando.",
+      "Adicione a cebola, os dentes de alho e o vinho branco e deixe cozinhar lentamente durante 15 minutos.",
+      "Retire do lume, passe o caldo pelo passador e divida-o em 2 partes, temperando com o sal grosso.",
+      "Corte as cenouras, as courgettes e as batatas em cubos pequenos e o alho-francês em troços.",
+      "Adicione os legumes a uma das porções do caldo reservadas (primeiro as cenouras, depois as batatas, o alho-francês e as courgettes). Deixe cozinhar até estarem macios.",
+      "No restante caldo reservado, coza durante 5 minutos os filetes dos peixes, o camarão e o mexilhão.",
+      "Retire as iguarias e reserve o caldo. Retire os legumes e coloque-os no fundo de uma terrina. Misture os dois caldos, aromatize com o açafrão e adicione aos legumes.",
+      "Decore com cebolinho picado, açafrão e alho-francês e sirva a acompanhar o peixe e os mariscos."
+    ]
+  }
+]

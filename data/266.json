@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Massa com peixe e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/11/conchinhas-do-mar.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massinhas-com-peixe/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "medalhão de pescada congelado (sem pele nem espinhas)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hastes de coentros frescos",
+        "qtd": 3,
+        "unit": "haste"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 4,
+        "unit": "dl"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "massa conchas",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "brócolos (ramos)",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "uva branca e preta",
+        "qtd": 160,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1539,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 94,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 701,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1482,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2567,
+        "g": 160,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o peixe com o alho em pó e deixe descongelar.",
+      "Descasque a cebola e os dentes de alho e pique-os finamente.",
+      "Lave o talo de aipo, elimine os fios mais rijos e corte-o em lâminas finas.",
+      "Aqueça o azeite num tacho, junte o aipo, a cebola e o alho picados e deixe cozinhar até amolecerem.",
+      "Junte os talos de coentros picados (reserve as folhas), a polpa de tomate e metade da água, tape e deixe cozinhar em lume brando cerca de 10 minutos.",
+      "Pele a cenoura e corte-a em tiras com o pelador de cozinha.",
+      "Corte cada lombo em cinco porções e introduza-os no tacho. Tape e deixe retomar fervura, em lume brando.",
+      "Junte a restante água a ferver, adicione a massa e as tiras de cenoura e tempere com o sal. Tape e coza mais 10 minutos.",
+      "Lave bem os ramos dos brócolos, coloque-os numa taça de vidro, tape com uma tampa própria para micro-ondas, ou com película aderente, e coza 4 minutos na potência máxima.",
+      "Deixe a massa de peixe arrefecer, salpique-a com os coentros reservados e divida por duas marmitas. Coloque os brócolos num compartimento separado."
+    ]
+  },
+  {
+    "name": "Pataniscas de couve-flor",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/pataniscas-couve-flor.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pataniscas-de-couve-flor/",
+    "portions": 10,
+    "ingredients": [
+      {
+        "name": "couve-flor ralada",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M/L",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "aveia instantânea em pó Pura Vida",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada congelada",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal iodado ou flor de sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "óleo de coco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 787,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1820,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 203,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 575,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2346,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1796,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Num recipiente, coloque a couve-flor ralada e junte os ovos, a aveia em pó, a cebola e os coentros picados. Envolva bem.",
+      "Tempere com o alho em pó, pimenta, sal iodado (ou flor de sal) e misture tudo.",
+      "Deite o óleo de coco numa frigideira anti-aderente (retire o excesso com papel de cozinha). Quando estiver quente, coloque três colheres de sopa do preparado e forme as pataniscas.",
+      "Com uma espátula, calque-as ligeiramente e deixe-as cozinhar dos dois lados. Repita o processo até acabar a massa."
+    ]
+  },
+  {
+    "name": "Frango com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089553",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-cogumelos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "puré de batata congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "frango",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "gengibre",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bebida de soja natural",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "coco ralado",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo branco",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2161,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1092,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1708,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1431,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1431,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 356,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 697,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 709,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o frango em pedaços pequenos, ou peça no talho para o prepararem, e coloque-o num recipiente, juntamente com o molho inglês e o amido de milho. Misture bem.",
+      "Pele a raiz de gengibre, corte-a em fatias finas e pique-as finamente. Lave as malaguetas, abra-as ao meio, limpe de sementes e pique em pedacinhos. Descasque a cebola e pique-a finamente.",
+      "Deite o azeite num tacho, deixe aquecer, adicione os pedaços de frango e deixe alourar.",
+      "Aqueça a bebida de soja no micro-ondas com o coco ralado.",
+      "Quando o frango estiver bem dourado, junte-lhe a cebola, o gengibre e as malaguetas.",
+      "Adicione os cogumelos, lavados e bem escorridos, tempere com sal e regue com a mistura da bebida de soja e coco e com o vinho branco. Mexa, tape o tacho e deixe cozinhar, sobre lume moderado a brando, durante 50 minutos, mexendo de vez em quando.",
+      "Se for necessário reduzir o molho do frango, aumente um pouco o lume e deixe-o ferver destapado durante os últimos minutos.",
+      "Prepare o puré de batata seguindo as indicações da embalagem.",
+      "Minutos antes de servir, junte as folhas de espinafre ao frango e misture bem. Sirva acompanhado do puré de batata salpicado com um pouco de pimenta."
+    ]
+  }
+]

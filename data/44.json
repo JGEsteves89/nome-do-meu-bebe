@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Sopa de courgette, ervilhas e espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/creme-de-courgette-ervilhas-espargos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-courgette-e-ervilhas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "água",
+        "qtd": 800,
+        "unit": "ml"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sementes de girassol Pura Vida",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 894,
+        "g": 220,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 800
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2416,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve a cebola, o alho-francês e as ervilhas ao lume numa panela com duas colheres de sopa de azeite. Tape e cozinhe em lume brando.",
+      "Lave a courgette, elimine as pontas, corte-a em cubos pequenos e coloque-a na panela.",
+      "Lave os espargos, elimine as bases fibrosas, reserve as pontas espigadas, corte o restante em rodelas finas e adicione-as ao cozinhado.",
+      "Tempere com o sal, regue com a água a ferver, junte algumas folhas de hortelã (reserve algumas) e deixe cozer cerca de 20 minutos.",
+      "Aqueça o restante azeite numa frigideira anti-aderente e salteie as pontas espigadas dos espargos cerca de 2 minutos, agitando a frigideira. Retire e reserve.",
+      "Triture a sopa no liquidificador ou com a varinha mágica e sirva com as pontas dos espargos, as sementes de girassol e as folhas de hortelã reservadas."
+    ]
+  },
+  {
+    "name": "Wraps de mandioca com salada de morango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/wrapsdemandiocacomsaladademorango617x370.jpg",
+    "link": "https://www.pingodoce.pt/receitas/wraps-de-mandioca-com-salada-de-morango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha de mandioca",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0,
+        "unit": ",5 c. de café"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "morango",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "folhas de rúcula",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 0,
+        "unit": ",5 unid."
+      },
+      {
+        "name": "tâmaras descaroçada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 944,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 1720,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2466,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a farinha com meia colher de café de sal e as folhas de\ntomilho.",
+      "Junte água de modo a ficar cerca de um dedo acima da farinha. Misture muito bem até obter uma massa que se consiga moldar. Reserve.",
+      "Lave os morangos, retire os pés, corte em quartos e misture-os com as folhas de rúcula. Abra o abacate ao meio, retire o caroço e a casca, corte a polpa em cubos, regue com o sumo do limão e adicione-o aos morangos.",
+      "Junte as tâmaras cortadas em rodelas e o miolo de noz grosseiramente\npicado. Aqueça uma frigideira larga antiaderente em lume moderado a forte.",
+      "Divida a massa em quatro porções, molde cada uma em forma de bola e estenda-as, com o rolo da massa, em cima de uma folha de papel vegetal\ncom a forma de um círculo fino.",
+      "Coloque os discos de massa na frigideira e deixe alourar de ambos os lados. Repita a operação com a restante massa.",
+      "Misture o azeite, o mel e o vinagre de sidra e tempere com um pouco de pimenta e o restante sal.",
+      "Regue a salada, com esta mistura, envolva, divida-a pelos wraps e enrole."
+    ]
+  },
+  {
+    "name": "Costeletas de porco no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/10/costeletas-porco-molho-berbecue.jpg",
+    "link": "https://www.pingodoce.pt/receitas/costeletas-de-porco-no-forno/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "peça inteira de costeleta de porco do lombo",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "cebola doce",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mel",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "ketchup",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cerveja preta mini",
+        "qtd": 20,
+        "unit": "cl"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "batata-doce fina",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "rodelas de abacaxi",
+        "qtd": 8,
+        "unit": "fatia"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 175,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 769,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 570,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1540,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1259,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1708,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 601,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 4,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 175,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 125 ºC.",
+      "Ao comprar a carne no talho, peça para a golpearem como se fossem cortar as costeletas mas sem as separar. Passe a carne por água, enxugue-a muito bem e coloque-a num tabuleiro de forno fundo.",
+      "Descasque a cebola e rale-a para dentro de uma tigela. Junte o mel, 50g de ketchup, o molho de soja e o molho inglês, os orégãos, uma colher de chá de sal e a cerveja preta. Misture tudo muito bem e deite sobre a carne.",
+      "Junte a folha de louro e leve ao forno durante cerca de 6 horas. Vire a carne de hora a hora e na última hora tape o tabuleiro com folha de alumínio.",
+      "Entretanto, lave muito bem as batatas-doces e pique-as com um garfo. Coloque cada batata sobre um quadrado de folha de alumínio e salpique-a com o restante sal e mais orégãos. Embrulhe as batatas na folha de alumínio e coloque-as no forno cerca de 2 horas antes de terminar o tempo de cozedura da carne.",
+      "Após as 6 horas, retire a carne do forno e do tabuleiro. Junte o restante ketchup ao molho que ficar da cozedura, misturando bem.",
+      "Trinche a carne e sirva-a com as batatas assadas cortadas em rodelas, o abacaxi em meias-luas, e a salada. Acompanhe com o molho numa taça à parte."
+    ]
+  }
+]

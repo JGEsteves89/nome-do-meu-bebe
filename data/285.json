@@ -1,0 +1,531 @@
+[
+  {
+    "name": "Salada de aipo com maçã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/salada-de-aipo-com-maca.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-aipo-com-maca/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de aipo",
+        "qtd": 2,
+        "unit": "haste"
+      },
+      {
+        "name": "maçã Starking",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "uva",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "queijo azul",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ervas aromáticas (sobras)",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 62,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1408,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2567,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2171,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1745,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 877,
+        "g": 7,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o aipo em fatias finas e coloque-as numa taça. Faça o mesmo\ncom a maçã com casca e, em seguida, corte-a em palitos, para outro recipiente. Regue-a com o sumo de limão e adicione-a à taça com o aipo.",
+      "Junte as uvas cortadas em metades, o queijo esfarelado e as nozes picadas.",
+      "Num frasco, misture a mostarda com o azeite, o vinagre, o sal, um pouco de pimenta e agite bem. Regue a salada com o molho, polvilhe com ervas a gosto e envolva. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Espeto de camarão e abacaxi",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/08/espeto-de-camarao-abacaxi.jpg",
+    "link": "https://www.pingodoce.pt/receitas/espeto-de-camarao-e-abacaxi/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "malagueta vermelha fresca",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "camarão tigre 20/30 congelado",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "abacaxi",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeitona verde sem caroço",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sêmola de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "iogurte grego",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã fresca (folhas)",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2421,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2653,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 4,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 254,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2423,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1220,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por preparar a polenta. Coloque a água num tacho ao lume com o alho picado, o sal e os cominhos.",
+      "Quando a água levantar fervura, adicione a azeitona picada e o tomate seco laminado. Acrescente a sêmola e a farinha de milho, e envolva energicamente todos os ingredientes.",
+      "Retire a mistura para um tabuleiro, espalme com a ajuda de uma espátula e deixe arrefecer.",
+      "Corte a massa em palitos finos e frite-os numa frigideira com o óleo quente.",
+      "Para o molho, coloque o iogurte num recipiente redondo e adicione as folhas de hortelã e o sumo da lima. Triture tudo. Tempere com pimenta de moinho e flor de sal, e por fim polvilhe com sementes de sésamo.",
+      "Entretanto, prepare as espetadas. Limpe a malagueta de sementes e lamine-a muito fina. Junte-a ao azeite num prato.",
+      "Descasque os camarões, deixando a cabeça e a cauda. Coloque-os no prato com o azeite e polvilhe com o sal. Deixe marinar durante 5 minutos.",
+      "Lave o abacaxi, retirando-lhe a rama e o fundo. Corte-o em triângulos, mantendo a casca. Reserve.",
+      "Coloque quatro camarões por espeto, alternando com três triângulos de abacaxi.Grelhe as espetadas em lume forte.",
+      "Sirva as espetadas acompanhadas dos palitos de polenta e do molho de iogurte."
+    ]
+  },
+  {
+    "name": "Carrê de porco com choucrute",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/carre-de-porco-com-choucrute-de-couve-roxa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/carre-de-porco-com-choucrute/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cravinho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 5,
+        "unit": "grão"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "couve-roxa",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de porco com osso",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 98,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 801,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2050,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 792,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1370,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Numa panela alta, coloque a cenoura cortada em palitos, o aipo, as chalotas, o alho-francês, o cravinho, os grãos de pimenta e 1 colher de sobremesa de sal.",
+      "Cubra com 1l de água. Tape e deixe ferver em lume brando.",
+      "Corte a couve-roxa em juliana, coloque num passador, salpique com 1 colher de chá de sal e mantenha assim uma hora.",
+      "Limpe o lombo de gorduras e cartilagens de modo a que os ossos fiquem a descoberto. Tape-os com papel de alumínio para evitar que queimem.",
+      "Ate o lombo com fio de cozinha para não se desmanchar durante a cozedura.",
+      "Esfregue a carne com 1 colher de chá de sal e barre-a com a mostarda.",
+      "Num tacho, leve a couve-roxa com a cebola cortada em gomos finos ao lume. Regue com uma concha do caldo de legumes e 1 colher de sopa de azeite e leve ao lume durante 40 minutos.",
+      "Num tabuleiro untado com azeite, leve a carne ao forno durante 1 hora ou até estar tenra, regando com um pouco de caldo, se necessário.",
+      "No final, polvilhe a carne com folhas de tomilho e sirva com a couve-roxa."
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Costeletas de vitela grelhada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089432",
+    "link": "https://www.pingodoce.pt/receitas/costeletas-de-vitela-grelhada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "costeleta de vitela",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ervas de Provence",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 770,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 878,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Misture as ervas de Provence, o azeite e o sal.",
+      "Grelhe as costeletas na grelha quente e deixe-as marcar bem de ambos os lados, até criarem uma ligeira crosta. Pincele as costeletas com o azeite e as ervas enquanto grelham.",
+      "Deixe cozinhar até atingirem o ponto desejado, tendo o cuidado de virar de vez em quando."
+    ]
+  },
+  {
+    "name": "Rosbife com espargos e puré de batata",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/rosbife-com-espargos-ao-vapor-e-pure-de-batata.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/rosbife-espargos-pure-batata/",
+    "portions": 20,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "hortelã (folhas)",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "vazia de bovino",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "mostarda à antiga",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "água",
+        "qtd": 650,
+        "unit": "g"
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 650,
+        "unit": "g"
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espargo branco",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2582,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1737,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 650
+      },
+      {
+        "id": 320,
+        "g": 650,
+        "ml": 0
+      },
+      {
+        "id": 894,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 893,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Programe a máquina 20 segundos, na velocidade 6 e deite no copo, através do orifício da tampa, os alhos e uma mão-cheia de folhas de hortelã, de coentros e manjericão. Junte o azeite, mexa, raspe as paredes do copo com a espátula e mude a mistura para uma tigela.",
+      "Pré-aqueça o forno a 220° C.",
+      "Barre a carne com a mostarda e um pouco da mistura de ervas (reserve a restante). Salpique a com uma colher de chá de sal e com pimenta, coloque-a num tabuleiro com grelha e leve ao forno cerca de 30 minutos.",
+      "Deite a água no copo, sem o lavar, e encaixe o cesto com as batatas descascadas e cortadas em pedaços. Salpique com uma colher de chá de sal e coloque a tampa, sem o copo medidor.",
+      "Encaixe o tabuleiro base da vaporeira com os espargos, lavados e sem as bases fibrosas e salpique-os com uma colher de chá de sal. Cubra com o outro tabuleiro, tape com a tampa da vaporeira e programe 40 minutos, a 120° C, na velocidade 2.",
+      "Retire o rosbife do forno, embrulhe-o em folha de alumínio e deixe repousar 10 minutos.",
+      "Retire a vaporeira com os espargos e depois o cesto com as batatas, usando o cabo da espátula. Despeje a água, introduza as batatas cozidas no copo, junte a manteiga e o leite e tempere com noz-moscada, programando 1 minuto, a 90° C, na velocidade 3.",
+      "Junte o sumo de meio limão à mistura de ervas reservada e mexa bem.",
+      "Disponha os espargos na travessa de servir, regue-os com um pouco de molho e, por cima, coloque o rosbife finamente fatiado.",
+      "Acompanhe com o puré de batata e sirva com o restante molho de ervas à parte."
+    ]
+  },
+  {
+    "name": "Tiras de peru com molho de amendoim",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/tiras-de-peru-com-molho-de-amendoim.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tiras-peru-molho-amendoim/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "bife de peru",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "manteiga de amendoim com pedaços",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 382,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 163,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 900
+      },
+      {
+        "id": 1452,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2437,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os bifes de peru em tiras e tempere-as com uma colher de chá de sal, os cominhos, o caril, o alho em pó, a noz-moscada e uma pitada de pimenta e misture muito bem.",
+      "Aqueça metade do azeite numa frigideira, junte as tiras de carne e salteie-as em lume forte, mexendo frequentemente cerca de três minutos.",
+      "Adicione a cebola picada, tape e deixe cozinhar em lume moderado mais cinco minutos.",
+      "Aqueça o restante azeite num tacho, adicione o arroz e frite-o rapidamente.",
+      "Junte uma a duas tiras da casca do limão, a água a ferver e o restante sal. Mexa com um garfo, tape e cozinhe durante 15 minutos.",
+      "Adicione a manteiga de amendoim às tiras de carne e, quando estiver derretida, junte o molho de tomate, as sultana e o tomate cortado ao meio.",
+      "Tape e deixe apurar mais cinco minutos.",
+      "Na altura de servir decore com o limão cortado em rodelas.",
+      "Acompanhe com o arroz e as folhas de rúcula."
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Calzone de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/calzone-de-frango.jpg",
+    "link": "https://www.pingodoce.pt/receitas/calzone-de-frango/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de frango desfiadas (bifes, assado, cozido)",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "queijo ricotta ou requeijão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "courgette ralada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "base refrigerada de pizza ou pão em massa",
+        "qtd": 260,
+        "unit": "g"
+      },
+      {
+        "name": "queijo Mozzarella ralado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cenoura em cubos pequenos",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate muito maduro picado e sem sementes",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1092,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2280,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 301,
+        "g": 260,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 76,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2484,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC. Misture o frango com a Ricotta ou o requeijão, metade do Parmesão, a courgette e o cebolinho e tempere com uma pitada de pimenta.",
+      "Corte a base de pizza ao meio, ou divida a massa de pão, estenda dois círculos e recheie-os com a mistura de frango. Por cima, espalhe metade do queijo Mozzarella e una bem os bordos da massa.",
+      "Disponha os calzoni num tabuleiro forrado com papel vegetal, pincele a superfície com o azeite e polvilhe com o restante Parmesão. Leve ao forno cerca de 20 minutos.",
+      "Para o molho, aloure a cebola com o dente de alho espremido no azeite quente. Junte o louro e a cenoura, salteie 2 a 3 minutos, sobre lume forte, e regue com o vinho. Reduza o lume, tape e deixe suar cerca de 10 minutos.",
+      "Adicione o tomate e tempere com o sal e a pimenta, polvilhe com os orégãos e ferva destapado mais 10 minutos, mexendo ocasionalmente. Sirva os calzoni com o molho, acompanhados com a alface iceberg."
+    ]
+  },
+  {
+    "name": "Omelete de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/02/omelete-legumes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/omelete-de-legumes/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de salada camponesa com tomate cherry temperada",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2353,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa taça, bata os ovos, tempere com sal e pimenta.",
+      "Unte uma frigideira antiaderente com o azeite.",
+      "Deite os ovos na frigideira, espalhe bem e deixe cozinhar lentamente até que a base prenda.",
+      "Ponha a salada numa das metades do ovo e dobre a omeleta por cima da salada.",
+      "Coloque num prato, polvilhe com cebolinho e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Espetadas de legumes com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/SB48_alta-337.jpg",
+    "link": "https://www.pingodoce.pt/receitas/espetadas-de-legumes-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tomate",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimentos mix de 3",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "bife de atum fresco",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "açafrão em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2484,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2094,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 375,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 20,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Corte o tomate e a courgette em quartos, os pimentos ao meio e junte-os numa taça. Tempere com 2 colheres de sopa de azeite, com 1/2 colher de sobremesa de sal, a pimenta, o alho em pó e os orégãos secos. Envolva bem.",
+      "Coloque os legumes alternadamente em espetos e leve-os ao forno, cerca de 20 minutos.",
+      "Ponha água a ferver com o restante sal e verta-a por cima do cuscuz. Adicione o açafrão. Tape e deixe descansar por 5 minutos.",
+      "Numa frigideira anti-aderente, aqueça o restante azeite e grelhe o atum durante 3 minutos de cada lado. Retire-o da frigideira e corte-o em fatias.",
+      "Sirva as espetadas com o atum polvilhadas com pimenta e acompanhe com o cuscuz."
+    ]
+  }
+]

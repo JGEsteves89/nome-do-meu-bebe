@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Hambúrgueres gourmet com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449084642",
+    "link": "https://www.pingodoce.pt/receitas/hamburgueres-gourmet-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de peru picado",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pá de porco picada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo branco",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "pés de segurelha",
+        "qtd": 2,
+        "unit": "pé"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "casca de limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "flocos de aveia",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1974,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1831,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 709,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2399,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1072,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 158,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela, misture a carne picada, com a courgette, a cenoura, e os cogumelos ralados no maior crivo do ralador. Adicione as folhas de segurelha picadas e o ovo e tempere com 1 colher de café de sal e pimenta moída.",
+      "Misture tudo muito bem, divida em 8 porções e molde em bolas. Envolva-as nos flocos de aveia e achate-as entre as mãos, de modo a dar-lhes a forma de hambúrgueres.",
+      "Numa frigideira, salteie em 2 colheres de sopa de azeite os dentes de alho, a cebola picada e o alho-francês em rodelas. Deixe cozinhar tapado e sobre lume brando. Pele o tomate, limpe-o de sementes, pique-o em pedaços e junte-o aos legumes. Tempere com 1 colher de café de sal e regue com o vinho branco. Deixe ferver suavemente até o tomate estar macio.",
+      "Prepare o arroz: num tacho com água a ferver coza o arroz. Adicione ainda 1 colher de café de sal e as cascas do limão. Mexa com um garfo e deixe cozer.",
+      "Aloure os hambúrgueres dos 2 lados numa frigideira antiaderente quente com o restante azeite. Reduza o lume e deixe a carne acabar de cozinhar, pressionando os hamburguers com as costas de uma escumadeira.",
+      "Escorra o arroz e passe-o por água fria até arrefecer. Retire a casca de limão, junte-lhe a salsa picada e mexa com um garfo."
+    ]
+  },
+  {
+    "name": "Pastéis de polvo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085901",
+    "link": "https://www.pingodoce.pt/receitas/pasteis-de-polvo/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": ",8 kg"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "ovo XL",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1829,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o polvo em água até estar macio, evitando cozinhar demasiado para não se desfazer. Retire, escorra, deixe arrefecer um pouco e corte-o em lâminas muito finas. Reserve.",
+      "Lave as batatas-doces e coza-as com casca. Deixe arrefecer e corte-as em pequenos cubos para um recipiente. Adicione o polvo laminado, o tomate cortado em cubos, lavado e limpo de sementes, a cebola, os dentes de alho picados e o ovo batido. Tempere com o sal, a pimenta e os orégãos e envolva muito bem.",
+      "Molde pequenos pastéis e core-os numa frigideira antiaderente com o azeite quente. Retire e escorra sobre papel absorvente.",
+      "Sirva os pastéis com o esparregado de nabiças ou com uma salada leve."
+    ]
+  },
+  {
+    "name": "Vitela assada com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/vitela-assada-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/vitela-assada-com-cogumelos/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "vitela para assar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mostarda com grão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa de alho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "batata para assar pequena",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo marron",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "bimi",
+        "qtd": 600,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2641,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1740,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 1488,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 70,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 318,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 723,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 391,
+        "g": 600,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Tempere a vitela com o sal, a mostarda, a massa de alho, pimenta a gosto e alecrim, e esfregue toda a carne. Coloque-a num tabuleiro de forno, regue com azeite e o vinho branco.",
+      "Leve ao forno durante cerca de 50 minutos, regando com água sempre que necessário.",
+      "Com a ajuda de uma colher, vá retirando os resíduos do assado das laterais e do fundo do tabuleiro de forma a obter um molho mais consistente.",
+      "Ao fim de 25 minutos, junte as batatas cortadas em metades. Regue bem com o molho.",
+      "Ao fim de 35 minutos, adicione os cogumelos e os bimis."
+    ]
+  }
+]

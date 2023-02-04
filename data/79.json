@@ -1,0 +1,303 @@
+[
+  {
+    "name": "Dourada em crosta de pão, sal, ervas e paprika",
+    "image": "https://www.youtube-nocookie.com/embed/BpA6lbKLQzM",
+    "link": "https://www.pingodoce.pt/receitas/dourada-em-crosta-de-pao-sal-ervas-e-paprika/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "broa",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "paprika fumada",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "dourada",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 433,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 866,
+        "g": 2,
+        "ml": 2
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Numa picadora insira a broa em pedaços, os coentros, os orégãos, a salsa, o sal e a paprika. Pique tudo até obter uma areia grossa. Regue a mistura com um fio de azeite para humedecer.",
+      "Num tabuleiro coloque as douradas e cubra com esta mistura, de modo a tapar o peixe em toda a superfície menos cabeças e rabo.",
+      "Leve ao forno por 30 minutos. Sirva com uma salada fresca."
+    ]
+  },
+  {
+    "name": "Porção de bacalhau com puré de ervilhas",
+    "image": "https://www.youtube-nocookie.com/embed/6mCJx2ysww4",
+    "link": "https://www.pingodoce.pt/receitas/porcao-de-bacalhau-com-pure-de-ervilhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "porção de bacalhau",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de 5 pimentas em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2659,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 882,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1640,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere as porções com metade do sal, o alho em pó e o mix de pimentas. Reserve",
+      "Cozas as ervilhas, juntamente com o dente de alho em água a ferver durante 3 minutos. Escorra e coloque-as num liquidificador, adicione duas colheres de sopa de azeite e triture.",
+      "Numa frigideira antiaderente aqueça o restante azeite e cozinhe as porções durante 3 minutos de cada lado e sirva com o puré de ervilhas."
+    ]
+  },
+  {
+    "name": "Lasanha de abóbora",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/lasanha-de-abobora.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lasanha-de-abobora/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "feijão preto cozido",
+        "qtd": 420,
+        "unit": "g"
+      },
+      {
+        "name": "queijo de cabra fatiado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre da perna extra",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de broa de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de girassol Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "polpa de abóbora",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1008,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 2210,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1035,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 434,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2416,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 20
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 250° C.",
+      "Corte a abóbora em fatias com cerca de 0,5 cm. Depois, coloque-as num tabuleiro de forno forrado com papel vegetal, salpique-as com o sal, regue com uma colher de sobremesa de azeite e salpique com folhas de alecrim (reserve algumas).",
+      "Leve ao forno cerca de 6 minutos.",
+      "Escorra o feijão, passe-o por água e reserve.",
+      "Retire a abóbora do forno e reduza a temperatura para os 200° C.",
+      "Coloque uma camada de fatias de abóbora num tabuleiro de forno e disponha por cima uma parte dos queijos, do fiambre e do feijão. Repita as operações até esgotar os ingredientes, terminando com uma camada de abóbora.",
+      "Pique o miolo de broa no robot de cozinha, ou no triturador, juntamente com o restante azeite e folhas de alecrim e espalhe a mistura por cima da abóbora.",
+      "Termine levando ao forno cerca de 20 minutos."
+    ]
+  }
+]

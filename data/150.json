@@ -1,0 +1,493 @@
+[
+  {
+    "name": "Sardinhas assadas ao sal",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/sardinhas-assadas-ao-sal.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/sardinhas-assadas-ao-sal/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata pequena",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sardinha média com escama",
+        "qtd": 16,
+        "unit": "unid."
+      },
+      {
+        "name": "sal marinho",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "alface",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 323,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2391,
+        "g": 16,
+        "ml": 16
+      },
+      {
+        "id": 2347,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC. Coza as batatas em água temperada com 1 colher de sobremesa de sal.",
+      "Forre um tabuleiro onde caibam todas as sardinhas com folha de alumínio e faça uma camada de sal com cerca de metade do sal.",
+      "Cubra com as sardinhas e tape com o sal restante. Leve ao forno.",
+      "Deixe cozer o peixe, entre 8 a 10 minutos, consoante o tamanho das sardinhas.",
+      "Prepare a salada com as folhas de alface, lavadas e ripadas, o tomate, a cebola e o pepino, cortados em rodelas finas.",
+      "Quando estiverem cozidas, escorra as batatas num passador. Dê-lhes um murro e leve ao forno, até as sardinhas estarem prontas.",
+      "Quando as sardinhas estiverem prontas, retire a camada de sal de cima. Sirva com as batatas e a salada temperada com azeite, vinagre e as folhas frescas de coentros."
+    ]
+  },
+  {
+    "name": "Pizza de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449090113",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-salmao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "fermento de padeiro",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "água morna",
+        "qtd": 2,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo integral",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sementes de funcho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salmão limpo",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "aneto",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella fresco",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 85,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1024,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 27,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 957,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2413,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2367,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2261,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 85,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Deite as farinhas, os dentes de alho descascados, as sementes de funcho e uma colher de chá de sal no robot de cozinha e misture.",
+      "Adicione o fermento de padeiro dissolvido na água morna e uma colher de sopa de azeite e amasse até formar bola.",
+      "Mude a massa para uma tigela, previamente untada com um pouco do azeite, tape com um pano e deixe levedar durante 1 hora em local quente.",
+      "Tempere o salmão com o vinagre balsâmico, uma colher de café de sal, o mel, a malagueta, limpa de sementes e picada em pedaços pequenos, e folhas de aneto.",
+      "Corte o alho-francês e a cebola descascada em rodelas finas. Pré-aqueça o forno a 180 ºC com o tabuleiro do forno no interior.",
+      "Leve uma frigideira ao lume, deixe aquecer bem e introduza o salmão, alourando-o durante 2 minutos de ambos os lados.",
+      "Retire o salmão, deite uma colher de sopa de azeite na frigideira e salteie rapidamente a cebola e o alho-francês.",
+      "Estenda a massa sobre a bancada de trabalho, salpicada com farinha, e forme um rectângulo.",
+      "Retire o tabuleiro do forno, regue-o com um pouco do azeite e, por cima, coloque a massa. Por cima da massa, distribua a mistura de cebola e alho-francês e o salmão previamente lascado. Salpique com as alcaparras e com o queijo mozzarella cortado em pequenos pedaços. Leve ao forno durante 25 minutos.",
+      "Depois de cozida, espalhe por cima as folhas de espinafres e o tomate cortado ao meio e regue com o restante azeite e sumo de limão. Corte em 6 porções e sirva."
+    ]
+  },
+  {
+    "name": "Empadão de frango com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/10/empadao-frango-legumes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-frango-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "milho",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "puré de batata congelado",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "beterraba cozida",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2162,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 366,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Corte o frango em cubos e tempere com o sal e um dente de alho picado.",
+      "Salteie o frango num tacho com duas colheres de sopa de azeite até que esteja dourado. Retire para um prato e reserve.",
+      "No mesmo tacho, deixe cozinhar a cebola e o restante alho picado em lume brando durante 2 minutos com o restante azeite. Junte a cenoura e a courgette cortadas em cubos. Deixe cozinhar por mais 5 minutos e adicione o milho e o frango. Envolva.",
+      "Enquanto isso prepare o puré de batata com o leite, seguindo as instruções da embalagem.",
+      "Triture a beterraba num robot de cozinha e junte-a ao puré de batata, envolva bem e reserve.",
+      "Coloque a mistura de frango no fundo de duas taças de forno e disponha por cima a camada de puré.",
+      "Leve ao forno por 15 minutos."
+    ]
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Caril de quiabos com ovos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/06/caril-quiabos-arroz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caril-de-quiabos-com-ovos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo S",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pasta de alho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "quiabo",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "leite de coco",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "coentros (folhas)",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1827,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1952,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 525,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2287,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2109,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 163,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1287,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os ovos num tacho com água, temperada com 1 colher de café de sal, e deixe cozinhar durante 7 minutos.",
+      "Pique a cebola e cozinhe-a com a pasta de alho no azeite quente, até a cebola estar macia. Junte o caril em pó e deixe fritar um pouco mais, mexendo frequentemente.",
+      "Corte a malagueta em rodelas e limpe-a de sementes. Lave os quiabos, elimine o pé, corte-os em rodelas e deite tudo no tacho.",
+      "Adicione a polpa de tomate, tape e deixe cozinhar em lume brando durante cerca de 10 minutos.",
+      "Ao mesmo tempo, noutro tacho, coza o arroz em água a ferver, temperada com 1 colher de café de sal, durante cerca de 12 minutos.",
+      "Lave o tomate e corte-o ao meio. Adicione-o ao cozinhado, juntamente com o leite de coco. Aumente um pouco o lume, tempere com o restante sal e ferva destapado mais 10 minutos.",
+      "Introduza os ovos cozidos, já descascados, e ferva mais 3 a 4 minutos.",
+      "Na altura de servir salpique com uma mão cheia de folhas de coentros e acompanhe com o arroz basmati bem escorrido."
+    ]
+  },
+  {
+    "name": "Tagliatelle com pesto de ervilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/tagliatelli-com-pesto-de-ervilhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-com-pesto-de-ervilhas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "segurelha ou manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "tagliatelle",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho picado congelado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo parmesão",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2399,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2455,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 96,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2271,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume um tacho com água temperada com uma colher de sobremesa de sal.",
+      "Quando levantar fervura, introduza as ervilhas e deixe ferver durante cinco minutos.",
+      "Retire as ervilhas com uma escumadeira para dentro de um robot de cozinha ou do copo do liquidificador (reserve algumas para decoração).",
+      "Introduza a massa na água a ferver. Deixe cozer até estar al dente.",
+      "Junte às ervilhas o alho picado, a amêndoa laminada, duas colheres de sopa de azeite, o queijo cortado em pedaços e uma mão-cheia de folhas de coentros, de segurelha ou manjericão e o restante sal.",
+      "Triture até obter uma pasta grossa.",
+      "Escorra a massa, deixando-a com um pouco de água, junte o pesto de ervilhas e o tomate seco cortado em pedaços pequenos e misture bem.",
+      "Regue com o restante azeite e sirva de imediato polvilhada com folhas frescas de rúcula e as ervilhas reservadas."
+    ]
+  },
+  {
+    "name": "Robalo ao sal com cidreira e laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/08/robalo-ao-sal-com-cidreira-e-laranja.jpg",
+    "link": "https://www.pingodoce.pt/receitas/robalo-ao-sal-cidreira-laranja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "batata vermelha para assar",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "infusão de cidreira e laranja",
+        "qtd": 3,
+        "unit": "saqueta"
+      },
+      {
+        "name": "raspa e casca de limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "robalo (sem vísceras mas com escamas)",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "brócolos em ramos",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 327,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2529,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1203,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2318,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C na função calor circulante.",
+      "Descasque a cebola e os dentes de alho e corte-os em gomos finos. Lave muito bem as batatas e corte-as em quartos. Corte a abóbora em palitos grossos.",
+      "Misture os legumes preparados num tabuleiro de forno, regue-os com o azeite, polvilhe com o tomilho e uma colher de chá de alho em pó e tempere com um pouco da mistura de pimentas e uma colher de chá de sal.",
+      "Mexa muito bem e leve ao forno cerca de 45 minutos, mexendo de vez em quando.",
+      "Misture o restante sal com o conteúdo das saquetas de cidreira e laranja, o restante alho em pó, a raspa da casca da laranja e um pouco de pimenta.",
+      "Forre um tabuleiro do forno com papel vegetal e faça uma cama para os robalos com parte da mistura de sal e cidreira.",
+      "Lave e enxugue muito bem os robalos com papel de cozinha, coloque-os sobre a cama de sal e cubra-os completamente com a restante mistura de sal.",
+      "Salpique com um pouco de água e leve ao forno cerca de 30 minutos.",
+      "Lave muito bem os ramos de brócolos, coloque-os numa tigela de vidro, cubra com a tampa do micro-ondas e cozinhe-os cerca de 6 minutos na potência máxima.",
+      "Misture os brócolos cozidos com os legumes assados e sirva-os a acompanhar o peixe ao sal."
+    ]
+  }
+]

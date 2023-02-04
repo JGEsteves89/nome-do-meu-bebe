@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Crumble de broa com camarão e peixe",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/03/crumble-broa-camarao-peixe.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/crumble-de-broa-com-camarao-e-peixe/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura aos cubos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de pescada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "broa de milho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "queijo parmesão",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 882,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1366,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1614,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 434,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Numa frigideira, coloque a manteiga e refogue o alho-francês, cortado em rodelas, durante 3 minutos.",
+      "Adicione a cenoura cortada em cubos pequenos e as ervilhas. Deixe cozinhar por mais 4 minutos em lume brando.",
+      "Junte os lombos de pescada e o miolo de camarão, envolva e tape. Deixe cozinhar por 3 minutos.",
+      "Em seguida, lasque o peixe e acrescente as natas, envolva e tempere com sal, pimenta e salsa picada.",
+      "Deixe ferver até que o molho engrosse. Retire do lume e coloque num prato de forno.",
+      "Para o crumble, ponha a broa, o alho descascado, o azeite, os coentros e o queijo num robot de cozinha. Triture até obter uma areia grossa.",
+      "Deite o crumble sobre a mistura de camarão e peixe. Espalhe bem e leve ao forno até dourar."
+    ]
+  },
+  {
+    "name": "Salada morna de feijão-frade e couve-flor",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/salada-morna-feijao-frade-couve-flor.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-morna-feijao-frade-couve-flor/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "couve-flor em ramos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "grelos",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "rabanete",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "miolo de avelã",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "couve-roxa ripada",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 786,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1178,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2294,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1014,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1598,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 794,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os ramos de couve-flor em água temperada com uma colher de chá de sal até ficarem tenros mas crocantes.",
+      "Retire-os com a ajuda de uma escumadeira, reserve-os, e coza os grelos, previamente escolhidos e lavados, na mesma água.",
+      "Rale a cenoura e corte os rabanetes em rodelas. Reserve.",
+      "Escorra o feijão e passe-o por água morna. Reserve.",
+      "Pique grosseiramente o miolo de avelã e torre-o ligeiramente numa frigideira.",
+      "Coloque a couve-roxa ripada numa saladeira e junte-lhe todos os ingredientes preparados.",
+      "Tempere com o restante sal, um pouco de pimenta e o azeite e salpique com o miolo de avelã e a salsa picada.",
+      "Sirva a salada ainda morna."
+    ]
+  },
+  {
+    "name": "Base de pizza de talos de couve-flor",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/base-pizza-de-talos-couve-flor.jpg",
+    "link": "https://www.pingodoce.pt/receitas/base-de-pizza-de-talos-de-couve-flor/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "talos de couve-flor ou de brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "queijo mozzarella ralado em fios",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 786,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2268,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 945,
+        "g": 14,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Lave os talos, corte-os em pedaços e triture-os num processador de cozinha, até terem o aspecto de cuscuz ou de bagos de arroz.",
+      "Junte a salsa picada, os orégãos, metade do queijo e o ovo e ligue muito bem.",
+      "Divida a mistura em duas partes e disponha cada porção num tabuleiro de forno, forrado com papel vegetal e polvilhado com a farinha de milho. Espalme de modo a obter dois discos, com 1cm de altura, e leve ao forno por cerca de 20 minutos.",
+      "Aumente a temperatura para os 200 ºC e coza mais 10 minutos."
+    ]
+  }
+]

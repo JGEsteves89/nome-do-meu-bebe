@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Empadas de frango com ervilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/empadas-de-frango-com-ervilhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empadas-de-frango-com-ervilhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sobras de ervilhas guisadas",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1967,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 882,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a farinha, o sal, a noz-moscada e o tomilho. Adicione a manteiga em pedaços e trabalhe a massa com as pontas dos dedos, até obter uma areia grossa. Adicione o vinagre e amasse até conseguir moldar uma bola. Embrulhe em papel vegetal e deixe descansar.",
+      "Aloure o peito de frango de ambos os lados, no azeite quente. Adicione o sal, pimenta, o alho em pó e o sumo de limão e reduza o lume. Tape e deixe cozinhar cerca de 15 minutos.",
+      "Polvilhe as sobras das ervilhas com o amido de milho e leve a engrossar, em lume moderado, mexendo frequentemente. Desfie o frango, adicione-o às ervilhas e misture bem. Retire do lume e deixe arrefecer. Pré-aqueça o forno a 200 ºC.",
+      "Divida a massa em oito porções. Com a ajuda de um rolo, estenda-a em quatro discos, forre o fundo e os lados das formas e distribua o recheio, cobrindo com discos da restante massa. Pique a superfície com um garfo e leve ao forno cerca de 30 minutos, ou até as empadas estarem douradas."
+    ]
+  },
+  {
+    "name": "Frango enrolado com espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/frango-enrolado-espinafres.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-enrolado-com-espinafres/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "bife de frango",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sumo de limão",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 378,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1332,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 158,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Salteie os espinafres numa frigideira antiaderente com uma colher de azeite até murcharem, temperados com metade do sal. Junte o parmesão, mexa bem e deixe arrefecer.",
+      "Bata ligeiramente os bifes para ficarem finos. Tempere-os com o restante sal, um pouco de sumo de limão e distribua, por cima, os espinafres. Enrole os bifes, ate-os com fio de cozinha ou prenda-os com um palito.",
+      "Deite 1 colher de sopa de azeite na frigideira onde salteou os espinafres e, quando estiver bem quente, introduza os rolinhos de frango, salteando-os até ficarem corados.",
+      "Reduza o lume, junte 2 colheres de água quente e deixe cozer mais 20 minutos.",
+      "Coza o arroz em bastante água, temperada com a colher de chá de sal. Corte o tomate em cubos muito pequenos e retire-lhes as sementes. Quando o arroz estiver cozido, escorra-o através de um passador e envolva-o com os cubos de tomate e os coentros."
+    ]
+  },
+  {
+    "name": "Sopa de lentilhas e couve-galega",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/sopa-de-lentilhas-couve-galega.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-lentilhas-e-couve-galega/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lentilhas verdes Pura Vida",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "gengibre",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate em pedaços",
+        "qtd": 390,
+        "unit": "g"
+      },
+      {
+        "name": "couve-galega em juliana",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "molho de coentros picados",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1315,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 21,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2508,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 788,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque as lentilhas de molho durante 30 minutos.",
+      "Aqueça o azeite num tacho, junte-lhe a cebola e o alho e deixe refogar 3 minutos.",
+      "Adicione as especiarias, o tomate e um pouco de água. Envolva bem e deixe apurar cerca de 10 minutos em lume brando.",
+      "Junte a couve e as lentilhas demolhadas, cubra com água, tempere com o sal e um pouco de pimenta e deixe ferver 15 minutos.",
+      "Sirva a sopa polvilhada com os coentros."
+    ]
+  }
+]

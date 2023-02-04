@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Esparguete com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/08/esparguete-tricolor-com-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "esparguete tricolor",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid. (80 g)"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "Atum Posta dos Açores em Azeite",
+        "qtd": 2,
+        "unit": "lata (240 g)"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a massa, seguindo as instruções da embalagem, em água temperada com o sal.",
+      "Aqueça o azeite numa frigideira, junte a cebola e o dente de alho picados e deixe cozinhar por 3 minutos.",
+      "Adicione o atum, a massa escorrida, a rúcula, e os coentros. Envolva tudo e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Panados no forno com molho de tomate e queijo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/10/panados-no-forno-com-molho-de-tomate-e-queijo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/panados-no-forno-com-molho-de-tomate-e-queijo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "panado de porco",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá (5 g)"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 1,
+        "unit": "ml"
+      },
+      {
+        "name": "queijo ralado",
+        "qtd": 1,
+        "unit": "cháv. (200 g)"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "esparguete (ou fetuccine)",
+        "qtd": 120,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2795,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1703,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2278,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 895,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tabuleiro de forno coloque os panados. Tempere com sal e pimenta. Leve ao forno pré-aquecido a 200 ºC cerca de 20 minutos.",
+      "Retire, cubra com o molho de tomate e polvilhe com o queijo ralado. Leve ao forno mais 10 a 15 minutos. Retire, polvilhe com manjericão picado a gosto.",
+      "Sirva com fettuccine ou espaguete."
+    ]
+  },
+  {
+    "name": "Folhado de carne picada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/04/folhado-carne-picada.jpg",
+    "link": "https://www.pingodoce.pt/receitas/folhado-de-carne-picada/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "carne de vaca picada",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite (para untar)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette em cubos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora manteiga em cubos congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo castanho",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa filo",
+        "qtd": 8,
+        "unit": "folha"
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 543,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 15,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 714,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1501,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2421,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Tempere a carne com o sal, um pouco de pimenta e um dente de alho picado e reserve.",
+      "Aqueça duas colheres de azeite numa frigideira e refogue a cebola e o restante dente de alho.",
+      "Junte a courgette, a abóbora e os cogumelos, previamente picados, e deixe cozinhar, em lume brando, cerca de 10 minutos. Retire da frigideira e reserve numa taça.",
+      "Aqueça bem três colheres de azeite na mesma frigideira e deixe fritar a carne cerca de 12 minutos, mexendo de vez em quando.",
+      "Junte os legumes reservados, salpique com os orégãos e envolva bem.",
+      "Coloque as folhas de massa filo num tabuleiro de forno, pincele-as com o restante azeite e sobreponha as umas às outras.",
+      "Coloque a mistura de carne no centro e dobre a massa por cima, fazendo um embrulho.",
+      "Salpique com as sementes de sésamo e leve ao forno cerca de 10 minutos ou até a massa estar dourada. Sirva com a salada."
+    ]
+  }
+]

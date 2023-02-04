@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Wraps de almôndegas de ervilha",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/wraps-almondegas-ervilha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/wraps-de-almondegas-de-ervilha/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tomate cereja mix",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "almôndegas de ervilha veggie style",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 270,
+        "unit": "g"
+      },
+      {
+        "name": "preparado vegetal à base de soja",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "hummus",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona preta",
+        "qtd": 16,
+        "unit": "unid."
+      },
+      {
+        "name": "orégão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2487,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 105,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 270,
+        "ml": 0
+      },
+      {
+        "id": 2147,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1199,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 231,
+        "g": 16,
+        "ml": 16
+      },
+      {
+        "id": 1807,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o tomate em metades e o pepino e a cebola-roxa, descascada, em fatias finas. Coloque numa taça, tempere com uma colher de chá de sal e reserve.",
+      "Aqueça uma colher de sopa de azeite numa frigideira e salteie as almôndegas (sem descongelar).",
+      "Para o pão, misture numa taça a farinha, o preparado vegetal e tempere com o restante sal. Amasse tudo muito bem. Numa superfície enfarinhada, estenda quatro discos grandes com a massa.",
+      "Unte uma frigideira com 0.5 colher de sopa de azeite e quando estiver quente aqueça um disco de massa até obter bolhas, vire do outro lado e deixe cozinhar mais um pouco. Repita o processo com os restantes discos.",
+      "Para servir, coloque sobre os wraps espinafres e por cima uma colher de hummus. Faça uma camada de tomate, pepino, cebola, azeitonas e disponha por cima as almôndegas.",
+      "Polvilhe com folhas de orégãos e regue com o restante azeite. Feche os wraps e embrulhe em papel."
+    ]
+  },
+  {
+    "name": "Lombo de imperador com pera e arroz selvagem",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/lombo-de-imperador-com-pera-e-arroz-selvagem.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombo-de-imperador-com-pera-e-arroz-selvagem/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "imperador",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pera Rocha em calda",
+        "qtd": 0.5,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1200,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1994,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 438,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Limpe e escame o peixe. Com uma faca bem afiada, corte rente à espinha de modo a retirar os dois lombos.",
+      "Corte os lombos ao meio, mantendo a pele, e tempere com uma colher de sobremesa de sal. Reserve.",
+      "Num tacho, ferva as espinhas e a cabeça do peixe em água durante 10 minutos. Reserve o caldo do peixe.",
+      "Num tacho, salteie as peras com duas colheres de sopa de azeite bem quente. Retire as peras e reserve.",
+      "Num tacho, coza os brócolos em água temperada com sal até estarem al dente. Retire e reserve.",
+      "Num tacho, cozinhe durante 5 minutos os lombos do peixe no caldo da cozedura.",
+      "Sirva os lombos sobre os brócolos, com as peras salteadas e regue com uma mistura de vinagre balsâmico e 2 colheres de sopa de azeite.",
+      "Acompanhe com arroz selvagem."
+    ]
+  },
+  {
+    "name": "Almôndegas de cenoura com arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/03/almondegas-de-cenoura-com-arroz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-cenoura-arroz/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "requeijão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "ervilhas-tortas",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeitona descaroçada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 180,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2308,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2200,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 890,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 229,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma panela com bastante água. Quando levantar fervura adicione uma colher de sopa de sal e o arroz. Deixe cozinhar cerca de 40 minutos.",
+      "Coza as cenouras com o restante sal. Depois de cozidas, corte-as em rodelas, coloque-as no robot de cozinha juntamente com o ovo\ne o requeijão, e triture.",
+      "Coloque o preparado numa tigela, junte o queijo de Ilha ralado, a noz-moscada e o pão ralado. Misture bem e molde bolas do tamanho de uma noz.",
+      "Aqueça uma colher de sopa de azeite numa frigideira antiaderente e cozinhe as almôndegas de todos os lados até ficarem douradas. Retire e reserve.",
+      "Aqueça o restante azeite na frigideira juntamente com os dentes de alho\nesmagados e, quando estiver quente, introduza o arroz e salteie durante 2 ou 3 minutos.",
+      "Junte os espinafres e as azeitonas e mexa até as folhas de espinafres amolecerem.",
+      "Disponha o arroz numa travessa, coloque por cima as almôndegas e polvilhe com salsa picada."
+    ]
+  }
+]

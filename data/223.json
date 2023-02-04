@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Frango à camponês",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/frangoacampones617x370.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-a-campones/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "frango do campo",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "tempero para frango",
+        "qtd": 45,
+        "unit": "g"
+      },
+      {
+        "name": "laranja",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ananás",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinha para assar",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1095,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2476,
+        "g": 9000,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 143,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 582,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ligue o forno a 180° C.",
+      "Lave o frango, enxugue-o com papel de cozinha e pincele-o com o tempero.",
+      "No interior, coloque a laranja e um limão cortados em gomos e disponha-o num tabuleiro, untado com um pouco do azeite.",
+      "Leve ao forno cerca de 30 minutos.",
+      "Corte o ananás em cubos, descasque as cebolinhas, envolva bem e tempere com o sal.",
+      "Coloque esta mistura no tabuleiro à volta do frango 30 minutos após o início da cozedura e deixe assar mais 30 minutos.",
+      "Junte o sumo do restante limão com o restante azeite, adicione uma mão-cheia de tomilho e alecrim picados, tempere com um pouco de pimenta e regue a mistura de ananás e cebola com este molho.",
+      "Sirva a acompanhar o frango."
+    ]
+  },
+  {
+    "name": "Salada de quinoa com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/salada-quinoa-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-quinoa-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "quinoa vermelha",
+        "qtd": 140,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "atum fresco em posta",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "azeite virgem extra Nossas planícies",
+        "qtd": 4,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "molho Teriaki",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "abacate de cor verde médio",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de iogurte",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "amendoim torrado com sal",
+        "qtd": 20,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2293,
+        "g": 140,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2342,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 197,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 222,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 1717,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1332,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2421,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1695,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2491,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2360,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 135,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a quinoa conforme as indicações da embalagem.",
+      "Pique grosseiramente a chalota e a hortelã.",
+      "Quando a quinoa estiver fria adicione a chalota e a hortelã picadas. Tempere com o sal.",
+      "Corte o atum em cubos com cerca de 1 cm e envolva com as 3 colheres de sobremesa de azeite, o sumo de 1 limão, o molho Teriaki e as sementes de sésamo. Reserve.",
+      "Corte o abacate em gomos e tempere com o sumo do limão e 1 colher de sobremesa de azeite.",
+      "Corte o pepino em cubos.",
+      "Para servir, coloque os ingredientes pela seguinte ordem: salada ibérica, quinoa, molho de iogurte para saladas, atum, tomate cereja, pepino, abacate e termine com a hortelã picada e o amendoim torrado."
+    ]
+  },
+  {
+    "name": "Cataplana de peixes com mexilhão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/06/cataplanadepeixe617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cataplana-de-peixes-com-mexilhao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "mexilhão",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de peixes para caldeirada",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa ou coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1557,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1660,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2108,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 320,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Se usar mexilhão fresco raspe as conchas e retire-lhe as barbas. Lave e escorra bem, independentemente do mexilhão ser fresco ou congelado.",
+      "Tempere a mistura de peixes com sal, pimenta, alho picado e pimentão. Reserve.",
+      "Corte a cebola em rodelas finas. Limpe o pimento de sementes e corte-o também em rodelas.",
+      "No fundo da cataplana disponha os mexilhões e, por cima, os legumes preparados em camadas. Tempere com sal e cubra com o peixe.",
+      "Regue com a polpa de tomate, o vinho branco e o azeite. Junte 1 ramo de salsa ou de coentros (ou de ambos) atado e feche a cataplana.",
+      "Depois de ferver, cozinhe em lume brando durante 20 minutos, agitando de vez em quando.",
+      "Num tacho, coza as batatas em água temperada com sal e sirva-as a acompanhar a cataplana."
+    ]
+  }
+]

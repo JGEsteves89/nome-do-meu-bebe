@@ -1,0 +1,430 @@
+[
+  {
+    "name": "Cuscuz com legumes grelhados e feta",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/12/cuscuz-com-legumes-grelhados-e-feta.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cuscuz-com-legumes-grelhados-e-feta/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa cuscuz",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vegetais grelhados congelados",
+        "qtd": 1,
+        "unit": "emb. (400 g)"
+      },
+      {
+        "name": "tomate cherry mix",
+        "qtd": 1,
+        "unit": "emb. (350 g)"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "0.5 c. de chá"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 1,
+        "unit": "emb. (200 g)"
+      },
+      {
+        "name": "mistura de sementes Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1487,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2585,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2755,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2226,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1676,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza a massa em água a ferver temperada com o sal durante cerca de 13 minutos.",
+      "Ao mesmo tempo, aqueça o azeite numa frigideira larga antiaderente. Junte os vegetais grelhados e o tomate e polvilhe com o alho e com o tomilho. Salteie cerca de 13 minutos, em lume médio a forte, mexendo frequentemente. No final, regue com o vinagre balsâmico.",
+      "Escorra a massa cozida, deite-a para uma saladeira e envolva bem com os legumes preparados.",
+      "Disponha por cima o queijo feta cortado em cubos e salpique com a mistura de sementes."
+    ]
+  },
+  {
+    "name": "Flan de batata e courgette",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/flan-de-batata-e-courgette.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/flan-de-batata-e-courgette/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bacon em cubos",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de casca de cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de casca de abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sobras de batata cozida",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 270,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1768,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1782,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Aloure o bacon numa frigideira larga antiaderente.",
+      "Triture na picadora as cascas de cenoura e de abóbora.",
+      "Junte o azeite, a cebola e o alho-francês e as cascas de legumes trituradas. Deixe cozinhar mexendo ocasionalmente até os legumes amolecerem.",
+      "Entretanto, lave a courgette, corte-a em rodelas finas e junte à frigideira. Tempere com metade do sal e pimenta moída na altura. Cozinhe durante cerca de 10 minutos sobre lume moderado. Corte o tomate em rodelas.",
+      "Espalhe os legumes num pirex em camadas alternadas com a batata cozida cortada em rodelas finas.",
+      "Bata os ovos até estarem desfeitos, junte-lhes as natas e tempere com o restante sal, pimenta moída na altura e a noz-moscada. Deite a mistura sobre os legumes e por cima disponha as rodelas de tomate.",
+      "Leve ao forno durante cerca de 25 minutos."
+    ]
+  },
+  {
+    "name": "Tostas de frango e cogumelos com chèvre",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/04/Tostas-de-frango-e-cogumelos-com-chèvre.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tostas-de-frango-cogumelos-chevre/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "caril",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "manteiga de amendoim",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "peito de frango pequeno",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão de abóbora, sultana e noz",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelo laminado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre (folhas)",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo Chèvre",
+        "qtd": 180,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 524,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1746,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1454,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1869,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 721,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2180,
+        "g": 180,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela, misture o alho com o caril, a mostarda e a manteiga de amendoim. Tempere com sal e pimenta moída na altura.",
+      "Envolva o peito de frango nesta mistura e deixe marinar durante pelo menos 30 minutos.",
+      "Pré-aqueça o forno a 180 °C.",
+      "Aqueça bem uma frigideira antiaderente e coloque nela o peito de frango bem escorrido da marinada, deixando alourar de ambos os lados sobre lume médio a forte.",
+      "Reduza o lume, junte a marinada e o vinagre de sidra, tape e cozinhe durante cerca\nde 15 minutos.",
+      "Corte os pães ao meio, disponha-os sobre um tabuleiro forrado com papel vegetal, com a parte cortada virada para cima, e leve a tostar no forno.",
+      "Entretanto, aqueça o azeite numa frigideira, junte os cogumelos e salteie sobre lume médio a forte durante 2 a 3 minutos. Junte as folhas de espinafre, misture bem e retire do lume.",
+      "Corte o queijo em rodelas com cerca de 5mm de espessura, e o peito de frango em fatias finas.",
+      "Distribua a mistura de cogumelos sobre as tostas de pão e por cima coloque alternadamente rodelas de queijo e fatias de frango. Leve de novo ao forno com a função grill ligada, até o queijo começar a derreter.",
+      "Sirva as tostas regadas com o molho do frango."
+    ]
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Tacos de salmão",
+    "image": "https://www.youtube-nocookie.com/embed/9SxuWMOYw1c",
+    "link": "https://www.pingodoce.pt/receitas/tacos-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "saku de salmão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "couve-roxa ripada",
+        "qtd": 0,
+        "unit": "¼ unid. (250 g)"
+      },
+      {
+        "name": "cenoura ripada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 1,
+        "unit": "unid. (200 g)"
+      },
+      {
+        "name": "iogurte grego",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "óleo de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mini tortita de milho Pura Vida",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "manga",
+        "qtd": 0.5,
+        "unit": "unid. (150 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2751,
+        "g": 100,
+        "ml": 100
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 792,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 591,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1220,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1799,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1577,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1439,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o saku de salmão com o sumo de lima, o sal e a soja. Deixe repousar.",
+      "Numa taça junte a couve-roxa, a cenoura e o abacate em cubos pequenos. Junte o iogurte, o sumo de limão e a salsa picada. Envolva bem.",
+      "Corte o saku em fatias finas como se fosse sashimi. Sele-o de ambos os lados numa frigideira com o óleo de sésamo.",
+      "Em cima de cada tortilha disponha a salada com molho de iogurte, fatias finas de manga e as fatias de saku selado. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Cavala no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/cavalas-no-forno-com-beringela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cavala-no-forno/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "beringela",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cavala limpa",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "malagueta fresca",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 363,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 563,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 220° C.",
+      "Corte as beringelas em cubos, coloque num passador e tempere com uma colher de sobremesa de sal. Reserve durante 20 minutos.",
+      "Faça cortes pouco profundos nas cavalas e tempere com o restante sal e um pouco de pimenta.",
+      "Escorra os cubos de beringela, passe por água para retirar o sal, enxugue bem.",
+      "Num tabuleiro forrado com papel vegetal, disponha as cavalas e polvilhe coma malagueta finamente cortada e limpa de sementes.",
+      "Regue com uma colher de sopa de azeite e leve ao forno durante 5 minutos.",
+      "Junte o alho-francês, cortado em rodelas, o limão em meias-luas e as cavalas e regue tudo com o restante azeite e um pouco de orégãos.",
+      "Leve novamente ao forno cerca de 15 minutos."
+    ]
+  },
+  {
+    "name": "Beringelas recheadas",
+    "image": "https://www.youtube-nocookie.com/embed/UMssJLQpI_4",
+    "link": "https://www.pingodoce.pt/receitas/beringelas-recheadas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "beringela",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "soja granulada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette cortada em cubos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "molho bechamel",
+        "qtd": 0.5,
+        "unit": "emb."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 363,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2432,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 162,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1690,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave as beringelas, corte-as ao meio no sentido do comprimento e retire a polpa com cuidado para não rasgar. Salpique a casca e a polpa que retirou com sal e deixe escorrer dentro de um passador.",
+      "Cubra a soja granulada com água morna e deixe hidratar. Aloure a cebola picada no azeite quente, junte a cenoura ralada e a courgette cortada em cubos pequenos e deixe cozinhar sobre lume brando.",
+      "Entretanto, passe a beringela por água corrente e escorra muito bem. Pique a polpa da beringela e junte aos legumes, depois a soja bem espremida e tempere com uma pitada de sal, orégãos e cominhos. Misture bem, tape e deixe cozinhar durante cerca de 15 minutos em lume brando.",
+      "Coza o arroz em água a ferver temperada com 1 colher de chá de sal. Leve as cascas de beringela ao forno a 180 º C, num tabuleiro untado com azeite. Deixe cozinhar até ficarem com um aspecto meio murcho.",
+      "Envolva o cozinhado de soja e legumes com o molho bechamel.",
+      "Escorra as meias beringelas e recheie-as com a soja e legumes. Salpique com o queijo mozzarella ralado e leve de novo ao forno até o queijo gratinar.",
+      "Sirva com arroz."
+    ]
+  }
+]

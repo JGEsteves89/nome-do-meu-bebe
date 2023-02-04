@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Pataniscas de arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/pataniscas-de-arroz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pataniscas-de-arroz/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de arroz (de bacalhau, de peixe, de marisco ou de tomate)",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "courgette grosseiramente ralada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha (dependendo da consistência do arroz)",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 8,
+        "unit": "haste"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada alentejana",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 157,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2352,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture as sobras do arroz com a curgete e com o ovo, previamente batido.",
+      "Junte a farinha e o cebolinho, tempere com sal e pimenta e misture bem (deve ficar com a consistência de um polme espesso, por isso, se for necessário, adicione mais farinha).",
+      "Aqueça um pouco do azeite numa frigideira antiaderente e deite aí colheradas do preparado, afastadas entre si. Frite as pataniscas de ambos os lados, até ficarem douradas. Sempre que necessário, adicione um pouco mais de azeite. Sirva com a salada."
+    ]
+  },
+  {
+    "name": "Arroz malandrinho de bacalhau",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/02/arroz-malandrinho-bacalhau.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-malandrinho-de-bacalhau/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "frasco polpa de tomate com cebola e alho",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",2 L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "porções bacalhau fresco",
+        "qtd": 4,
+        "unit": "porção"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "grelos congelados",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola em cubos congelada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "mini-pimento tricolor",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha piripíri (opcional)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 350,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2109,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 255,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1178,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 571,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1583,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1435,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 166,
+        "g": 350,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Mergulhe os grelos em água a ferver para que descongelem rapidamente.",
+      "Descasque e esprema, ou pique os alhos. Leve-os ao lume num tacho com a cebola, o azeite e a folha de louro.",
+      "Lave os mini-pimentos, limpe-os de sementes e corte-os em tiras ou em cubos. Se gostar de picante, corte a malagueta em rodelas. Junte ao refogado da cebola.",
+      "Adicione o arroz, mexendo durante cerca de 1 minuto. Junte a polpa de tomate e os grelos escorridos.",
+      "Regue com 1,2 l de água a ferver e tempere com 1 colher de sobremesa de sal. Mexa com um garfo. Tape e deixe cozer sobre lume moderado durante 15 minutos.",
+      "Corte cada porção de bacalhau em quatro pedaços e tempere com o restante sal, pimenta moída na altura e alho em pó.",
+      "Introduza o bacalhau no arroz e deixe cozer tapado durante mais 5 minutos.",
+      "Sirva sem demora para não deixar o arroz secar. Polvilhe com os coentros picados"
+    ]
+  },
+  {
+    "name": "Salada de espinafres com lentilhas, ovo e presunto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/02/salada-espinafres-lentilhas-ovo-presunto.png",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-espinafres-com-lentilhas-ovo-e-presunto/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo M",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "lentilhas cozidas",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "presunto",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda Dijon",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1825,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1310,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 912,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1744,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os ovos num tacho com água a ferver durante 10 minutos. Escorra-os e deixe-os arrefecer ligeiramente. Descasque-os e reserve.",
+      "Escorra as lentilhas.",
+      "Lave e seque as folhas de espinafres e as alfaces.",
+      "Para o molho, misture todos os ingredientes num frasco e agite bem. Reserve.",
+      "Entretanto, prepare o presunto crocante. Retire o excesso de gordura possível das fatias de presunto e disponha-as separadamente sobre uma ou duas folhas de rolo de papel de cozinha. Cubra com outra folha de papel, para que as fatias fiquem totalmente cobertas.\nLeve ao micro-ondas durante 30 segundos na potência máxima. Se as fatias não estiverem bem secas, programe o micro-ondas mais uns segundos. Reserve.",
+      "Disponha os espinafres e as alfaces numa travessa, e, por cima, adicione as lentilhas e os ovos picados.",
+      "Polvilhe com o cebolinho picado, regue com o molho e por cima desfaça as fatias crocantes de presunto. Sirva de imediato."
+    ]
+  }
+]

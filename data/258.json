@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Arroz de cabidela",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/arroz-de-cabidela.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-cabidela/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "tomate",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "frango do campo",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1095,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2350,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Refogue num tacho com azeite a cebola e os dentes de alho picados e a folha de louro.",
+      "Pele o tomate, limpe-o de grainhas, pique em pedaços pequenos e junte ao refogado. Deixe cozinhar, mexendo de vez em quando até o tomate estar macio.",
+      "Acrescente o frango cortado em pedaços, tempere com 1 colher de sopa de sal e deixe cozinhar, com o tacho tapado, durante cerca de 10 minutos, sobre lume moderado.",
+      "Adicione água quente até cobrir o frango, volte a tapar e deixe ferver suavemente durante mais 20 minutos. Acrescente um pouco mais de água a ferver de modo a ficar com cerca de três vezes e meia o volume do arroz. Rectifique o sal, se for necessário, e assim que retomar fervura introduza o arroz. Mexa e tape.",
+      "Passados 13 minutos, acrescente o sangue, previamente misturado com o vinagre. Misture bem e deixe ferver mais 1 a 2 minutos. Retire do lume e sirva de imediato. Acompanhe com salada."
+    ]
+  },
+  {
+    "name": "Bife na frigideira com molho de vinho tinto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/04/bife-frigideira-molho-vinho-tinto.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bife-na-frigideira-com-molho-de-vinho-tinto/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bife da vazia de novilho Angus",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "chalota",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa fresca picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata às rodelas congelada",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 371,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 70,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 1078,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 303,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite numa frigideira e grelhe os bifes de Angus durante cerca de 3 minutos de cada lado e retire para um prato.",
+      "Adicione à mesma frigideira a manteiga, o alho e as chalotas, previamente descascadas e picadas, e as ervas. Raspe bem os resíduos do bife com a ajuda de uma colher de pau e deixe cozinhar cerca de 3 minutos.",
+      "Acrescente o vinho tinto, o vinagre balsâmico e a água e deixe evaporar até obter um molho consistente. Junte os bifes e tempere com flor de sal, pimenta e tomilho fresco.",
+      "Prepare as batatas, seguindo as instruções da embalagem e sirva com a carne."
+    ]
+  },
+  {
+    "name": "Cuscuz com legumes grelhados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/02/cuscuz-legumes-grelhados-queijo-feta.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cuscuz-legumes-grelhados-queijo-feta/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 0.5,
+        "unit": "cháv."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho congelado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vegetais grelhados congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 91,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2585,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2225,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o cuscuz numa tigela. Meça igual quantidade de água e aqueça-a.",
+      "Tempere com metade do sal, metade do tomilho e uma colher de sopa de azeite e verta-a por cima do cuscuz. Tape e deixe descansar 5 minutos.",
+      "Aqueça o restante azeite numa frigideira. Junte o alho e salteie durante 2 minutos. Adicione a mistura de vegetais grelhados e cozinhe 10 minutos.",
+      "Corte o queijo em cubos e reserve.",
+      "Solte o cuscuz com um garfo, disponha-o num prato ou saladeira e, por cima, coloque o salteado de legumes, o queijo e o tomilho reservados.",
+      "Tempere com o restante sal e um pouco de pimenta e sirva."
+    ]
+  }
+]

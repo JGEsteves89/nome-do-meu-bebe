@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Salada de salmão fumado e agrião",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/08/salada-de-salmao-fumado-e-agriao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-salmao-fumado/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "salmão fumado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "aneto",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "laranja grande",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de vinho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "agrião",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "rebentos de feijão mungo",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "framboesa",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "tortilha de milho",
+        "qtd": 12,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2369,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2600,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 45,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 76,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2299,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1090,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2541,
+        "g": 12,
+        "ml": 12
+      }
+    ],
+    "steps": [
+      "Corte o salmão fumado em tiras e tempere-o com um pouco de pimenta e as folhas de aneto.",
+      "Descasque uma laranja e corte-a em gomos, eliminando qualquer película branca. Reserve os gomos.",
+      "Para uma tigela, esprema o sumo da restante laranja e adicione-lhe o azeite, o vinagre, mais algumas folhas de aneto e o sal. Misture bem.",
+      "Numa taça, misture as folhas de agrião com a alface iceberg ripada em bocadinhos e os rebentos de feijão-mungo. Junte o salmão fumado, os gomos de laranja e as framboesas. Misture delicadamente.",
+      "Na altura de servir, mexa o molho preparado, deite-o sobre a salada e misture.",
+      "Sirva com as tortas de milho a acompanhar."
+    ]
+  },
+  {
+    "name": "Ratatouille com hambúrguer de soja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/ratatouille-com-hamburguer-de-soja-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ratatouille-hamburguer-soja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "feijão-verde",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "beringela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "concentrado de tomate",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "hambúrguer de soja Pura Vida",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebolinho seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tostas integrais extra finas",
+        "qtd": 4,
+        "unit": "saqueta"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1016,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 363,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 755,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2043,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1192,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1697,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 586,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2553,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Aqueça uma colher de sopa de azeite numa frigideira larga e refogue a cebola e os alho picados.",
+      "Junte o aipo cortado em lâminas e o feijão-verde e cozinhe cerca de 3 minutos.",
+      "Adicione a beringela, o tomate em cubos e o pimento em tiras.",
+      "Dilua o concentrado de tomate no vinho, deite por cima dos legumes, tempere com o sal, um pouco de pimenta e uma mão-cheia de manjericão picado.",
+      "Tape e cozinhe cerca de 15 minutos.",
+      "Regue os hambúrgueres com o sumo do limão e o molho de soja e polvilhe com o cebolinho.",
+      "Aqueça um grelhador pincelado com o restante azeite e grelhe os hambúrgueres de ambos os lados.",
+      "Acompanhe com o ratatouille e as tostas."
+    ]
+  },
+  {
+    "name": "Filetes de bacalhau com arroz de línguas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/06/filetes-de-bacalhau-com-arroz-de-linguas-pingo-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-bacalhau-com-arroz-de-linguas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "pimenta branca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "óleo",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "língua de bacalhau",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "grelo de nabo",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1349,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2029,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1333,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1176,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 166,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descongele os lombos de bacalhau e corte-os em filetes.",
+      "Numa tigela, tempere os filetes com leite, pimenta, noz-moscada, 1 dente de alho picado e 1 folha de louro em pedaços.",
+      "Escorra o excesso de leite, passe os filetes por farinha de milho e ovo.",
+      "Numa frigideira larga, frite os filetes até ficarem dourados. Com papel de cozinha absorvente, retire o excesso de óleo dos filetes.",
+      "Passe as línguas de bacalhau por água e escorra-as. Arranje e corte os grelos. Reserve tudo.",
+      "Num tacho, refogue a cebola e o alho picados em azeite. Junte o tomate cortado em cubos pequenos, deixe cozinhar um pouco e acrescente a água e os grelos.",
+      "Quando levantar fervura, junte o arroz e as línguas.",
+      "Deixe cozinhar durante 20 minutos em lume brando.",
+      "Decore com salsa e sirva a acompanhar os filetes."
+    ]
+  }
+]

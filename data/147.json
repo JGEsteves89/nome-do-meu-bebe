@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Ratatouille no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/ratatouille-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ratatouille-no-forno/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata-doce",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "beringela Frescos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "molho de tomate, cebola e alho",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "folhas de manjericão",
+        "qtd": 10,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 329,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2504,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 774,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 590,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 565,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 364,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1705,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1440,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Corte todos os legumes em rodelas finas e tempere-os com o sal e a pimenta.",
+      "Coloque o molho de tomate numa tarteira e salpique-o com metade do manjericão picado. Em seguida, disponha os legumes na tarteira, de um modo alternado, dando lhes a forma de uma rosácea.",
+      "Regue com o azeite, salpique com as restantes folhas de manjericão e leve ao forno cerca de 30 minutos."
+    ]
+  },
+  {
+    "name": "Arroz de peixe",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/02/arroz-de-peixe.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-peixe/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pescada fresca",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "brócolos",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2010,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 438,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a pescada num tacho com água durante 15 minutos. Reserve o peixe e a água.",
+      "Coloque no tacho uma colher de azeite e refogue a cebola e o alho, descascados e picados. Quando a cebola estiver translúcida, adicione o tomate cortado aos cubos e deixe cozinhar em lume brando cerca de 5 minutos.",
+      "Junte os ramos de brócolo, assim como a abóbora. Por fim, adicione o arroz e envolva.",
+      "Adicione a água na qual cozinhou o peixe, acrescentando mais água se necessário, até perfazer o triplo da quantidade de arroz.",
+      "Em lume baixo, deixe cozinhar cerca de 15 minutos.",
+      "Quando o arroz estiver cozinhado, a gosto, junte o peixe em lascas.",
+      "Polvilhe com salsa picada e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Polvo à Lagareiro",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/09/polvo-a-lagareiro.jpg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-a-lagareiro/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "azeite",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "cabeça"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal (para as batatas)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata para assar",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta branca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 89,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 318,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2029,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160 ºC.",
+      "Numa panela grande coza o polvo com cerca de 5 litros de água, 50 ml de azeite, uma cabeça de alho esmagada e uma cebola com casca.",
+      "Coza durante 40 minutos, até estar tenro. Verifique espetando um garfo nos tentáculos mais grossos. Tempere com o sal e deixe-o arrefecer na própria água.",
+      "Separe a cabeça dos tentáculos, reservando-os numa travessa de ir ao forno.",
+      "Lave bem as batatinhas e envolva-as no sal. Para que fiquem macias, leve-as ao forno a 160 ºC, durante 35 minutos.",
+      "Sacuda bem o sal das batatas e junte-as aos tentáculos. Aumente a temperatura do forno para 180 ºC.",
+      "Regue o polvo e as batatas com 200 ml de azeite, distribua os dentes de alho esmagados e as folhas de louro pela travessa e polvilhe com pimenta branca de moinho.",
+      "Leve ao forno. Quando o polvo estiver dourado está pronto.",
+      "Polvilhe a travessa com salsa picada e sirva o polvo à lagareiro de imediato."
+    ]
+  }
+]

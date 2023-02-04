@@ -1,0 +1,331 @@
+[
+  {
+    "name": "One pot pasta com brócolos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/fusilli-com-broculos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/one-pot-pasta-com-brocolos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "fusilli",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "brócolos em ramos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "filete de anchova",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "queijo seco de ovelha",
+        "qtd": 40,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1111,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1051,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1701,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2284,
+        "g": 40,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho largo, coza a massa com os ramos de brócolos, os filetes de anchova cortados em pedaços, o molho de tomate e basílico, o alho laminado, as alcaparras e a água.",
+      "Tape e leve a lume forte até levantar fervura.",
+      "Destape, baixe o lume e continue a cozedura, mexendo de vez em quando até a massa estar cozida, mas al dente.",
+      "Regue com o azeite e sirva com lascas de queijo."
+    ]
+  },
+  {
+    "name": "Sopa de abóbora e espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/sopa-de-abobora-espinafres.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-abobora-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma panela com a água.",
+      "Quando levantar fervura, adicione o sal, o alho-francês cortado às rodelas e a abóbora em pedaços e deixe ferver durante 15 minutos.",
+      "Acrescente os cuscuz e os espinafres e deixe cozer mais 10 minutos.",
+      "Triture com a varinha mágica, deixe arrefecer e acondicione em recipiente apropriado."
+    ]
+  },
+  {
+    "name": "Pescada em trouxa de alho-francês",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/pescada-trouxa-alho-frances.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pescada-em-trouxa-de-alho-frances/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "medalhão de pescada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "parte verde do alho-francês",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "chalota",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros ou cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1538,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 612,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1711,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 179,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os medalhões de pescada com uma pitada de sal, pimenta e o sumo de limão.",
+      "Lave quatro tiras largas e compridas da parte verde do alho-francês e leve-as a ferver, cerca de 8 minutos.",
+      "Leve ao lume o azeite com as chalotas e o dente de alho, finamente picados. Junte o tomate cortado em cubos pequenos, tempere com o restante\nsal, tape e cozinhe sobre lume moderado cerca de 5 minutos. Regue com o vinho branco e ferva mais um pouco.",
+      "Escorra as tiras de alho-francês e disponha-as em cruz. No centro, coloque os medalhões de peixe, barre-os com o pesto e cubra-os com as pontas do alho-francês.",
+      "Junte as trouxas de peixe ao molho de tomate e deixe cozer tapado, em lume brando, cerca de 10 minutos. Sirva polvilhado com os coentros ou cebolinho e acompanhado com arroz selvagem, cozido de acordo com as instruções da embalagem."
+    ]
+  }
+]

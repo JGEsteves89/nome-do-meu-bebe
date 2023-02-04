@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Salada de salmão com funcho e laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/salada-de-salmao-com-funcho-e-laranja.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-salmao-com-funcho-e-laranja/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata nova pequena",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bolbo de funcho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "laranja média",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "anis estrelado",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salmão no forno",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda com sementes",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rama de funcho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 313,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1264,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 151,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2367,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1741,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho, coza as batatas com pele em água temperada com sal. Escorra e deixe arrefecer.",
+      "Noutro tacho, coloque o bolbo de funcho cortado já em 4 partes.",
+      "Descasque uma laranja (reserve as cascas) e divida-a em gomos. Reserve.",
+      "Adicione ao funcho o sal, as cascas da laranja reservadas, o sumo da outra laranja, a estrela de anis e o açafrão.",
+      "Cubra com água e leve ao lume até o funcho estar macio. Retire-o da água, deixe arrefecer, lamine finamente e reserve.",
+      "Mantenha o tacho ao lume até a água reduzir para metade. Passe o caldo pelo coador e deixe-o arrefecer.",
+      "Num recipiente redondo, coloque as batatas descascadas e cortadas em quartos. Adicione o funcho laminado e o salmão em lascas, limpo de peles e espinhas.",
+      "Regue com o azeite, distribua a mostarda e salpique com a rama de funcho picada. Junte 0,6 dl da redução da cozedura do funcho reservada e envolva tudo muito bem.",
+      "Sirva a salada decorada com os gomos da laranja."
+    ]
+  },
+  {
+    "name": "Ensopado de borrego",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/ensopado-de-borrego.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ensopado-de-borrego/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "banha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate em pedaços",
+        "qtd": 780,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "batata média para cozer",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão alentejano duro",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pá de borrego (desossada, limpa de peles e gordura e cortada em pedaços)",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "farinha",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2662,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 2336,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2510,
+        "g": 780,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 302,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1849,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1830,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 14,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Passe a carne por água e enxugue-a muito bem com papel de cozinha.",
+      "Misture a farinha com o pimentão doce dentro de um saco de plástico. Junte os pedaços de carne, feche a abertura do saco e agite-o de modo a envolver bem a carne na mistura.",
+      "Num tacho grande, derreta a banha e duas colheres de sopa de azeite. Frite os pedaços de borrego aos poucos, sobre lume médio a forte, retirando-os do tacho assim que estiverem dourados. Salpique a carne com uma colher de chá de sal, pimenta moída na altura e reserve.",
+      "Deite no tacho mais uma colher de sopa de azeite, junte a cebola descascada e picada e cinco dentes de alho espremidos e deixe cozinhar durante cerca de 5 minutos, mexendo frequentemente, até a cebola estar mole.",
+      "Adicione o conte do da lata de tomate, tape e cozinhe sobre lume moderado durante cerca de 10 a 15 minutos. Introduza a carne, regue com a água a ferver e deixe cozinhar tapado durante mais cerca de 30 minutos",
+      "Entretanto, descasque as batatas e corte-as em rodelas. Junte-as ao cozinhado com alguns ramos de hortelã. Tempere com o restante sal, tape e deixe cozinhar até as batatas estarem tenras.",
+      "Pré-aqueça o forno a 180 ºC. Corte o pão em fatias muito finas e espalhe-as sobre um tabuleiro de forno.",
+      "Misture o restante azeite com o dente de alho espremido e os orégãos, e pincele as fatias de pão com a mistura. Leve ao forno para tostar durante cerca de 10 minutos.",
+      "Na altura de servir, retire os ramos de hortelã da carne, junte algumas folhas frescas de hortelã. Sirva com as tostas de pão."
+    ]
+  },
+  {
+    "name": "Salmão no forno com legumes",
+    "image": "https://www.youtube-nocookie.com/embed/ZwAeEzQeKbc",
+    "link": "https://www.pingodoce.pt/receitas/salmao-no-forno-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tranche de salmão",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "alho picado congelado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "laranja (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "legumes ao vapor congelados",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 96,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1270,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa folha de prata ou papel vegetal, coloque o tranche de salmão e um pouco da mistura dos legumes. Tempere tudo com sal, pimenta, alho, a raspa e o sumo de laranja, regue com azeite e polvilhe com cebolinho.",
+      "Embrulhe tudo no papel e leve ao forno pré aquecido a 190 ºC por cerca de 15 minutos."
+    ]
+  }
+]

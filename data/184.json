@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Maki sushi",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/maki-sushi.jpg",
+    "link": "https://www.pingodoce.pt/receitas/maki-sushi/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "mirin",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "lombo de salmão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de atum",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alga nori",
+        "qtd": 6,
+        "unit": "folha"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "wasabi em pasta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "arroz para sushi",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1634,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1373,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1347,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 82,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2644,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 175,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma panela com a água, junte o arroz e, quando levantar fervura, tape e deixe cozinhar em lume brando até absorver toda a água.",
+      "Retire do lume, acrescente o mirin e o açúcar, mexa bem e disponha o arroz num tabuleiro. Tape com um pano húmido e deixe arrefecer totalmente.",
+      "Corte o lombo de salmão e de atum, previamente congelados, em tiras finas e faça o mesmo com o abacate e o pepino. Reserve.",
+      "Divida o arroz em seis porções.",
+      "Coloque uma folha de alga por cima duma esteira própria para sushi, ou sobre um pano húmido e, com as mãos molhadas em água, espalhe uma fina camada de arroz.",
+      "No centro disponha tiras de salmão e pepino e enrole com a ajuda da esteira ou do pano, apertando bem.",
+      "Repita a operação com o atum e o abacate.",
+      "Deverá obter três rolos de salmão e pepino e três de atum e abacate.",
+      "Com uma faca bem afiada corte os rolos em rodelas finas.",
+      "Sirva com o molho de soja e a pasta de wasabi."
+    ]
+  },
+  {
+    "name": "Risotto de espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/risotto-de-espargos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-de-espargos/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "talos de espargo",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "água",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "chalota picada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "bacon em cubos",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 892,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 612,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 270,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 174,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1444,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte em rodelas finas os talos dos espargos. Num tacho, aqueça uma colher de sopa de azeite e junte os espargos e o dente de alho esborrachado. Tempere com o sal e salteie 3–4 minutos. Regue com a água a ferver, tape e coza sobre lume brando, durante 40 minutos.",
+      "Triture bem o caldo com a varinha mágica ou num liquidificador. Depois coe-a através de um passador de rede.",
+      "Aloure a chalota e o bacon no azeite restante, adicione o arroz e frite-o 1 ou 2 minutos, mexendo sempre. Refresque com o vinho, continuando a mexer até o arroz ter absorvido o líquido.",
+      "Mantenha o caldo de espargos a ferver, suavemente, e adicione-o ao arroz a pouco e pouco, à medida que for sendo absorvido. Passados cerca de 20 minutos, o arroz deverá estar cozido. Retire do lume, junte a manteiga e envolva-a delicadamente no risotto. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Lombinho de porco com migas de espargos verdes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/SB47_alta-421.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-de-porco-com-migas-de-espargos-verdes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombinho de porco",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espargo",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pão da avó (com 1 ou 2 dias de preferência)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "salada alentejana",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1345,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1494,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 892,
+        "g": 220,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1866,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2352,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o lombinho de porco em rodelas com cerca de 1 dedo de espessura e barre-as com a massa de pimentão. Reserve.",
+      "Elimine a base fibrosa dos espargos e ferva-os durante cerca de 8 minutos em água temperada com o sal. Reserve.",
+      "Corte o pão em pedaços para dentro de uma taça e escalde-o com a água da cozedura dos espargos.",
+      "Corte as pontas espigadas dos espargos e reserve-as. Pique a parte restante em pequenos pedaços e reserve também.",
+      "Aqueça metade do azeite numa frigideira com os dentes de alho, descascados e espremidos.",
+      "Frite as rodelas de carne durante cerca de 7 minutos ou até a carne estar macia. Retire-a e mantenha-a quente.",
+      "Deite na mesma frigideira o restante azeite e os espargos picados. Adicione o pão demolhado, tendo o cuidado de o espremer um pouco se tiver demasiado líquido. Deixe fritar sobre lume médio a forte, mexendo sempre até conseguir moldar um rolo de migas.",
+      "Sirva as rodelas de lombinho com as migas decoradas com as pontas espigadas dos espargos, e acompanhe com a salada alentejana e o tomate."
+    ]
+  }
+]

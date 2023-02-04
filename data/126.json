@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Empada de carne e enchidos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/10/empada-carne-enchidos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empada-de-carne-e-enchidos/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "cebola pequena",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cravinho da Índia",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "perna de frango do campo",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cachaço de porco",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "peito de novilho",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "presunto",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alecrim fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 16,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos Pleurotus",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sêmola de milho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "fermento de padeiro",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água da cozedura das carnes",
+        "qtd": 300,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo L",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 802,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2002,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 462,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1972,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2344,
+        "g": 26,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 89,
+        "g": 48,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 739,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2423,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1024,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 125
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1821,
+        "g": 2,
+        "ml": 2
+      }
+    ],
+    "steps": [
+      "Para o recheio: coloque uma panela com água ao lume. Adicione uma cebola inteira descascada com os cravos-da-índia espetados. Junte as carnes e os enchidos. Deixe ferver durante 10 minutos, e retire o presunto e o chouriço.",
+      "Acrescente à panela as folhas de louro, o tomilho e o alecrim. Tempere com o sal e deixe cozinhar. À medida que estiverem cozidas, vá retirando as carnes para um prato.",
+      "Desfie as carnes e pique o chouriço e o presunto. Passe o caldo por um passador fino e reserve mantendo-o quente.",
+      "Retire a gordura que ficar sobre a água com a ajuda de uma colher e coloque-a juntamente com o azeite num tacho. Depois de quente, adicione a restante cebola, o alho e o alho-francês cortados em cubos pequenos. Deixe refogar.",
+      "Adicione os cogumelos laminados e deixe saltear. Acrescente as carnes e envolva. Rectifique os temperos e, se necessário, refresque com um pouco do caldo reservado. Reserve.",
+      "Para a massa: coloque a sêmola de milho dentro de uma tigela redonda. Adicione o fermento de padeiro, a banha, o azeite e o sal. Acrescente o caldo da cozedura das carnes reservado, ainda quente e envolva.",
+      "Deixar repousar 3 minutos e junte a farinha aos poucos. Amasse e vá juntando os ovos, um a um, até obter uma massa homogénea.",
+      "Forme uma bola com a massa, coloque num recipiente, tape e deixe levedar até duplicar o tamanho.",
+      "Para montar a empada: estique a massa com a ajuda de um rolo da massa. Divida em duas partes iguais. 2 Forre uma forma rectangular com uma das partes da massa. Coloque o recheio das carnes e tape com a outra parte da massa. Junte as pontas para fechar e pincele com os ovos batidos.",
+      "Leve ao forno, pré-aquecido a 180° C, e deixe cozer durante 15 a 20 minutos."
+    ]
+  },
+  {
+    "name": "Salada de feijão-frade com tofu",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085243",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-feijao-frade-com-tofu/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "feijão-frade seco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "tofu",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho ou amarelo",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1015,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1817,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2480,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Ponha o feijão-frade de molho de um dia para o outro num recipiente com bastante água.",
+      "Depois de demolhado, escorra o feijão, passe-o por água e coloque numa panela comum ou de pressão, cubra com água suficiente para o cozer e junte 1 colher de sobremesa de sal e a folha de louro. Tape e leve ao lume. Coza durante uma hora na panela comum ou 40 minutos na panela de pressão.",
+      "Espalhe os cuscuz num recipiente largo e regue-os com 1 dl de água a ferver. Mexa com um garfo, tape e deixe hidratar, mexendo de vez quando.",
+      "Coloque os ovos de codorniz num tacho pequeno, cubra-os com água e leve ao lume. Tempere com sal e deixe ferver durante 5 minutos. Escorra e passe por água fria até arrefecerem.",
+      "Lave e escorra o tofu, corte em cubos e tempere com o vinagre de sidra e pimenta moída. Deixe a marinar enquanto prepara os restantes ingredientes.",
+      "Retire metade do feijão-frade cozido para um coador de rede, passe-o por água corrente, escorra bem e coloque numa saladeira. Junte-lhe os cuscuz já hidratados e misture bem. Nota: Deixe arrefecer o restante feijão-frade cozido, acondicione-o em recipientes e reserve no frigorífico ou no congelador para futuras utilizações.",
+      "Descasque a cebola e corte-a em gomos finos. Lave o pimento e corte-o em cubinhos ou em tiras, limpo de sementes. Junte a cebola, o pimento, as folhas de rúcula, a salsa e o tofu ao feijão-frade. Adicione o azeite e misture com cuidado para não desfazer o tofu. Enfeite com os ovos de codorniz cortados ao meio."
+    ]
+  },
+  {
+    "name": "Bacalhau gratinado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085903",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-gratinado/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "bacalhau graúdo",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo XL",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "batata",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "nabo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "grelo de nabo",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 2,
+        "unit": "kg"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 268,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1829,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 302,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1755,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1176,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 790,
+        "g": 2000,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Demolhe o bacalhau com a pele para cima durante 48 horas, mudando a água de 6 em 6 horas.",
+      "Coloque-o num tacho baixo, com a pele para cima, adicione os dentes de alho e o louro e cubra os lombos com água a ferver. Mantenha tapado cerca de 30 minutos.",
+      "Escorra o bacalhau, reservando a água da cozedura, limpe-o de peles e espinhas e lasque-o. Coza os ovos, descasque-os e corte-os em rodelas. Reserve.",
+      "Triture o grão com a varinha, acrescente a cebola, os dentes de alho e a salsa, previamente picados, e o azeite e o sal e envolva muito bem. Reserve.",
+      "Triture 3 colheres de sopa de azeite com salsa qb, para fazer o \"azeite verde\". Reserve.",
+      "Ferva a água da cozedura do bacalhau. Adicione as batatas, as cenouras e o nabo descascados e os grelos e as couves lavados e escolhidos. Tempere com o sal e deixe cozer até estarem al dente. Retire, escorra e corte todos os ingredientes, separadamente, em pedaços pequenos.",
+      "Pré-aqueça o forno a 190 ºC.",
+      "Num aro, com 8 a 10cm de diâmetro, (ou num tabuleiro de forno), disponha os ingredientes em camadas, colocando o bacalhau no meio. Termine com a mistura de grão e leve ao forno cerca de 10 minutos.",
+      "Retire do forno. Se optou pelo aro, desenforme. Decore com pedaços de ovo cozido e salpique com o “azeite verde”."
+    ]
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Salada de quinoa com abóbora e romã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/03/salada-quinoa-abobora-roma.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-quinoa-com-abobora-e-roma/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "abóbora",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "quinoa Pura Vida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "romã",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "lentilhas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de sementes Pura Vida",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho Bela-Luz",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2292,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2325,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1309,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1676,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2530,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Descasque e corte a abóbora em cubos, e disponha-a num tabuleiro de forno. Tempere com alho em pó, pimenta de moinho, tomilho e uma colher de sopa de azeite. Leve ao forno por cerca de 20 minutos.",
+      "Entretanto, cozinhe a quinoa conforme as instruções da embalagem.",
+      "Solte os bagos da romã e reserve-os.",
+      "Escorra as lentilhas e deite-as numa saladeira. Junte a quinoa cozida, a abóbora, os bagos de romã e o mix de sementes. Tempere com pimenta, com o restante azeite e mais tomilho. Sirva morno ou frio."
+    ]
+  },
+  {
+    "name": "Entrecôte com salada de cuscuz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/entrecote-com-salada-cuscuz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/entrecote-com-salada-de-cuscuz/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "entrecôte Angus",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "morango",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula selvagem",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 871,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1720,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2330,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Regue uma frigideira antiaderente com as quatro colheres de sopa de azeite e aqueça bem.",
+      "Frite o entrecôte durante 3 minutos de cada lado. Polvilhe com o sal e deixe descansar.",
+      "Entretanto, coloque o cuscuz numa taça e prepare conforme as instruções da embalagem, temperando-o com metade da flor de sal e pimenta-preta a gosto.",
+      "Solte o cuscuz com um garfo, ponha numa saladeira e misture com os morangos cortados em fatias e com a rúcula. Coloque num prato de servir e disponha a carne ao lado.",
+      "Deite num frasco o vinagre, a colher de chá de azeite, a mostarda, a restante flor de sal e mais um pouco de pimenta.",
+      "Agite bem e verta por cima da salada. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Salada de camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/salada-de-camarao-e-feijao-frade.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "camarão 50/70 cozido",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "rodelas ananás em sumo natural",
+        "qtd": 4,
+        "unit": "rodela"
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "mostarda à antiga",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 612,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 910,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 493,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2320,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1013,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1738,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os ovos durante nove minutos. Deixe arrefecer, descasque-os e abra-os ao meio, separando as gemas das claras.",
+      "Pique grosseiramente a chalota, coloque-a num tacho pequeno, cubra-a com água, adicione o vinagre e leve ao lume durante oito minutos.",
+      "Disponha os espinafres no fundo de uma saladeira.",
+      "Descasque o camarão, coloque-o na saladeira e junte o ananás cortado em cubos, o feijão-frade e as claras de ovo cortadas em cubos pequenos.",
+      "Escorra a chalota picada e coloque-a no copo da varinha mágica.",
+      "Junte o sumo do limão, o azeite, o sal, a mostarda, uma mão-cheia de folhas de salsa e as gemas de ovos cozidas e triture.",
+      "Deite este molho por cima da salada, envolva bem e sirva de imediato."
+    ]
+  }
+]

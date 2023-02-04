@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Lulas à algarvia",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/lulas-a-algarvia.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lulas-a-algarvia/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lula média (ou pequena)",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "batata",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1388,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 302,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave bem as lulas em água fria, sem as abrir, tempere com metade do sal.",
+      "Coloque uma frigideira ao lume com o azeite, os alhos esmagados e a folha de louro. Deixe cozinhar por 1 minuto, sem deixar queimar o alho.",
+      "Junte as lulas, frite em lume brando até estarem douradas, regue com o vinho branco e um pouco de água para terminar a cozedura.",
+      "Descasque e corte as batatas em rodelas grossas, coloque-as num tacho, cubra com água e tempere com o restante sal e pimenta. Deixe cozer durante cerca de 15 minutos.",
+      "Sirva as lulas com as batatas e polvilhe com salsa picada."
+    ]
+  },
+  {
+    "name": "Tripas à moda do Porto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/tripas-a-moda-do-porto.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/tripas-a-moda-do-porto/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "dobrada",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mão de vitela",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "orelha de porco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "entremeada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "frango",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "colorau",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "chouriço de vinho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "morcela",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "feijão-branco cozido",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 842,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1462,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 1812,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 873,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1092,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 744,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 688,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1725,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 997,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave muito bem a dobrada e esfregue com metade do sal e com o limão.",
+      "Tempere as restantes carnes com o restante sal.",
+      "Coza a mão de vitela e a orelha numa panela com água. Se tiver uma panela de pressão será mais rápido.",
+      "Noutro tacho com água, coza a entremeada com o frango. Deixe cozinhar durante cerca de 30 minutos.",
+      "Aqueça a banha num tacho e refogue a cebola e o alho com a folha de louro. Junte a cenoura e deixe cozinhar em lume brando.",
+      "Junte um pouco de colorau e as carnes cozidas cortadas em pedaços. Adicione os enchidos cortados em rodelas e envolva. Refresque com o vinho branco.",
+      "Deixe cozinhar por cerca de 5 minutos e em seguida junte o feijão. Envolva e deixe apurar em lume brando por cerca de 15 minutos.",
+      "Rectifique os temperos a gosto.",
+      "Polvilhe com salsa e sirva com arroz branco."
+    ]
+  },
+  {
+    "name": "Açorda de bacalhau com coentros e tomate seco",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/acorda-de-bacalhau.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/acorda-de-bacalhau-com-coentros-e-tomate-seco/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",2 L"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "pão de mistura trigo e centeio",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ovo S",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1351,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1901,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Descongele o bacalhau e coloque-o num tacho. Adicione a água, a folha de louro e 2 dentes de alho esmagados com casca. Leve ao lume e deixe ferver, ligeiramente, cerca de 8 minutos, ou até o bacalhau começar a abrir lasca.",
+      "Reserve algumas folhas de coentros. Pique os restantes coentros previamente lavados para dentro de um almofariz e adicione-lhes os restantes dentes de alho, previamente descascados e espremidos. Junte o azeite e o sal e esmague muito bem com um pilão.",
+      "Pique o tomate seco em pedacinhos pequenos e misture com o preparado (piso) de coentros.",
+      "Distribua o piso por 4 pratos de sopa e por cima coloque o pão, cortado em fatias.",
+      "Coe o caldo da cozedura do bacalhau para outro tacho e reserve.",
+      "Limpe o bacalhau da pele e das espinhas, desfaça-o em lascas e coloque-as sobre as fatias de pão.",
+      "Leve o caldo da cozedura do bacalhau de novo ao lume até levantar fervura.",
+      "Abra um ovo para dentro de uma taça pequena, coloque-o numa concha de sopa e introduza-a cuidadosamente no caldo a ferver, mantendo o ovo dentro da concha até a clara ficar cozinhada e obter um ovo escalfado. Repita o procedimento com os restantes três ovos.",
+      "Depois de escalfados os ovos distribua pelos pratos e regue sobre eles o restante caldo. Finalize com as folhas de coentros reservadas. Sirva bem quente."
+    ]
+  }
+]

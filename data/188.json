@@ -1,0 +1,556 @@
+[
+  {
+    "name": "Jardineira de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/jardineira-de-frango.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/jardineira-de-frango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango em cubos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora em cubos congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de cenoura e ervilhas congeladas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde cortado congelado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1970,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 328,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 12,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1648,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1019,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2109,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o peito de frango com o pimentão-doce, o alho, os cominhos e metade do sal. Misture bem e salteie durante cerca de 2 minutos num tacho com uma colher de sopa de azeite bem quente.",
+      "Entretanto, descasque a batata-doce, corte-a em cubos e junte ao frango.",
+      "Adicione também ao tacho a cebola, a abóbora, a mistura de cenoura e ervilhas, e o feijão-verde. Tempere com o restante sal e misture bem.",
+      "Acrescente a polpa de tomate e o vinho branco, tape o tacho e deixe cozinhar sobre lume moderado durante cerca de 15 minutos, ou até os legumes estarem tenros.",
+      "Na altura de servir, salpique com salsa acabada de picar."
+    ]
+  },
+  {
+    "name": "Terrina de borrego",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085355",
+    "link": "https://www.pingodoce.pt/receitas/terrina-de-borrego/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "espinafre em folha",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne de borrego magra e em cubos",
+        "qtd": 700,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "uva red globe",
+        "qtd": 15,
+        "unit": "bago"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 5,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo da Ilha",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pão de forma integral",
+        "qtd": 3,
+        "unit": "fatia"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salada napolitana",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "pão de mistura",
+        "qtd": 3,
+        "unit": "fatia"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 910,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 529,
+        "g": 700,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1703,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2576,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 5,
+        "ml": 5
+      },
+      {
+        "id": 2191,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1884,
+        "g": 135,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2361,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1899,
+        "g": 135,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os espinafres a vapor, tendo o cuidado de os escorrer e espremer bem para retirar toda a água.",
+      "Coza as cenouras descascadas em água a ferver com um pouco de sal, durante cerca de 5 minutos.",
+      "Num tacho com o azeite bem quente, salteie os cubos de carne, mexendo para ficarem dourados de todos os lados.",
+      "Junte a cebola e os dentes de alho picados, o molho de tomate e o vinho branco e tempere com os restantes sal e pimenta. Tape e deixe cozer durante 40 minutos, em lume brando.",
+      "Lave os bagos de uva, corte-os ao meio e retire-lhes as grainhas.",
+      "Numa tigela, bata os ovos e acrescente o queijo ralado, o pão esfarelado e uma pitada de noz-moscada. Mexa e adicione, então, os espinafres e a carne. Volte a mexer, para envolver tudo muito bem. Ligue o forno a 220 ºC.",
+      "Pincele ligeiramente o interior de uma terrina de louça com o restante azeite e deite-lhe um terço da carne. Junte metade das cenouras cortadas no sentido do comprimento e metade dos bagos de uva e repita a operação, terminando com a carne.",
+      "Tape a terrina e leve ao forno cerca de 15 minutos, reduzindo então a temperatura para os 180 ºC. Deixe cozinhar mais 30 minutos.",
+      "Depois de cozinhada, deixe arrefecer um pouco e desenforme num prato de servir.",
+      "Sirva a terrina cortada em fatias ou dentro do recipiente onde cozinhou com a salada Napolitana e as fatias de pão de mistura torradas."
+    ]
+  },
+  {
+    "name": "Mexilhão e lingueirão sobre tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/mexilhao-e-lingueirao-em-duas-texturas-sobre-tomate-raf.jpg",
+    "link": "https://www.pingodoce.pt/receitas/mexilhao-e-lingueirao-sobre-tomate/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lingueirão",
+        "qtd": 330,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mexilhão a vácuo",
+        "qtd": 729,
+        "unit": "g"
+      },
+      {
+        "name": "tomate raf",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "folha de gelatina",
+        "qtd": 5,
+        "unit": "folha"
+      },
+      {
+        "name": "caldo de abrir os bivalves 1,5 dl",
+        "qtd": 0,
+        "unit": "folha"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mexilhão",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "lingueirão",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "saquetas de mini-tosta extra fina integral",
+        "qtd": 6,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1336,
+        "g": 330,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1558,
+        "g": 729,
+        "ml": 0
+      },
+      {
+        "id": 2521,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 1083,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1557,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1336,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1587,
+        "g": 6,
+        "ml": 6
+      }
+    ],
+    "steps": [
+      "Num tacho junte o lingueirão, o alho esmagado e o azeite. Regue com o vinho, tempere com o sal, tape e deixe cozinhar em lume forte 1 minuto.",
+      "Adicione o mexilhão e desligue o lume. Retire os bivalves para uma travessa, deixe arrefecer um pouco e retire as cascas, reservando o miolo. Passe o caldo por um passador e reserve.",
+      "Lave o tomate, corte-o em rodelas muito finas e disponha-as no prato de servir.",
+      "Demolhe as folhas de gelatina em água fria. Aqueça o caldo dos bivalves, adicione-lhe os alhos finamente picados e as folhas de gelatina demolhadas e bem escorridas.",
+      "Deixe arrefecer um pouco, junte os coentros e o cebolinho picados (reserve alguns) e a pimenta e envolva tudo. Regue o tomate com este líquido. Reserve.",
+      "Para a segunda textura, regue o mexilhão e o lingueirão com o sumo do limão, passe-os pela farinha de milho e frite-os no azeite bem quente. Retire e reserve.",
+      "Coloque o miolo de mexilhão e de lingueirão ao natural sobre o tomate e, em seguida, disponha o miolo frito.",
+      "Polvilhe com pimenta, os coentros e o cebolinho reservados e sirva com as tostas."
+    ]
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Ovos em ninho de batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/ovos-em-ninho-de-batata-doce-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ovos-ninho-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata-doce arredondada e grande",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate redondo",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 328,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2524,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2043,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2357,
+        "g": 175,
+        "ml": 0
+      },
+      {
+        "id": 2522,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Lave as batatas e coza-as num tacho em água com uma colher de sobremesa de sal durante 25 minutos ou até estarem macias. Escorra-as e deixe arrefecer um pouco.",
+      "Em seguida, corte-lhes uma tampa e escave, cuidadosamente, a polpa com a ajuda de uma colher de modo obter umas “caixas”.",
+      "Pique finamente a cebola e o alho-francês e leve ao lume numa frigideira anti-aderente com duas colheres de sopa de azeite. Deixe cozinhar em lume moderado até os legumes estarem macios.",
+      "Pré-aqueça o forno a 180° C.",
+      "Esmague muito bem a polpa da batata com um garfo e junte-a com a cebola e o alho-francês, envolvendo bem.",
+      "Adicione o tomate seco cortado em pedaços, o alho moído e o tomilho seco e tempere com meia colher de café de sal e um pouco de pimenta.",
+      "Mexa muito bem e distribua parte da mistura pelas “caixas” de batata. Abra um ovo de cada vez, deitando as claras nas “caixas de batata” e reservando as gemas, separadamente, no frigorífico.",
+      "Faça um cordão com o restante recheio no bordo das “caixas” de batata e leve-as ao forno cerca de 15 minutos ou até a clara coagular.",
+      "Disponha as gemas sobre as claras, tempere com o restante sal e uma pitada de pimenta e leve ao forno mais 5 minutos.",
+      "Sirva com a mistura gourmet de saladas e o tomate, limpo de sementes e cortado em cubos, temperados com o restante azeite e o vinagre balsâmico."
+    ]
+  },
+  {
+    "name": "Salmão selvagem com risotto de ervilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/salmao-selvagem-com-risotto-de-ervilhas-e-hortela.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-selvagem-risotto-ervilhas/",
+    "portions": 20,
+    "ingredients": [
+      {
+        "name": "tranche de salmão selvagem congelado",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "massa de alho",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "laranja",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz risotto",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2559,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1489,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1264,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 178,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 130
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 2271,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descongele o salmão selvagem, barre-o com a pasta de alho, regue-o com o sumo da laranja, tempere com uma colher de chá de sal e com pimenta e deixe marinar pelo menos 1 hora, virando a meio do tempo.",
+      "Ponha as ervilhas a descongelar.",
+      "Deite a cebola, os dentes de alho e o alho-francês, em pedaços, no copo e triture 5 segundos, na velocidade 5.",
+      "Raspe as paredes do copo com a espátula, junte o azeite e uma mão-cheia de folhas de hortelã (reserve algumas) e programe 5 minutos, a 100 °C, na velocidade 2, sem copo medidor.",
+      "Adicione as ervilhas e programe 5 minutos, a 120 °C, na velocidade inversa 1, sem o copo medidor.",
+      "Coloque o copo medidor e triture mais 5 segundos, na velocidade 3. Adicione o arroz, mexa com a espátula e programe 3 minutos, a 100 °C, na velocidade 1 inversa, sem copo medidor.",
+      "Junte o vinho através do orifício da tampa e programe mais 3 minutos, a 100 °C, na velocidade 1 inversa, sem copo medidor.",
+      "Introduza a água e uma colher de sopa de sal, encaixe a vaporeira com o salmão bem escorrido colocado no tabuleiro plano e cozinhe 20 minutos, a 100 °C, na velocidade 1 inversa.",
+      "Mude o risotto para o recipiente de servir, salpique-o com a pimenta e o parmesão ralado em lascas.",
+      "Sirva com as tranches de salmão salpicadas com a hortelã reservada."
+    ]
+  },
+  {
+    "name": "Esparguete ao alhinho com brócolos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/esparguete-ao-alhinho-com-broculos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-ao-alhinho-com-brocolos/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "esparguete",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "brócolos congelado",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1332,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 895,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 440,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 1622,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o esparguete em água a ferver temperada com o sal, durante cerca de 12 minutos ou até estar al dente.",
+      "Coloque os brócolos numa tigela de vidro, cubra com uma tampa própria para micro-ondas e coza durante cerca de 8 minutos na potência máxima.",
+      "Bata os ovos numa taça, adicione a raspa da casca e o sumo de limão. Reserve.",
+      "Num tacho com o azeite, aloure os dentes de alho, descascados e picados. Junte o esparguete bem escorrido e salteie durante 1 a 2 minutos. Regue com os ovos batidos e mexa bem até os ovos coagularem.",
+      "Junte os brócolos cozidos e desfeitos em ramos pequenos e envolva delicadamente.",
+      "Antes de servir, salpique com o miolo de noz grosseiramente picado."
+    ]
+  }
+]

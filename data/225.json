@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Coelho no forno com mostarda",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/coelho-no-forno-com-mostarda.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/coelho-no-forno-mostarda/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coelho aos pedaços",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda à antiga",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "batata",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 700,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1493,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1737,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 302,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 70,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Tempere os pedaços de coelho com a massa de pimentão e a mostarda.",
+      "Junte as folhas de louro partidas em pedaços e o vinho tinto.",
+      "Misture bem e deixe marinar, pelo menos, 24 horas no frigorífico.",
+      "Pré-aqueça o forno a 150 ˚C.",
+      "Descasque e corte a cebola em gomos.",
+      "Corte as batatas e a abóbora, previamente descascadas, e a courgette em palitos do mesmo tamanho.",
+      "Disponha os legumes preparados num tabuleiro de forno, polvilhe com o alecrim, um pouco de pimenta e o sal e misture bem.",
+      "Por cima distribua os pedaços de coelho, regue tudo com a marinada e o azeite e asse no forno durante 1 hora.",
+      "Aumente a temperatura para os 185˚C e deixe assar mais 10 minutos."
+    ]
+  },
+  {
+    "name": "Trouxas de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/trouxas-de-salmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/trouxas-de-salmao/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "lombo de salmão",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "lima",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "milho cozido",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de massa filo",
+        "qtd": 8,
+        "unit": "folha"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2342,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1567,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1501,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Pique o salmão com uma faca e coloque-o numa tigela.",
+      "Adicione o sumo e a casca ralada da lima, o sal, a salsa picada e o dente de alho picado e misture bem.",
+      "Aqueça uma colher de azeite numa frigideira antiaderente e junte o salmão picado. Cozinhe 4 minutos, mexendo. Acrescente os espinafres e continue a mexer até murcharem. Retire e deixe arrefecer.",
+      "Estenda as folhas de massa filo, pincele-as com o restante azeite e sobreponha-as em 2 blocos de 4 folhas.",
+      "Corte cada bloco de massa em 4 partes e no centro de cada uma disponha uma porção do recheio preparado.",
+      "Enrole-as, dobrando as extremidades para que selem bem, formando uma trouxa.",
+      "Leve ao forno durante 10 minutos ou até ficarem douradas."
+    ]
+  },
+  {
+    "name": "Quiche de castanhas e espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/quiche-de-castanhas-e-espinafres.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quiche-de-castanhas-e-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "massa filo",
+        "qtd": 4,
+        "unit": "folha"
+      },
+      {
+        "name": "castanha",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "folhas de espinafre",
+        "qtd": 340,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1501,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 556,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2191,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Forre uma forma redonda com as folhas de massa filo.",
+      "Num tacho, coza as castanhas, até ficarem macias, em água temperada com o sal.",
+      "Deixe arrefecer, descasque-as e tire-lhes a pele.",
+      "Numa frigideira anti-aderente, aqueça o azeite, junte os alhos laminados e aloire ligeiramente.",
+      "Acrescente o alho-francês em rodelas e quando estiver macio, junte as folhas de espinafre. Deixe cozer até murcharem.",
+      "Retire do lume, coloque o refogado numa tigela, junte os ovos, previamente batidos, e o queijo e misture bem.",
+      "Deite o preparado sobre a massa filo e disponha, por cima, as castanhas, umas desfeitas e outras inteiras. Leve ao forno durante 30 minutos.",
+      "Retire, fatie e sirva com salada de alface."
+    ]
+  }
+]

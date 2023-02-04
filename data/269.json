@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Esparguete à bolonhesa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/10/esparguetebolonhesa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-a-bolonhesa/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "esparguete",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne de novilho picada",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate pelado em cubos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 895,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 535,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2518,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho, coza o esparguete em água a ferver durante 8 minutos.",
+      "Retire do lume, escorra e reserve.",
+      "Pique o alho, o talo de aipo e a cebola.",
+      "Numa frigideira antiaderente, refogue o alho, o aipo e a cebola no azeite.",
+      "Junte a carne de novilho picada, o sal e deixe cozinhar em lume médio.",
+      "Acrescente o tomate pelado aos cubos, a polpa de tomate e o tomilho seco.",
+      "Misture bem e deixe cozinhar mais um pouco para apurar.",
+      "Sirva o esparguete coberto com o molho e polvilhe com queijo parmesão ralado."
+    ]
+  },
+  {
+    "name": "Lavagante com caldeirada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/lavagante-com-esmagada-de-caldeirada.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lavagante-com-caldeirada/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimentão doce em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "lavagante fresco",
+        "qtd": 3,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 320,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2061,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1267,
+        "g": 3,
+        "ml": 3
+      }
+    ],
+    "steps": [
+      "Passe os alhos e a cebola por água corrente e corte-os em rodelas.",
+      "Abra os pimentos e a malagueta ao meio, limpe-os de sementes, lave-os em água corrente e corte-os em juliana fina.",
+      "Corte o tomate em rodelas finas e uniformes. Descasque as batatas e corte-as em rodelas finas. Reserve.",
+      "Num tacho largo, aqueça azeite e junte os alhos e a cebola, os pimentos, a malagueta, o tomate e as batatas em rodelas. Tempere com sal, pimentão-doce e pimenta e regue com o vinho e a água.",
+      "Junte o louro, tape e coza em lume brando 25 a 30 minutos.",
+      "Retire as batatas em rodelas para uma tigela.",
+      "Acrescente ao estufado as folhas de hortelã (reserve algumas) e os lavagantes (com a parte da casca sobre a cebolada), deixando cozinhar tapado e em lume brando, 10 minutos.",
+      "Numa frigideira, leve ao lume 2 colheres do caldo do estufado (retire-o do tacho), adicione-lhe a batata e esmague-a, grosseiramente, com um garfo.",
+      "Num prato fundo de servir coloque um pouco da cebolada de pimentos, disponha a esmagada no centro e os lavagantes por cima. Regue o lavagante com um pouco do caldo do estufado e decore com hortelã."
+    ]
+  },
+  {
+    "name": "Polvo braseado com cogumelos e puré de batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/09/polvo-braseado-cogumelos-pure-batata-doce.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-braseado-com-cogumelos-e-pure-de-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cogumelos Portobello",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Pleurotus",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Shitake",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta preta em pó",
+        "qtd": 0,
+        "unit": "¼ c. de café"
+      },
+      {
+        "name": "alho-francês baby",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água da cozedura do polvo",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "lima (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 328,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 741,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 727,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 731,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2051,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 99,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160 °C.",
+      "Coza o polvo com os legumes e o sal numa panela e conte 25 minutos a partir do momento\nem que começar a ferver. No final, com a panela bem tapada, deixe repousar 25 minutos e\nretire o polvo para um prato. Reserve a água da cozedura.",
+      "Entretanto, prepare o puré. Lave as batatas e asse-as no forno, durante 40 minutos.\nDescasque, junte o leite quente e tempere com o sal. Triture num processador até obter um puré liso e homogéneo.",
+      "Para o salteado, corte os cogumelos, pique a chalota e, numa frigideira com o azeite\nbem quente, comece por saltear os cogumelos em lume alto, e de seguida acrescente a chalota\npicada e salteie mais um pouco. Deixe os cogumelos al dente, tempere com sal e pimenta.",
+      "Ao lado, salteie o alho-francês no azeite bem quente, deixe tostar um pouco.",
+      "Prepare o molho, colocando num tacho a água de cozer o polvo reservada e deixe reduzir\npara metade. Tempere com o tomilho, o limão e as raspas de lima. Coe, misture com o azeite e\ntempere com o sal.",
+      "Salteie o polvo nas restantes duas colheres de sopa de azeite bem quente antes de o servir,\ndeixe corar um pouco para realçar o sabor.",
+      "Sirva com o puré, os cogumelos e o alho-francês salteados. Acompanhe com o molho."
+    ]
+  }
+]

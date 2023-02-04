@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Lombinho de robalo sobre feijão-verde",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/lombinho-robalo-molho-amendoa-salteado-feijao-verde.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-de-robalo-sobre-feijao-verde/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "robalo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "chalota",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "espinhas e cabeça dos peixes",
+        "qtd": 0,
+        "unit": "folha"
+      },
+      {
+        "name": "caldo de peixe",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "natas frescas",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "licor de amêndoa amarga",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata branca grande",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "miolo de amêndoa laminada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2318,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 612,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 480,
+        "g": 0,
+        "ml": 5000
+      },
+      {
+        "id": 1760,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1327,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 304,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1591,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave o peixe já amanhado, retire-lhe os lombos e reserve-os ou peça na peixaria para prepararem o peixe.",
+      "Leve ao lume um tacho com a água, a chalota cortada e a folha de louro. Junte as espinhas e as cabeças dos peixes e deixe ferver entre 10 a 15 minutos. Passe o caldo pelo passador e reserve.",
+      "Para o molho de amêndoa, leve 200 ml de caldo de peixe ao lume e deixe levantar fervura. Junte as natas e o licor de amêndoa, deixe ferver 2 minutos e tempere com o sal e um pouco de pimenta.",
+      "Introduza os lombinhos de peixe reservados e deixe-os cozinhar no molho, cerca de 5 minutos, em lume brando. Retire e reserve.",
+      "Coza o feijão-verde em água temperada com meia colher de sopa de sal cerca de 5 minutos. Escorra, deixe arrefecer e lamine-o muito finamente.",
+      "Aqueça o azeite numa frigideira, junte os alhos finamente picados e salteie uns instantes. Adicione o feijão-verde e deixe saltear lentamente, mexendo. Junte um pouco de tomilho picado e envolva de novo.",
+      "Em seguida, polvilhe com a farinha e salpique com o vinagre. Mexa e deixe cozinhar a farinha. Retire e reserve.",
+      "Lave as batatas, corte-as em dois e asse-as no forno, a 200° C, cerca de 30 minutos, salpicadas com a restante meia colher de sopa de sal.",
+      "Disponha o salteado de feijão-verde no prato de servir e, em seguida, a batata assada. Sobre esta, coloque o peixe e regue com o molho de amêndoa.",
+      "Salpique com a amêndoa laminada, previamente tostada, e com o cebolinho picado."
+    ]
+  },
+  {
+    "name": "Rolos de courgette e peixe-espada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/cannellonni-curgete-peixe-espada-arroz-curcuma-cebolinho.jpg",
+    "link": "https://www.pingodoce.pt/receitas/rolos-courgette-peixe-espada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filete de peixe-espada",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês picado",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "curcuma",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1058,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 130,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 130,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 833,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2112,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 158,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os filetes com o alho em pó, 0.5 colher de chá de sal, uma pitada de orégãos e sumo do limão. Lave a courgette e, com a ajuda da mandolina, corte-a em tiras finas no sentido do comprimento.",
+      "Coloque as tiras de courgette e sobre um grelhador bem quente, salpique-as com cerca de 1/2 colher de chá de sal e uma pitada de orégãos.",
+      "Aqueça duas colheres de sopa de azeite numa frigideira, junte-lhe a cebola e o alho-francês picados e o talo de aipo cortado em lâminas finas.",
+      "Deixe cozinhar em lume moderado enquanto pela as cenouras e as corta em cubos pequenos. Junte a cenoura à mistura de cebola, tempere com uma colher de chá de sal, tape e deixe suar cerca de 10 minutos em lume moderado a brando. Vire as tiras de courgette e deixe grelhar do outro lado mais 3 a 4 minutos.",
+      "Noutro tacho, aqueça a restante colher de sopa de azeite, polvilhe com a curcuma e adicione o arroz. Deixe fritar cerca de 1 minuto, adicione duas a três tiras de casca do limão e regue com a água a ferver.",
+      "Mexa com um garfo, tape e deixe cozinhar em lume moderado cerca de 15 minutos. Junte a polpa de tomate aos legumes, mexa e deixe ferver suavemente.",
+      "Sobreponha ligeiramente duas tiras de courgette, por cima disponha os filetes bem escorridos, enrole-os e prenda-os com um palito.",
+      "Cerca de 6 minutos antes de terminar a cozedura do arroz, coloque os rolos no tacho sobre os legumes.",
+      "Cozinhe tapados, sobre lume brando virando, cuidadosamente, a meio do tempo.",
+      "Corte o cebolinho em rodelas com uma tesoura, adicione-o ao arroz e mexa com um garfo. Sirva os rolos com os legumes, acompanhados com o arroz."
+    ]
+  },
+  {
+    "name": "Hambúrguer de grão no pão e salada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/hamburguer-grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-de-grao-no-pao-com-salada/",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "cebola doce pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho em conserva",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "coentros em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pepino pequeno",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "milho doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão de malte",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona recheada com pimento",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 570,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2091,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 705,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1569,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1896,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 910,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 241,
+        "g": 2,
+        "ml": 2
+      }
+    ],
+    "steps": [
+      "Descasque e pique finamente a cebola. Escorra os pimentos, corte-os em tiras e depois em quadrados pequenos. Reserve.",
+      "Escorra o grão e triture-o num robot de cozinha, ou com o triturador, juntamente com as especiarias, o sal, o azeite e um pouco de sumo de limão, até obter uma pasta lisa e homogénea.",
+      "Mude a pasta para uma tigela, adicione a cebola e o pimento reservados e duas colheres de sopa de salsa (de preferência da parte dos talos) picada.",
+      "Misture bem, divida o preparado em seis porções, molde em bola e achate, dando-lhes a forma de\ndiscos. Passe-os de ambos os lados pela mistura de pão\nralado e sementes de sésamo.",
+      "Passe-os de ambos os lados pela mistura de pão ralado e sementes de sésamo.",
+      "Aqueça bem a colher de sobremesa de azeite numa frigideira anti-aderente e cozinhe o hambúrguer 3 minutos de cada lado ou até estar bem dourado.",
+      "Lave o pepino e o tomate. Corte o pepino ao meio, retire uma tira a todo o comprimento e corte o restante em cubos. Corte o tomate em três rodelas finas, pique o restante em cubos e junte-o aos cubos de pepino.",
+      "Adicione o milho, salpique com cebolinho picado e regue com o restante azeite. Misture bem e coloque num dos compartimentos da marmita.",
+      "Abra o pão de malte ao meio e sobre a metade de baixo disponha as folhas de espinafres, em círculo e ligeiramente sobrepostas.",
+      "Por cima, coloque o hambúrguer de grão e, sobre este, a tira de pepino, a cair como se fosse uma língua. Cubra com a parte de cima do pão e enfie as azeitonas espetadas em palitos, de modo a imitar uns olhos. Coloque na marmita."
+    ]
+  }
+]

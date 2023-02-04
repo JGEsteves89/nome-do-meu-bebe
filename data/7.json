@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Costeletas de porco com lentilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/costeletas-de-porco-com-lentilhas.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/costeletas-de-porco-com-lentilhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "costeleta de porco do cachaço",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lentilhas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "nabo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 767,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1309,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1755,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere as costeletas com os dentes de alho, descascados e picados, cerca de 1 colher de chá de sal e o vinagre de sidra. Tape e reserve.",
+      "Coloque as lentilhas numa taça e cubra-as com água morna. Num tacho com água a ferver temperada com 1 colher de chá de sal coza as lentilhas escorridas, durante cerca de 15 minutos.",
+      "Corte o alho-francês e o talo de aipo em rodelas, lave e escorra.",
+      "Noutro tacho tapado e em lume brando, cozinhe o alho-francês e o aipo em 2 colheres de sopa de azeite. Acrescente a cenoura e o nabo descascado e cortado em cubos pequenos. Mexa e tempere com 1 pitada de sal. Volte a tapar o tacho e deixe cozinhar suavemente cerca de 10 minutos.",
+      "Junte as lentilhas escorridas aos legumes estufados, misture bem e deixe ferver durante mais 5 minutos.",
+      "Aqueça bem uma frigideira para grelhados. Enxugue as costeletas com papel de cozinha e aloure na frigideira de ambos os lados. Reduza o lume, tape e deixe cozinhar mais 10 minutos, virando a meio do tempo.",
+      "Sirva as costeletas com a salada de lentilhas, quente ou fria, salpicada de salsa picada."
+    ]
+  },
+  {
+    "name": "Esparguete com camarão ao alhinho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/esparguete-com-camarao-ao-alhinho.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-com-camarao-ao-alhinho/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "camarão 20/30",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "piripíri",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "brandy (ou whisky)",
+        "qtd": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "sobras de esparguete cozido",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de salada gourmet",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 485,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2098,
+        "g": 0,
+        "ml": 3
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 429,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 895,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1672,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tire a cabeça, as cascas (reserve-as) e a tripa aos camarões. Tempere o miolo com o sal, piripíri e o sumo do limão e marine pelo menos 30 minutos.",
+      "Aqueça bem o azeite numa frigideira, adicione os dentes de alho espremidos e os camarões escorridos e frite-os sobre lume médio-forte, até alourar. Regue com o brandy (ou whisky) e puxe fogo, agitando a frigideira até a chama se extinguir.",
+      "Adicione o esparguete e o tomate cortado em metades, junte a salsa, misture e retire do lume. Sirva de imediato acompanhado da salada."
+    ]
+  },
+  {
+    "name": "Ovos com grão, espinafres e tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/07/ovos-grao-espinafres-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ovos-com-grao-espinafres-e-tomate/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 340,
+        "unit": "g"
+      },
+      {
+        "name": "grão-de-bico cozido",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 1703,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 1173,
+        "g": 540,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa frigideira, refogue a cebola em azeite durante 3 minutos.",
+      "Adicione o alho em pó, o molho de tomate e deixe ferver por mais\n2 minutos.",
+      "Junte o grão escorrido, os espinafres e um pouco de água, envolva e deixe cozinhar por mais 4 minutos.",
+      "Tempere com o sal, a pimenta e os orégãos. Misture.",
+      "Abra os quatro ovos por cima desta mistura e deixe cozinhar até os ovos estarem a seu gosto. Pode tapar a frigideira com uma tampa para ser mais rápido."
+    ]
+  }
+]

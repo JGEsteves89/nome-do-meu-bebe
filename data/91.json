@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Migas de lingueirão com orégãos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449084660",
+    "link": "https://www.pingodoce.pt/receitas/migas-de-lingueirao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pão alentejano",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "lingueirão",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1849,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1336,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o pão em pedaços pequenos à mão e ponha-o num recipiente com água, para demolhar. Num tacho, abra os lingueirões e reserve a água.",
+      "Numa frigideira antiaderente, refogue o alho bem picado no azeite. Adicione o tomate cortado em cubos e a malagueta em rodelas, previamente limpa de sementes, e deixe fritar.",
+      "Junte o pão, bem escorrido, envolva e deixe cozinhar durante 3 a 4 minutos.",
+      "Adicione o lingueirão limpo de conchas, mexa e regue com a água onde abriu o marisco. Tempere com sal, pimenta e orégãos, reservando alguns para decoração.",
+      "Envolva tudo muito bem e sirva imediatamente, polvilhado com orégãos."
+    ]
+  },
+  {
+    "name": "Bacalhau espiritual",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/04/617_espiritual.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-espiritual/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "bacalhau",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão de forma",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "leite",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "azeite",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "cebola",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho bechamel",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "queijo ralado",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 255,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1877,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1278,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 564,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1690,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 2278,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o bacalhau num tacho com 2,5 litros de água, 1 folha de louro, pimenta e sal. Depois de cozido, retire as espinhas e a pele e reserve as lascas de bacalhau. Pré-aqueça o forno a 180 ºC.",
+      "Embeba o pão em leite. Deixe que este se desfaça e depois escorra. Reserve o pão.",
+      "Num tacho com o azeite refogue as cebolas cortadas em meias luas, o alho picado, a cenoura ralada e a outra folha de louro, até a cenoura começar a perder a cor.",
+      "Adicione as lascas de bacalhau e deixe refogar até o bacalhau ganhar gosto. Retire a folha de louro. Para ligar todos os ingredientes, junte o pão. Deixe cozinhar durante 5 minutos.",
+      "Acrescente o molho béchamel já preparado e envolva bem.",
+      "Deite o preparado num tabuleiro de forno, salpique com o queijo e leve ao forno a gratinar durante 10 minutos, ou até criar uma crosta dourada.",
+      "Sirva de imediato e acompanhe com uma salada verde."
+    ]
+  },
+  {
+    "name": "Caldeirada de lulas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/04/caldeirada-de-lulas-com-trio-de-pimentos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caldeirada-de-lulas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "argolas de lula congelada",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "amêijoa vietnamita congelada",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate em pedaços",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 155,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 115,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 320,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2508,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Passe as argolas de lula por água até descongelarem.",
+      "Espalhe as amêijoas no fundo do tacho.",
+      "Descasque as cebolas e as batatas e corte-as em rodelas. Reserve.",
+      "Limpe os pimentos de sementes e películas brancas e corte-os em tiras. Reserve.",
+      "Disponha metade dos legumes e batatas preparados em camadas sobre as amêijoas e, por cima, distribua as argolas de lula, metade da lata de tomate e a malagueta limpa de sementes e cortada em pedaços.",
+      "Regue com metade do azeite, coloque os restantes legumes e batatas em camadas, adicione o restante tomate em pedaços, tempere com o sal, polvilhe com o pimentão doce e junte um ramo de salsa atado com três a quatro pés de hortelã.",
+      "Regue com o restante azeite, tape e cozinhe em lume moderado cerca de 25 minutos, agitando o tacho de vez em quando.",
+      "Sirva de imediato polvilhado com salsa e hortelã."
+    ]
+  }
+]

@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Peitos de frango recheados no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/peitos-de-frango-recheados-no-forno-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peitos-de-frango-recheados-no-forno/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "limão (sumo)",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomilho em folha",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo da Ilha ralado em fios",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeitona verde descaroçada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "floretes de brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "grão-de-bico cozido",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango pequeno",
+        "qtd": 600,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1332,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2531,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2198,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 245,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1624,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1173,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1967,
+        "g": 600,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C, na função ventilada.",
+      "Abra os peitos de frango ao meio, coloque-os num tabuleiro e tempere com o sumo do limão, os dentes de alho espremidos, o tomilho, o sal e pimenta moída no momento.",
+      "Misture o queijo da ilha com o pimentão, as azeitonas e o miolo de noz, picados. Recheie os peitos de frango com uma parte desta mistura e espalhe a restante por cima.",
+      "Corte a cebola em gomos finos e disponha à volta da carne. Junte os floretes de brócolos, a abóbora cortada em cubos pequenos e o grão bem escorrido.",
+      "Regue tudo com o azeite e leve ao forno durante cerca de 20 minutos."
+    ]
+  },
+  {
+    "name": "Hambúrguer de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086497",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-de-frango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "chouriço de Seia",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "iogurte grego natural",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão 8 cereais",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "agrião",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 687,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1817,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1228,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1846,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 45,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o peito de frango e passe-o pela máquina de picar uma vez.",
+      "Corte a cenoura em cubos muito pequenos, escalde-os em água a ferver e adicione-os ao frango, juntamente com metade da cebola, a salsa e metade do alho, previamente picados, e o milho.",
+      "Tempere com a colher de sobremesa de sal e a pimenta, envolva tudo muito bem e molde quatro hambúrgueres, dando-lhes uma forma alongada. Reserve.",
+      "Lamine o chouriço e salteie-o no azeite quente com o restante alho picado. Junte os ovos e deixe estrelar. Retire e reserve.",
+      "Aqueça uma chapa para grelhados e grelhe os hambúrgueres a gosto, de ambos os lados. Reserve.",
+      "Misture o iogurte com o mel, a mostarda e o cebolinho picado e tempere com a colher de café de sal e um pouco de pimenta.",
+      "Abra o pão ao meio e, na base, coloque o agrião e a restante cebola, cortada em rodelas.",
+      "Tempere com o molho de iogurte e, por cima, coloque o hambúrguer.",
+      "Por cima do hambúrguer disponha o chouriço com os ovos de codorniz, polvilhando com orégãos. Tape com a parte superior do pão ao hambúrguer e sirva."
+    ]
+  },
+  {
+    "name": "Filete de robalo no forno com puré de grão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/Filete-robalo-com-pure-grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/filete-de-robalo-no-forno/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "molho pesto",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "grão-de-bico",
+        "qtd": 820,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "filete de robalo fresco",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão fresco (folhas)",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1712,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1174,
+        "g": 820,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1064,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Num tabuleiro de forno, coloque o tomate cortado em rodelas, temperado com metade do azeite, do alho e do sal e leve ao forno cerca de 10 minutos.",
+      "Numa taça, tempere os filetes de robalo com o restante sal, pimenta moída na altura, raspa e sumo de meio limão.",
+      "Retire o tabuleiro do forno. Coloque folhas de manjericão por cima do tomate e de seguida os filetes de robalo, previamente barrados com o pesto. Leve ao forno por mais 10 minutos.",
+      "Para a esmagada de grão, comece por alourar num tacho as chalotas picadas com o restante azeite e alho esmagado.",
+      "Deite o grão-de-bico escorrido numa taça grande com água e esfregue entre as mãos para soltar a maior parte das peles. Em seguida escalde com água a ferver, escorra e junte às chalotas.",
+      "Retire o caroço e a casca ao abacate, regue com sumo de limão e adicione ao tacho. Retire do lume e esmague tudo com um esmagador de batata. Misture a salsa picada e coloque no prato de servir. Polvilhe com a paprika e sirva a acompanhar os filetes de robalo."
+    ]
+  }
+]

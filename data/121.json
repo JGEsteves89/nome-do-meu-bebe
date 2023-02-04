@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Lasanha de couve",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/lasanha-de-couve.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lasanha-de-couve/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "molho de tomate",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 22,
+        "unit": "dente"
+      },
+      {
+        "name": "carne picada",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "arroz integral",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1704,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 66,
+        "ml": 0
+      },
+      {
+        "id": 550,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 587,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1704,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 790,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2197,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 172,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Num tacho com o azeite, refogue a cebola e o alho descascados e picados.",
+      "Quando a cebola estiver translúcida adicione a carne e cozinhe durante cerca de 10 minutos. Refresque com vinho branco e deixe que este evapore. Junte a cenoura e envolva bem.",
+      "Adicione 500ml de molho de tomate, tempere com uma colher de sobremesa de sal, pimenta e orégãos. Envolva e deixe apurar em lume brando durante 12 minutos.",
+      "Escalde as folhas de couve em água a ferver. Depois, numa forma redonda de bolo sem aro, coloque folhas de couve de forma a preencher o fundo. Deite por cima um pouco da mistura de carne e um pouco de queijo da ilha ralado.",
+      "Cubra com uma camada de couve, mais um pouco da mistura de carne, queijo e assim sucessivamente terminando com folhas de couve. Reserve um pouco do queijo para polvilhar no final.",
+      "Cubra a forma com um prato de forno alto e redondo, e volte a forma ao contrário, deixando escorrer o molho.",
+      "Pincele a lasanha de couve com metade do restante molho de tomate e leve ao forno por 10 minutos.",
+      "Retire do forno, pincele com o restante molho de tomate, polvilhe com o queijo reservado e leve ao forno para que este derreta.",
+      "Coza o arroz em água com uma colher de café de sal. Sirva a lasanha quente com o arroz."
+    ]
+  },
+  {
+    "name": "Empadão de quinoa e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/empadao-quinoa-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-quinoa-e-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "quinoa Pura Vida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês (só a parte branca)",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "courgette pequena",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 15,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo flamengo sem lactose Pura Vida",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "leite sem lactose Pura Vida",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de abóbora Pura Vida",
+        "qtd": 60,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2292,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 219,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 98,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1819,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2234,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1306,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2405,
+        "g": 60,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Coza a quinoa de acordo com as instruções da embalagem.",
+      "Num tacho com o azeite, refogue o alho-francês cortado em rodelas e a cenoura picada.",
+      "Adicione a courgette cortada em cubos e deixe cozinhar cerca de 5 a 10 minutos.",
+      "Acrescente os brócolos já cozidos e picados, o alecrim e tempere com metade do sal e pimenta a gosto. Envolva tudo e retire do lume.",
+      "Entretanto, bata os ovos numa taça, junte o queijo cortado em pedaços pequenos, o leite, o\nrestante sal e mais pimenta. Envolva e reserve.",
+      "Forre um tabuleiro de forno quadrado de 20x20 cm de diâmetro com papel vegetal.",
+      "Coloque na base metade da quinoa cozida e por cima verta o preparado de legumes. Cubra com a restante quinoa.",
+      "Por fim, espalhe a mistura de ovo com queijo e polvilhe com as sementes de abóbora.",
+      "Leve ao forno durante cerca de 20 minutos."
+    ]
+  },
+  {
+    "name": "Peito de pato com arandos e maçã frita",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/peito-de-pato-com-arandos-e-maca-frita.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-pato-com-arandos-e-maca-frita/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de pato",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "óleo",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta da jamaica em grão",
+        "qtd": 3,
+        "unit": "grão"
+      },
+      {
+        "name": "hastes de alecrim",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "maçã Starking",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha integral",
+        "qtd": 8,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 0,
+        "unit": ",8 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "arando seco",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "amido de batata ou milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1973,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2035,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1408,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 969,
+        "g": 56,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 154,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 139,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Faça cortes superficiais na pele do peito de modo a formar losangos. Coloque-os num recipiente, regue-os com o óleo, tempere com o sal e a pimenta, junte as folhas do alecrim, os alhos com casca esmagados e o louro.",
+      "Deixe marinar, no frigorífico, cerca de 25 minutos.",
+      "Corte as maçãs ao meio, retire-lhes os caroços e corte-as em meias-luas com\ncerca de 1cm de espessura. Reserve.",
+      "Junte a farinha, o ovo e o leite e misture até obter uma consistência cremosa. Tempere com o sal e a pimenta.",
+      "Junte as maçãs laminadas, passe-as pela polme e frite-as no óleo quente até ficarem douradas. Retire e deixe escorrer em papel absorvente.",
+      "Pré-aqueça o forno a 150 °C.",
+      "Aqueça uma frigideira em lume médio e introduza os peitos de pato, escorridos, com a pele virada para baixo. Deite cozinhar durante 5 a 6 minutos ou até pele ficar crocante e vire-os do outro lado, fritando mais 5 a 6 minutos.",
+      "Coloque-os num recipiente de forno e asse durante 15 a 20 minutos.",
+      "Coloque os arandos secos num tacho pequeno, junte água até ficarem cobertos,\njunte o açúcar e deixe cozer em lume brando durante 5 minutos. Misture o\namido de batata com a água fria, tempere com o sal e a pimenta e junte-o aos\narandos.",
+      "Coza mais 3 a 4 minutos até ter uma consistência espessa. Deixe descansar\na carne 10 minutos e sirva fatiada com a maçã e o molho de arandos."
+    ]
+  }
+]

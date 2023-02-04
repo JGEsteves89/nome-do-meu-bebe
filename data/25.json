@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Bacalhau com guisado de grão e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/lombos-de-bacalhau-aromatico-com-guisado-de-grao-e-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-com-guisado-de-grao-e-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau congelado",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "bolbo de funcho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "preparado para sopa portuguesa",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1350,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1107,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2146,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 540,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os lombos de bacalhau com sal, pimenta e vinagre de sidra. Reserve.",
+      "Retire e reserve as folhas do funcho, exclua os talos fibrosos e corte o restante em lâminas finas.",
+      "Corte 4 quadrados de papel vegetal. Divida metade do funcho pelos 4 quadrados, e por cima disponha os lombos de bacalhau e o restante funcho.",
+      "Regue com uma colher de sopa de azeite, polvilhe com as folhas do funcho reservadas, embrulhe o papel vegetal e coloque os papelotes no cesto para cozer a vapor.",
+      "Num tacho, leve ao lume alho-francês picado com o restante azeite e a mistura para sopa.",
+      "Tempere com sal, tape e cozinhe em lume muito brando durante 20 minutos ou até os legumes estarem macios.",
+      "Junte o tomate, limpo de sementes e picado, o grão escorrido e três ou quatro folhas de manjericão (reserve algumas).",
+      "Por cima, encaixe o cesto com os embrulhos de peixe, tape e deixe cozinhar em lume muito brando mais 15 minutos.",
+      "Na altura de servir junte algumas folhas frescas de manjericão aos legumes e sirva-os a acompanhar o bacalhau."
+    ]
+  },
+  {
+    "name": "Lasanha de vegetais grelhados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/lasanha-de-vegetais-grelhados.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lasanha-de-vegetais-grelhados/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "vegetais grelhados congelados",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa de lasanha fresca",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "queijo mozzarella ralado em fios",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de girassol",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2585,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2109,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1492,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2268,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2414,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1304,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C, na função calor ventilado.",
+      "Deite a mistura de vegetais para um coador e deixe descongelar.",
+      "Para o molho bechamel, derreta a manteiga num tacho pequeno, polvilhe com a farinha, misture bem e regue com o leite. Deixe engrossar sobre lume moderado, mexendo sempre com uma vara de arames.",
+      "Tempere com o sal, pimenta moída na altura e noz-moscada a gosto. Retire do lume o molho bechamel e deixe arrefecer, mexendo ocasionalmente.",
+      "Entretanto, aqueça o azeite numa frigideira larga antiaderente. Adicione o dente de alho, descascado e finamente picado e,quando começar a alourar, junte os legumes grelhados bem\nescorridos.",
+      "Cozinhe durante cerca de 7 a 8 minutos sobre lume médio, mexendo de vez em quando.",
+      "Retire do lume, regue com a polpa de tomate e misture bem.",
+      "Espalhe um pouco do molho bechamel numa travessa, à medida das placas de lasanha. Coloque uma placa de massa no fundo, por cima espalhe metade dos legumes, regue com um pouco de\nbechamel, salpique com ⅓ do queijo e cubra com outra placa de massa. Faça mais uma camada de legumes, molho e queijo, e tape com a última placa de massa.",
+      "Regue com o restante molho bechamel, salpique com o queijo e com as sementes de girassol.",
+      "Leve ao forno durante cerca de 25 minutos ou até a superfície estar dourada."
+    ]
+  },
+  {
+    "name": "Salsichas frescas no forno com bacon",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/08/salsichas-frescas-no-forno-com-bacon.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salsichas-frescas-no-forno-com-bacon/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "salsicha fresca",
+        "qtd": 8,
+        "unit": "unid. (800 g)"
+      },
+      {
+        "name": "bacon",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "macarronete",
+        "qtd": 280,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2384,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 269,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2717,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1415,
+        "g": 280,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Enrole o bacon em redor das salsichas, pode cortar as fatias em dois. Coloque num tabuleiro de forno, tempere com tomilho, metade do azeite e leve ao forno por 25 minutos. Vá regando sempre que necessário com água.",
+      "Enquanto isso, cozinhe a massa, seguindo as instruções da embalagem, em água temperada com o sal. Escorra e adicione o restante azeite e o tomate cortado em metades.",
+      "Sirva as salsichas com a massa."
+    ]
+  }
+]

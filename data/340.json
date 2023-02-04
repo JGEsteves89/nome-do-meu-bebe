@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Carne de vinha d'alhos com batata-doce",
+    "image": "https://www.youtube-nocookie.com/embed/EXg_d6xAJuA",
+    "link": "https://www.pingodoce.pt/receitas/carne-de-vinha-dalhos-com-batata-doce/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "lombo de porco cortado em cubos",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "cravinho da Índia",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 100,
+        "unit": "ml (+ 2 c. de sobremesa)"
+      },
+      {
+        "name": "sal",
+        "qtd": 4,
+        "unit": "c. de café"
+      },
+      {
+        "name": "chuchu",
+        "qtd": 640,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 800,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "banha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão rústico ou pão de mistura",
+        "qtd": 180,
+        "unit": "g (4 fatias cortadas ao meio)"
+      },
+      {
+        "name": "laranja",
+        "qtd": 300,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 350,
+        "unit": "g (2 emb.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1369,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 803,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2599,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 691,
+        "g": 640,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2662,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1931,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 350,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque a carne num recipiente de vidro, junte-lhe as folhas de louro partidas em pedaços, os dentes de alho espremidos e os cravinhos. Tempere com uma pitada de pimenta moída na altura. Adicione o vinho branco e os 100 ml de vinagre, misture muito bem, tape e deixe marinar no frigorífico entre dois e três dias.",
+      "Deite a carne e a marinada num tacho, tempere com uma colher de café de sal, junte os chuchus descascados e cortados em cubos. Tape e deixe cozinhar sobre lume brando durante cerca de 45 minutos ou até a carne estar tenra.",
+      "Ao mesmo tempo, lave muito bem as batatas e coza-as em água temperada com três colheres de café de sal cerca de 30 minutos ou até estarem macias. Pele as batatas e corte-as em rodelas.",
+      "Numa frigideira larga, aqueça bem a banha e uma colher de sopa de azeite e salteie as batatas até estarem douradas. Tempere com pimenta moída na altura.",
+      "Disponha as fatias de pão num lado da travessa e as laranjas cortadas em meias-luas no outro. Ao centro coloque a carne e o molho. Salpique com uma colher de sopa de salsa picada.",
+      "Sirva com as rodelas de batata polvilhadas com a restante salsa picada e com a salada temperada com os restantes azeite e vinagre."
+    ]
+  },
+  {
+    "name": "Truta na chapa com salada de feijão-frade e agrião",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/Truta-na-chapa-com-salada-feijão-frade-agrião.jpg",
+    "link": "https://www.pingodoce.pt/receitas/truta-na-chapa-com-salada-de-feijao-frade-e-agriao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "truta fresca",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite com especiarias e ervas aromáticas",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "aipo",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "salsa fresca picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "agrião",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 180,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2564,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 210,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1014,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 45,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2590,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2501,
+        "g": 180,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere a truta com o sal e 0.5 colher de sopa do azeite com especiarias. Reserve.",
+      "Coe o feijão-frade com a ajuda de um passador de rede, passe por água fria corrente e escorra muito bem. Deite numa saladeira e junte as chalotas, descascadas e cortadas em gomos finos, o talo de aipo lavado e cortado em lâminas e a salsa e o agrião grosseiramente picados. Adicione duas colheres de sopa do azeite e o vinagre balsâmico. Pique o tomate e junte-o à salada.",
+      "Aqueça uma frigideira antiaderente sobre lume médio a forte. Quando estiver bem quente coloque nela a truta e grelhe-a de ambos os lados, pincelando com o restante azeite com especiarias.",
+      "Sirva as trutas acompanhadas com a salada."
+    ]
+  },
+  {
+    "name": "Lombos de bacalhau no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/12/lombos-de-bacalhau-no-forno.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lombos-de-bacalhau/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau demolhado",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 10,
+        "unit": "haste"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 10,
+        "unit": "folha"
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "mexilhão",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "brócolos em ramos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "couve-flor em ramos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "natas para culinária",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1353,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 70,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1557,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 438,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 786,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 1767,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Depois de previamente demolhado, coloque o lombo de bacalhau num recipiente grande, cubra-o com água a ferver e mantenha-o durante 10 minutos. Pré-aqueça o forno a 180° C.",
+      "Pique as ervas. Escorra o bacalhau, enxugue-o bem e cubra a superfície com as ervas picadas (reserve algumas).",
+      "Deite azeite numa assadeira, disponha o bacalhau e leve-o ao forno\ncerca de 40 minutos.",
+      "Aqueça o restante azeite num tacho juntamente com os dentes de alho picados e, quando estiver bem quente, introduza os mexilhões.",
+      "Salteie em lume forte até abrirem, regue com o vinho e retire do lume, deixando arrefecer um pouco. Separe os moluscos das cascas e coe o líquido da cozedura. Reserve.",
+      "Coza os brócolos e a couve-flor ao vapor. Reserve.",
+      "Retire o bacalhau da assadeira.",
+      "Escorra o azeite de cozer o bacalhau para um tacho, junte os mexilhões, o caldo reservado, o grão escorrido e as natas e tempere com o sal.",
+      "Deixe apurar em lume brando cerca de 8 a 10 minutos.",
+      "Polvilhe com as ervas picadas reservadas e sirva com o bacalhau e os legumes."
+    ]
+  }
+]

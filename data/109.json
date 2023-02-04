@@ -1,0 +1,528 @@
+[
+  {
+    "name": "Omelete de cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/omelete-de-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/omelete-de-cogumelos/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "talos de cogumelo em rodelas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "chalota picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "fiambre em cubos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo Parmesão em lascas",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 60,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 708,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1040,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 60,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa frigideira antiaderente, aloure os talos dos cogumelos numa colher de chá de azeite. Tempere com uma pitada de tomilho seco e de alho em pó. Retire da frigideira, junte a chalota e reserve.",
+      "Bata os ovos com o sal e pimenta e junte-lhes metade do cebolinho. Deite uma colher de chá de azeite na mesma frigideira, deixe aquecer e adicione metade dos ovos batidos.",
+      "Quando os ovos começarem a coagular, recheie com metade do fiambre e da mistura de cogumelos e enrole em omeleta. Repita para a segunda omeleta. Polvilhe com o restante cebolinho e as lascas de queijo Parmesão e acompanhe com a salada e o tomate."
+    ]
+  },
+  {
+    "name": "Peixe-espada à madeirense",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/peixe-espada-a-madeirense.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peixe-espada-a-madeirense/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filete de peixe-espada preto (sem pele)",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pau de loureiro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "qtd": 3,
+        "unit": "unid. (450 g)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "poncha",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "maracujá",
+        "qtd": 2,
+        "unit": "unid. (120 g)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "¼ L"
+      },
+      {
+        "name": "farinha de milho branca",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "segurelha (tomilho)",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 1,
+        "unit": "cl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "caldo-verde",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1058,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 279,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1444,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1463,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 945,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2399,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 481,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C. Corte os filetes de peixe-espada-preto em porções mais pequenas, com aproximadamente 150 g cada.",
+      "Tempere com sumo de limão, sal e pimenta-preta.",
+      "Enrole os filetes, com a parte interior do filete voltada para fora.",
+      "Espete os paus de loureiro nos filetes de modo a manter uma forma em espiral.",
+      "Disponha os filetes num tabuleiro de forno e coloque uma noz de manteiga sobre cada rolo. Leve a assar no forno, cerca de 15 minutos, até que o interior da espiral esteja cozinhado.",
+      "Para as bananas e para o molho de maracujá, retire a casca das bananas e corte no sentido longitudinal e depois a meio. Cada banana dará quatro gomos. Aqueça bem uma frigideira antiaderente com o azeite, core a banana de todos os lados e reserve. Refresque a frigideira com a poncha, adicione a manteiga, o interior dos maracujás, deixe reduzir ligeiramente até que fique cremoso e reserve.",
+      "Entretanto, prepare o milho frito. Deite o azeite para uma panela, junte a manteiga, o alho picado, a pimenta e o sal. Deixe refogar um pouco e adicione a água. Quando a água estiver morna, junte a farinha de milho e mexa bem, desfazendo os grumos. Adicione a segurelha e continue a mexer até a mistura engrossar. Deite para um ou mais tabuleiros e deixe arrefecer, de preferência de um dia para o outro.",
+      "Corte a mistura de farinha e milho em círculos com o diâmetro das espirais de peixe- -espada-preto e frite-os no óleo bem quente. Retire e escorra bem.",
+      "Numa frigideira com o azeite a 140 °C, frite o caldo-verde e tempere com sal e pimenta. (Experimente utilizar as sobras de azeite para temperar legumes ou outras receitas.)",
+      "Sirva os filetes sobre fatias de milho frito e por cima disponha o caldo-verde. Acompanhe com a banana frita."
+    ]
+  },
+  {
+    "name": "Lascas de bacalhau com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086495",
+    "link": "https://www.pingodoce.pt/receitas/lascas-de-bacalhau-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau congelado",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "brócolo ao vapor",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "preparado para sopa juliana",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1350,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 436,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2145,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descongele o bacalhau por completo e pré-aqueça o forno a 180 ºC. Cozinhe os brócolos ao vapor e reserve.",
+      "Coloque numa panela o bacalhau, a folha de louro, os dentes de alho e a cebola cortada ao meio, cubra tudo com água e leve ao lume até levantar fervura.",
+      "Retire do lume, escorra os lombos de bacalhau, deixando-os arrefecer ligeiramente, e limpe-os de peles e espinhas, desfiando-os em lascas grandes.",
+      "Coloque o preparado para sopa juliana numa tigela, tempere com o sal e o azeite e mexa.",
+      "Recorte 12 quadrados de papel vegetal e sobreponha-os 2 a 2, colocando no centro um pouco da mistura de legumes, brócolos cozinhados a vapor e lascas de bacalhau.",
+      "Salpique com um pouco de vinho branco, embrulhe os papelotes e ate-os com fio de cozinha, levando ao forno durante 20 minutos.",
+      "Depois de cozinhados, abra os papelotes e salpique-os com um pouco de salsa picada e com o vidrado do limão em tiras muito finas. Sirva de imediato."
+    ]
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Tofu aromático",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085390",
+    "link": "https://www.pingodoce.pt/receitas/tofu-aromatico/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "arroz agulha ou basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "tofu",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "couve-chinesa",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pepino",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rebentos de feijão mungo",
+        "qtd": 0.5,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 158,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2480,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 781,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1984,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 2299,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho com água a ferver temperada com sal, coza o arroz, cerca de 10 minutos. Escorra o excesso de água e reserve.",
+      "Esborrache os dentes de alho e tire-lhes a pele. Num almofariz, pise os alhos e a malagueta limpa de sementes e cortada em pedacinhos. Esmague tudo até obter uma pasta.",
+      "Corte o tofu em tiras. Retire as folhas aos talos de aipo e reserve-as. Lave os talos e corte-os em rodelas finas. Corte a couve-chinesa em tiras, lave e escorra. Descasque o pepino, abra-o ao meio, retire as sementes e corte-o em meias luas.",
+      "Numa frigideira larga, aqueça o azeite e salteie a pasta de alho e malagueta e o aipo, 1 a 2 minutos. Acrescente o tofu, a couve-chinesa e o pepino. Mexa mais 2 a 3 minutos e retire para o prato de servir.",
+      "Dissolva o açúcar no molho de soja e acrescente-o ao cozinhado. Junte os rebentos de feijão-mungo e misture bem.",
+      "Sirva acompanhado do arroz bem escorrido e perfumado com as folhas de aipo finamente picadas."
+    ]
+  },
+  {
+    "name": "Peito de frango em colmeia",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/04/peito-frango-colmeia.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-em-colmeia/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "arroz selvagem",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "manjericão seco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 180,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1443,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1967,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Tempere os peitos de frango com 1 colher de chá de sal, pimenta e o alho em pó.",
+      "Corte 1 cebola, 1/2 courgette e 1 tomate em fatias finas e em seguida em meias-luas. Reserve.",
+      "Coloque os peitos num tabuleiro de forno. Com uma faca afiada, faça uns cortes profundos nos peitos de frango e insira em cada corte, alternadamente, as fatias de cebola, de courgette e de tomate.",
+      "Polvilhe com 1 colher de café de sal, com o manjericão e regue com 2 colheres de sopa de azeite. Leve ao forno cerca de 20 minutos.",
+      "Enquanto isso, faça o arroz seguindo as instruções da embalagem e tempere-o com 1/2 colher de café de sal.",
+      "Ao lado, prepare uma salada com a restante cebola, a courgette e o tomate.",
+      "Sirva os peitos de frango acompanhados com o arroz e a salada temperada com 1 colher de sopa de azeite, o vinagre e o restante sal."
+    ]
+  },
+  {
+    "name": "Sopa do Espírito Santo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/sopa-do-espirito-santo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-do-espirito-santo/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 200,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "massa de malagueta",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "ramo + folhas"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "carne de vaca para cozer",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "galinha em pedaços",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "repolho",
+        "qtd": 1,
+        "unit": "kg (1 unid.)"
+      },
+      {
+        "name": "banha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão de trigo duro",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "fígado de vaca",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2000
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 542,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 1116,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2307,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2662,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1903,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os dentes de alho, as cebolas cortadas aos quartos, a massa de malagueta, a hortelã e o pau de canela num pano. Ate o pano com um fio de cozinha e coloque-o numa panela com a água temperada com sal.",
+      "Leve ao lume e, quando a água ferver, junte à panela a carne de vaca, a galinha em pedaços e deixe cozinhar cerca de 1 hora.",
+      "Quando as carnes estiverem cozidas, junte o repolho fatiado e a banha. Deixe cozinhar mais um pouco.",
+      "Corte o pão em pedaços e coloque num prato. Regue com o caldo de cozer as carnes, deixando que o pão absorva.",
+      "Adicione o repolho, fatias pequenas de fígado, as carnes cortadas em pedaços pequenos e mais um pouco de caldo. Decore com folhas de hortelã."
+    ]
+  }
+]

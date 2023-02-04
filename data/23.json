@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Pizza de massa integral com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/03/pizza-massa-integral-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-massa-integral-com-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "base de pizza integral",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo mozzarella",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 291,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2256,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Utilize a base de pizza integral.",
+      "Espalhe parte do queijo por cima da massa, em seguida os espinafres, mais queijo, mais espinafres e queijo.",
+      "Termine com os cogumelos partidos em quartos.",
+      "Polvilhe com sal, pimenta, e leve ao forno a 200 ºC por cerca de 15 minutos."
+    ]
+  },
+  {
+    "name": "Rolo de carne no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/05/rolo-de-carne-no-forno.jpg",
+    "link": "https://www.pingodoce.pt/receitas/rolo-de-carne-no-forno/",
+    "portions": 10,
+    "ingredients": [
+      {
+        "name": "carne de porco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo flamengo fatiado",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre fatiado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "bacon fatiado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 536,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2229,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1041,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 273,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere a carne com sal e pimenta. Junte o chouriço picado e misture.",
+      "Estenda a carne numa folha de película aderente bem esticada na bancada.",
+      "Por cima da carne, comece por colocar as fatias de fiambre, depois as de queijo e finalmente a linguiça cortada de verticalmente.",
+      "Com a ajuda da película aderente enrole cuidadosamente a carne até formar um rolo.",
+      "Retire a película e cubra o rolo de carne com as fatias de bacon.",
+      "Leve ao forno pré-aquecido, e deixe assar durante uma hora a 180 ºC."
+    ]
+  },
+  {
+    "name": "Frittata de courgette e ervilhas com hortelã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/frittata-de-courgette-e-ervilhas-com-hortela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frittata-de-courgette-e-ervilhas-com-hortela/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola-roxa picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo L",
+        "qtd": 5,
+        "unit": "unid."
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tostas integrais extra finas",
+        "qtd": 4,
+        "unit": "saqueta"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 577,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 5,
+        "ml": 5
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2553,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Numa frigideira antiaderente e que possa ir ao forno, salteie em lume médio a cebola, a courgette em cubos pequenos e as ervilhas.",
+      "Junte o tomate seco em pedaços pequenos, tempere com sal e pimenta e deixe refogar durante 5 minutos, mexendo de vez em quando.",
+      "Numa tigela, bata os ovos com um garfo e tempere com sal e pimenta.",
+      "Junte aos legumes uma mão-cheia de folhas de hortelã em tiras, mexa e adicione os ovos batidos.",
+      "Deixe coagular a parte de baixo da frittata, durante 3 a 4 minutos.",
+      "Leve a frigideira ao forno mais 3 a 4 minutos, para acabar de cozinhar.",
+      "Decore com folhas frescas de hortelã e acompanhe com as tostas."
+    ]
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Filetes de peixe-espada ao vapor",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/12/filetes-de-peixe-espada-preto-ao-vapor.jpg",
+    "link": "https://www.pingodoce.pt/receitas/filetes-peixe-espada-ao-vapor/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filete de peixe-espada-preto",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "massa meada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo Pura vida",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1059,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1523,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2421,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os filetes de peixe-espada em pedaços com cerca de 10 cm, coloque-os num tabuleiro de forno redondo e tempere com uma colher de chá de sal e pimenta.",
+      "Junte o sumo de um pedaço de raiz de gengibre de 2 cm, previamente pelada e ralada, e o sumo de meio limão.",
+      "Adicione o restante limão cortado em rodelas finas, a malagueta limpa de sementes e picada em pedacinhos e as rodelas de alho-francês e misture bem.",
+      "Lave os pimentos, limpe-os de sementes e corte-os em tiras.",
+      "Coloque uma rede que permita cozinhar ao vapor (como uma rede para bolos, por exemplo) dentro do wok e encha-o com água até atingir a rede. Retire a rede e leve o wok ao lume.",
+      "Quando a água estiver a ferver, tempere-a com uma colher de café de sal e introduza os pimentos em tiras.",
+      "Assim que retomar fervura, coloque a rede no wok e sobre esta o tabuleiro com o peixe. Tape com a tampa do wok e deixe ferver cerca de 15 minutos.",
+      "Coza a massa numa panela em água temperada com uma colher de café de sal.",
+      "Quando o peixe estiver cozinhado, regue-o com o azeite e salpique com as sementes de sésamo, reservando algumas.",
+      "Escorra os legumes e a massa e polvilhe com as restantes sementes. Salpique a massa com o cebolinho picado. Sirva a massa e os legumes com o peixe."
+    ]
+  },
+  {
+    "name": "Almôndegas com esparguete",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/11/almondegas-com-spaghetti.jpg",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-com-spaghetti/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cenoura spaghetti",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "flocos de aveia",
+        "qtd": 85,
+        "unit": "g"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa (manjericão, coentros)",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado (para envolver)",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "couve-chinesa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "couve-roxa",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura spaghetti",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "beterraba",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 592,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1072,
+        "g": 85,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1923,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 781,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 792,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 592,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 365,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Para as almôndegas, triture a cenoura e coloque-a numa tigela.",
+      "Adicione os restantes ingredientes, envolvendo bem.",
+      "Molde pequenas bolas, passe-as por pão ralado e coloque-as num tabuleiro forrado com papel vegetal.",
+      "Leve ao forno durante 15 minutos.",
+      "Corte as couves em juliana e coloque-as numa taça.",
+      "Adicione a cenoura, o milho e, por fim, a beterraba ralada.",
+      "Tempere com o azeite, o sal e o sumo de lima e envolva. Sirva a acompanhar as almôndegas."
+    ]
+  },
+  {
+    "name": "Recheio do Baixo Alentejo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/recheio-baixo-alentejo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/recheio-do-baixo-alentejo/",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "fígado de peru",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sultana",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "folhas de alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1045,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2438,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2344,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1708,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Lave e limpe os fígados.",
+      "Prepare uma marinada com o vinho do Porto, o sal, a pimenta de moinho, as folhas de alecrim e o molho inglês, e deixe os fígados repousarem durante 4 horas.",
+      "Numa frigideira, derreta a manteiga e adicione a cebola, previamente picada. Deixe suar. Junte os fígados e salteie.",
+      "Uma vez salteados, triture tudo grosseiramente. Adicione as sultana, envolva e rectifique os temperos.",
+      "Insira o recheio pelo papo do peru, (depois de marinado), com a ajuda de uma colher de pau.",
+      "Assar o peru conforme a receita de peru assado."
+    ]
+  }
+]

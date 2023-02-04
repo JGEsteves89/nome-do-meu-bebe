@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Massa com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/massa-com-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "massa cotovelinhos",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1483,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Raspe ou descasque as cenouras e corte-as em cubos pequenos. Corte o talo de aipo em pedaços pequenos, tire o fio ao feijão-verde e corte-o em troços com cerca de 1 cm.",
+      "Leve ao lume uma frigideira anti-aderente com o azeite e, quando estiver quente, junte os legumes.",
+      "Tempere com uma colher de chá de sal e deixe estufar até as verduras ficarem tenras.",
+      "Leve ao lume uma panela com bastante água e, quando levantar fervura, introduza a folha de louro e tempere com o restante sal.",
+      "Adicione a massa e deixe cozer até ficar al dente.",
+      "Depois de cozida, escorra-a, retire a folha de louro e coloque-a numa saladeira, juntamente com os legumes e as folhas de espinafre, misturando bem."
+    ]
+  },
+  {
+    "name": "Feijoada à portuguesa com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/feijoada-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/feijoada-a-portuguesa-com-legumes/",
+    "portions": 20,
+    "ingredients": [
+      {
+        "name": "cebola descascada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "alho descascado",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "chouriço de carne em rodelas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "carne de porco em cubos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "preparado para sopa portuguesa",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água a ferver",
+        "qtd": 650,
+        "unit": "g"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "feijão manteiga cozido (escorrido)",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 536,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2146,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 650
+      },
+      {
+        "id": 158,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1005,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Coloque a cebola e os dentes de alho cortados em pedaços no copo e pique 5 segundos, na velocidade 5.",
+      "Raspe as paredes do copo com a espátula e introduza as rodelas de chouriço, a carne e o azeite. Tempere com a colher de chá de sal e com os cominhos e cozinhe 4 minutos e 30 segundos a 120 ºC, na velocidade 1 invertida.",
+      "Deite os legumes e a água a ferver no copo, tempere com o restante sal e, por cima, coloque o cesto com o arroz.",
+      "Encaixe o tabuleiro-base da vaporeira sobre a tampa com o feijão escorrido. Por cima, coloque o outro tabuleiro e a tampa e programe 16 minutos e 30 segundos, a 120 º C, na velocidade 1 invertida.",
+      "Deite o feijão no copo e envolva-o com os legumes e a carne. Coloque a feijoada no recipiente de servir e sirva acompanhada do arroz."
+    ]
+  },
+  {
+    "name": "Tagine de cabrito",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/04/tagine-de-cabrito.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tagine-de-cabrito/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "L"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talo aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cravinho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pés de coentros",
+        "qtd": 5,
+        "unit": "pé"
+      },
+      {
+        "name": "ameixa seca",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cabrito em pedaços",
+        "qtd": 700,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pedaço de raiz gengibre",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "miolo de amêndoa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2000
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 801,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 117,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 447,
+        "g": 700,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1589,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 835,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com a água, corte a cenoura descascada em palitos e o aipo em pedaços. Descasque a cebola e espete-lhe o cravinho.",
+      "Assim que a água levantar fervura, incorpore os legumes e os coentros, tempere com o sal, tape e deixe ferver em lume brando cerca de 30 minutos.",
+      "Coloque as ameixas numa tigela e regue-as com o sumo da laranja. Reserve.",
+      "Tempere os pedaços de cabrito com o sal e o gengibre ralado.",
+      "Leve a tagine ao lume com o azeite e, quando estiver quente, adicione a cebola e o alho previamente picados. Deixe refogar.",
+      "Junte a carne e salteie até estar corada. Adicione o pau de canela e o açafrão-das-índias, mexa, regue com um pouco de caldo e baixe o lume, tapando a tagine.",
+      "Deixe cozer cerca de 1 hora ou até a carne estar tenra. Adicione mais caldo se achar que está muito seco.",
+      "Um pouco antes de retirar do lume junte as ameixas escorridas e o miolo de amêndoa.",
+      "Disponha o cuscuz num tabuleiro, regue com 2 dl de caldo, tape com película aderente e deixe descansar cerca de 5 minutos.",
+      "Solte o cuscuz com um garfo e sirva-o a acompanhar a carne."
+    ]
+  }
+]

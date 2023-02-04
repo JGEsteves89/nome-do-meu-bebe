@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Espetadas de perca com molho de pesto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/10/espetadas-de-perca-com-molho-de-pesto.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/espetadas-de-perca-com-molho-de-pesto/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cuscuz",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "limão (raspa e sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "lombo de perca",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "preparado para sopa portuguesa",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "chalota",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 835,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1364,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1712,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2146,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o cuscuz num tabuleiro de forno fundo, junte-lhe a raspa da casca do limão, 1 colher de café de sal e misture bem. Reserve.",
+      "Corte os lombos de perca em cubos e tempere-os com 1 colher de café de sal, sumo de limão e com o molho pesto.",
+      "Num tacho, aqueça 2 colheres de sopa de azeite e junte-lhe a mistura de legumes. Salpique com 1 colher de café de sal. Tape e deixe estufar sobre lume moderado a brando durante cerca de 20 minutos.",
+      "Entretanto, descasque as chalotas e corte-as em quatro. Enfie os cubos de perca e as chalotas alternadamente em 4 espetos. Pincele uma grelha com o restante azeite e grelhe as espetadas virando-as de todos os lados.",
+      "Regue o cuscuz com a água a ferver, mexa com um garfo, tape o tabuleiro com película aderente e deixe hidratar durante 5 minutos. Na altura de servir, salpique-o com salsa picada e solte-o com um garfo.",
+      "Sirva as espetadas com os legumes e acompanhe com o cuscuz."
+    ]
+  },
+  {
+    "name": "Bolonhesa de lentilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/bolonhesa-de-lentilhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bolonhesa-de-lentilhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lentilhas verdes secas Pura Vida",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "massa penne integral Pura Vida",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "polpa de tomate natural",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "cogumelo fresco laminado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta-de-caiena-em-pó",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "folhas de espinafre fresco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "orégão fresco picado",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1316,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1529,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 215,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2117,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 719,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2061,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2037,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 913,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1808,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por demolhar as lentilhas, colocando-as em água abundante durante a noite ou por 6 horas.",
+      "Uma vez demolhadas, coza as lentilhas num tacho com o dobro da água por 10 a 15 minutos (não coza demais). Quando estiverem quase cozidas adicione metade do sal. Escorra a água das lentilhas e reserve-as.",
+      "Num outro tacho, coza a massa com água temperada com o restante sal, segundo as instruções da embalagem.",
+      "Num wok, junte o azeite com a cebola e o alho descascados e picados, e as folhas de louro. Deixe saltear e adicione a polpa de tomate. Deixe cozinhar por 4 minutos e de seguida acrescente os cogumelos laminados e deixe cozinhar por mais 4 minutos.",
+      "Junte ao wok as lentilhas e as especiarias e mexa. Prove e rectifique os temperos. Adicione um pouco de água se achar necessário e deixe apurar por 5 minutos.",
+      "Por fim, corte os espinafres grosseiramente, junte-os ao preparado e apague o lume. O calor irá cozinhar os espinafres.",
+      "Sirva a massa numa taça e adicione, por cima, a bolonhesa de lentilhas. Polvilhe com os orégãos frescos."
+    ]
+  },
+  {
+    "name": "Polvo guisado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449084645",
+    "link": "https://www.pingodoce.pt/receitas/polvo-guisado/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "polvo congelado",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cebola",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 5,
+        "unit": "grão"
+      },
+      {
+        "name": "vinho verde branco",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "fatias de pão de centeio torrado",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2123,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2637,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2501,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1872,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o polvo congelado numa panela com a folha de louro, uma cebola, um dente de alho, os grãos de pimenta, 1 dl de água e leve ao lume até estar tenro.",
+      "Depois de cozido, escorra-o, separe os tentáculos de forma a que fiquem inteiros e corte a cabeça em pedaços pequenos.",
+      "Corte a restante cebola em rodelas, pique os alhos e leve a refogar com o azeite num tacho alto. Tire a pele ao tomate, pique-o e junte-o ao refogado. Adicione 2 colheres de sopa de salsa picada, mexa e deixe cozinhar em lume brando cerca de 10 minutos.",
+      "Junte os tentáculos do polvo e os pedaços da cabeça e regue com o vinho verde branco, onde diluiu previamente o amido de milho. Tempere com 1 colher de chá de sal e pimenta moída no momento, mexa e deixe apurar 10 minutos. Antes de servir, polvilhe com a restante salsa picada. Acompanhe o polvo com as fatias de pão torradas."
+    ]
+  }
+]

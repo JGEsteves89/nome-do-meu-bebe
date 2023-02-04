@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Caril de grão e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/03/caril-grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caril-de-grao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "bimi",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "molho Madras",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "grão-de-bico cozido",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 391,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1710,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 163,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a courgette em triângulos grandes, os floretes dos bimis e cozinhe-os em água a ferver.",
+      "Aqueça o molho Madras num tacho, junte o grão, a courgette e os bimis cozidos, e deixe ferver por alguns minutos.",
+      "Enquanto isso, cozinhe o arroz basmati com o sal.",
+      "Sirva o caril com o arroz."
+    ]
+  },
+  {
+    "name": "Tagliatelle com frutos do mar",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/08/tagliatelle-com-frutos-do-mar.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-frutos-do-mar/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 0.5,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "berbigão (já depurado)",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "amêijoa (já depuradas)",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de camarão 40/60",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tagliatelle fresco",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pepino pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1702,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 361,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 111,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1604,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2454,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve o alho-francês e os dentes de alho esmagados ao lume, com o azeite, até o alho-francês amolecer.",
+      "Junte o molho de tomate e deixe cozinhar sobre lume muito brando.",
+      "Leve ao lume uma panela com água e, quando ferver, tempere com o sal e adicione todo o marisco.",
+      "Deixe ferver durante dois minutos e retire-os com uma escumadeira, introduzindo-os de seguida no molho de tomate.",
+      "Introduza o tagliatelle na panela onde ferveu o marisco e coza-o durante três a quatro minutos.",
+      "Lave o tomate cherry e o pepino. Corte o tomate em quartos e pele o pepino e corte-o em cubos.",
+      "Escorra a massa, junte-lhe o molho com o marisco, o tomate e o pepino e misture tudo.",
+      "Enfeite com as folhas de manjericão e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Salada de brócolos e feta",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/02/salada-brocolos-feta.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-brocolos-e-feta/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "brócolos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "avelã",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "uva",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 438,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 205,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2226,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2567,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1078,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os brócolos lavados e arranjados em água a ferver por 12 minutos.",
+      "Escorra bem e pique-os finamente. Coloque dentro de uma saladeira, adicione as avelãs já torradas, o feta esfarelado, as uvas cortadas ao meio e o alho picado finamente.",
+      "Tempere com a flor de sal, o mix de pimentas, azeite, sumo e raspa de limão. Envolva.",
+      "Sirva morno ou frio."
+    ]
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Esparguete integral gratinado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/esparguete-integral-gratinado-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-integral-gratinado/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "bacon em tiras",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "courgette amarela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 340,
+        "unit": "g"
+      },
+      {
+        "name": "esparguete integral Pura Vida",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 272,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 884,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 773,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1702,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 898,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2269,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma frigideira antiaderente com as tiras de bacon e deixe fritar até derreter a gordura.",
+      "Junte a cenoura pelada e cortada em cubos e as ervilhas, previamente descongeladas, e deixe cozinhar até estarem macias.",
+      "Junte a courgette em rodelas, deixe cozinhar mais dois ou 3 minutos e adicione o molho de tomate e basílico. Mexa bem e tape.",
+      "Coza a massa em água abundante temperada com o sal até estar al dente.",
+      "Pré-aqueça o forno a 200˚ C, com a função grelhador ligada.",
+      "Escorra a massa, envolva-a com o molho e disponha-a num recipiente de forno pincelado com o azeite.",
+      "Polvilhe com o queijo e um pouco de orégãos e leve ao forno até o queijo estar ligeiramente tostado."
+    ]
+  },
+  {
+    "name": "Risotto com morcela e cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/risotto-com-morcela-maca-e-cogumelos-salteados.jpg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-morcela-maca-cogumelos-salteados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "morcela para assar",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "maçã Granny Smith pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1729,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1404,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 174,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 728,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com a cenoura cortada em palitos, o alho-francês em rodelas, o ramo de salsa, a folha de louro, o dente de esmagado, o sal e a água.",
+      "Tape e deixe ferver cerca de 20 minutos.",
+      "Aqueça uma colher de sopa de azeite num tacho.",
+      "Quando estiver quente introduza a morcela, sem pele e cortada em pedaços, e deixe saltear 2 a 3 minutos.",
+      "Junte a maçã cortada em cubos pequenos e o arroz e deixe fritar 2 minutos, mexendo frequentemente.",
+      "Regue com o vinho e, quando este tiver evaporado, adicione duas conchas do caldo a ferver.",
+      "Mexa e vá repetindo a operação até que o arroz tenha absorvido a totalidade do caldo.",
+      "Entretanto, salteie os cogumelos inteiros numa frigideira com o restante azeite e o dente de alho picado durante 5 minutos.",
+      "Reparta o risotto pelos pratos, disponha por cima os cogumelos salteados e salpique com cebolinho picado e um pouco de pimenta. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Douradas assadas com alecrim",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085254",
+    "link": "https://www.pingodoce.pt/receitas/douradas-assadas-com-alecrim/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata nova",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "dourada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de alecrim picadas",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate chucha",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 313,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 866,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 69,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2496,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2360,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno nos 200 º C, durante 10 minutos. Coloque as batatas num tacho, cubra-as com água e leve ao lume. Tempere com sal e deixe ferver cerca de 15 minutos ou até as batatas estarem tenras.",
+      "Corte 4 quadrados de papel vegetal e prepare as douradas, livrando-as de escamas e limpando-as por dentro. Enxugue-as bem com papel de cozinha por dentro e por fora. Faça um golpe em cada lombo com uma faca bem afiada e coloque as douradas sobre os quadrados de papel vegetal. Misture o azeite com as folhas de alecrim muito bem picadas e o sal. Barre as douradas de ambos os lados e por dentro com a mistura de azeite e alecrim (reserve o que sobrar).",
+      "Lave o tomate, corte-o em rodelas finas e espalhe-as sobre as douradas. Embrulhe bem as douradas no papel vegetal e leve ao forno num tabuleiro. Deixe cozinhar 20 a 25 minutos.",
+      "Escorra as batatas já cozidas. Esborrache os dentes de alho e leve-os ao lume no mesmo tacho onde cozeu as batatas, com a mistura de azeite e alecrim que sobrou. Deixe aquecer bem e aloure bem as batatas, mexendo de vez em quando.",
+      "Sirva as douradas com as batatas salteadas e acompanhe com a mistura ibérica de alfaces, envolvida com a cebola-roxa, previamente descascada e cortada em gomos. Tempere com o restante azeite e o vinagre balsâmico."
+    ]
+  }
+]

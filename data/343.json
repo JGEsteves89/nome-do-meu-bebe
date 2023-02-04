@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Ratatouille",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085825",
+    "link": "https://www.pingodoce.pt/receitas/ratatouille/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 10,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "courgette",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 280,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora butternut",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão de centeio",
+        "qtd": 8,
+        "unit": "fatia"
+      },
+      {
+        "name": "queijo Chèvre",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2484,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 280,
+        "ml": 0
+      },
+      {
+        "id": 10,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1872,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 2179,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque as cebolas e os alhos, corte-os em rodelas e leve ao lume com metade do azeite. Corte o tomate e a courgette em rodelas e o pimento em tiras, limpo de sementes.",
+      "Descasque a abóbora, limpe-a de sementes e corte-a em fatias. Disponha os legumes em camadas sobre a cebolada, salpique com o sal, junte o louro e um ramo de salsa e hortelã atados e regue com o restante azeite.",
+      "Tape e cozinhe em lume brando 25 minutos, agitando o tacho. Sirva os legumes sobre as fatias de pão torradas, cortadas ao meio, e disponha por cima o Chèvre em pedaços. Salpique com orégãos.",
+      "Disponha os legumes em camadas sobre a cebolada, salpique com o sal, junte o louro e um ramo de salsa e hortelã atados e regue com o restante azeite. Tape e cozinhe em lume brando 25 minutos, agitando o tacho.",
+      "Sirva os legumes sobre as fatias de pão torradas, cortadas ao meio, e disponha por cima o Chèvre em pedaços. Salpique com orégãos."
+    ]
+  },
+  {
+    "name": "Hambúrgueres de quinoa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/hamburguers-de-quinoa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburgueres-de-quinoa/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "chalota picada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "abóbora ralada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Browner ou Portobello pequenos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sobras de quinoa cozida",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "maionese com baixo teor de sal",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 612,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 7,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 713,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2288,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1420,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aloure a chalota com metade do azeite. Adicione a abóbora e os cogumelos em pedaços pequenos e salteie, sobre lume médio-forte, cerca de 5 minutos.",
+      "Polvilhe com o tomilho e a paprika e tempere com o sal e pimenta. Regue com o mel e adicione à quinoa cozida, misturando bem. Junte o sumo da lima, o ovo e o cebolinho, polvilhe com uma ou duas colheres de sopa de pão ralado (consoante a mistura estiver mais ou menos húmida), envolva, molde em quatro discos e leve ao frigorífico por 30 minutos.",
+      "Aqueça o restante azeite numa frigideira antiaderente e frite os hambúrgueres, de ambos os lados, até alourarem. Sirva com a maionese e acompanhe com salada ou brócolos cozidos."
+    ]
+  },
+  {
+    "name": "Salmão cremoso com tomate e espinafres",
+    "image": "https://www.youtube-nocookie.com/embed/aDydxvjJ9m8",
+    "link": "https://www.pingodoce.pt/receitas/salmao-cremoso-com-tomate-e-espinafres/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tranche de salmão",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "picado alho congelado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "natas sem lactose",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "espinafres",
+        "qtd": 170,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 91,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2486,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1770,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 914,
+        "g": 170,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os tranches com alho, metade do sal e pimenta. Aqueça o azeite numa frigideira e cozinhe o salmão durante 2 minutos de cada lado. Retire e reserve.",
+      "Adicione à mesma frigideira o tomate cereja, deixe cozinhar por mais alguns minutos e adicione as natas e em seguida, aos poucos os espinafres e por fim o restante sal.",
+      "Volte a colocar os tranches de salmão e deixe apurar por mais 4 minutos."
+    ]
+  }
+]

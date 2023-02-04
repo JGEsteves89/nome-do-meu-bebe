@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Pizza picante",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/pizza-picante.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-picante/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "base para pizza refrigerada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sardinha em conserva de tomate picante",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo Roquefort",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona recheada com pimento",
+        "qtd": 5,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 300,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1702,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2393,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2281,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 241,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 230 ºC.",
+      "Distribua o molho de tomate pelas pizzas.",
+      "Corte as sardinhas ao meio e disponha-as em leque nas bases.",
+      "Por cima, distribua a cebola cortada em gomos, o queijo em pedaços pequenos e as azeitonas em rodelas.",
+      "Polvilhe com orégãos e leve ao forno durante 20 minutos.",
+      "Antes de servir polvilhe com cebolinho picado."
+    ]
+  },
+  {
+    "name": "Risotto de couve-portuguesa com abóbora",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/risotto-abobora.jpg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-couve-portuguesa-abobora/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",2 L"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz risotto",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cerveja",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "queijo parmesão",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora manteiga limpa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola grande picada",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 21,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 178,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 598,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2271,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 790,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 14,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Separe as folhas de couve, apare os talos mais grossos, lave-as e corte-as em tiras largas. Mergulhe-as em água a ferver e escorra bem. Reserve.",
+      "Corte a abóbora em cubos.",
+      "Aqueça metade do azeite numa frigideira larga, junte a abóbora e a couve e tempere com uma pitada de alho em pó e a colher de café de sal.",
+      "Num tacho, aqueça o restante azeite, junte a cebola e o aipo cortados em lâminas finas e deixe refogar.",
+      "Deite a água numa panela, junte o restante sal, o açafrão, o pau de canela e as cascas de limão (só a parte vidrada) e deixe ferver.",
+      "Quando a cebola começar a alourar, deite o arroz no tacho e, assim que ficar translúcido, refresque-o com a cerveja.",
+      "Cozinhe, em lume moderado a brando, mexendo sempre até secar um pouco. Adicione a água aromatizada, a pouco e pouco, deixando secar o arroz entre cada acréscimo.",
+      "Quando o arroz estiver praticamente cozinhado (±25 minutos), junte-lhe a couve e a abóbora. Regue com um pouco mais de caldo e deixe acabar de cozinhar.",
+      "Sirva sem demora, salpicado com lascas de parmesão."
+    ]
+  },
+  {
+    "name": "Crocantes de peru",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089514",
+    "link": "https://www.pingodoce.pt/receitas/crocantes-de-peru/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de peru",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "piripíri em pó",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sêmola de milho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 382,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2099,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1013,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 130,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2423,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 7,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "De véspera, corte os bifes de peru em tiras e tempere-as com o sal, o alho em pó, o colorau e o piripiri. Regue com o sumo do limão e misture bem. Deixe marinar de um dia para o outro.",
+      "No próprio dia, escorra o feijão-frade, passe-o por água e coloque-o numa saladeira.",
+      "Lave o pepino, tire-lhe a casca e as sementes e corte-o em cubos pequenos. Lave o pimento, limpe-o de sementes e corte também em cubinhos. Descasque e pique a cebola. Lave o tomate cereja e, se for grande, corte-o ao meio.",
+      "Junte os legumes preparados ao feijão-frade, adicione a salsa picada, tempere com o azeite e o vinagre e reserve.",
+      "Num prato fundo, misture a sêmola de milho com a farinha. Escorra as tiras de peru, passe-as pela mistura e frite, numa frigideira antiaderente onde aqueceu bem um pouco de azeite, até ficarem douradas e crocantes.",
+      "Retire-as com uma escumadeira e escorra sobre papel absorvente. Sirva com a salada."
+    ]
+  }
+]

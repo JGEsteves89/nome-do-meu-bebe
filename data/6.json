@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Esparguete com amêijoas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/08/esparguete-com-ameijoas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-ameijoas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "amêijoa depurada",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "esparguete",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 111,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 900,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma frigideira larga com o azeite e os dentes de alho esmagados e, quando estiver bem quente, introduza as amêijoas.",
+      "Deixe cozinhar em lume forte até abrirem, tendo o cuidado de sacudir a frigideira de vez em quando.",
+      "Leve ao lume uma panela com bastante água e, quando levantar fervura, junte o sal e introduza a massa. Deixe cozer até ficar al dente.",
+      "Corte o tomate ao meio. Reserve.",
+      "Retire a casca às amêijoas (reserve algumas inteiras para decoração) e coe o caldo que ficou na frigideira.",
+      "Escorra a massa, junte-lhe três a quatro colheres do caldo, o tomate, um pouco do gengibre ralado, as amêijoas, uma mão-cheia de coentros picados e um pouco de pimenta.",
+      "Envolva delicadamente e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Peito de frango com melão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089425",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-com-melao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de frango",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "gengibre",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola-roxa média",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "polpa de melão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 378,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1548,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 162,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os bifes de frango em tiras e tempere com o gengibre ralado, sal, pimenta e os dentes de alho picados. Deixe marinar 30 minutos.",
+      "Corte a cebola em meias-luas finas e, numa frigideira antiaderente, refogue com o azeite, durante cerca de 5 minutos.",
+      "Acrescente as tiras de frango e salteie-as, em lume forte, durante 5 minutos.",
+      "Corte o melão em cubos com cerca de 2 cm e junte-os ao frango. Baixe o lume, tape e deixe cozinhar mais 15 minutos.",
+      "Coza o arroz em água temperada com 1 colher de chá de sal durante 10 minutos, em lume brando. Para um resultado ideal, utilize 2 medidas de água para uma de arroz.",
+      "Quase no fim da cozedura do frango, acrescente o mel e mexa bem. Retire do lume e polvilhe com coentros picados. Sirva com o arroz."
+    ]
+  },
+  {
+    "name": "Massa com bolonhesa de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/massa-com-bolonhesa-de-salmao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/massa-com-bolonhesa-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "massa macarronete",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "filete de salmão",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sumo de limão",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 883,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1521,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1065,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 587,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os filetes de salmão com um pouco de sumo de limão, a pimenta e o alho picado.",
+      "Coloque ao lume uma frigideira com o azeite. Corte a cenoura em cubos pequenos e pique a cebola e refogue-as no azeite. Junte as ervilhas já descongeladas e deixe cozinhar até ficarem tenras.",
+      "Coza a massa em água temperada com a colher de sal até ficar al dente. Junte o salmão ao refogado, mexa com uma colher de pau para o desfazer em lascas e deixe cozinhar.",
+      "Escorra a massa, junte-a ao refogado e deixe saltear alguns instantes. Salpique com folhas de manjericão picadas e sirva de imediato."
+    ]
+  }
+]

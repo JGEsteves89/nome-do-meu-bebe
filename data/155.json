@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Salteado de couve-flor com caju",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/salteado-de-couve-flor-com-caju.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salteado-de-couve-flor-com-caju/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "caju",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "talos e folhas de couve-flor",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 470,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 786,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Aloure o caju numa frigideira larga antiaderente. Retire e reserve. Ripe as folhas de couve-flor, separando-as dos talos. Retire os talos da couve e corte-os em fatias finas.",
+      "Aqueça o azeite na frigideira, junte o dente de alho espremido e os talos da couve-flor e salteie em lume moderado, cerca de 10-15 minutos, até estarem tenros mas crocantes.",
+      "Regue com o mel, adicione as folhas ripadas, sal e pimenta e cozinhe mais 3-4 minutos. Salpique com o vinagre de sidra e junte o caju grosseiramente picado."
+    ]
+  },
+  {
+    "name": "Quinoa salteada com ovo e abacate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/quinoa-salteada-com-ovo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quinoa-salteada-com-ovo-e-abacate/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "quinoa branca Pura Vida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "mistura chinesa de vegetais congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "abacate",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2290,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1639,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a quinoa, conforme as instruções da embalagem, com metade do sal.",
+      "Aqueça meia colher de azeite numa frigideira anti-aderente e estrele os ovos um a um. Reserve",
+      "Na mesma frigideira, aqueça o restante azeite. Junte os dentes de alho, previamente descascados, e cozinhe durante 2 minutos.",
+      "Junte a mistura chinesa e deixe cozinhar mais 4 minutos, juntando o restante sal.",
+      "Adicione a quinoa reservada e tempere com pimenta.",
+      "Sirva em pratos com o abacate cortado em fatias e o ovo estrelado. Polvilhe com coentros."
+    ]
+  },
+  {
+    "name": "Frango com salada de lentilhas e pêssego",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/08/frango-salada-lentilhas-pessego.png",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-salada-de-lentilhas-e-pessego/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango do campo",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pêssego",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "e 0.5 c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "lentilhas cozidas",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1969,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2012,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1310,
+        "g": 540,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o peito de frango com uma colher de chá de sal, pimenta moída na altura, pimentão-doce e alho em pó.",
+      "Lave os pêssegos e corte-os em gomos.",
+      "Aqueça muito bem um grelhador, unte-o com metade da meia colher de sopa de azeite e marque as fatias de pêssego de ambos os lados. Retire e reserve. Unte o grelhador com a restante meia colher de sopa de azeite. Marque os peitos de frango de ambos os lados sobre lume médio a forte. Reduza o lume, regue com o sumo de limão e deixe cozinhar durante mais cerca de 8 minutos.",
+      "Passe as lentilhas por água corrente, escorra bem e numa taça misture-as com a rúcula, o tomate cortado ao meio e as fatias de pêssego. Salpique com algumas folhas de tomilho e tempere com o restante azeite e o vinagre de sidra.",
+      "Sirva com os peitos de frango cortados em fatias."
+    ]
+  }
+]

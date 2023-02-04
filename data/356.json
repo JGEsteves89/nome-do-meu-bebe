@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Rolinhos de frango recheados com espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/rolinhos-de-frango-recheados-com-espargos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/rolinhos-de-frango-recheados-com-espargos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "esparguete",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomate em cacho maduro",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "bife de frango ATP",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo e casca)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 320,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2524,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 895,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2505,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 379,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 894,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os bifes de frango com uma colher de chá de sal, pimenta moída na altura e sumo do limão (antes de espremer o limão retire a casca com um pelador de legumes).",
+      "Retire a base fibrosa dos espargos e reserve.",
+      "Descasque, pique os dentes de alho e aloure-os num tacho com metade do azeite quente, junte os espargos e salteie mexendo durante 3 a 4 minutos.",
+      "Ao mesmo tempo, pique o tomate seco em pedaços e corte a courgette em meias-luas.",
+      "Divida os espargos salteados pelos bifes de frango e enrole-os. Se necessário ate com um fio de cozinha. Aloure os rolos no tacho que utilizou para saltear os espargos e reserve.",
+      "Junte o restante azeite ao tacho e adicione a courgette e o tomate seco. Tempere com meia colher de chá de sal, tape e deixe cozinhar cerca de 20 minutos sobre lume moderado.",
+      "Entretanto, cozinhe o esparguete em água a ferver, aromatizada com as tiras da casca do limão e temperada com o restante sal. Quando estiver al dente, adicione-o ao tacho com a courgette e o tomate e salteie.",
+      "Disponha os rolos sobre o esparguete com os legumes. Acompanhe com o tomate cortado em gomos e polvilhado com orégãos."
+    ]
+  },
+  {
+    "name": "Quinoa com brócolos e maçã verde",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/quinoa-com-brocolos-maca-verde.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quinoa-com-brocolos-e-maca-verde/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "quinoa",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sobras de brócolos cozidos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "maçã Granny Smith",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2288,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1404,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Passe a quinoa por água\nnum coador de rede\ne escorra bem. Deite-a\nnum tacho com água\ne o sal. Tape e deixe ferver\nem lume brando cerca\nde 15 minutos, ou até ter\nabsorvido toda a água.",
+      "Separe os brócolos em\nramos. Reserve. Corte\na maçã e o tomate em\ncubos pequenos. Reserve.",
+      "Numa taça, junte o azeite,\no vinagre, o mel, o tomilho\ne a pimenta. Misture até\nficar homogéneo. Adicione\na quinoa bem escorrida,\na maçã e os legumes e mexa\ncom um garfo, envolvendo\ntudo muito bem."
+    ]
+  },
+  {
+    "name": "Salada de feijão-frade com melão e pimentos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/salada-feijao-frade-melao-pimentos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-feijao-frade-com-melao-e-pimentos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "alho",
+        "qtd": 0,
+        "unit": "dente"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-frade cozido",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebolinho fresco picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1014,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 585,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque e pique a cebola e o alho para uma saladeira. Limpe o melão de casca e das sementes e corte-o em cubos pequenos, limpe os pimentos e o tomate de sementes e corte-os\nem cubos do tamanho dos do melão. Junte tudo à cebola.",
+      "Deite o feijão-frade num coador de rede, passe por água corrente, escorra bem e misture-o com os legumes. Adicione o azeite, o vinagre, o cebolinho picado e uma pitada de pimenta\nmoída na altura. Misture muito bem."
+    ]
+  }
+]

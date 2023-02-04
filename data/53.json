@@ -1,0 +1,364 @@
+[
+  {
+    "name": "Bacalhau fresco com alcaparras",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/filetes-de-bacalhau-fresco.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-fresco-alcaparras/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata primor pequena",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salva",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "lombo de bacalhau fresco",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "couve-flor",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini em rama",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "limão",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 324,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2387,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1355,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 786,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2517,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza as batatas cortadas ao meio, em água temperada com uma colher de chá de sal até estarem macias.",
+      "Pré-aqueça o forno a 190° C.",
+      "Disponha uma folha de salva por cima de cada lombo de bacalhau e coloque-os num tabuleiro ou recipiente de forno.",
+      "Junte a couve-flor e o tomate com a rama e regue com o azeite.",
+      "Tempere com um pouco de pimenta e o restante sal e distribua por cima as alcaparras escorridas.",
+      "Polvilhe com a raspa de limão e leve ao forno cerca de 15 minutos.",
+      "Sirva com as batatas cozidas, as rodelas de limão e salva a gosto."
+    ]
+  },
+  {
+    "name": "Bolinhas de risotto com mozzarella",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/bolinhas-de-risotto-com-mozarella.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bolinhas-de-risotto-com-mozzarella/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "risotto com cogumelos porcini",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 1,
+        "unit": "frasco (340 g)"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 5,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo mozzarella fresco",
+        "qtd": 125,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "óleo",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2775,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1929,
+        "g": 5,
+        "ml": 5
+      },
+      {
+        "id": 2262,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1442,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Prepare o risotto conforme as instruções da embalagem. Logo que esteja pronto, coloque numa taça e leve ao frio.",
+      "Aqueça o molho de tomate num tacho.",
+      "Parta os ovos para um prato fundo e bata. Reserve.",
+      "Noutra taça, coloque o pão ralado.",
+      "Corte a mozzarella aos cubos.",
+      "Faça bolas com o risotto, no centro da bola ponha um pedaço de mozzarella.",
+      "Passe as bolas pelo ovo e em seguida pelo pão ralado. Reserve.",
+      "Aqueça o óleo num frigideira alta e frite as bolas até que estejam completamente douradas.",
+      "Sirva as bolinhas de risotto mergulhadas no molho de tomate e polvilhe com folhas de manjericão e pimenta."
+    ]
+  },
+  {
+    "name": "Filetes de peixe-espada-preto com salada verde",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/01/filetes-peixe-espada-preto-salada-verde.png",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-peixe-espada-preto-com-salada-verde/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filete de peixe-espada-preto",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "limão",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "e 0.5 c. de sopa"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "grão-de-bico cozido em frasco",
+        "qtd": 260,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde tubular congelado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1059,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1712,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1172,
+        "g": 260,
+        "ml": 0
+      },
+      {
+        "id": 1022,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os filetes com o sal, pimenta moída na altura e o alho espremido. Cubra com o limão cortado em rodelas.",
+      "Numa taça, misture uma colher de sopa de azeite com o vinagre e o molho pesto. Junte o tomate seco cortado em pedaços pequenos. Adicione o grão, previamente passado por água corrente, bem escorrido.",
+      "Coloque o feijão-verde numa tigela de vidro, cubra com uma tampa própria para micro-ondas e coza durante 6 a 7 minutos na potência máxima. Escorra bem e junte à salada de grão. Acrescente também o pepino cortado em rodelas finas e algumas folhas de manjericão.",
+      "Aqueça muito bem uma chapa para grelhados, pincele levemente com meia colher de sopa de azeite e marque as rodelas de limão. Reserve. Em seguida, junte o restante azeite e grelhe os filetes.",
+      "Espalhe a salada sobre uma travessa e por cima coloque os filetes de peixe e as rodelas de limão."
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Caril de porco com cuscuz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/porco-perfumado-com-caril-e-cuscuz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caril-de-porco-com-cuscuz/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "porco",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "batata pequena",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "caldo de legumes",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "caril",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2126,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 476,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 524,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a carne em cubos pequenos.",
+      "Numa frigideira antiaderente, salteie a carne numa colher de sopa de azeite, até ficar alourada.",
+      "Regue com o vinho, tempere com sal e continue a cozedura até a carne estar tenra. Retire e reserve.",
+      "Na mesma frigideira salteie as batatinhas, previamente descascadas, o alho-francês em rodelas e o pimento em tiras.",
+      "Adicione o caldo a ferver, junte o caril e deixe estufar durante 10 minutos ou até as batatas estarem cozidas.",
+      "Escorra os legumes, misture com a carne e polvilhe com o manjericão picado.",
+      "Acompanhe com o cuscuz."
+    ]
+  },
+  {
+    "name": "Crepes abertos orientais",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/crepes-abertos-orientais-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/crepes-abertos-orientais/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão-da-índia moído",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal fino",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês fino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "carne de porco magra picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rebentos de feijão mungo",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salada camponesa",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 22,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2342,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 538,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1603,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1697,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1697,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2301,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2353,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque todos os ingredientes da massa no robot de cozinha ou no copo liquidificador e bata cerca de 2 minutos ou até obter um preparado liso e homogéneo. Retire para uma tigela e reserve.",
+      "Leve ao lume uma frigideira anti-aderente com uma colher de sopa de azeite, junte o alho picado, o alho-francês cortado em rodelas finas e refogue 2 ou 3 minutos.",
+      "Junte a carne e deixe cozinhar, mexendo, até ficar dourada e formar pequenos “grumos”.",
+      "Leve ao lume outra frigideira antiaderente, pincele-a com o restante azeite e verta uma colherada de massa.",
+      "Deixe cozer o crepe de ambos os lados e retire. Repita mais três vezes e reserve os crepes.",
+      "Acrescente os camarões ao refogado, o pimento em tiras, as duas colheres de molho de soja e o vinagre e deixe cozinhar até os camarões estarem cozidos.",
+      "Polvilhe com uma mão-cheia de coentros picados e retire do lume. Divida o refogado pelos crepes, dobre-os e reserve-os em local quente.",
+      "Leve de novo a frigideira ao lume e salteie o feijão mungo. Junte-o ao pepino cortado em cubos e a salada, tempere com o restante molho de soja e sirva a acompanhar os crepes."
+    ]
+  },
+  {
+    "name": "Raviolis salteados com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/raviolis-salteados-com-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/raviolis-salteados-com-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "presunto serrano",
+        "qtd": 1,
+        "unit": "emb. (100 g)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ravioli recheados com ricota e trufa",
+        "qtd": 2,
+        "unit": "emb. (500 g)"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2158,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 732,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2784,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC. Forre um tabuleiro de forno com papel vegetal.",
+      "Coloque o presunto no tabuleiro e leve ao forno até que fique crocante.",
+      "Numa frigideira, aqueça o azeite com os dentes de alho picados e uma haste de alecrim. Deixe cozinhar 1 minuto e junte os cogumelos. Envolva e cozinhe por 4 minutos.",
+      "Enquanto isso, cozinhe os raviolis conforme as instruções da embalagem.",
+      "Junte à frigideira os raviolis cozidos e escorridos. Envolva e cozinhe por 1 minuto.",
+      "Tempere com flor de sal e pimenta a gosto, e junte o presunto em pedaços e folhas de alecrim."
+    ]
+  }
+]

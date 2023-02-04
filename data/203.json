@@ -1,0 +1,558 @@
+[
+  {
+    "name": "Caril de peixe e camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/caril-peixe-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caril-de-peixe-e-camarao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 330,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "levedura de padeiro fresca",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "iogurte grego natural",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "camarão 30/50",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de perca do Nilo",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho tikka masala",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "leite de coco",
+        "qtd": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "manga (madura mas firme)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 330,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1320,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 1232,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 490,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1365,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1718,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1287,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 1439,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2488,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por preparar a massa para o pão naan: numa tigela misture a farinha com o sal, os dentes de alho descascados e picados e o cebolinho picado e abra uma cavidade ao meio.",
+      "Dissolva a levedura de padeiro e o açúcar na água morna e deite na cavidade. Adicione o iogurte grego e misture tudo muito bem. Mude a massa para a bancada enfarinhada e amasse até a massa estar lisa e elástica. Volte a colocar na tigela, tape com um pano e deixe levedar durante 1 hora em local quente.",
+      "Para o caril, tempere o camarão e o peixe cortado em cubos com a malagueta limpa de sementes e cortada em rodelas, o sumo da lima, uma colher de café de sal e o alho descascado e picado. Deixe marinar pelo menos 1 hora.",
+      "Prepare os legumes, corte o alho-francês em rodelas e o talo de aipo em lâminas finas. Descasque e pique finamente as chalotas. Lave e corte a courgette em rodelas. Reserve os legumes.",
+      "Escorra os cubos de peixe e passe-os por farinha. Aloure-os num wok, previamente aquecido com uma colher de azeite. Reserve.",
+      "Deite o restante azeite no wok, adicione as chalotas, o alho-francês e o aipo, e deixe cozinhar sobre lume moderado durante cerca de 10 minutos. Junte as rodelas de courgette, salpique com o restante sal e cozinhe durante mais 10 minutos. Adicione o molho tikka masala e o leite de coco e ferva durante mais 25 minutos.",
+      "Entretanto, divida a massa dos naans em seis porções e com a ajuda de um rolo estenda cada uma delas formando um disco com cerca de 18cm de diâmetro.",
+      "Numa frigideira antiaderente, aquecida, cozinhe os naans de ambos os lados.",
+      "Junte ao wok com os legumes, o camarão, o líquido da marinada e os cubos de peixe panados. Passados cerca de 5 minutos, introduza a manga e o tomate cortados em cubos, e ferva mais 5 a 8 minutos.",
+      "Salpique com cebolinho fresco picado e sirva com os naans."
+    ]
+  },
+  {
+    "name": "Empadas de galinha com salada de agrião",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/empadas-de-galinha-com-agriao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadas-de-galinha/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha de trigo",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água da cozedura da galinha 1 dl",
+        "qtd": 0,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "galinha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeitona verde",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "agrião",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "limão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 954,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1116,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2344,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 242,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 45,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      }
+    ],
+    "steps": [
+      "Coza a galinha em água com sal, o louro e as folhas de hortelã. Quando estiver cozida, retire e reserve a carne e a água da cozedura.",
+      "Prepare a massa, misturando a farinha com 1 colher de azeite e envolvendo muito bem.",
+      "Aos poucos, adicione cerca de 1 dl de água da cozedura da galinha e amasse até obter uma massa lisa e rija. Deixe descansar, tapada, durante 30 minutos.",
+      "Desfie a galinha, retirando-lhe as peles e os ossos, e refogue-a numa frigideira com 1 colher de sopa de azeite, a cebola e o alho bem picados.",
+      "Junte as azeitonas laminadas e a hortelã picada. Refresque com um pouco do caldo da cozedura. Mexa e rectifique os temperos.",
+      "Estenda a massa, com a ajuda de um rolo, para ficar com cerca de 3 mm e forre cada uma das formas para empadas. Reserve um pouco de massa para fechar as empadas.",
+      "Coloque recheio de galinha e azeitonas em cada uma das formas e tape com uma rodela de massa recortada. Pressione bem a massa com os dedos, para que não se descole durante a cozedura.",
+      "Pincele as empadas com 1/2 colher de sopa de azeite, coloque-as num tabuleiro e leve a cozer em forno médio durante 20 a 30 minutos.",
+      "Acompanhe com uma salada de agrião temperada com o restante azeite, sumo de limão e sal."
+    ]
+  },
+  {
+    "name": "Perca com legumes grelhados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/08/perca-com-legumes-grelhados-2.jpg",
+    "link": "https://www.pingodoce.pt/receitas/perca-com-legumes-grelhados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "posta de perca pequena",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mistura de vegetais grelhados congelados",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 4,
+        "unit": "dl"
+      },
+      {
+        "name": "agrião",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2135,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2048,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2584,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 835,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 45,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Coloque o peixe num tabuleiro de forno e tempere-o com o alho em pó, uma colher de chá de sal, um pouco de pimenta moída e raspa da casca do limão.",
+      "Por cima, espalhe a mistura de vegetais grelhados e regue com o azeite. Leve ao forno cerca de 15 minutos.",
+      "Num tabuleiro ou taça, misture os cuscuz com o caril, o restante sal e a salsa.",
+      "Regue com a água a ferver, cubra com película aderente e deixe hidratar cerca de 5 minutos. Em seguida, solte-os com um garfo.",
+      "Sirva o peixe com os cuscuz e acompanhe com o agrião e o limão cortado em gomos."
+    ]
+  }
+]

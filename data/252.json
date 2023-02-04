@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Vitela assada com tomilho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/vitela-assada-com-tomilho.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/vitela-assada-com-tomilho/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alcatra de vitela",
+        "qtd": 650,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "brócolos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "batata nova",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 67,
+        "g": 650,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 313,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Descasque dois alhos e triture-os com a varinha mágica, juntamente com três colheres de sopa de azeite e o pimentão doce.",
+      "Barre a carne com este preparado e junte o tomilho, uma colher de chá de sal e a pimenta.",
+      "Coloque a alcatra num tabuleiro de ir ao forno e regue-a com o vinho branco. Leve ao forno a 200 ºC durante 15 minutos.",
+      "Após esse tempo, baixe o forno para os 170 ºC e deixe cozinhar durante cerca de uma hora. Tenha o cuidado de ir virando a carne de vez em quando, para assar de forma uniforme, e vá regando com o molho da assadura.",
+      "Coza as batatas com pele numa panela com água e uma pitada de sal. Deixe arrefecer e descasque-as.",
+      "Adicione as batatas à carne 15 minutos antes do final do tempo de assadura. No final, deverão apresentar-se ligeiramente crocantes.",
+      "Entretanto, lave e prepare os brócolos. Introduza-os numa panela com água a ferver e uma pitada de sal e deixe cozer durante cinco minutos. Retire-os com uma escumadeira e reserve.",
+      "Leve ao lume uma frigideira com um pouco de azeite e um dente de alho picado e salteie os brócolos durante uns instantes.",
+      "Sirva a carne com os brócolos e as batatas."
+    ]
+  },
+  {
+    "name": "Ceviche de corvina com nachos",
+    "image": "https://www.youtube-nocookie.com/embed/3cdxzt_cRDs",
+    "link": "https://www.pingodoce.pt/receitas/ceviche-de-corvina-com-nachos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "posta de corvina",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "lima",
+        "qtd": 4,
+        "unit": "unid. (180 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abacate",
+        "qtd": 2,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola roxa",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "coentros",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "nachos",
+        "qtd": 1,
+        "unit": "emb. (150 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2705,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1331,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 576,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2706,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte as postas de corvina em pedaços, retire as espinhas e coloque numa taça. Adicione o sumo de 3 limas, metade do sal, pimenta e 1 colher de sopa de azeite. Deixe marinar durante 25 minutos.",
+      "Retire a casca e o caroço aos abacates e corte em cubos, regue com o restante sumo de lima. Junte à corvina, a malagueta picada e a cebola em meias-luas finas.",
+      "Tempere com o restante azeite e sal, os coentros, envolva e sirva com os nachos."
+    ]
+  },
+  {
+    "name": "Arroz de frango com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/arroz-de-frango-com-legumes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-frango-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coxa de frango ATP",
+        "qtd": 1,
+        "unit": "kg (8 unid.)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "courgette",
+        "qtd": 200,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "colorau",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "água",
+        "qtd": 750,
+        "unit": "ml"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 795,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 160,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 744,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Tempere as coxas de frango com metade do sal, pimenta, colorau e alho em pó.",
+      "Aqueça uma colher de sopa de azeite num tacho de ferro que possa ir ao fornoe core as coxas de frango durante dois minutos de cada lado. Retire e reserve.",
+      "Junte o restante azeite, a cebola e o alho, previamente picados, e a folha de louro. Cozinhe em lume brando durante 3 minutos.",
+      "Adicione a cenoura e a courgette, previamente partidas em cubos pequenos, e envolva. Cozinhe por mais 3 minutos e em seguida acrescente o alho-francês partido em rodelas.",
+      "Junte o arroz, envolva bem, acrescente a água e o restante sal. Misture bem.",
+      "Coloque o frango por cima, tape e leve ao forno por cerca de 30 minutos."
+    ]
+  }
+]

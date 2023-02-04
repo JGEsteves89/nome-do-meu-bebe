@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Frango com limão e orégãos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/frango-com-limao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-limao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coxa de frango do Campo com perna",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho esmagado",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz integral",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 797,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 564,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 172,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Tempere as coxas de frango com a colher de sobremesa de sal e um pouco de pimenta e regue-as com o sumo de um limão. Reserve.",
+      "Corte o outro limão em fatias e disponha-as num tabuleiro de forno.",
+      "Coloque por cima as coxas de frango e espalhe os dentes de alho esmagados.",
+      "Descasque as cenouras e corte-as em palitos. Reserve.",
+      "Corte as cebolas descascadas em meias-luas grossas e disponha-as à volta do frango, juntamente com as cenouras.",
+      "Polvilhe com folhas de orégãos, regue com o vinho branco e o azeite e leve ao forno cerca de 30 minutos. Regue com um pouco de água se necessário.",
+      "Prepare o arroz conforme as instruções da embalagem, usando o restante sal para temperar.",
+      "Sirva a acompanhar o frango e os legumes."
+    ]
+  },
+  {
+    "name": "Sopa de pimentos assados com grão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/sopa-de-pimentos-assados-com-grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-pimentos-assados-com-grao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pimento vermelho",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 240,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mistura de pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "grão-de-bico cozido (1 frasco escorrido)",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "gengibre em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2088,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1661,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1173,
+        "g": 540,
+        "ml": 0
+      },
+      {
+        "id": 23,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1154,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Tire as sementes aos pimentos e descasque as cebolas. Corte tudo em pedaços, juntamente com o tomate. Descasque e pique os alhos e coloque tudo num tabuleiro de forno.",
+      "Tempere com sal, com o mix de pimentas, o vinagre e duas colheres de sopa de azeite. Misture com as mãos. Leve ao forno por 15 minutos.",
+      "Forre outro tabuleiro de forno com papel vegetal.",
+      "Numa taça, junte o grão escorrido, o açafrão, o alho em pó e o gengibre. Envolva.",
+      "Espalhe a mistura de grão pelo tabuleiro e leve ao forno por 15 minutos.",
+      "Retire os legumes do forno e reserve alguns grãos para decorar. Coloque os restantes num liquidificador e triture até obter um creme. Se for necessário, adicione um pouco de água.",
+      "Disponha os grãos reservados por cima da sopa, regue com o restante azeite, polvilhe com folhas de manjericão e com o mix de pimentas moído na altura e sirva."
+    ]
+  },
+  {
+    "name": "Caril de frango com abóbora e grão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/03/caril-frango-abobora-grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caril-de-frango-com-abobora-e-grao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "frango do campo",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo com rama",
+        "qtd": 1,
+        "unit": "talo"
+      },
+      {
+        "name": "limão (sumo e casca)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "leite de coco",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "grão-de-bico cozido",
+        "qtd": 540,
+        "unit": "g"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 85,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1095,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 63,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 526,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1287,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 2437,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 162,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 126,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 85,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o frango cortado em pedaços num tacho, junte a parte verde do alho-francês, a pele das cenouras e o talo de aipo cortado em troços, e uma a duas tiras de casca do limão. Cubra com água e tempere com metade do sal e leve ao lume. Coza tapado durante cerca de 1 hora ou até o frango estar tenro. Escorra o frango, coe e reserve o caldo da sua cozedura.",
+      "Descasque e pique finamente a cebola e leve ao lume num tacho com o azeite e o louro. Quando a cebola estiver bem alourada, polvilhe com o caril e junte a abóbora cortada em cubos. Salteie durante 5 minutos sobre lume médio a forte, mexendo de vez em quando.",
+      "Junte o leite de coco, o grão bem escorrido e as sultana. Tempere com o restante sal e deixe o caril ferver sobre lume moderado com o tacho destapado.",
+      "Entretanto, elimine a pele e os ossos do frango e desfie-o.",
+      "Junte o frango e cerca de 200ml do caldo da sua cozedura ao caril e ferva destapado durante mais 15 minutos. No final, adicione umas gotas de sumo do limão.",
+      "Deite 600ml do caldo da cozedura do frango noutro tacho, leve ao lume e quando ferver introduza o arroz, mexa com um garfo, tape e coza durante cerca de 12 minutos.",
+      "Ao mesmo tempo, aloure as amêndoas numa frigideira antiaderente.",
+      "Envolva as folhas de espinafres no caril já pronto e polvilhe com as amêndoas tostadas. Sirva com o arroz e salpique com cebolinho picado."
+    ]
+  }
+]

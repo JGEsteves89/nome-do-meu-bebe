@@ -1,0 +1,493 @@
+[
+  {
+    "name": "Bife de atum com presunto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/bife-de-atum-com-presunto-na-frigideira.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bife-atum-presunto/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de atum",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "presunto",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "grelo de nabo",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 374,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2148,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2601,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 320,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1176,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Deixe os bifes a marinar durante 10 minutos com o sal, pimenta, metade dos dentes de alho laminados, as folhas de louro e o vinho branco.",
+      "Limpe os grelos e coza-os em água a ferver com o restante sal até estarem macios.",
+      "Lave e coza as batatas com pele em água temperada com metade do sal. Depois de cozidas, descasque e corte em rodelas. Reserve.",
+      "Aqueça metade do azeite numa frigideira e core os bifes de atum, previamente escorridos, de ambos os lados cerca de meio minuto. Retire e reserve.",
+      "Disponha as batatas na frigideira e deixe-as corar um pouco. Retire as batatas, junte o líquido da marinada na frigideira e deixe ferver cerca de 3 minutos.",
+      "Aqueça o restante azeite noutra frigideira, preferencialmente larga, e passe o presunto pelo azeite. Retire e reserve.",
+      "Adicione o alho finamente picado ao azeite e, em seguida, junte os grelos, deixando saltear cerca de 2 a 3 minutos. Retire.",
+      "Coloque o bife numa frigideira, ou num prato de servir, com as batatas à volta.",
+      "Disponha o presunto por cima do bife, regue com a redução da marinada e tempere com umas gotas de vinagre de vinho tinto.",
+      "Sirva com os grelos a acompanhar."
+    ]
+  },
+  {
+    "name": "Pernas de frango no tacho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/pernas-de-frango-no-tacho.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/pernas-frango-no-tacho/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão da avó",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "perna de frango",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinha pérola congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 141,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1784,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1866,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2001,
+        "g": 12,
+        "ml": 12
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2108,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 583,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aloure as pernas de frango de todos os lados em metade do azeite quente.\nTempere com a colher de sobremesa de sal e retire do tacho.",
+      "Deite o restante azeite no tacho, junte a cebola cortada em meias-luas finas e o alho-francês, previamente lavado, em rodelas.",
+      "Quando os legumes começarem a amolecer, adicione a polpa de tomate e introduza de novo as pernas de frango.",
+      "Adicione as cebolinhas congeladas e os cogumelos, previamente limpos e cortados ao meio.",
+      "Regue com o vinho branco, tape e deixe cozinhar em lume muito brando durante 50 minutos.",
+      "Dilua o amido de milho com a água fria e junte ao cozinhado.",
+      "Mexa bem, tempere com o restante sal, um pouco de pimenta, uma pitada de noz-moscada e deixe ferver mais 5 minutos para o molho engrossar um pouco.",
+      "Polvilhe com salsa acabada de picar e sirva com fatias finas de pão ligeiramente tostadas."
+    ]
+  },
+  {
+    "name": "Peixe-espada grelhado com salada de feijão-frade",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/peixe-espada-grelhado-com-salada-feijao-frade.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peixe-espada-grelhado-com-salada-de-feijao-frade/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peixe-espada",
+        "qtd": 700,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "couve-roxa ripada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "feijão-frade cozido (escorrido)",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "tomate (maduro, mas firme)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1981,
+        "g": 700,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 794,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1014,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 130,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Dê um a dois golpes em ambos os lados das postas de peixe e tempere com o sal.",
+      "Para a salada, coloque a couve-roxa num coador de rede, polvilhe-a com o sal e misture bem com as mãos.",
+      "Passe por água corrente, esprema o excesso de água e coloque numa saladeira. Deite o feijão-frade no mesmo coador, passe por água corrente, escorra bem e junte à couve.",
+      "Adicione a cebola, descascada e picada, o pepino e o tomate, limpos de sementes e cortados em cubos, e metade da salsa picada. Regue com o azeite e o vinagre e misture bem.",
+      "Aqueça muito bem uma grelha ou uma chapa para grelhados. Enxugue as postas de peixe com papel de cozinha e pincele-as bem com metade do azeite. Ponha sobre a grelha e cozinhe sobre lume médio durante 6 a 7 minutos de cada lado, consoante a altura das postas.",
+      "Entretanto, numa taça, misture o restante azeite com sumo de meio limão, o alho, descascado e espremido, e a restante salsa picada.",
+      "Depois de grelhado, regue o peixe com o molho e decore com o restante limão cortado em rodelas. Acompanhe com a salada."
+    ]
+  }
+]

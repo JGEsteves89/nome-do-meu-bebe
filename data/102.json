@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Porco com migas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/porco-com-migas.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/porco-com-migas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "perna de porco cortada em cubos",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 12,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pão de mistura",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "raminho de tomilho fresco",
+        "qtd": 1,
+        "unit": "ramo"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2004,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 36,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2598,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1899,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere a carne com metade dos dentes de alho, descascados e picados, com sal, pimentão doce e os cominhos em pó. Junte a folha de louro partida em pedaços e misture muito bem. Regue com o vinagre e 2 colheres de sopa de azeite e volte a mexer.",
+      "Coza os brócolos em água a ferver temperada com uma colher de sobremesa de sal até estarem tenros.",
+      "Parta o pão à mão em pedaços pequenos para uma tigela e cubra com água de cozer os brócolos.",
+      "Aqueça o restante azeite num tacho em lume médio e frite a carne até alourar. Reduza o lume para o mínimo, junte o líquido da marinada, tape e deixe cozinhar cerca de 25 minutos ou até estar tenra (se começar a secar demasiado acrescente um pouco de água quente).",
+      "Retire os pedaços de carne e coloque-os numa travessa, e mantenha quente.",
+      "Junte ao tacho os restantes dentes de alho esborrachados e sem pele, os brócolos cozidos e o pão bem espremido. Salpique com as folhas de tomilho e deixe ferver destapado sobre lume médio, mexendo até o pão ficar na consistência desejada. Rectifique os temperos.",
+      "Sirva a carne com as migas de brócolos."
+    ]
+  },
+  {
+    "name": "Tagliatelle com salmão e molho de agrião",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/03/tagliatelle-com-salmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-com-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de salmão sem pele nem espinhas",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "tagliatelle fresco",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "agrião em folha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho bechamel",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "água",
+        "qtd": 7,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta rosa em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1377,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 612,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2454,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 47,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1691,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1050
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2054,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ponha uma panela ao lume com a água e uma colher de sobremesa de sal.",
+      "Aqueça metade do azeite numa frigideira larga anti-aderente.",
+      "Tempere o lombo de salmão com a meia colher de café de sal e um pouco de pimenta e aloure-o no azeite bem quente durante 2 minutos de cada lado.",
+      "Descasque as chalotas, pique-as finamente e reserve-as.",
+      "Retire o salmão da frigideira e reserve-o. Deite o restante azeite e as chalotas na frigideira e deixe alourar em lume médio, mexendo de vez em quando.",
+      "Coza o tagliatelle durante 3 minutos e escorra a água (reserve 2 dl).",
+      "Retire uma mão-cheia de folhas de agrião e reserve-as.",
+      "Coloque as restantes no copo liquidificador ou da varinha e junte-lhes o béchamel e a mesma medida de caldo da cozedura da massa.",
+      "Triture e adicione este molho às chalotas, misturando bem. Quando levantar fervura junte a massa escorrida, envolva bem e retire do lume.",
+      "Disponha a massa no recipiente onde vai servir, salpique com o salmão em lascas e com as folhas de agrião reservadas. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Nasi goreng",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/nasi-goreng.jpg",
+    "link": "https://www.pingodoce.pt/receitas/nasi-goreng/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz Thai Jasmine",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "bife de peru",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês fino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 181,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1603,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 382,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Parta os ovos para uma tigela e tempere com uma colher de café de sal e um pouco de pimenta.",
+      "Aqueça uma colher de chá de azeite numa frigideira anti-aderente, junte\nos ovos batidos e forme um crepe. Retire e reserve.",
+      "Coza o arroz em água temperada com uma colher de café de sal e, quando\nestiver cozido, escorra-o, passe-o por água e coloque-o por cima de um pano,\nespalhando bem.",
+      "Pique a malagueta juntamente com as chalotas e os dentes de alho, junte o molho de soja e misture bem.",
+      "Coloque ao lume um wok ou frigideira alta com o restante azeite e, quando estiver quente, introduza os ingredientes picados e deixe saltear 1 a 2 minutos.",
+      "Junte o miolo de camarão, os bifes de peru cortados em tiras finas\ne salteie até estarem corados.",
+      "Adicione o pimento cortado em tiras e o alho-francês em rodelas, mexa e salteie mais 2 minutos.",
+      "Adicione o arroz, envolva bem e deixe saltear tudo 2 a 3 minutos.",
+      "Enrole o crepe, corte-o em tiras e junte-o ao cozinhado. Polvilhe com o cebolinho picado e sirva."
+    ]
+  }
+]

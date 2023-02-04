@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Tortellini com presunto e mozzarella",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085859",
+    "link": "https://www.pingodoce.pt/receitas/tortellini-com-presunto-e-mozzarella/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella de búfala",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "presunto",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salva",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pés de manjericão",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "salva",
+        "qtd": 1,
+        "unit": "pé"
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2258,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2387,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2387,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 1745,
+        "g": 7,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Para os tortellini: salpique a bancada de trabalho com farinha e misture aí a farinha e o sal. Abra uma cova e acrescente o azeite e os ovos. Amasse bem com as mãos, até obter uma massa consistente e homogénea. Deixe descansar 15 minutos. Com um rolo, estenda a massa até ficar muito fina. Corte-a em pequenos círculos com cerca de 8cm, usando um corta-massas ou um copo.",
+      "Para o recheio: pique finamente as chalotas e os dentes de alho e salteie-os no azeite quente até a chalota começar a murchar. Adicione o queijo Mozzarella cortado em cubos, o presunto e o tomate seco laminado.",
+      "Envolva bem e tempere com metade do sal, pimenta e a salva cortada em troços finos. Retire do lume, deixe arrefecer um pouco e recheie os tortellini. Reserve.",
+      "Coloque um pouco de recheio no centro dos círculos de massa e feche-os, unindo as pontas. Passe com um pouco de água nos bordos e pressione para prender melhor.",
+      "Lamine o manjericão e a salva, coloque-os num tacho pequeno e adicione o azeite e a mostarda em grão. Envolva bem e leve ao lume até levantar fervura. Retire e reserve.",
+      "Coza a massa em água a ferver temperada com sal durante 3 minutos ou até ficar al dente. Retire, escorra e coloque os tortellini num prato fundo. Regue-os com o molho de ervas quente. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Bruschetas com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085407",
+    "link": "https://www.pingodoce.pt/receitas/bruschetas-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "atum em posta ao natural",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "cebola",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate chucha",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão da avó",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 194,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2496,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 66,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1866,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2360,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2342,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque a cebola e pique-a finamente. Lave o tomate, limpe-o de sementes e pique-o em cubinhos pequenos. Junte a cebola e o tomate ao atum previamente escorrido e desfeito em lascas.",
+      "Pique finamente as alcaparras e uma boa porção de salsa. Junte aos restantes ingredientes e misture.",
+      "Corte o pão em fatias com um dedo de espessura e grelhe-as de ambos os lados numa chapa para grelhados, ou sobre as brasas, até estarem levemente torradas.",
+      "Esfregue as torradas com o dente de alho. Regue-as de um dos lados com 1 colher de sopa de azeite.",
+      "Por cima distribua a mistura de atum e sirva com a mistura ibérica de alfaces, temperada com o sal, o restante azeite e o vinagre."
+    ]
+  },
+  {
+    "name": "Hambúrguer Angus com guacamole",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/hamburguer-angus-com-guacamole.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-angus-com-guacamole/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "hambúrguer Angus",
+        "qtd": 4,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão de hambúrguer ou brioche",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "guacamole",
+        "qtd": 1,
+        "unit": "emb. (150 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1189,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 587,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2421,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2773,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1891,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1187,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os hambúrgueres com sal e pimenta.",
+      "Aqueça uma frigideira com o azeite e cozinhe os hambúrgueres por cerca de 4 minutos de cada lado. Retire e reserve.",
+      "Numa taça, misture a cenoura ralada com o pepino cortado em fatias finas, as sementes de sésamo e coentros picados.",
+      "Corte os pães ao meio e barre nas bases um pouco de guacamole, pondo sobre ele o hambúrguer e em seguida a mistura de cenoura.",
+      "Cubra com mais um pouco de guacamole e tape com o topo do pão. Sirva de imediato."
+    ]
+  }
+]

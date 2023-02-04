@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Chanfana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/06/chanfana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/chanfana/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "borrego ou cabrito em pedaços",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola grande",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "cravinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "louro",
+        "qtd": 3,
+        "unit": "folha"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "aguardente",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "batata cozida",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 426,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 801,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 58,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 302,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque a carne em vinha-d'alhos (vinho tinto, alho, sal), pelo menos durante 24 horas.",
+      "Num recipiente de barro, aloure a cebola, previamente descascada e cortada em rodelas finas, no azeite. Junte a carne e a vinha-d'alhos, o cravinho, o louro e um molho de alecrim e deixe estar a ferver.",
+      "A meio da cozedura adicione a aguardente, tape e deixe ficar a ferver até a carne estar meio cozinhada e terem passado os cheiros da aguardente e do vinho.",
+      "Pré-aqueça o forno a 120 °C.",
+      "Leve o recipiente de barro, bem tapado, ao forno e deixe cozinhar cerca de 4 horas.",
+      "Sirva a carne com batata cozida e salsa."
+    ]
+  },
+  {
+    "name": "Esparguete de courgette com beterraba",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/SB48_alta-277.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-de-courgette-com-beterraba/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "courgette spaghetti",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "beterraba cozida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de girassol",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 775,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 366,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2414,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque a cebola e corte-a em meias-luas finas.",
+      "Numa frigideira larga ou num wok, aqueça o azeite, junte a cebola e salteie durante cerca de 5 minutos, mexendo frequentemente.",
+      "Adicione a courgette e cozinhe durante mais 2 minutos, mexendo devagar.",
+      "Regue com o molho de soja e o vinagre balsâmico, e misture delicadamente. Coloque no recipiente de servir.",
+      "Por cima distribua a beterraba cortada em meias-luas e salpique com as sementes de girassol."
+    ]
+  },
+  {
+    "name": "Sardinhas assadas aromáticas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/sardinhas-assadas-aromaticas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sardinhas-assadas-aromaticas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "pimento amarelo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sardinha",
+        "qtd": 18,
+        "unit": "unid."
+      },
+      {
+        "name": "laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alecrim fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2069,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2391,
+        "g": 18,
+        "ml": 18
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 220 ºC.",
+      "Num tabuleiro forrado com folha de alumínio, leve\nos pimentos ao forno durante 40 minutos, tendo o\ncuidado de os virar de vez em quando.",
+      "Lave e enxugue bem as sardinhas, com papel de cozinha absorvente.",
+      "Retire o vidrado da laranja, sem a película branca, e pique-o com um pouco de alecrim, de manjericão e de tomilho.",
+      "Adicione às ervas, metade do sal e duas colheres de azeite. Distribua uma parte deste preparado pela barriga das sardinhas. Reserve.",
+      "Retire os pimentos do forno e feche-os num saco de papel.",
+      "Deixe arrefecer um pouco, retire a pele e as sementes e corte-os em tiras.",
+      "Num tabuleiro untado com azeite, leve as sardinhas ao forno durante 15 minutos.",
+      "Sirva as sardinhas com os pimentos cortados em tiras temperados com o restante azeite e sal."
+    ]
+  }
+]

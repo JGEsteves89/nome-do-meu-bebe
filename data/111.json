@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Arroz frito com camarão e ovo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/02/arroz-frito-camarao-ovo-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-frito-com-camarao-e-ovo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "miolo de camarão",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "mistura chinesa de vegetais congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "arroz basmati (já cozido)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "malagueta seca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1603,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1639,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 162,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1430,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Tempere o camarão com sal, alho em pó, a malagueta seca picada e pimenta.",
+      "Aqueça o azeite numa frigideira e cozinhe o camarão por 4 minutos. Retire e reserve.",
+      "Acrescente à frigideira os vegetais e cozinhe por mais 4 minutos, mexendo sempre que necessário. Adicione o arroz já cozido, deixe fritar e junte o molho de soja. Adicione o camarão, envolva e divida pelos pratos.",
+      "Entretanto, estrele os ovos um a um numa frigideira antiaderente e sirva sobre o arroz."
+    ]
+  },
+  {
+    "name": "Arroz de bacalhau com tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/04/arroz-de-bacalhau-com-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-bacalhau-tomate-trio-pimentos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "bacalhau desfiado congelado",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho congelado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola congelada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomate em cubos congelados picado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados congelados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 264,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 900
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 92,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 569,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2507,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 706,
+        "g": 14,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o bacalhau com a água e a folha de louro num tacho em lume brando cerca de 5 minutos.",
+      "Retire do lume e reserve.",
+      "Noutro tacho, aqueça bem o azeite, junte lhe o alho e a cebola e, quando começarem a alourar, adicione o tomate.",
+      "Mexa bem e deixe cozinhar em lume médio cerca de 5 minutos.",
+      "Corte os pimentos, previamente limpos de sementes, em tiras e junte-os ao refogado de tomate.",
+      "Regue com o caldo da cozedura do bacalhau coado num passador e, quando retomar fervura, incorpore o arroz. Mexa, tape e cozinhe cerca de 15 minutos.",
+      "Adicione o bacalhau cerca de 5 minutos antes de terminar o tempo de cozedura. Retire do lume e junte os coentros picados."
+    ]
+  },
+  {
+    "name": "Almôndegas gregas de borrego",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/12/almondegas-borrego.jpg",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-gregas-de-borrego/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "carne de borrego picada",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "iogurte grego triplo 0",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo Halloumi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pão pita",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 531,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2344,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1196,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1235,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2601,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2252,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1922,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 100 ºC.",
+      "Numa taça, misture bem a carne picada com uma colher de café de sal, pimenta, dois dentes de alho picados, meia cebola descascada e picada, e metade da hortelã picada.",
+      "Forme bolas e em seguida frite-as numa frigideira com uma colher de sopa de azeite até estarem douradas. Reserve-as no forno para se manterem quentes.",
+      "Entretanto, prepare o molho de iogurte num processador de alimentos, misturando o iogurte grego com o sumo de limão, os restantes alho, hortelã e um pepino ralado e espremido. Tempere com pimenta-preta e uma colher de café de sal. Triture tudo e reserve no frio.",
+      "Para a salada, coloque numa taça o tomate e o restante pepino cortados em cubos, a restante cebola cortada em fatias finas e tempere com orégãos, o restante sal, azeite e vinagre.",
+      "Corte o queijo Halloumi em fatias e grelhe-o numa frigideira antiaderente durante 2 minutos de cada lado.",
+      "Sirva as almôndegas com o pão pita aquecido, com a salada e o queijo grelhado cortado em cubos.",
+      "Decore com quartos de limão e acompanhe com o molho de iogurte."
+    ]
+  }
+]

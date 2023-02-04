@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Base de creme de camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/base-creme-de-camarao-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/base-de-creme-de-camarao/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "aipo",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha torrada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de camarão ver receita",
+        "qtd": 1,
+        "unit": "L"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2109,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 980,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 473,
+        "g": 0,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pique finamente os legumes e aloure-os no azeite quente, até estarem macios. Adicione a polpa de tomate e triture muito bem com a varinha. Polvilhe com a farinha torrada e adicione o caldo de camarão. Deixe engrossar, mexendo de vez em quando."
+    ]
+  },
+  {
+    "name": "Carabineiro com polvo e batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/carabineiro-com-polvo-batata-doce-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/carabineiro-polvo-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho miniatura",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento amarelo miniatura",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "água da cozedura do polvo 4dl",
+        "qtd": 0,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "folha de gelatina",
+        "qtd": 6,
+        "unit": "folha"
+      },
+      {
+        "name": "folhas de coentros",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "carabineiro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 8,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2093,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2070,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 612,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1083,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 515,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2488,
+        "g": 8,
+        "ml": 8
+      }
+    ],
+    "steps": [
+      "Coza o polvo numa panela com água a ferver cerca de 30 a 35 minutos. Retire o polvo, reservando a água da cozedura.",
+      "Pré-aqueça o forno a 150 ºC.",
+      "Lave bem as batatas e asse-as no forno durante 40 minutos. Retire e reserve.",
+      "Corte os pimentos em cubos e reserve-os. Descasque quatro chalotas, pique-as e reserve. Retire a cabeça ao polvo e reserve-a. Corte o restante em pedaços pequenos e uniformes (reserve um tentáculo para decoração).",
+      "Coloque a água da cozedura do polvo ainda morna numa taça, junte-lhe os pimentos e as chalotas preparadas e um dente de alho picado. Adicione as folhas de gelatina, previamente demolhadas e derretidas no micro-ondas, os coentros picados (reserve alguns) e um pouco de pimenta e envolva tudo muito bem.",
+      "Recheie, cuidadosamente, a cabeça do polvo com este preparado e reserve-a no frigorífico (ou pode optar por cortar o polvo todo em pedaços e enformar a gelatina num aro metálico).",
+      "Descasque os carabineiros, reservando as cabeças. Polvilhe-os com o sal e um pouco de pimenta. Descasque as restantes cebolinhas e corte-as ao meio.",
+      "Aqueça bem o azeite numa frigideira, juntamente com o restante dente de alho esmagado e salteie os carabineiros, e as respectivas cabeças, em lume forte cerca de 1 minuto de cada lado. Retire e reserve. Na mesma frigideira salteie as metades de cebolinha e o tomate.",
+      "Corte a cabeça de polvo recheada em quatro triângulos\ne reserve (ou o conteúdo do aro). Abra as batatas-doces ao meio no sentido do comprimento, dispondo por cima uma fatia de cabeça de polvo, um carabineiro e uma cabeça do mesmo. Decore com as cebolinhas e o tomate salteados.",
+      "Regue com o azeite de saltear e polvilhe com as restantes folhas de coentros."
+    ]
+  },
+  {
+    "name": "Paella de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/06/paella-de-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/paella-de-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz risotto",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "água",
+        "qtd": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora manteiga (limpa)",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 884,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 178,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 14,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 21,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pique finamente a cebola e os dentes de alho, corte o aipo em lâminas finas e leve tudo ao lume com o azeite numa paelheira.",
+      "Deixe cozinhar em lume moderado até a cebola estar transparente.",
+      "Corte a courgette em rodelas e a abóbora em cubos e junte-os à cebola. Polvilhe com o açafrão-da-índia e misture bem.",
+      "Pré-aqueça o forno a 180 ºC.",
+      "Limpe os cogumelos com papel de cozinha e corte-os ao meio. Apare as pontas dos bimis e corte-os em ramos mais pequenos.",
+      "Deite os legumes preparados na frigideira, junte as ervilhas e deixe cozinhar cerca de 10 minutos, mexendo frequentemente.",
+      "Tempere com metade do sal, junte o arroz e cozinhe, mexendo mais 2 minutos. Regue com o vinho e deixe ferver até evaporar.",
+      "Adicione a água a ferver, tempere com o restante sal e deixe levantar fervura.",
+      "Lave o tomate, corte-o ao meio, disponha-o sobre o arroz e leve ao forno tapado cerca de 20 minutos.",
+      "Nos últimos 2 minutos destape, desligue o forno e deixe a paella repousar lá dentro mais 10 minutos."
+    ]
+  }
+]

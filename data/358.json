@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Atum grelhado com caponata",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/atum-grelhado-com-caponata.jpg",
+    "link": "https://www.pingodoce.pt/receitas/atum-grelhado-com-caponata/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "beringela",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate com rama maduro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hastes de aipo",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona verde descaroçada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "qtd": 0,
+        "unit": ",75 dl"
+      },
+      {
+        "name": "molho de manjericão",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "água",
+        "qtd": 9,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho",
+        "qtd": 7,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sêmola de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "molho de manjericão",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "lombo de atum",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "azeite para pincelar",
+        "qtd": 1,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 363,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2503,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 245,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2601,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1350
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 945,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2423,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1347,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte as beringelas, a courgette, o tomate, limpo de sementes, a cebola e o aipo em cubos.",
+      "Numa frigideira antiaderente, aqueça o azeite e salteie a cebola uns instantes. Junte a beringela cortada e salteie.",
+      "Proceda da mesma forma com a courgette e o tomate. Tempere com o sal e deixe saltear os legumes até estarem al dente.",
+      "Acrescente as alcaparras e as azeitonas, salteie mais um pouco e tempere com o vinagre. No final, polvilhe com o manjericão picado. Reserve.",
+      "Num tacho, leve a água ao lume com o sal e o alho picado. Assim que levantar fervura adicione o azeite e, em seguida, junte a farinha de milho e a sêmola.",
+      "Envolva muito bem e deixe cozinhar lentamente durante 10 minutos, tendo o cuidado de mexer sempre. Retire do lume e reserve.",
+      "Corte o lombo de atum em bifes uniformes. Pincele com o azeite, salpique com sal e grelhe-os de ambos os lados.",
+      "Coloque os lombos de atum no prato de servir e disponha sobre estes a caponata. Sirva com a polenta à parte salpicada com o manjericão picado."
+    ]
+  },
+  {
+    "name": "Tacos de camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/05/tacos-de-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tacos-de-camarao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "manga",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "lima",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "guacamole",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "tortilha colorida",
+        "qtd": 12,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2086,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1439,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1331,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 1603,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1187,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2540,
+        "g": 12,
+        "ml": 12
+      }
+    ],
+    "steps": [
+      "Coloque numa taça a cebola, metade da malagueta e o pimento bem picados.",
+      "Adicione a manga em cubos pequenos, o sumo e a raspa de duas limas, os coentros picados (reserve alguns) e duas colheres de sopa de azeite. Envolva bem e reserve.",
+      "Tempere o camarão, previamente descongelado, com o alho picado, a restante malagueta, o pimentão-doce, os cominhos e o sal. Regue com duas colheres de sopa de azeite e envolva bem.",
+      "Aqueça o restante azeite numa frigideira e salteie o camarão cerca de 5 minutos.",
+      "Sirva-o envolvido com o guacamole e a salsa de manga com as tortilhas. Polvilhe com os coentros reservados."
+    ]
+  },
+  {
+    "name": "Salada de lentilhas com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/salada-de-lentilhas-com-legumes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-lentilhas-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "abóbora manteiga em cubos congelada",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "massa fusilli integral Pura Vida",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lentilhas cozidas",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 15,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1513,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1310,
+        "g": 1080,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Coloque a abóbora num tabuleiro de forno e ao lado a courgette, cortada em cubos pequenos.",
+      "Tempere com sal, pimenta, tomilho, caril e azeite e envolva. Não misture os dois legumes. Leve ao forno por cerca de 15 minutos.",
+      "Divida os legumes por quatro frascos fazendo camadas diferentes. Comece pela massa e em seguida adicione a courgette.",
+      "Escorra as lentilhas e divida pelos frascos, finalizando com a abóbora já cozida e polvilhe com salsa. Regue com azeite e feche o frasco."
+    ]
+  }
+]

@@ -1,0 +1,491 @@
+[
+  {
+    "name": "Peito de frango estufado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085368",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-estufado/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "esparguete",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "funcho",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "miolo de amêndoa",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "iogurte natural",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 895,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1016,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 705,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1589,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1240,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Num tacho com azeite salteie o alho, a cebola e o funcho picados. Polvilhe com os coentros e a noz-moscada e deixe cozinhar, mexendo de vez em quando.",
+      "Quando começar a alourar, cozinhe os peitos de frango, tapados, e sobre lume brando 20 minutos.",
+      "Coza o feijão-verde em água temperada com sal durante 10 minutos. Coza o esparguete em água abundante com sal, até estar al dente.",
+      "Aloure a amêndoa grosseiramente picada numa frigideira antiaderente sobre lume moderado.",
+      "Noutro tacho, aqueça o restante azeite e aloure o esparguete cozido e bem escorrido. Rectifique o sal e tempere com pimenta.",
+      "Misture o iogurte, o mel e a mostarda e deite sobre o frango. Deixe levantar fervura. Adicione as folhas de funcho.",
+      "Sirva o frango salpicado com as amêndoas torradas, com o esparguete salteado e com o feijão-verde bem escorrido."
+    ]
+  },
+  {
+    "name": "Risotto de maçã, presunto e physalis",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/risotto-de-maca-e-physalis.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-maca-physalis/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 280,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "maçã Granny Smith",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "physalis",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "presunto",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1444,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 174,
+        "g": 280,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1404,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2021,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a cebola em quartos, lamine o talo de aipo e corte a cenoura em palitos.",
+      "Coloque ao lume uma panela com os legumes, a folha de louro e a água e, quando levantar fervura, junte o sal, deixando ferver cerca de 30 minutos, tapada.",
+      "Pique a chalota e refogue-a num tacho com a manteiga.",
+      "Junte o arroz, mexa e deixe fritar até ficar translúcido.",
+      "Regue com o vinho, mexa e, quando o vinho tiver evaporado, introduza a maçã descascada e cortada em cubos pequenos, juntando uma concha de caldo. Mexa e, quando começar a secar, adicione mais caldo.",
+      "Passados 10 minutos, junte os physalis (reserve alguns inteiros para a decoração) cortados ao meio e deixe cozer.",
+      "Pique finamente o presunto e reserve. Leve ao lume uma frigideira anti-aderente e, quando estiver bem quente, introduza o presunto, salteando até estar dourado. Retire e reserve.",
+      "Quando o arroz estiver cozido, desligue o lume e junte o Parmesão, mexendo bem. Na altura de servir, polvilhe os pratos de risotto com o presunto, cebolinho, pimenta e os physalis reservados."
+    ]
+  },
+  {
+    "name": "Bacalhau com broa, linguiça e bacon",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/12/bacalhau-com-broa-linguica-bacon.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-com-broa-linguica-e-bacon/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata para assar vermelha",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 15,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de bacalhau",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "broa de milho amarelo",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "linguiça",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "bacon sem courato",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola tostada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 319,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 26,
+        "ml": 0
+      },
+      {
+        "id": 217,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 95,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1357,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 435,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1337,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 269,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 578,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2603,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho, coza as batatas em água temperada com o sal, uma colher de sopa de azeite e deixe levantar fervura. Cozinhe durante 5 minutos. Escorra as batatas e dê um murro leve em cada uma.",
+      "Pré-aqueça o forno a 200 °C.",
+      "Num tabuleiro de inox coloque 200ml de azeite, o alho, os lombos de bacalhau e as batatas e leve ao forno cerca de 45 minutos.",
+      "Entretanto, parta cerca de 200g de broa, e reserve o miolo.",
+      "Parta a linguiça em rodelas e o bacon aos cubos e separe cerca de 50g de cada para juntar ao miolo da broa.",
+      "Junte ao miolo da broa o bacon, a linguiça e a cebola tostada e 50ml de azeite. Triture até ficar uma pasta.",
+      "Barre os lombos de bacalhau com a pasta e disponha por cima das batatas a broa partida, a linguiça e o bacon. Regue com o restante azeite e com o vinagre. Volte a colocar no forno mais 20 min.",
+      "Antes de servir polvilhe com coentros picados."
+    ]
+  }
+]

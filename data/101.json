@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Cebolas recheadas com arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/02/cebolas-recheadas-com-arroz.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cebolas-recheadas-com-arroz/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola-roxa",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz Basmati",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "lentilhas",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salada de espinafres",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "açafrão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 577,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 163,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1309,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2355,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 19,
+        "g": 7,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque as cebolas, retire-lhes a parte interior (miolo) e reserve-a.",
+      "Coloque as cebolas num tabuleiro de forno, regue-as com metade do azeite e tempere-as com uma colher de chá de sal e pimenta a gosto.",
+      "Num tacho coloque o restante azeite, salteie o interior da cebola e o alho, previamente picados. Adicione o arroz e envolva. Acrescente a água, o dobro da medida do arroz. Junte o restante sal, o açafrão e deixe cozinhar, conforme as instruções da embalagem.",
+      "Quando o arroz estiver pronto, acrescente as lentilhas escorridas e envolva. Junte o cebolinho picado.",
+      "Recheie as cebolas com o arroz e leve ao forno, pré-aquecido a 180° C, cerca de 25 minutos ou até que as cebolas estejam cozinhadas.",
+      "Sirva as cebolas acompanhadas com a salada de espinafres."
+    ]
+  },
+  {
+    "name": "Lasanha de vegetais grelhados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/lasanha-de-vegetais-grelhados.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lasanha-vegetais-grelhados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "massa seca para lasanha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "beringela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1537,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 363,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com bastante água temperada com uma colher de chá de sal.",
+      "Quando levantar fervura, introduza as placas de massa (duas ou três de cada vez) e deixe as cozer cerca de 7 a 8 minutos.",
+      "Retire-as com uma escumadeira e coloque-as sobre um pano para escorrerem.",
+      "Corte a beringela e a courgette em fatias com cerca de 0,5cm, no sentido do comprimento, e o tomate em rodelas. Reserve.",
+      "Pincele o grelhador com uma colher de sopa de azeite, grelhe os legumes cerca de 5 minutos e tempere-os com o restante sal e um pouco de pimenta.",
+      "Pré-aqueça o forno a 200˚ C.",
+      "Pincele um tabuleiro de forno com o restante azeite e disponha sobre este, em camadas alternadas, os legumes e as placas de massa, polvilhando cada camada com um pouco de queijo mozzarella e folhas de manjericão.",
+      "Termine com o queijo e polvilhe a superfície\ncom as sementes de sésamo e um pouco de orégãos.",
+      "Leve ao forno cerca de 15 minutos ou até o queijo estar gratinado."
+    ]
+  },
+  {
+    "name": "Tagliatelle com frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/02/massa-tagliatelle-com-frango.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-com-frango/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa Napolitana Originale tagliatelle",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo branco",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeitona preta descaroçada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 3,
+        "unit": "pétala"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "agrião",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1526,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 709,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 233,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 45,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o tagliatelle numa panela com água temperada com metade do sal, durante 7 minutos, ou até estar al-dente. Escorra e reserve.",
+      "Corte o peito de frango em cubos e tempere com o restante sal.",
+      "Numa frigideira antiaderente, aqueça 1 colher de sopa de azeite, junte os dentes de alho picados e salteie os cubos de frango e os cogumelos cortados em quartos.",
+      "Mexa e deixe cozinhar durante 10 minutos sobre lume brando.",
+      "Coloque o tagliatelle num prato fundo e disponha, por cima, o frango, os cogumelos e o abacate descascado e cortado em cubos.",
+      "Misture 1 colher de sopa de azeite com as azeitonas, o tomate seco e o manjericão cortados em tiras fininhas e regue a massa com esta emulsão.",
+      "Acompanhe com o agrião temperado com 1 colher de sobremesa de azeite."
+    ]
+  }
+]

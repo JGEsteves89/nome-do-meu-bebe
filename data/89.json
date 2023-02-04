@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Pernil assado com abacaxi",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/12/pernil-assado-abacaxi.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/pernil-assado-com-abacaxi/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "pernil com osso",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 0.5,
+        "unit": "cháv. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água",
+        "qtd": 0.5,
+        "unit": "cháv. de chá"
+      },
+      {
+        "name": "abacaxi bem maduro",
+        "qtd": 1,
+        "unit": ",7 kg"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2005,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 2603,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 4,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1460,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 43,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "No dia anterior, coloque o pernil dentro de um saco plástico com os dentes de alho amassados, o sumo de limão, o sal, o vinagre, a pimenta moída e meia chávena de chá de\nágua. Feche o saco e massaje o pernil com o tempero. Deixe repousar no frigorífico.",
+      "Pré-aqueça o forno a 190 °C.",
+      "Forre uma assadeira com papel de alumínio e unte-a com metade da manteiga.\nDisponha metade do abacaxi cortado em rodelas, polvilhe com metade do açúcar e\ncoloque por cima o pernil. Cubra o pernil com mais rodelas de abacaxi e sobre elas ponha metade da manteiga cortada em pedaços, polvilhando com o restante açúcar. Despeje a marinada que ficou no saco sobre a carne e cubra a assadeira com papel de alumínio.",
+      "Leve ao forno por 2 horas e meia. Abra o papel de alumínio, espete o pernil e veja se já está macio, se não estiver feche o papel de alumínio e deixe assar mais uns minutos. Quando estiver macio, deixe o papel de alumínio aberto, pincele com a restante manteiga ligeiramente derretida e leve ao forno a dourar cerca de 30 minutos.",
+      "Sirva o pernil quente e decore com alecrim."
+    ]
+  },
+  {
+    "name": "Salada de macarronete com rúcula e beterraba",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/06/macarronete_rucula.jpg",
+    "link": "https://www.pingodoce.pt/receitas/macarronete-com-rucula-e-beterraba/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "macarronete",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de amêndoa palitada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "beterraba cozida",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "queijo de cabra curado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1415,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1593,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 366,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2208,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o macarronete em água a ferver temperada com o sal cerca de 12 minutos.",
+      "Aloure as amêndoas numa frigideira anti-aderente. Reserve.",
+      "Escorra a beterraba e corte-a em palitos. Reserve.",
+      "Corte o queijo em cubos e reserve.",
+      "Escorra a massa e misture-a de imediato com as folhas de rúcula.",
+      "Regue com o azeite e disponha numa travessa funda.",
+      "Por cima, distribua os palitos de beterraba e salpique com os cubos de queijo e as amêndoas torradas.",
+      "Tempere com um pouco de pimenta e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Linguine negro com sardinhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/linguine-negro-com-tomate-e-sardinhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/linguine-negro-com-sardinhas/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "linguine negro",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate pelado em cubos",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sardinha em conserva sem pele e sem espinhas em azeite",
+        "qtd": 3,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1341,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2520,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2394,
+        "g": 360,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho com azeite, aloure a cebola picada e as rodelas de alho-francês.",
+      "Corte as cenouras, já descascadas, em cubos pequenos e junte-as ao cozinhado.",
+      "Tape e deixe suar em lume brando durante 10 minutos.",
+      "Regue com o vinho e deixe cozinhar até a cenoura estar tenra.",
+      "Num tacho, coza o linguine em água temperada com o sal até estar al dente.",
+      "Assim que a cenoura estiver tenra, adicione o tomate em cubos e deixe ferver durante 5 minutos.",
+      "Adicione o linguine escorrido e uma mão-cheia de salsa picada e misture bem.",
+      "Disponha no recipiente de servir e decore com as sardinhas limpas de pele e espinhas e bem escorridas. Sirva de imediato."
+    ]
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Massa integral com abóbora e camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/07/massa-integral-abobora-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-integral-com-abobora-e-camarao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada congelada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês picado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde cortado congelado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 10.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lima (raspa e sumo)",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "sultana",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "bebida de coco Pura Vida",
+        "qtd": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa fusilli integral Pura Vida",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "camarão 50/70 cozido",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 575,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1018,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2438,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 353,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1513,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 493,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho com o azeite, cozinhe a cebola e o alho-francês sobre lume moderado.",
+      "Enquanto isso, descasque a abóbora, limpe-a de pevides e corte em cubos. Deite a abóbora e o feijão-verde no tacho, polvilhe com o caril e salteie durante cerca de 10 minutos.",
+      "Junte a raspa e o sumo da lima, as sultana e a bebida de coco. Tempere com o sal, e assim que levantar fervura introduza a massa e cozinhe durante cerca de 15 minutos com o tacho\ntapado.",
+      "Entretanto, tire as cabeças e descasque os camarões. Assim que a massa estiver cozida adicione-lhe os camarões e salpique com pimenta e com os coentros picados."
+    ]
+  },
+  {
+    "name": "Camarão com legumes asiáticos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/Camaraocomlegumesasiaticos617x370.jpg",
+    "link": "https://www.pingodoce.pt/receitas/camarao-legumes-asiaticos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "camarão 20/30",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura chinesa de vegetais congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de abóbora",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de chia",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 485,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1153,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1639,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2404,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2408,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Passe os camarões por água e tire-lhes as carapaças e as cabeças.",
+      "Tempere-os com uma colher de chá de sal, o molho de soja, o vinagre de sidra, a malagueta, limpa de sementes e picada em pedaços, e o sumo da raiz de gengibre, pelada e ralada.",
+      "Misture bem e deixe marinar durante 10 minutos.",
+      "Aqueça uma colher de sopa de azeite no wok e introduza metade do camarão bem escorrido.",
+      "Salteie em lume forte, mexendo durante 1 minuto, e retire o camarão e o molho para outro recipiente.",
+      "Aqueça mais meia colher de sopa de azeite no wok e salteie o restante camarão da mesma forma.",
+      "Deite o restante azeite no wok, deixe aquecer bem e introduza os legumes asiáticos.",
+      "Salteie, mexendo sempre, durante 10 minutos.",
+      "Dissolva o amido de milho na marinada dos camarões e adicione este preparado aos legumes.",
+      "Introduza o camarão e deixe ferver, mexendo de vez em quando, até o molho espessar. Polvilhe com as sementes."
+    ]
+  },
+  {
+    "name": "Escabeche de polvo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089579",
+    "link": "https://www.pingodoce.pt/receitas/escabeche-de-polvo/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "cebola",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "courgette",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata para cozer pequena",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 772,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2598,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 320,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o polvo numa panela com água, uma cebola e a folha de louro.",
+      "Corte as restantes cebolas e o alho-francês, em rodelas, pique os dentes de alho e refogue-os num tacho com o azeite.",
+      "Lave a courgette e o pimento, corte-os em cubos pequenos e junte-os ao refogado, deixando suar durante cinco minutos.",
+      "Quando o polvo estiver cozido, deixe-o arrefecer e corte-o em bocados.",
+      "Junte-os ao refogado. Mexa, regue com o vinho e o vinagre, tempere com uma colher de sobremesa de sal e pimenta moída na altura e salpique com um punhado de salsa picada. Envolva e retire do lume.",
+      "Acompanhe o polvo com as batatas cozidas em água temperada com o restante sal."
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Tofu com legumes em tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/tofu-com-legumes-em-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tofu-com-legumes-em-tomate/",
+    "portions": 3,
+    "ingredients": [
+      {
+        "name": "tofu",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebolinho seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 1,
+        "unit": "0.5 c. de chá"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "0.5 c. de sopa"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 5,
+        "unit": "folha (±)"
+      },
+      {
+        "name": "água",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "legumes em tomate",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "0.5 c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2480,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 586,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1697,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 835,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2693,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 5
+      }
+    ],
+    "steps": [
+      "Corte o tofu em fatias, polvilhe com o alho em pó e com o cebolinho. Regue com o molho de soja e com o vinagre, deixando marinar durante 10 minutos.",
+      "Coloque o cuscuz numa taça, junte o tomate seco cortado em pedaços e duas folhas de hortelã, regue com a água a ferver temperada com o sal, tape e deixe hidratar.",
+      "Deite os legumes em tomate numa frigideira antiaderente, tape e ferva sobre lume brando, mexendo ocasionalmente, durante 2 a 3 minutos.",
+      "Regue uma chapa para grelhados com o azeite e deixe aquecer bem.",
+      "Escorra muito bem o tofu, enxugue com papel absorvente de cozinha e coloque sobre a chapa. Aloure bem de ambos os lados.",
+      "Solte o cuscuz com um garfo, retire as folhas de hortelã e junte mais 2 a 3 folhas frescas e cortadas em tiras.",
+      "Disponha o cuscuz na lancheira e sobre ele os legumes e, por último, o tofu grelhado."
+    ]
+  },
+  {
+    "name": "Arroz de Polvo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/03/arroz-de-polvo_617x370.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-polvo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo congelado",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cenoura média",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2123,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2484,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1645,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o polvo ainda congelado num tacho, cubra com água e leve ao lume. Deixe ferver, tapado e sobre lume brando, cerca de 20 minutos.",
+      "Descasque a cebola e os dentes de alho e pique-os finamente. Deite\no azeite num tacho, deixe aquecer e adicione o alho e a cebola picados e o louro. Pele as cenouras, corte-as em cubinhos, adicione à cebola\ne tape o tacho. Lave o tomate e corte-o em cubinhos, ao mesmo tempo que o limpa de grainhas, junte-o aos restantes legumes e deixe cozinhar, tapado e sobre lume brando, cerca de 10 minutos.",
+      "Escorra o polvo, mexa o líquido que resultou da cozedura e acrescente água a ferver até perfazer 8 dl. Deite sobre os legumes e deixe retomar a fervura. Entretanto, corte o polvo em pequenos pedaços mais ou menos uniformes. Assim que o caldo estiver a ferver,\njunte-lhe o arroz e os pedaços de polvo, tempere com sal e deixe\ncozer, tapado e sobre lume muito brando, cerca de 15 minutos.\nRegue com o sumo do limão, junte a salsa picada e sirva sem demora.",
+      "Acompanhe com uma mistura de várias alfaces temperadas com uma colher de sopa de azeite e vinagre."
+    ]
+  },
+  {
+    "name": "Pimentos recheados com salada de atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/pimentos-recheados-com-salada-de-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pimentos-recheados-com-salada-de-atum/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "pimento vermelho médio",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeitona preta descaroçada",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "atum em conserva",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2088,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 320,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 884,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 233,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 190,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 1811,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Lave os pimentos e corte-lhes uma tampa junto ao caule. Limpe o interior de sementes e peles brancas e reserve.",
+      "Descasque a cenoura e as batatas e corte-as em cubos.",
+      "Numa tigela, coloque as ervilhas em água fria e deixe descongelar.",
+      "Num acho, ferva água temperada com sal, deixe ferver, introduza os cubos de cenoura e batata e as ervilhas e escalde-os por instantes.",
+      "Com uma escumadora, retire os legumes, coloque-os num passador, passe-os por água fria e reserve numa tigela.",
+      "Pique bem a cebola e os alhos, lamine metade das azeitonas e envolva-as com os legumes. Adicione o atum, os orégãos (reserve alguns) e uma colher de sopa de azeite e envolva.",
+      "Encha os pimentos com este preparado, tape-os com a “tampa” e leve-os ao forno durante 15 minutos.",
+      "Pique bem as restantes azeitonas, envolva-as com duas colheres de sopa de azeite e salsa picada.",
+      "Regue os pimentos com a mistura de azeite e salpicados com os orégãos reservados."
+    ]
+  }
+]

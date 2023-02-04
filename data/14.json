@@ -1,0 +1,411 @@
+[
+  {
+    "name": "Ceviche de lírio",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/05/ceviche-de-lirio.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/ceviche-de-lirio/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lírio (limpo de espinhas e pele)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "coentros",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "lima",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "manga (limpa)",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "batata-doce frita",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1344,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2342,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1439,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 332,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os filetes de lírio em cubos de 1cm. Reserve.",
+      "Corte a cebola-roxa em meias luas finas e coloque em água com gelo, cerca de 3h.",
+      "Lave a malagueta vermelha, corte no sentido longitudinal e retire as sementes. Corte metade em tiras finas e corte o restante em pequenos cubos. Reserve.",
+      "Lave os coentros e retire as folhas. Pique as folhas de coentros grosseiramente. Reserve.",
+      "Pique finamente os dentes de alho. Reserve.",
+      "Descasque a manga e corte em cubos de 1 cm. Reserve.",
+      "Raspe a casca de 1 lima e retire o sumo das limas. Reserve separadamente.",
+      "Numa tigela, coloque os cubos de lírio e tempere com o sal e o sumo das limas. Escorra a cebola-roxa da água gelada e adicione à mistura anterior. Coloque os coentros picados, a malagueta aos cubos, o dente de alho picado, a manga em cubos e envolva bem com a ajuda de uma colher.",
+      "Coloque o preparado numa taça de servir e decore com coentros, as tiras de malagueta e finalize com as raspas de lima e sementes de sésamo.",
+      "Acompanhe com as chips de batata-doce."
+    ]
+  },
+  {
+    "name": "Crepes de cogumelos e alheira de peru",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449084652",
+    "link": "https://www.pingodoce.pt/receitas/crepes-de-cogumelos-e-alheira-de-peru/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "alheira de peru",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "maçã Royal Gala",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de massa filo",
+        "qtd": 6,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 87,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 732,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1406,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1501,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2360,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tire a pele à alheira e misture-a com os cogumelos, a salsa e a malagueta limpa de sementes, finamente picados. Junte a maçã, descascada e ralada no crivo mais fino do ralador e o pão ralado. Misture bem.",
+      "Pincele levemente cada folha de massa filo com azeite. Sobreponha as folhas 3 a 3.",
+      "Corte cada conjunto de folhas em 4 e recheie com a mistura de alheira. Dobre as laterais da massa de ambos os lados e enrole como se fosse um rolo. Pressione bem as extremidades para selar a massa. Leve os crepes ao forno, pré-aquecido a 200 ºC, num tabuleiro forrado com papel vegetal, durante 15 a 20 minutos ou até estarem dourados.",
+      "Misture a salada ibérica com a cebola cortada em gomos finos e, na altura de servir, tempere com o restante azeite, o sal e o sumo de limão. Sirva com as trouxas de alheira."
+    ]
+  },
+  {
+    "name": "Panela no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/panela-no-forno.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/panela-no-forno/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "dobrada",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orelha de porco",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pé de porco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "entremeada",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "presunto",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "chouriço da Beira Alta Seia",
+        "qtd": 290,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cravinho da Índia",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "farinheira da Beira Alta Seia",
+        "qtd": 520,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 842,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 26,
+        "ml": 0
+      },
+      {
+        "id": 1812,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1966,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 873,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 677,
+        "g": 290,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 802,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 176,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 982,
+        "g": 520,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza a dobrada numa panela de pressão com água temperada com ¼ do sal.",
+      "Retire a dobrada da panela, reserve a água da cozedura, e coloque nela a orelha, o pé de porco, a entremeada e o presunto com mais água e ¼ de sal.",
+      "Num tacho que possa ir ao forno, refogue a cebola, previamente descascada e fatiada, no azeite e acrescente meio chouriço cortado em rodelas.",
+      "Corte as carnes previamente cozidas e junte-as ao refogado. Tempere com o restante sal, pimenta e o cravinho. Deixe ferver durante cerca de 12 minutos em lume brando.",
+      "Pré-aqueça o forno a 180 °C.",
+      "Adicione às carnes o dobro da medida de arroz de água da cozedura das carnes reservada. Quando levantar fervura junte o arroz e envolva.",
+      "Tape e leve ao forno até o arroz estar cozinhado.",
+      "Entretanto, coza em água o restante chouriço e a farinheira.",
+      "Sirva o arroz com os enchidos cortados às rodelas por cima."
+    ]
+  }
+]

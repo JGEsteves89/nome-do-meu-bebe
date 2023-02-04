@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Carpaccio de polvo com salada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/10/carpaccio-polvo-salada.jpg",
+    "link": "https://www.pingodoce.pt/receitas/carpaccio-polvo-com-salada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo congelado",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "cebola grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "salada ibérica",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2123,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 577,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2360,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o polvo congelado dentro de um tacho grande e junte-lhe a cebola descascada, os talos de aipo com a rama e os dentes de alho esmagados. Tape e deixe cozinhar em lume brando até a cebola estar macia (±2 horas).",
+      "Escorra bem o polvo, separe metade dos tentáculos e reserve o restante.",
+      "Corte um pedaço grande de película aderente e coloque no centro metade dos tentáculos reservados. Enrole a película à volta, de modo a formar um rolo, e reserve no congelador entre 2 a 3 horas.",
+      "Retire os tentáculos da película aderente e, com uma faca bem afiada, corte-os em lâminas o mais finas que conseguir.",
+      "Disponha as fatias de polvo num prato, polvilhe-as com as alcaparras e a malagueta vermelha, limpa de sementes e finamente picada, e regue com uma colher de sopa de azeite e uma colher de sobremesa de vinagre.",
+      "Tempere com pimenta moída na altura e salsa picada.",
+      "Corte o pepino em rodelas finas, a cebola-roxa em gomos e o tomate ao meio e envolva tudo com a salada ibérica.",
+      "Tempere com o restante azeite e vinagre e sirva com o\ncarpaccio de polvo."
+    ]
+  },
+  {
+    "name": "Gnocchi de inhame",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/gnocchi-de-inhame.jpg",
+    "link": "https://www.pingodoce.pt/receitas/gnocchi-de-inhame/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de inhame cozido",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo Parmesão",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1207,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Reduza o inhame a puré com um esmagador de batata, junte-lhe metade do queijo Parmesão ralado e tempere com metade do sal e um pouco de pimenta. Adicione o ovo e a farinha, a pouco e pouco, amassando até obter uma massa moldável.",
+      "Molde em rolos com a espessura de um polegar e corte-os em pequenos troços.",
+      "Coza os gnocchi em água a ferver, temperada com o restante sal, e retire-os com uma escumadeira assim que subirem à superfície.",
+      "Em seguida, introduza- -os no molho de tomate, previamente aquecido, e salpique com folhas de manjericão e o restante Parmesão. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Bacalhau no forno com couve e pimentos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/bacalhau-no-forno-com-couve-e-pimentos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-no-forno-com-couve-e-pimentos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata para assar pequena",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cebola pequena",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "couve-lombarda",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento verde pequeno",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho pequeno",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimento amarelo pequeno",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "posta de bacalhau demolhado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeitona preta descaroçada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 318,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2086,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2129,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 233,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ligue o forno para os 180 °C.",
+      "Lave muito bem as batatas e coloque-as num tabuleiro de forno.",
+      "Descasque as cebolas e esborrache os dentes de alho. Corte a couve em tiras com cerca de dois centímetros de largura e misture tudo com as batatas. Salpique com o sal e pimenta moída na altura. Regue com três colheres de sopa de azeite e cubra o tabuleiro com folha de alumínio.",
+      "Leve ao forno durante cerca de 40 minutos.",
+      "Entretanto, limpe os pimentos de sementes e corte-os em cubos pequenos.",
+      "Retire a folha de alumínio que cobre o tabuleiro, mexa os legumes e espalhe por cima deles os cubos de pimento.",
+      "Disponha as postas de bacalhau sobre os legumes, polvilhe com o pimentão-doce e uma pitada de pimenta moída na altura. Regue o bacalhau com o restante azeite e distribua as azeitonas por entre os legumes. Leve ao forno durante mais 20 minutos.",
+      "Sirva polvilhado com coentros picados."
+    ]
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Cogumelos recheados com esparregado e alheira",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/04/cogumelos-recheados-esparregado-farinheira.gif",
+    "link": "https://www.pingodoce.pt/receitas/cogumelos-recheados-com-esparregado-e-alheira/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cogumelo Portobello grande",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "esparregado de espinafres congelado Pura Vida",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "alheira",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 728,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 904,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 83,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1817,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os cogumelos no forno, temperados com 1 colher de sopa de azeite, durante 15 minutos.",
+      "Cozinhe o esparregado conforme as instruções da embalagem.",
+      "Coza a alheira num tacho com água a ferver durante 10 minutos. Após cozida, retire-lhe a pele e desfaça-a com a ajuda de um garfo. Reserve.",
+      "Numa frigideira, estrele os ovos de codorniz. Reserve.",
+      "Recheie os cogumelos com o esparregado, coloque por cima um pouco de alheira e por fim o ovo.",
+      "Polvilhe com sal e pimenta, e regue com o restante azeite. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Bife de Angus, abóbora, cogumelos e castanhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/10/bife-angus-abobora-castanhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bife-de-angus-abobora-cogumelos-e-castanhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "abóbora Butternut",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "castanha sem pele",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "manteiga com sal",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "bife da vazia de novilho Angus",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 10,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 561,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2349,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1448,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 371,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2052,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Num tabuleiro de forno coloque a abóbora cortada ao meio e limpa de sementes, asse a 170 ºC por 30 minutos. Retire e deixe arrefecer ligeiramente.",
+      "Num outro tabuleiro coloque as castanhas e leve ao forno por 10 minutos. Retire, deixe arrefecer e corte em pequenos pedaços. Reserve.",
+      "Retire a polpa da abóbora e triture num robot de cozinha ou com a ajuda da varinha mágica, até que fique com a consistência de puré. Coloque numa taça, tempere com 2 g de sal e emulsione com 20 g de manteiga. Reserve.",
+      "Leve uma frigideira antiaderente ao lume com 25 ml de azeite, coloque os cogumelos cortados em gomos e salteie por 4 minutos. Reserve.",
+      "Sele os bifes de Angus na mesma frigideira com 15 ml azeite, tempere com 3 g de sal, os alhos esmagados e o tomilho. Deixe no ponto desejado, retire do lume e tempere com a pimenta. Reserve.",
+      "Refresque a frigideira com o vinho branco, adicione as 60 g de manteiga. Deixe derreter e misture. Reserve o molho.",
+      "Salteie os espinafres com 10 ml de azeite e tempere com 1g de sal. No final adicione as castanhas assadas.",
+      "Para montar o prato coloque em primeiro o puré de abóbora, os cogumelos, os espinafres, adicione o bife, e verta delicadamente o molho sobre os ingredientes."
+    ]
+  },
+  {
+    "name": "Almofadas de legumes e queijo feta",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/almofadas-de-legumes-e-queijo-feta.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/almofadas-de-legumes-e-queijo-feta/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "legumes prontos a saltear",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "massa quebrada refrigerada",
+        "qtd": 230,
+        "unit": "emb."
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1276,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1535,
+        "g": 52900,
+        "ml": 0
+      },
+      {
+        "id": 2226,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Aqueça o azeite numa frigideira antiaderente.",
+      "Adicione o alho picado, deixe cozinhar durante 1 minuto e junte os legumes. Tempere com sal, pimenta e cozinhe por mais 4 minutos. Deixe arrefecer ligeiramente.",
+      "Entretanto, corte a massa quebrada em círculos.",
+      "Disponha um pouco da mistura de legumes numa das metades dos círculos e polvilhe com o queijo esfarelado por cima. Dobre a outra metade por cima do recheio e sele a toda a volta com a ponta de um garfo.",
+      "Coloque as almofadas num tabuleiro de forno forrado com papel vegetal.",
+      "Bata o ovo numa taça e pincele as almofadas. Leve ao forno até estarem douradas."
+    ]
+  }
+]

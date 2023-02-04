@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Hambúrguer de aves no pão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/hamburguer-de-aves-no-pao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-aves-no-pao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate para salada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "folhas de manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pão de cereais enriquecido",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "carne picada de aves",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2256,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1876,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 551,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a carne com a cebola picada e o molho de tomate.",
+      "Tempere com pimenta moída a gosto, o alho em pó e o sal e misture muito bem.",
+      "Divida a mistura em quatro porções, molde os hambúrgueres e passe-os, de ambos os lados, pelo pão ralado, previamente misturado com as sementes de sésamo.",
+      "Aqueça o azeite numa frigideira anti-aderente e cozinhe os hambúrgueres.",
+      "Corte o queijo mozzarella em oito rodelas, distribua-as por cima dos hambúrgueres, tape e deixe derreter cerca de um minuto.",
+      "Corte o tomate em rodelas, enxugue-as com papel de cozinha e salpique-as com folhas de manjericão.",
+      "Abra os pães ao meio, recheie-os com os hambúrgueres e as rodelas de tomate.",
+      "Embrulhe-os em película aderente ou em folha de alumínio para transportar para a praia.",
+      "Acompanhe com fruta."
+    ]
+  },
+  {
+    "name": "Arroz salteado com camarão e ovo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/arroz-salteado-com-camarao-e-ovo-estrelado.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-salteado-com-camarao-e-ovo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "arroz agulha",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "malagueta picada",
+        "qtd": 1,
+        "unit": "unid. (10 g)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M/L",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid. (160 g)"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2774,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 215,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 90,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 565,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1614,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1697,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1820,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2504,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2773,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza o arroz seguindo as instruções da embalagem. Escorra bem.",
+      "Num wok ou numa frigideira funda, aqueça o azeite juntamente com o alho e a malagueta picada. Deixe cozinhar por alguns segundos.",
+      "Adicione a cebola, misture e cozinhe por mais um minuto.",
+      "Junte o miolo de camarão, tempere com o sal, envolva e deixe cozinhar por cerca de 2 minutos. Adicione uma colher de molho de soja e envolva.",
+      "Por fim, junte o arroz, o restante molho de soja, envolva e deixe cozinhar por 2 minutos até que o arroz caramelize.",
+      "Enquanto isso, estrele os ovos numa frigideira antiaderente.",
+      "Sirva o arroz e coloque por cima os ovos e o tomate fatiado. Polvilhe com o cebolinho e os coentros picados. Salpique a gosto com pimenta moída no momento."
+    ]
+  },
+  {
+    "name": "Sargo no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/01/sargo-no-forno.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/sargo-no-forno/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sargo",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "batata para cozer pequena",
+        "qtd": 600,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2397,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 320,
+        "g": 600,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180°C.",
+      "Tempere o peixe com sal, pimenta e coloque rodelas de limão e um ramo de salsa (reserve alguma) no interior da barriga.",
+      "Pegue num tabuleiro de forno e salpique o fundo com duas colheres de sopa de azeite.",
+      "Disponha 1 cebola e 1 tomate cortados em rodelas.",
+      "Coloque os peixes por cima. À volta distribua os pimentos cortados em tiras, os restantes tomate e cebola em gomos.",
+      "Polvilhe com mais salsa e malagueta, limpa de sementes e picada. Regue com o vinho e leve ao forno durante 20 minutos.",
+      "Acompanhe com batatas cozidas, cortadas ao meio, temperadas com o restante azeite e um pouco de salsa picada."
+    ]
+  }
+]

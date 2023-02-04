@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Bolo de atum com arroz e espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/04/bolo-de-atum-com-arroz-e-espinafres.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cake-atum-arroz-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "arroz para risotto",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 0.5,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "filete de atum em azeite",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "alface",
+        "qtd": 6,
+        "unit": "folha"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 18,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 174,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 910,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2197,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1053,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 18,
+        "ml": 18
+      }
+    ],
+    "steps": [
+      "Coza o arroz em água com a folha de louro e o sal cerca de 15 minutos.",
+      "Escorra-o bem, coloque-o numa tigela e retire o louro. Junte uma colher de sopa de azeite, a raspa da casca do limão e uma colher de sopa de sumo. Mexa bem e deixe arrefecer.",
+      "Corte a cebola em rodelas finas e refogue-as numa frigideira com o restante azeite.",
+      "Junte as folhas de espinafres, mexa e mantenha no lume até murcharem.",
+      "Bata os ovos, junte as folhas de manjericão picadas e o queijo e mexa.",
+      "Misture o arroz com o refogado, junte a mistura de ovos e o atum escorrido e desfeito em lascas. Envolva bem.",
+      "Pré-aqueça o forno a 180 °C.",
+      "Forre uma forma de bolo inglês com papel vegetal, verta o preparado e leve ao forno cerca de 30 minutos.",
+      "Deixe arrefecer, desenforme e corte em fatias.",
+      "Acompanhe com a alface e o tomate cherry."
+    ]
+  },
+  {
+    "name": "Pargo ao sal com molho agridoce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/11/pargo-ao-sal.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pargo-ao-sal-com-molho-agri-doce/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "pargo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hastes de tomilho",
+        "qtd": 4,
+        "unit": "haste"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata primor",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1947,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2437,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 324,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Peça na peixaria para amanharem o pargo, fazendo apenas um pequeno corte na barriga e sem escamar.",
+      "Pré-aqueça o forno a 200° C.",
+      "Corte um limão em rodelas e coloque-as no interior do peixe, juntamente com o tomilho.",
+      "Coloque metade do sal num tabuleiro, disponha por cima o pargo, cubra-o com o restante sal e calque com as mãos.",
+      "Borrife com pingos de água e leve ao forno cerca de 30 minutos.",
+      "Demolhe as sultana no sumo do limão. Corte o tomate e o pimento em cubos pequenos, pique finamente o dente de alho e coloque tudo numa tigela.",
+      "Junte as sultana escorridas, o azeite e folhas de manjericão picadas.",
+      "Salpique as batatas com o sal e coza-as ao vapor.",
+      "Retire o peixe do forno, parta a crosta de sal e adicione uma colher de chá deste sal no molho preparado.",
+      "Acompanhe com as batatas."
+    ]
+  },
+  {
+    "name": "Linguado com banana frita",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/linguado-com-banana-frita-e-legumes-grelhados.jpg",
+    "link": "https://www.pingodoce.pt/receitas/linguado-banana-frita/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "farinha de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "banana da Madeira",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "filete de linguado",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "farinha",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 945,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 280,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1444,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1056,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 931,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os filetes de linguado num recipiente fundo, tempere-os com uma colher de chá de sal, um pouco de pimenta, os alhos laminados e o sumo de limão. Reserve.",
+      "Corte a courgette e as cebolas em rodelas e tempere com o restante sal.",
+      "Aqueça um grelhador pincelado com o azeite e, quando estiver bem quente, grelhe as rodelas de courgette e de cebola, retire-as para um prato e reserve em local quente.",
+      "Misture as farinhas e coloque-as num prato.",
+      "Bata os ovos dentro de uma tigela e leve ao lume uma frigideira com o óleo.",
+      "Escorra os filetes de linguado, passe-os pela mistura de farinha, em seguida pelo ovo batido e frite-os em óleo bem quente.",
+      "Retire e escorra em papel absorvente.",
+      "Corte as bananas ao meio e salteie-as numa frigideira anti-aderente com a manteiga.",
+      "Sirva os filetes de linguado com as bananas e os legumes grelhados."
+    ]
+  }
+]

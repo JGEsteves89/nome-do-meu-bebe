@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Esparguete de courgette com molho de amendoim",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/03/esparguete-courgette-molho-amendoim.png",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-de-courgette-com-molho-de-amendoim/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "courgette spaghetti",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "aipo (bolbo)",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "couve-roxa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "amendoim picado",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sementes de sésamo torradas",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manteiga de amendoim",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 75,
+        "unit": "ml"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 775,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 792,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 133,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1454,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque numa saladeira a courgette espiralizada. Adicione o aipo e a cenoura descascados e cortados em palitos, bem como a couve-roxa cortada em fatias.",
+      "Acrescente os amendoins, os coentros e as sementes de sésamo.",
+      "Prepare o molho, triturando todos os ingredientes num robot de cozinha. Sirva com a salada. Polvilhe com mais coentros picados."
+    ]
+  },
+  {
+    "name": "Omelete com cogumelos e tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/omelete-cogumelos-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/omelete-com-cogumelos-e-tomate/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa farfalle",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "salada verde",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1499,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 735,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2364,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a massa, segundo as instruções da embalagem.",
+      "Entretanto, aqueça metade do azeite numa frigideira. Salteie o dente de alho, descascado e picado, durante 1 minuto. Adicione os cogumelos e deixe cozinhar durante 4 minutos, mexendo sempre que necessário. Tempere com os orégãos e metade do sal. Reserve.",
+      "Corte o tomate em metades e reserve.",
+      "Unte uma frigideira pequena com um quarto do restante azeite.",
+      "Bata numa tigela um ovo, tempere com um quarto do restante sal e verta para dentro da frigideira. Espalhe bem, adicione por cima um quarto da mistura de cogumelos e parte do tomate. Quando a omeleta estiver a prender nas laterais, levante-a com cuidado e comece a enrolar. Retire para um prato.",
+      "Repita os passos quatro e cinco para os outros três ovos e restantes recheios.",
+      "Sirva as omeletas com a salada verde e com a massa cozida."
+    ]
+  },
+  {
+    "name": "Salada de lentilhas em frasco",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/frasco-de-lentilhas-kale-e-ovo-cozido.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-lentilhas-em-frasco/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lentilhas verdes Pura Vida",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "fatias de pão da avó",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "bacon em pedaços",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "couve kale",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M cozido",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1315,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1866,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 269,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 778,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Coloque as lentilhas de molho pelo menos durante 1 hora. Coza-as em água temperada com metade do sal durante 15 minutos. Escorra e reserve.",
+      "Pré-aqueça o forno a 200° C.",
+      "Corte o pão em cubos, coloque-os num tabuleiro de forno, polvilhe com o alho em pó, os orégãos e um pouco de pimenta e leve ao forno cerca de 10 minutos ou até estarem dourados.",
+      "Numa frigideira anti-aderente aloure o bacon. Em seguida, adicione a kale, baixe o lume e deixe cozinhar cerca de cinco minutos.",
+      "Tempere com o restante sal e um pouco de pimenta e retire.",
+      "Divida os ingredientes por frascos, segundo a ordem: as lentilhas, a kale com o bacon, os ovos cozidos cortados e, por fim, o pão.",
+      "Misture o azeite com o vinagre e verta-o\npor cima da salada."
+    ]
+  }
+]

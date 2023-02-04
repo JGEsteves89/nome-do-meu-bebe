@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Rolos de Angus grelhados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/07/rolos-de-angus-grelhados.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/rolos-de-angus-grelhados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 8,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimentão-doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimento laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "bife do redondo",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "folhas de rúcula",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "rabanete",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 120
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2059,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2080,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 390,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2294,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave e corte a courgette em fatias.",
+      "Misture o azeite com uma mão-cheia de folhas de hortelã picadas, o pimentão-doce, o alho picado, sal e um pouco de pimenta.",
+      "Pincele as fatias de courgette com o azeite aromatizado e, em seguida, grelhe-as na chapa (untada com azeite) ou no grelhador.",
+      "Corte o pimento em tiras.",
+      "Pincele os bifes com o azeite aromatizado.",
+      "Por cima, coloque as fatias de courgette grelhadas e as tiras de pimento.",
+      "Enrole os bifes e prenda-os com um palito. De seguida, grelhe-os.",
+      "Numa travessa, distribua as folhas de rúcula e os rabanetes cortados em rodelas.",
+      "Junte os rolos de carne, regue com mais um pouco do azeite e sirva.",
+      "Se sobrar azeite, guarde-o num frasco e use-o para temperar outras receitas."
+    ]
+  },
+  {
+    "name": "Salada morna de massa com legumes salteados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/salada-morna-massa-legumes-salteados.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-morna-de-massa-com-legumes-salteados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa fusilli integral Pura Vida",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "cebola doce",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeite com especiarias e ervas aromáticas",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ervilhas Primavera congeladas",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1513,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 894,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 570,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 210,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 888,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 738,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave os espargos e o talo de aipo. Elimine a base fibrosa dos espargos e corte-os em rodelas finas, preservando inteira a parte espigada. Corte também o talo de aipo em fatias finas.",
+      "Lave e pique a cebola e cozinhe-a num tacho em duas colheres de sopa do azeite aromatizado e quando começar a ficar translúcida, junte-lhe as ervilhas congeladas. Deixe cozinhar durante 5 minutos.",
+      "Adicione ao tacho os espargos, o aipo e os cogumelos. Salteie sobre lume moderado durante 10 minutos, mexendo ocasionalmente.",
+      "Entretanto coza a massa em água temperada com o sal, até estar al dente.",
+      "Escorra a massa, misture-a com os legumes e junte o restante azeite aromatizado e o tomate mini alongado.",
+      "Sirva a salada morna ou fria."
+    ]
+  },
+  {
+    "name": "Salada de massa com molho de iogurte",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/salada-colorida-de-massa-com-molho-de-iogurte.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-massa-com-molho-de-iogurte/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "iogurte natural",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pepino",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "uva branca sem grainha",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre de frango assado em forno de lenha",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de massa cozida (cotovelos, fusilli, penne, macarronete ou farfalle)",
+        "qtd": 130,
+        "unit": "g"
+      },
+      {
+        "name": "milho doce cozido",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de salada gourmet",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M cozido",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1240,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2532,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2569,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1037,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1475,
+        "g": 130,
+        "ml": 0
+      },
+      {
+        "id": 1570,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1672,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 236,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Misture todos os ingredientes do molho numa saladeira.",
+      "Para a salada, corte o pepino em cubos e reserve-o. Corte as uvas ao meio e o fiambre em cubos. Reserve.",
+      "Deite a massa cozida na saladeira, sobre o molho, e junte-lhe os restantes ingredientes, com exceção do ovo. Misture muito bem e decore com o ovo cortado."
+    ]
+  }
+]

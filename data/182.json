@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Cabrito grelhado com mel",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086546",
+    "link": "https://www.pingodoce.pt/receitas/cabrito-grelhado-com-mel/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cabrito com perna",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "hastes de orégão fresco",
+        "qtd": 8,
+        "unit": "haste"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "beringela",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão de mistura",
+        "qtd": 8,
+        "unit": "fatia"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 448,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1540,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1807,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 363,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1899,
+        "g": 360,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte oito bifes (com cerca de 100g cada) do cabrito e reserve.",
+      "Numa taça, misture o azeite com o mel, os dentes de alho esmagados e 1 colher de sopa de orégãos picados. Junte o sal e uma pitada de pimenta e misture bem.",
+      "Aqueça o grelhador. Lave as beringelas e as courgettes e corte-as a todo o comprimento em fatias com 1 dedo de espessura. Lave o limão e corte-o ao meio.",
+      "Pincele o cabrito e os legumes com a marinada de azeite e mel e coloque-os no grelhador, juntamente com as fatias de pão e o limão, com a parte cortada virada para baixo.",
+      "Grelhe a carne entre 8 e 10 minutos de ambos os lados, os legumes até estarem tenros, o pão tostado e o limão levemente caramelizado.",
+      "Sirva o cabrito com as fatias de pão, acompanhe com os legumes grelhados e regue tudo com o limão espremido e o restante líquido da marinada."
+    ]
+  },
+  {
+    "name": "Salada morna de grão com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/01/atum_grao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-morna-de-grao-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "grão cozido em conserva",
+        "qtd": 1,
+        "unit": "lata"
+      },
+      {
+        "name": "brócolos (só os ramos)",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid. (70 g)"
+      },
+      {
+        "name": "pimento baby (vermelho, amarelo e laranja)",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "atum em conserva de azeite",
+        "qtd": 2,
+        "unit": "lata"
+      },
+      {
+        "name": "pimenta moida",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2071,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2041,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os ovos num tacho com água e o sal.",
+      "Escorra o grão num coador e passe-o por água. Adicione aos ovos e deixe ferver durante 10 minutos.",
+      "Coloque os brócolos lavados num recipiente que possa ir ao microondas.",
+      "Tape-o e cozinhe durante 5 minutos na potência\nmáxima, mexendo a meio da confecção.",
+      "Descasque e pique a cebola finamente.",
+      "Lave os pimentos, retire as sementes e corte-os em tiras. Escorra o atum, desfaça-o em pedaços e misture-o com a cebola picada e as tiras de pimento.",
+      "Adicione o grão e os brócolos, tempere com pimenta, regue com o azeite e o vinagre e adicione a salsa.",
+      "Misture e enfeite com os ovos cozidos cortados em gomos ou às rodelas.",
+      "Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Ramen",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/ramen.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ramen/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "perna de frango do campo",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "gengibre",
+        "qtd": 1,
+        "unit": "pedaço"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "nabo pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo S",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "óleo",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "lombo de porco",
+        "qtd": 8,
+        "unit": "fatia"
+      },
+      {
+        "name": "massa chinesa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "milho doce cozido",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "rebentos de feijão mungo fresco",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2002,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1153,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1755,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1369,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 1481,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1571,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2300,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com a perna de frango, a cenoura cortada em palitos, a raiz de gengibre, o tomate seco, o nabo em palitos, a água, uma colher de sopa de molho de soja, uma colher de chá de sal e os ovos inteiros.",
+      "Depois de levantar fervura, deixe cozer 8 minutos e retire os ovos. Cozinhe os restantes ingredientes mais 20 minutos.",
+      "Aqueça uma frigideira anti-aderente, previamente untada com o óleo, e salteie rapidamente as fatias de carne de ambos os lados. Regue com o restante molho de soja e reserve.",
+      "Coza a massa em água temperada com o restante sal cerca de 3 minutos.",
+      "Escorra-a e coloque-a no fundo de quatro tigelas.",
+      "Junte o milho, os rebentos de feijão mungo, as folhas de espinafres e as fatias de carne e regue tudo com o caldo, previamente coado.",
+      "Adicione os ovos descascados e cortados ao meio e salpique com folhas de manjericão.",
+      "Sirva de imediato."
+    ]
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Folhados de carne",
+    "image": "https://www.youtube-nocookie.com/embed/0UIAjK6sLlk",
+    "link": "https://www.pingodoce.pt/receitas/folhados-de-carne/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "ovo (gema)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "folhado de porco",
+        "qtd": 4,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "folhado de bovino",
+        "qtd": 4,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "salada",
+        "qtd": 200,
+        "unit": "g (1 emb.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1816,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2681,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2682,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2350,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Coloque os folhados num tabuleiro de forno forrado com papel vegetal.",
+      "Pincele com gema de ovo e leve ao forno por 15 a 20 minutos.",
+      "Acompanhe com uma salada."
+    ]
+  },
+  {
+    "name": "Salada exótica com peru",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/salada-exotica-com-peru.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-exotica-com-peru/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "quinoa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "manga limpa",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "aipo (talo)",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "pepino fino",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "folhas de rúcula",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de peru assado ou bifes de peru",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "miolo de noz em pedaços",
+        "qtd": 20,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 525,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2288,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1439,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2008,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve o azeite ao lume com o caril em pó e deixe fritar um pouco, mexendo sempre. Junte a quinoa, lavada e escorrida, e regue com a água. Tempere com o sal, mexa e cozinhe, tapado e sobre lume brando, por 15 minutos.",
+      "Corte a manga e o pimento em cubos, o talo de aipo em lâminas e o pepino em rodelas.\nNuma saladeira, misture os legumes com a manga e com as folhas de rúcula.",
+      "Corte o peru em tiras e junte-as à quinoa cozida. Misture com um garfo e envolva-a com os legumes. Regue com o sumo do limão e salpique com as nozes. Sirva morna ou fria."
+    ]
+  },
+  {
+    "name": "Salada do mar com maçã e maionese",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/Salada-mar-maçã-maionese.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-do-mar-com-maca-e-maionese/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alface pequena",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "maçã vermelha",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "delícias do mar",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "maionese com baixo teor de sal",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 40,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1411,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 839,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1420,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 40,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave e corte o tomate em rodelas e deixe escorrer sobre papel absorvente.",
+      "Lave as folhas de alface, os talos de aipo e as maçãs. Enxugue bem as folhas de alface e corte-as em tiras largas. Corte o talo de aipo em lâminas finas, elimine os caroços das maçãs e corte-as em pequenos cubos.",
+      "Misture tudo numa saladeira, acrescente as rodelas de tomate e as delícias do mar, cortadas em pedaços com cerca de um centímetro. Adicione os coentros, a maionese e misture tudo.",
+      "Salpique com o miolo de noz, grosseiramente picado."
+    ]
+  }
+]

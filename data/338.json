@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Som Tam",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/som-tam.jpg",
+    "link": "https://www.pingodoce.pt/receitas/som-tam/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "camarão limpo",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "piripíri fresco",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "lima",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "papaia verde",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês fino (parte verde)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry alongado",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "rábano (ou nabo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "folhas de alface",
+        "qtd": 6,
+        "unit": "folha"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 483,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 38,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2098,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1942,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2489,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2295,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 90,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pique os camarões e coloque-os no almofariz.",
+      "Junte o dente de alho, o açúcar, o piripiri e duas ou três folhas de\nmanjericão e esmague até obter uma pasta.",
+      "Acrescente o sumo de uma lima e o molho de soja, mexa bem e reserve. Se preferir, pode fazer esta operação no robot de cozinha.",
+      "Descasque as papaias, retire-lhes as sementes e corte a polpa em lâminas.",
+      "Corte o alho-francês em rodelas finas, o tomate em metades ou quartos, o pepino em rodelas e o rábano em tiras finas, com a ajuda de um descascador e misture tudo delicadamente.",
+      "Coloque as folhas de alface no fundo de uma saladeira ou de uma travessa funda, espalhe por cima a mistura dos ingredientes, regue tudo com o molho e decore com as rodelas da restante lima."
+    ]
+  },
+  {
+    "name": "Cogumelos recheados com espinafres e queijo da ilha",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/cogumelos-recheados-com-espinafres-e-queijo-da-ilha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cogumelos-recheados-com-espinafres-e-queijo-da-ilha/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cogumelo para rechear",
+        "qtd": 440,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama (maduro)",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha ralado em fios",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 724,
+        "g": 440,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 912,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1624,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2198,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Tire os pés aos cogumelos e escave a parte interior dos cogumelos cuidadosamente, com uma colher, sem os rasgar.",
+      "Corte oito rodelas de tomate e, num tabuleiro, disponha os cogumelos com a parte escavada para cima sobre as rodelas de tomate. Leve ao forno.",
+      "Aloure a cebola e os dentes de alho picados numa frigideira com o azeite quente.",
+      "Pique os pés e a polpa retirada dos cogumelos e corte o restante tomate em cubos pequenos. Junte-os à cebola e salteie sobre lume médio a forte durante cerca de 5 minutos, mexendo frequentemente.",
+      "Adicione os espinafres, misture bem e retire do lume assim que estiverem moles. Tempere com pimenta moída no momento, junte o miolo de noz grosseiramente picado, o queijo e misture bem.",
+      "Recheie os cogumelos com a mistura anterior. Leve de novo ao forno por mais 15 a 20 minutos."
+    ]
+  },
+  {
+    "name": "Frango no forno com limão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/02/frango.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-no-forno-limao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "frango",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "limão",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "tomilho",
+        "qtd": 0.5,
+        "unit": "cháv."
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "cabeça"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1092,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 200
+      }
+    ],
+    "steps": [
+      "Num tabuleiro de forno regue-o com o sumo dos três limões, colocando à volta as metades dos limões espremidas (reserve uma).",
+      "Levante a pele do peito do frango e, cuidadosamente para não rasgar, introduza metade das ervas bem picadas entre a carne e a pele. Salpique o frango com as restantes ervas.",
+      "Espalhe os dentes de alho pelo frango e pelo tabuleiro e, na cavidade do frango, introduza a cabeça de alho e a metade de limão reservada.",
+      "Regue com o azeite e o vinho branco e deixe repousar durante 15 minutos.",
+      "Pré-aqueça o forno a 190° C.",
+      "Leve o frango ao forno cerca de 45 minutos, regando com o molho sempre que necessário."
+    ]
+  }
+]

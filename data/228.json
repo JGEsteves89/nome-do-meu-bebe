@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Salada de bimis e cenoura com ovos escalfados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/11/salada-bimis-cenoura-ovos-escalfados.png",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-bimis-e-cenoura-com-ovos-escalfados/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "e 0.5 c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pepino",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "uva branca sem grainha",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "bread bites alho e ervas",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2569,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1828,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 431,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Dê um golpe em cruz nos talos mais grossos dos bimis, passe-os por água e coloque-os numa\ntigela de vidro. Junte as cenouras, peladas e cortadas em meias-luas finas. Cubra a tigela\ncom uma tampa própria para micro-ondas e coza entre 6 e 7 minutos na potência máxima.",
+      "Numa saladeira baixa misture os dentes de alho espremidos com o azeite, uma colher de sopa de vinagre, a mostarda, o mel, a malagueta cortada em rodelas e uma colher de café de sal.\nMisture muito bem com um garfo.",
+      "Junte o pepino cortado em cubos, a rúcula, e os bimis e a cenoura assim que estiverem\ncozidos. Envolva muito bem e salpique com as uvas cortadas ao meio e algumas folhas de\nmanjericão fresco.",
+      "Escalfe os ovos num tacho com água a ferver, temperada com o restante sal e vinagre. Escorra\nbem e disponha-os sobre a salada.",
+      "Polvilhe os ovos com os bread bites e com pimenta moída na altura."
+    ]
+  },
+  {
+    "name": "Hambúrguer de novilho",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/hamburguer-de-novilho.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-de-novilho/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata Primor miúda",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "hambúrguer de vitela",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "abacaxi",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pão tigre individual",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "abacate",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "maionese",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 325,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1193,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 4,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1936,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 76,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1419,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza as batatas numa panela com água temperada com 1 colher de café de sal.",
+      "Aqueça o azeite numa frigideira antiaderente, adicione os dentes de alho e salteie as batatas, polvilhando-as com os orégãos em folha. Reserve.",
+      "Tempere os hambúrgueres com 1 colher de sobremesa de sal e grelhe-os de ambos os lados, numa chapa para grelhados, até estarem no ponto desejado. Retire e reserve.",
+      "Corte o abacaxi em 4 fatias, retire-lhes a casca e grelhe-as na chapa de ambos os lados. Reserve.",
+      "No pão tigre aberto, coloque alface, uma rodela de tomate, a carne, uma rodela de abacaxi e um gomo do abacate, descascado e cortado.",
+      "Misture a maionese com o caril, o tomilho e a pimenta, envolva muito bem e coloque um pouco deste molho sobre o abacaxi, tapando com a outra metade do pão. Acompanhe com as batatas salteadas."
+    ]
+  },
+  {
+    "name": "Arroz de pica no chão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/arroz-de-pica-no-chao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-pica-no-chao/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "frango do campo (com saqueta de sangue)",
+        "qtd": 2,
+        "unit": ",4 kg"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 7,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 3,
+        "unit": "L"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "salsa",
+        "qtd": 0.5,
+        "unit": "molho"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1095,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1434,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 166,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 3000
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2376,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave e corte o frango em pedaços uniformes. Reserve as saquetas de sangue.",
+      "Numa taça, tempere o frango com o vinho tinto, sal, louro e os alhos esmagados e deixe marinar durante 12 horas.",
+      "Num tacho, aqueça o azeite e junte os pedaços de frango, bem escorridos (reserve o líquido da marinada), e deixe corar de ambos os lados.",
+      "Junte a cebola picada e envolva bem. Refresque com um pouco do líquido da marinada e junte as malaguetas laminadas e limpas de sementes.",
+      "Tape o tacho e deixe estufar a carne até estar tenra.",
+      "Junte o arroz e, aos poucos, a água previamente aquecida.",
+      "Quando o arroz estiver quase cozido, incorpore o sangue misturado com o vinagre e envolva bem.",
+      "Deixe terminar de cozer e sirva de imediato polvilhado com a salsa picada."
+    ]
+  }
+]

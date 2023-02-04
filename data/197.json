@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Farfalle com camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085370",
+    "link": "https://www.pingodoce.pt/receitas/farfalle-com-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "miolo de camarão 60/80",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "massa farfalle",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "feijão de soja congelado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de aneto",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rebentos de feijão mungo",
+        "qtd": 0.5,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1605,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 1499,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 999,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2299,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o miolo de camarão com sal, a malagueta limpa de sementes e cortada em pedacinhos e os dentes de alho descascados e picados. Regue com um pouco de sumo de limão e reserve.",
+      "Coza os farfalle numa panela com água abundante a ferver, até ficarem al dente. Escorra e reserve. Coza os feijões de soja na mesma água. Escorra e reserve.",
+      "Numa panela com água a ferver temperada com sal coza o miolo de camarão. Deixe ferver 2 minutos e retire-o com uma escumadeira.",
+      "Misture os farfalle com os feijões de soja e acrescente os camarões.",
+      "Regue com o azeite e mais um pouco de sumo de limão. Salpique com as folhas de aneto e os rebentos de feijão-mungo bem escorridos."
+    ]
+  },
+  {
+    "name": "Dourada no forno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085357",
+    "link": "https://www.pingodoce.pt/receitas/douradas-aromaticas-no-forno/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "dourada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "limão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "hastes de rosmaninho",
+        "qtd": 2,
+        "unit": "haste"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "miolo de broa de milho",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 866,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2326,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 894,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 434,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ligue o forno a 180 ºC.",
+      "Lave as douradas, enxugue-as bem e faça um rasgo no lombo, de cada lado na diagonal. Esfregue-as com o sal por dentro e por fora.",
+      "Lave muito bem o limão e o pepino e corte-os em rodelas finas. Introduza 1 a 2 rodelas de limão, outras tantas de pepino e algumas folhas de rosmaninho na barriga das douradas.",
+      "Espalhe as restantes rodelas de limão e de pepino sobre um tabuleiro de forno. Por cima, coloque as douradas e regue com 1 colher de sopa de azeite. Salpique com mais algumas folhas de rosmaninho e leve ao forno durante cerca de 25 minutos.",
+      "Lave os espargos, elimine a parte mais rija da base e raspe a película fibrosa que os envolve. Descasque a cebola e corte em gomos finos, lave a courgette, os pimentos e o tomate cereja.",
+      "Corte a courgette em meias rodelas e os pimentos em tiras, ao mesmo tempo que os limpa de sementes.",
+      "Corte os espargos em troços, rejeitando as bases fibrosas, e salteie numa frigideira com o restante azeite durante 5 minutos. Reserve.",
+      "Deite mais 1 colher de sopa de azeite na frigideira, junte o miolo de broa bem esfarelado e deixe fritar um pouco. Quando a boa estiver loura retire e reserve.",
+      "Deite o restante azeite e a cebola na frigideira e, quando começar a amolecer, adicione a courgette, as tiras de pimento e o tomate. Salteie, mexendo de vez em quando, até os legumes estarem tenros.",
+      "Adicione os espargos salteados, tempere com sal e pimenta moída na altura e borrife com o vinagre balsâmico. Polvilhe os legumes com a broa e sirva com as douradas."
+    ]
+  },
+  {
+    "name": "Salada russa de frango com alface",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/09/barcos-alface-com-salada-russa-frango-.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-russa-de-frango-com-alface/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "macedónia de vegetais congelados",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "perna de frango assada",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "maionese",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "corações de alface",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1417,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2001,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1419,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Cozinhe a macedónia conforme as instruções da embalagem em água temperada com sal. Escorra, coloque numa taça e leve ao frio até arrefecer.",
+      "Enquanto isso, desfie as pernas de frango e adicione-as à macedónia, assim como os coentros picados e a maionese. Tempere com pimenta a gosto e misture.",
+      "Lave e desfolhe os corações de alface e disponha-os em duas marmitas. Recheie-os com a mistura."
+    ]
+  }
+]

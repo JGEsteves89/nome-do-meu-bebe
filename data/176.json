@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Gnocchi de abóbora",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086476",
+    "link": "https://www.pingodoce.pt/receitas/gnocchi-de-abobora/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "miolo de pinhão",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "queijo de ovelha",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora aos cubos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo tipo 55 sem fermento",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 701,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1629,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2215,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 966,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Forre um tabuleiro de forno com papel vegetal, disponha por cima os cubos de abóbora e leve ao forno durante 20 minutos.",
+      "Coza as batatas com a casca e descasque-as depois de ligeiramente arrefecidas.",
+      "Passe os cubos de abóbora e as batatas cozidas pelo passe-vite para uma tigela, misture-lhes a farinha, o ovo, a colher de sobremesa de sal, um pouco de noz-moscada e de pimenta e amasse bem.",
+      "Forme pequenos rolos com a massa e corte-os com cerca de 2cm de comprimento.",
+      "Para o pesto, pique as folhas de coentros com os dentes de alho, o miolo de pinhão (reserve algum), o azeite, a colher de chá de sal e o queijo previamente ralado. Reserve.",
+      "Coloque ao lume uma panela com bastante água, deixe ferver, adicione a colher de sopa de sal e introduza os gnocchis, poucos de cada vez, deixando cozer.",
+      "Assim que vierem à superfície, retire-os com uma escumadeira para dentro de uma terrina. Reserve a água da cozedura.",
+      "Toste duas colheres de sopa de pinhões numa frigideira e reserve.",
+      "Dilua o pesto com uma colher de sopa da água de cozer os gnocchis. Envolva-os no molho, polvilhando-os com os pinhões reservados. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Lebre guisada à Dom Carlos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/lebre-a-dom-carlos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lebre-guisada-a-dom-carlos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lebre",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho Alentejo branco",
+        "qtd": 75,
+        "unit": "cl (1 garrafa)"
+      },
+      {
+        "name": "toucinho",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "banha",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 4,
+        "unit": "grão"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "vinho abafado",
+        "qtd": 1,
+        "unit": "cálice"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2668,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2606,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 2663,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2662,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2669,
+        "g": 0,
+        "ml": 220
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a lebre em oito pedaços. Reserve a cabeça e os fígados.",
+      "Coloque a lebre num tabuleiro, regue com o vinho branco e tempere com o sal e pimenta.",
+      "Espalhe a banha por cima da lebre e leve ao forno por 30 minutos até que esteja rosada.",
+      "Numa frigideira, refogue a cebola e o alho, descascados e picados, em metade do azeite. Adicione o toucinho cortado em cubos e a cabeça da lebre partida em 4 pedaços. Junte os grãos de pimenta e o vinagre.",
+      "Regue com o vinho tinto e deixe que o molho reduza.",
+      "Numa frigideira com o restante azeite quente, cozinhe o fígado da lebre durante cerca de 3 minutos. Adicione-o à frigideira com o toucinho.",
+      "Acrescente o vinho abafado e deixe ferver mais um pouco.",
+      "Retire do lume, desfaça a cabeça de lebre e passe por um passador de rede fina.",
+      "Sirva a carne do forno e sirva com o molho. Polvilhe com coentros picados."
+    ]
+  },
+  {
+    "name": "Lombo de novilho com camarão e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/lombo-de-novilho-com-camarao-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombo-novilho-camarao-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola nova pequena",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelo Portobello grande",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (gomos)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 0,
+        "unit": "g"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "bife do lombo de novilho",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "camarão 20/30",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pão de centeio",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 574,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 728,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 388,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 485,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1872,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave e corte os legumes em fatias. Reserve.",
+      "Tempere os legumes com uma colher de sobremesa de sal e regue-os com\nmetade do azeite.",
+      "Junte o restante azeite, o sumo de limão e os coentros, previamente picados, e reserve.",
+      "Coloque os bifes na grelha, aromatizada com alecrim, e tempere com o restante sal. Retire e reserve.",
+      "Grelhe os legumes e reserve. Coloque os camarões na grelha e depois de\nprontos regue-os com o azeite de limão e coentros.",
+      "Disponha os legumes grelhados sobre fatias de pão ligeiramente tostado na\ngrelha e sirva-os a acompanhar os bifes e o camarão.",
+      "Decore com gomos de limão."
+    ]
+  }
+]

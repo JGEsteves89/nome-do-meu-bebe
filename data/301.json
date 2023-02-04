@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Sopa de alface",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/sopa-de-alface.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-alface/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sobras de salada de alface",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2354,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa panela com o azeite, leve ao lume a cebola descascada e picada, e o alho-francês cortado em rodelas.",
+      "Descasque as batatas e lave a courgette, corte-as em cubos pequenos e deite na panela. Tempere com o sal, adicione as sobras da salada e a água a ferver. Coza tapado durante cerca de 25 minutos ou até os legumes estarem tenros.",
+      "Junte uma mão-cheia de folhas de coentros à sopa e triture com a varinha mágica.",
+      "Distribua pelos pratos, tempere com pimenta moída na altura e enfeite com folhas de coentros."
+    ]
+  },
+  {
+    "name": "Nuggets de bacalhau fresco",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/Nuggets-bacalhau-fresco.jpg",
+    "link": "https://www.pingodoce.pt/receitas/nuggets-de-bacalhau-fresco/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bacalhau fresco",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "flocos de aveia",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "jardineira de vegetais congelada",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "maionese com baixo teor de sal",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 267,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1304,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 1072,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1256,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 1420,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte cada porção de bacalhau em três pedaços e polvilhe, de ambos os lados, com o alho em pó, o caril e a pimenta moída na altura. Junte o leite e o sumo do limão e deixe marinar durante pelo menos 1 hora.",
+      "Pré-aqueça o forno a 200 °C.",
+      "Escorra o bacalhau e reserve. Junte o ovo à marinada e bata. Adicione a farinha e misture muito bem.",
+      "Noutro recipiente misture a aveia com o pão ralado e as sementes de sésamo.",
+      "Passe cada pedaço de bacalhau pela mistura de ovo e depois pela mistura de aveia, pão ralado e sésamo. Coloque os nuggets sobre um tabuleiro de forno forrado com papel vegetal e untado com azeite, e regue-os com o restante azeite.",
+      "Leve ao forno durante 20 minutos.",
+      "Entretanto coza a jardineira no micro-ondas durante 5 a 6 minutos, num recipiente com tampa, na potência máxima. Deixe arrefecer e envolva com metade da maionese.",
+      "Sirva os nuggets com a jardineira e acompanhe com a restante maionese."
+    ]
+  },
+  {
+    "name": "Lombos de atum com maçã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089457",
+    "link": "https://www.pingodoce.pt/receitas/lombos-de-atum-com-maca/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de atum fresco sem pele nem espinhas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "gengibre",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "maçã Starking",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "croutons",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1347,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1408,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 825,
+        "g": 40,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Tempere os lombos de atum com o gengibre ralado, o sal e um pouco de pimenta.",
+      "Lave muito bem as maçãs, tire-lhes o caroço e corte em fatias finas.",
+      "Descasque as cebolas e corte-as em rodelas finas.",
+      "Espalhe o azeite num tabuleiro de ir ao forno e disponha, alternadamente, as rodelas de cebola e de maçã.",
+      "Sobreponha os lombos de atum com a folha de louro em pedacinhos. Leve ao forno cerca de 20 minutos.",
+      "Salpique com salsa picada e sirva com uma salada de várias alfaces misturadas com croutons."
+    ]
+  }
+]

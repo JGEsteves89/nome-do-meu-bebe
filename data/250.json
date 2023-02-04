@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Salada César com croutons",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/salada-cesar-com-croutons-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-cesar-com-croutons/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de frango assado desfiado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de pão sem sal",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "corações de alface",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo parmesão em lascas",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "anchova",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 0.5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "gema de ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "óleo de girassol",
+        "qtd": 75,
+        "unit": "ml"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1093,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1845,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 757,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2272,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 148,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1797,
+        "g": 0,
+        "ml": 75
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Para os croutons, corte o pão em quadrados e coloque-os num tabuleiro de forno forrado com papel vegetal. Regue-os com o azeite e polvilhe com o alho em pó e os orégãos. Leve ao forno até o pão estar dourado. Reserve.",
+      "Desfolhe os corações de alface para dentro de uma saladeira. Coloque por cima o frango desfiado, o queijo parmesão e os croutons.",
+      "Para o molho, coloque todos os ingredientes no copo de um robot de cozinha e misture bem. Regue a salada com este molho e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Feijoada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/10/feijoada.jpg",
+    "link": "https://www.pingodoce.pt/receitas/feijoada/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "entrecosto",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "toucinho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "chispe de porco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "orelha de porco cozida",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "chouriço de sangue",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "repolho pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "tomate pelado em cubos",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "feijão encarnado cozido",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta em pó",
+        "qtd": 1,
+        "unit": ",5 c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 870,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 618,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1812,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 686,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 678,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2307,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2518,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1001,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2051,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Num tacho coza as carnes, previamente lavadas, e os chouriços em água temperada com 1 c. de chá de sal.",
+      "À medida que vão ficando cozidas, retire-as do lume e vá cortando aos pedaços. Reserve o caldo da cozedura",
+      "Separe as folhas do repolho e lave-as em água corrente. Descasque as cenouras e corte-as em rodelas finas. Coza o repolho e as cenouras ligeiramente em água temperada com 1 c. de chá de sal. Retire-as para água fria e reserve.",
+      "Num tacho, refogue em azeite os alhos e a cebola finamente picados e junte a folha de louro. Deixe alourar.",
+      "Acrescente o tomate pelado aos cubos e a polpa de tomate. Deixe apurar.",
+      "Junte as carnes, o feijão escorrido e um pouco do caldo da cozedura. Deixe cozinhar durante 10 minutos.",
+      "Acrescente os chouriços cortados aos pedaços e o repolho.",
+      "Tempere com pimenta e deixe apurar em lume médio.\nSugestão de acompanhamento: arroz branco (cozido com o restante caldo da carne)."
+    ]
+  },
+  {
+    "name": "Gambão no forno com arroz de salsa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/07/gambao-no-forno-com-arroz-de-salsa.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/gambao-no-forno-com-arroz-de-salsa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "gambão argentino congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta fresca pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "mostarda Dijon",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "lima",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1120,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1744,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1708,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 162,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 15,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 170 ºC.",
+      "Coloque o gambão já descongelado num tabuleiro de forno e salpique-o com uma colher de sobremesa de sal e a malagueta cortada em pedaços.",
+      "Numa taça, misture quatro colheres de sopa de azeite com os dentes de alho esmagados, a mostarda, o molho inglês e o vinho branco e deite a mistura sobre o gambão. Reserve.",
+      "Com um pelador, retire duas a três tiras da casca do limão e outras tantas da lima. Reserve.",
+      "Corte o limão e a lima em rodelas finas e junte-as ao gambão.",
+      "Misture tudo muito bem e leve ao forno cerca de 20 minutos, mexendo duas ou três vezes.",
+      "Num tacho, aqueça o restante azeite com as tiras da casca do limão e da lima reservadas. Junte o arroz e deixe fritar 1 a 2 minutos, até ficar translúcido.",
+      "Regue com a água a ferver, tempere com o restante sal, cubra com a tampa e coza cerca de 15 minutos.",
+      "Retire o gambão do forno, salpique-o com o cebolinho e uma colher de sopa de salsa picada. Junte a restante salsa picada ao arroz. Retire as cascas de lima e de limão e mexa com um garfo.",
+      "Sirva o arroz com o gambão."
+    ]
+  }
+]

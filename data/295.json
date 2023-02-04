@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Salmão em massa folhada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/salmao-em-massa-folhada.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-em-massa-folhada/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de salmão",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "laranja",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "miolo de amêndoa",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "massa folhada",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1589,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1711,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 1503,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o lombo de salmão em 6 pedaços idênticos. Tempere com a raspa da casca da laranja (reserve a laranja), o vinagre de sidra, a colher de café de sal e pimenta a gosto.",
+      "Pique finamente o miolo de amêndoa e misture-o com o molho pesto. Pré-aqueça o forno a 220 ºC.",
+      "Lave o feijão-verde, retire-lhe os fios, corte-o em tiras a todo o comprimento e coza-o em água a ferver temperada com 1 colher de sobremesa de sal, até estar tenro.",
+      "Barre o salmão com a mistura de pesto e amêndoa e embrulhe cada um dos pedaços em quadrados de massa folhada.",
+      "Coloque-os num tabuleiro forrado com papel vegetal com a “costura” da massa virada para baixo e com uma faca bem afiada faça pequenos rasgos na superfície da massa.",
+      "Leve ao forno até a massa estar dourada e estaladiça.",
+      "Sirva com o feijão-verde cozido e a laranja reservada, descascada e cortada em rodelas."
+    ]
+  },
+  {
+    "name": "Sopa de Inverno",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085891",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-inverno/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne picada",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "couve-lombarda",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora butternut",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "feijão encarnado cozido",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",4 L"
+      },
+      {
+        "name": "broa de milho",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 550,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 10,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 1001,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 434,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aloure a cebola picada numa panela com o azeite. Junte a carne picada e salteie, mexendo sempre até a carne estar bem solta e ter perdido o tom rosado. Tempere com o sal e uma pitada de pimenta.",
+      "Elimine os talos mais grossos da couve, corte-a em juliana fina, lave e escorra bem. Junte a lombarda e as rodelas de alho-francês à carne, misture bem, tape a panela e reduza o calor.",
+      "Descasque e limpe a abóbora de sementes, corte-a em juliana fina, lave e escorra bem. Junte a lombarda e as rodelas de alho-francês à carne, misture bem, tape a panela e reduza o calor.",
+      "Adicione o feijão e a água e deixe ferver mais 15 a 20 minutos. Sirva com o chouriço em rodelas e a broa cortada em fatias finas."
+    ]
+  },
+  {
+    "name": "Xarém com amêijoa à Bulhão Pato",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/xarem-com-ameijoa-a-bulhao-pato.jpg",
+    "link": "https://www.pingodoce.pt/receitas/xarem-com-ameijoa-a-bulhao-pato/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "amêijoa boa",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 10,
+        "unit": "dente (30 g)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 2,
+        "unit": "unid. (300 g)"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 0.5,
+        "unit": "unid. (50 g)"
+      },
+      {
+        "name": "sêmola de milho fina",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta moída",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 111,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 80
+      },
+      {
+        "id": 701,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2424,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 945,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave as amêijoas. Coloque-as num tacho e deixe-as abrir sobre lume forte, agitando o tacho de vez em quando.",
+      "Descasque e esmague cinco dentes de alho e num tacho com metade do azeite aloure-os em lume forte.",
+      "Quando os alhos estiverem dourados, junte ao tacho as amêijoas e tape por 2 minutos, agitando o tacho. Regue com o vinho branco, tape e cozinhe em lume moderado cerca de 5 minutos ou até as amêijoas abrirem, agitando o tacho de vez em quando para que todas recebam calor por igual. No final, coloque metade dos coentros picados e regue com o sumo de limão, tape novamente por 1 minuto. Retire do lume e separe as amêijoas do caldo.",
+      "Após cozer as amêijoas, retire-lhes o miolo e reserve.",
+      "Passe o caldo por um coador fino e reserve.",
+      "Entretanto, descasque e pique a cebola e os restantes dentes de alho. Num tacho com o restante azeite leve-os ao lume e deixe refogar lentamente.",
+      "Junte a sêmola de milho misturada com a farinha de milho ao refogado de cebola e alho e regue várias vezes com o caldo das amêijoas, até que a sêmola fique cozinhada e cremosa.",
+      "Adicione o miolo das amêijoas e os restantes coentros picados ao preparado de farinha de milho, envolvendo bem.",
+      "Tempere com o sal e pimenta-preta moída."
+    ]
+  }
+]

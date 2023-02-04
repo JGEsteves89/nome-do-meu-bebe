@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Tiras de peru com legumes no wok",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/tiras-de-peru-com-legumes-no-wok-617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tiras-peru-legumes-no-wok/",
+    "portions": 3,
+    "ingredients": [
+      {
+        "name": "courgette",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "massa fetuccine",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "bife de peru",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "flocos de piripíri",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês (fino)",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ketchup",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 772,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1500,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 382,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2421,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1076,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1259,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ponha um tacho ao lume com água para cozer a massa.",
+      "Lave a courgette, apare as extremidades e corte-a em fios com o espiralizador. Reserve.",
+      "Quando ferver, tempere-a com uma colher de chá de sal e introduza a massa e os fios de courgette. Mexa com um garfo e deixe cozer cerca de 12 minutos.",
+      "Corte os bifes de peru em tiras, tempere-os com o restante sal e misture com uma colher de chá de sementes de sésamo, o alho em pó e uma pitada de flocos de piripíri.",
+      "Aqueça metade do azeite num wok ou numa frigideira larga, junte as tiras de peru e salteie-as em lume médio a forte, mexendo frequentemente, durante 2 minutos ou até estarem douradas.",
+      "Apare as pontas dos caules dos bimis e corte o alho-francês lavado na diagonal e em fatias finas. Reserve. Retire a carne para outro recipiente, deite o restante azeite no wok e junte o alho-francês e os bimis preparados.",
+      "Corte o pimento vermelho em tiras, deite-as no wok e salteie tudo cerca de 3 a 4 minutos, mexendo com frequência.",
+      "Dissolva o amido de milho em 0,5dl de água, junte o molho de soja e o ketchup, misture bem e deite a mistura sobre os legumes. Reduza o lume, tape e deixe cozinhar cerca de 2 minutos.",
+      "Volte a introduzir as tiras de carne no wok, adicione o milho doce e cozinhe mais 1 a 2 minutos, mexendo ocasionalmente.",
+      "Escorra a mistura de massa e courgette, disponha-a à volta do cozinhado e salpique com as restantes sementes de sésamo."
+    ]
+  },
+  {
+    "name": "Alcatra açoriana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/alcatra-acoriana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/alcatra-acoriana/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "carne alcatra com osso",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "cabeça (50 g)"
+      },
+      {
+        "name": "toucinho fumado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 250,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "pimenta-preta em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cravinho em pó",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "banha",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 4,
+        "unit": "folha"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 527,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2557,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2049,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 804,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2662,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 4,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160 °C.",
+      "Corte a carne em pedaços de tamanho médio, o alho e o toucinho em fatias finas, e as cebolas em meias-luas. Reserve.",
+      "Coloque a carne num recipiente, esfregue com sal, regue com o vinho branco e tempere com pimenta-preta e o cravinho.",
+      "De seguida, unte um tacho de barro com a banha e cubra o fundo com cebola e alho.",
+      "Coloque a carne no tacho, alternando com uma camada de cebola, alho, louro e toucinho. No final, cubra a carne com o vinho e um pouco de água.",
+      "Tape, leve ao forno e deixe cozer lentamente.",
+      "Fique atento e quando a carne estiver tostada na parte de cima, retire do forno e vire a carne. Coloque novamente no forno e deixe cozinhar mais cerca de 1 hora.",
+      "Quando ambos os lados estiverem tostados e o molho estiver escuro, retire do forno e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Esparguete com presunto e espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/Esparguete-com-presunto-crocante-e-espargos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-com-presunto-e-espargos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "presunto em fatias",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "esparguete sem glúten Pura Vida",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espargo",
+        "qtd": 320,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo Parmigiano Reggiano DOP",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2151,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 901,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1078,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 892,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2277,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Disponha as fatias de presunto num tabuleiro de forno e leve-as a cozinhar durante cerca de 12 minutos ou até estarem douradas. Retire o tabuleiro do forno, deixe as fatias de presunto endurecer e parta-as em pedaços. Reserve.",
+      "Entretanto, cozinhe o esparguete conforme as instruções da embalagem, com a flor de sal.",
+      "Aqueça metade do azeite numa frigideira e salteie os espargos sem os pés, juntamente com o alho, previamente descascado e picado. Deixe cozinhar durante 4 minutos. Corte os espargos em pedaços pequenos e reserve.",
+      "Escorra a massa, coloque-a numa travessa, adicione a raspa de limão, o parmesão ralado no momento, os espargos e os pedaços de presunto.",
+      "Tempere com a pimenta, com o manjericão e o restante azeite. Envolva e sirva de imediato."
+    ]
+  }
+]

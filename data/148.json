@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Empadão de vitela com puré de batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/10/empadao-vitela-pure-batata-doce.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-vitela-com-pure-de-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne de vaca picada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 543,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Refogue a cebola e o alho picados num tacho com o azeite. Deixe cozinhar por 2 minutos em lume brando.",
+      "Adicione a carne, envolva e deixe cozinhar por 5 minutos, mexendo de vez em quando.",
+      "Acrescente a cenoura cortada em cubos e cozinhe por mais 2 minutos.",
+      "Junte a polpa de tomate e tempere com tomilho e sal. Misture e deixe cozinhar por 12 minutos em lume brando.",
+      "Enquanto isso, descasque a batata-doce e corte-a em cubos. Cozinhe em água cerca de 20 minutos.",
+      "Junte as ervilhas ao tacho com a carne, e deite a mistura num tabuleiro de forno fundo.",
+      "Escorra a batata e coloque numa taça, juntamente com o leite e a noz-moscada, esmague com a ajuda de um garfo. Disponha o puré sobre a mistura de carne e ervilhas e polvilhe com o queijo ralado. Leve ao forno durante 20 minutos."
+    ]
+  },
+  {
+    "name": "Sanduíche de carne",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/sanduiche-de-carne.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sanduiche-de-carne/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "couve-coração em juliana fina",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola pequena",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de carne de churrasco",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "polpa de tomate com alho e cebola",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cacete galego",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "pepino de conserva",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 782,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 564,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 532,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1709,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2110,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 458,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1985,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Salpique a juliana de couve com o sal e massaje durante\ncerca de 1 minuto com as mãos.",
+      "Coloque num coador de rede e passe por água corrente fria.\nEscorra muito bem e tempere com meia colher de sopa de\nazeite e com o vinagre. Reserve.",
+      "Aqueça o restante azeite numa frigideira antiaderente, junte a cebola descascada e cortada em meias-luas finas, e os dentes de alho descascados e picados. Quando a cebola estiver mole, junte a cenoura ralada e envolva.",
+      "Entretanto, corte as sobras de carne, já limpas de gorduras e ossos, em tiras finas. Deite na frigideira e adicione o molho inglês e a polpa de tomate. Cozinhe durante mais 5 minutos, mexendo ocasionalmente.",
+      "Corte o cacete em dois e abra cada metade ao meio. Coloque\nas metades abertas e com a parte cortada virada para baixo\nsobre um grelhador bem quente e deixe tostar levemente.",
+      "Pique o pepino de conserva, misture com a carne e recheie\no pão. Por cima, distribua a salada de couve."
+    ]
+  },
+  {
+    "name": "Hambúrguer com molho de abacate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/hamburguer-com-molho-de-abacate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-com-molho-de-abacate/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "abacate maduro pequeno",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lima",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "batata-doce frita em rodelas",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "salsicha fresca",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "carne de vaca picada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mini-pimento doce",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 331,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2384,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 543,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1582,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1923,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tire a pele às salsichas e misture-as com a carne picada. Junte a cebola, a salsa e o caril.",
+      "Limpe os mini-pimentos de sementes, pique-os em cubos muito pequenos e junte metade à mistura de carnes (reserve o restante).",
+      "Adicione o ovo e o pão ralado e tempere com uma colher de café de sal e um pouco de pimenta.",
+      "Misture bem, divida em quatro porções e molde-as em forma de disco.",
+      "Aqueça bem uma frigideira anti-aderente e cozinhe os hambúrgueres de ambos os lados durante 4 a 5 minutos. Retire e reserve.",
+      "Retire a polpa aos abacates e triture-a num robot de cozinha juntamente com os coentros e o sumo da lima.",
+      "Coloque o preparado numa taça, junte-lhe os restantes pimentos picados e tempere com a restante colher de café de sal e uma pitada de pimenta.",
+      "Verta o molho de abacate sobre os hambúrgueres e sirva-os acompanhados com a batata-doce."
+    ]
+  }
+]

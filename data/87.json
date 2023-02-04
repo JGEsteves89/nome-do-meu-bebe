@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Tártaro de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/tartaro-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tartaro-de-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pepino doce",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry mix",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona verde recheada com pasta de pimento",
+        "qtd": 15,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelo Marron",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho em conserva",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo de cabra fresco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 8,
+        "unit": "folha"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata-doce frita",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1987,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 251,
+        "g": 15,
+        "ml": 15
+      },
+      {
+        "id": 723,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2090,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2211,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1711,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 11,
+        "ml": 0
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 332,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o pepino em cubos pequenos, o tomate-cereja em quartos, as azeitonas em rodelas, os cogumelos em pedaços pequenos assim como os pimentos.",
+      "Coloque tudo numa taça e adicione o queijo de cabra esfarelado.",
+      "Tempere com o pesto, as folhas de manjericão picadas, a flor de sal e a pimenta a gosto. Envolva cuidadosamente, coloque dentro de um aro de cozinha e leve ao frio por 20 minutos.",
+      "Desenforme o tártaro num prato e sirva acompanhado com batata-doce frita."
+    ]
+  },
+  {
+    "name": "Frango com espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086509",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-espinafres/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "espinafre",
+        "qtd": 340,
+        "unit": "g"
+      },
+      {
+        "name": "bife de frango",
+        "qtd": 560,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo creme com ervas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "preparado para sopa portuguesa",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 907,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 378,
+        "g": 560,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2186,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2146,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Escalde as folhas de espinafres em água a ferver, escorra-as bem e deixe arrefecer.",
+      "Tempere os bifes de frango com a colher de chá de sal e um pouco de pimenta, barre-os com o queijo, cubra com os espinafres bem espremidos, enrole-os e ate-os com fio de cozinha.",
+      "Numa frigideira antiaderente quente com 2 colheres de azeite aloure os rolos de frango de todos os lados.",
+      "Adicione o vinho, baixe o lume, tape e deixe cozinhar durante 20 minutos.",
+      "Coloque o restante azeite num tacho largo e baixo, junte o preparado para sopa, tempere com a colher de sobremesa de sal, tape e leve ao lume até os legumes estarem macios.",
+      "Salpique os rolos de frango com folhas de tomilho fresco e acompanhe com os legumes."
+    ]
+  },
+  {
+    "name": "Folhado de bacalhau em creme de bivalves",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/folhado-de-bacalhau-em-creme-de-bivalves.jpg",
+    "link": "https://www.pingodoce.pt/receitas/folhado-bacalhau-creme-bivalves/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry (para decorar)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "massa folhada",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "azeite (para untar)",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "amêijoa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1349,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2488,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1503,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 111,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os lombos de bacalhau, previamente demolhados, a vapor, cerca de 12 a 15 minutos. Deixe arrefecer e separe em lascas grossas. Reserve.",
+      "Aqueça o azeite numa frigideira, junte a cebola finamente laminada, o alho picado e o alho-francês em rodelas finas e deixe saltear até os legumes estarem murchos. Tempere com o sal e uma pitada de pimenta e reserve. Pré-aqueça o forno a 175° C.",
+      "Corte a massa folhada em quatro rectângulos, pique-a e pincele-a com o azeite. Leve ao forno cerca de 15 minutos ou até a massa “abrir” bem. Retire os folhados do forno, deixe arrefecer e abra-os ao meio. Reserve.",
+      "Para o creme de bivalves, aqueça o azeite com um alho esmagado numa frigideira, adicione as amêijoas e o vinho e tape, deixando cozinhar até as conchas abrirem.",
+      "Retire do lume, deixe arrefecer um pouco e escolha o miolo de amêijoa. Adicione metade do miolo ao caldo que ficou na frigideira (reserve o restante miolo) e o amido de milho, previamente dissolvido em água fria, e deixe engrossar um pouco.",
+      "Retire do lume, triture bem com a varinha mágica ou no copo do liquidificador ou robot de cozinha. Junte os coentros picados (reserve duas hastes), envolva e reserve.",
+      "Coza os ramos de brócolos em água a ferver com metade do sal. Reserve.",
+      "Aqueça o azeite numa frigideira, junte os alhos picados e deixe refogar, sem queimar. Adicione os brócolos escorridos, esmague-os e tempere com o restante sal e um pouco de pimenta. Reserve.",
+      "Coloque um pouco do refogado de alho-francês na base dos folhados e, por cima, lascas de bacalhau. Disponha a esmagada de brócolos nos pratos de servir, coloque as metades de folhado sobre a esmagada e acabe de os encher com o creme de bivalves.",
+      "Distribua o miolo de amêijoa reservado e tape os folhados com as respectivas metades. Decore com 1/4 de tomate e um pouco de coentros."
+    ]
+  }
+]

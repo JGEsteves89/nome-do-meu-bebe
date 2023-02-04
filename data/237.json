@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Rolo de carne coberto com barbecue",
+    "image": "https://www.youtube-nocookie.com/embed/5BMatOYBulA",
+    "link": "https://www.pingodoce.pt/receitas/rolo-de-carne-coberto-com-barbecue/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "rolo de carne recheado com queijo e fiambre",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ketchup",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2323,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1259,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2598,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 38,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 572,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Numa taça misture bem todos os ingredientes exceto o rolo de carne, o azeite e a salsa.",
+      "Ao fim dos 35 minutos, retire o rolo do forno, barre o topo com a mistura anterior e leve novamente a cozinhar por 15 minutos. Polvilhe com salsa picada e sirva com salada e massa."
+    ]
+  },
+  {
+    "name": "Cavala marinada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/cavala-marinada.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/cavala-marinada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cavala",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "feijão-verde redondo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "bolbo funcho fresco",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "açúcar",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rama de funcho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 563,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1077,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1021,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a cabeça das cavalas, retire os filetes do lombo, corte-os ao meio e tempere com metade da flor de sal, um pouco da malagueta laminada (reserve o restante) e sumo de um limão.",
+      "Corte o feijão-verde, escalde-o em água a ferver cerca de 2 a 3 minutos e reserve.",
+      "Lamine o bolbo de funcho, corte a cebola em rodelas e esmague os alhos.",
+      "Disponha uma parte do feijão-verde no frasco, a seguir metades de cavala, cebola, funcho e malagueta laminados e alho.",
+      "Repita a sequência até esgotar todos os ingredientes.",
+      "Para o molho, misture o azeite com a restante flor de sal, pimenta moída, o sumo do restante limão, o açúcar, a pimenta em grão e a rama de funcho picada e deite no frasco."
+    ]
+  },
+  {
+    "name": "Ovos escalfados com tomate e feijão encarnado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/05/ovos-escalfados-tomate-feijao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ovos-escalfados-com-tomate-e-feijao-encarnado/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abóbora",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "feijão encarnado cozido",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate com rama maduro",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 7,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1001,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2503,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 76,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque as cebolas e os dentes de alho, corte-os em rodelas finas e leve ao lume, numa frigideira anti-aderente, com o azeite, até começarem a alourar.",
+      "Descasque a abóbora, lave e elimine as pontas das courgettes, corte-as em cubos pequenos e adicione-as à cebola, temperando com sal. Tape e deixe suar durante cinco minutos.",
+      "Junte o feijão, salpique com uma pitada de cominhos e orégãos, misture bem e deixe cozinhar suavemente cerca de 20 minutos, mexendo ocasionalmente.",
+      "Junte o tomate limpo de sementes e picado em cubos pequenos e coza mais cinco minutos.",
+      "Pré-aqueça o forno a 200 ºC.",
+      "Coloque o refogado em pratos de servir ou taças que possam ir ao forno, abrindo uma cavidade no cozinhado, parta um ovo para dentro desse espaço e leve ao forno durante oito minutos ou até os ovos coagularem.",
+      "Sirva a alface iceberg a acompanhar os ovos escalfados com legumes."
+    ]
+  }
+]

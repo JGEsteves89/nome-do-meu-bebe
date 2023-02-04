@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Douradinhos de pescada com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/SB48_alta-298.jpg",
+    "link": "https://www.pingodoce.pt/receitas/douradinhos-de-pescada-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de pescada sem pele nem espinhas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 0,
+        "unit": ",75 dl"
+      },
+      {
+        "name": "cebola doce",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette fina",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate em rama mini alongado",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado com salsa",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1366,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 570,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2511,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1821,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1927,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200°C.",
+      "Com uma faca bem afiada corte os lombos de pescada ao meio, de modo a ficarem com metade da altura. Tempere os com 1 colher de chá de sal e outra de alho em pó e pimenta moída na hora. Regue-os com o leite e reserve.",
+      "Descasque a cebola e corte-a em meias-luas para dentro de um tabuleiro de forno. Junte a courgette também cortada em rodelas finas e o tomate míni alongado.",
+      "Tempere com o restante sal e alho em pó e mais pimenta moída na altura. Polvilhe com o cebolinho e regue com o azeite. Misture muito bem, espalhe no tabuleiro e leve ao forno durante 25 minutos.",
+      "Escorra o peixe e coloque-o noutro recipiente.",
+      "Junte o ovo ao leite da marinada do peixe e mexa com um garfo até desfazer o ovo. Adicione a farinha e misture bem de modo a obter um polme bem espesso.",
+      "Barre os lombos de peixe de ambos os lados com o polme e envolva-os em seguida no pão ralado com alho e salsa.",
+      "Quando faltarem cerca de 10 minutos para terminar o tempo de cozedura dos legumes que estão no forno, coloque o peixe no tabuleiro e deixe finalizar."
+    ]
+  },
+  {
+    "name": "Shakshuka",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/Shakshuka.jpg",
+    "link": "https://www.pingodoce.pt/receitas/shakshuka/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pão",
+        "qtd": 4,
+        "unit": "fatia"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1078,
+        "g": 11,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1845,
+        "g": 60,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Aqueça uma frigideira grande com o azeite.",
+      "Descasque e pique a cebola e os alhos, e acrescente-os à frigideira deixando que alourem.",
+      "Junte o tomate sem pele e picado e refogue em lume brando durante 3 minutos.",
+      "Adicione a água e misture bem. Tape a frigideira e deixe cozinhar em lume brando cerca de 30 minutos.",
+      "Após os primeiros 15 minutos, acrescente metade da flor de sal, um pouco de salsa picada e a pimenta a gosto, misturando bem.",
+      "Assim que o molho estiver pronto, abra quatro espaços na frigideira e coloque dentro deles os ovos. Polvilhe com a restante flor de sal. Tape a frigideira novamente e deixe os ovos cozinharem por 5 minutos.",
+      "Salpique com mais um pouco de salsa e sirva de imediato na frigideira.",
+      "Acompanhe com pão torrado."
+    ]
+  },
+  {
+    "name": "Folhados magníficos de salmão",
+    "image": "https://www.youtube-nocookie.com/embed/5BOL0PPQoJw",
+    "link": "https://www.pingodoce.pt/receitas/folhados-magnificos-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tranche de salmão",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "esparregado Pura Vida",
+        "qtd": 360,
+        "unit": "g"
+      },
+      {
+        "name": "massa folhada",
+        "qtd": 460,
+        "unit": "g"
+      },
+      {
+        "name": "ovo",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 903,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 1506,
+        "g": 460,
+        "ml": 0
+      },
+      {
+        "id": 1816,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Divida a massa folhada em dois. Em cada metade coloque um pouco de esparregado (preparado conforme as instruções da embalagem) e por cima, coloque o tranche de salmão temperado com alho, sal e pimenta.",
+      "Embrulhe o salmão com a massa folhada, dê uns golpes na parte de cima e pincele com gema batida. Leve ao forno pré-aquecido a 200 ºC durante cerca de 15 minutos ou até dourados."
+    ]
+  }
+]

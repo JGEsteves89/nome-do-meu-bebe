@@ -1,0 +1,547 @@
+[
+  {
+    "name": "Salongo recheado à Açoreana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/03/Salongo-recheado-a-acoriana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salongo-recheado-a-acoreana/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "salongo",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "e 0.5 c. de chá"
+      },
+      {
+        "name": "cebola média",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "filete de peixe-espada-preto",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pão cereais ancestrais",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "puré de batata",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "espinafre",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alface iceberg",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2372,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 97,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1059,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1860,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 236,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1493,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2165,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 76,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Lave o peixe, enxugue-o com papel de cozinha e dê dois golpes em diagonal de cada lado do lombo. Salpique com uma colher de chá de sal.",
+      "Pique finamente uma cebola e um dente de alho, previamente descascados, e leve a alourar numa frigideira com uma colher de sopa de azeite. Introduza o filete e deixe cozinhar de ambos os lados durante cerca de 5 minutos, à medida que vai desfazendo o peixe com uma\nespátula. Entretanto, desfaça o pão em pedaços e escalde-o com a água a ferver. Junte o\npão bem demolhado ao peixe, adicione uma colher de sopa de salsa picada, as azeitonas e\nmisture muito bem. Retire do lume, junte o vinagre e o ovo batido, tempere com 0.5 colher\nde chá de sal e pimenta moída na altura e mexa bem.",
+      "Introduza cuidadosamente o recheio na barriga do peixe através da abertura junto à cabeça. Coloque o peixe sobre um tabuleiro de forno untado com um pouco do azeite.",
+      "Cubra o peixe com as restantes cebolas e dentes de alho descascados e cortados em rodelas finas.",
+      "Regue com a massa de pimentão, dissolvida no vinho branco, e o restante azeite.\nLeve a assar no forno durante cerca de 35 minutos.",
+      "Entretanto prepare o puré de batata, seguindo as indicações da embalagem. Bata o puré com os espinafres cozidos num robot de cozinha, até obter uma mistura homogénea.",
+      "Na altura de servir, salpique o peixe com a restante salsa picada e acompanhe com o puré e com a alface."
+    ]
+  },
+  {
+    "name": "Canja de galinha com hortelã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/canja-de-galinha-com-hortela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/canja-de-galinha-com-hortela/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "galinha ou frango do campo",
+        "qtd": 0.5,
+        "unit": "unid. (700g)"
+      },
+      {
+        "name": "chouriço de carne ou linguiça",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 350,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "aipo (talo)",
+        "qtd": 70,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 3,
+        "unit": "pé + q.b. para decorar"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa miúda (bagos, letras ou cuscus)",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "galinha ou frango do campo",
+        "qtd": 0.5,
+        "unit": "unid. (700g)"
+      },
+      {
+        "name": "chouriço de carne ou linguiça",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 350,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "aipo (talo)",
+        "qtd": 70,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "hortelã fresca",
+        "qtd": 3,
+        "unit": "pé + q.b. para decorar"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "massa miúda (bagos, letras ou cuscus)",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1116,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2000
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1475,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1116,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 1196,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2000
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1475,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque a galinha ou o frango do campo numa panela, junte o chouriço ou a linguiça, as cenouras peladas e cortadas em palitos, a cebola descascada, o talo de aipo e dois a três pés de hortelã atados.",
+      "Cubra com a água, tempere com o sal e leve a ferver, sobre lume moderado a brando, durante cerca de 1 hora ou até a carne estar tenra.",
+      "Coe o caldo e deite-o noutra panela.",
+      "Limpe a carne de peles e ossos e desfie-a muito bem. Junte-lhe a cenoura e o chouriço ou linguiça cortados em pedaços pequenos.",
+      "Leve o caldo de novo ao lume e, quando ferver, acrescente a massa escolhida. Mexa e coza durante o tempo indicado na embalagem. Adicione as carnes e a cenoura e retire do lume.",
+      "Junte umas gotas de sumo de limão e um pouco de pimenta moída na altura.",
+      "Distribua pelos pratos e polvilhe com folhas frescas de hortelã."
+    ]
+  },
+  {
+    "name": "Filete de salmão com molho barbecue e laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/07/salmao-com-molho-barbecue-e-laranja.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-com-molho-barbecue-e-laranja/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "filete de salmão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "molho barbecue",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "laranja (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rúcula (2 chávenas)",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "burrata fresca",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1065,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2729,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 445,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Tempere o salmão com o molho barbecue envolvendo-o bem. Regue com o sumo de laranja e polvilhe com pimenta preta a gosto e tomilho.",
+      "Coloque o salmão num tabuleiro e, por cima, disponha as rodelas de laranja bem finas. Leve ao forno cerca de 20 minutos.",
+      "Numa taça, misture a rúcula, o tomate cherry cortado em quartos e a burrata em pedaços. Tempere a gosto e sirva com o salmão acabado de sair do forno."
+    ]
+  }
+]

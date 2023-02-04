@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Cabrito com castanhas e legumes assados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/cabrito-com-castanhas-e-legumes-assados.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cabrito-com-castanhas-e-legumes-assados/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "cabrito (já limpo de peles e gorduras)",
+        "qtd": 0.5,
+        "unit": "unid. (1,6 Kg)"
+      },
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "massa de pimentão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 4,
+        "unit": "haste"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinha para assar",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "castanha congelada",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "tomate mini em rama",
+        "qtd": 250,
+        "unit": "g (3 unid.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 447,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 1494,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 582,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 559,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2517,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o cabrito num tabuleiro de forno. Esprema os dentes de alho, reserve cerca de uma colher de chá e misture os restantes com metade do sal, a massa de pimentão, metade do pimentão-doce e os cominhos.",
+      "Barre o cabrito de todos os lados com a pasta obtida, junte o louro, 3 a 4 hastes de tomilho e uma pitada de pimenta moída na altura. Regue com o vinho do Porto e com metade do azeite. Deixe marinar pelo menos de um dia para o outro.",
+      "Pré-aqueça o forno a 160 °C, na função ventilado.",
+      "Leve o cabrito a assar no forno durante cerca de 90 minutos.",
+      "Entretanto, descasque as cebolinhas, coloque-as noutro tabuleiro de forno e junte as castanhas, a abóbora cortada em palitos e a courgette cortada em rodelas. Adicione o alho reservado, o restante sal, o pimentão-doce e duas a três hastes de tomilho.",
+      "Misture tudo muito bem, regue com o restante azeite e borrife com duas a três colheres de sopa de água. Introduza no forno cerca de 40 minutos depois do cabrito e, 15 minutos antes de terminar o tempo, adicione o tomate.",
+      "Não se esqueça de regar o cabrito várias vezes com o molho que se for formando no tabuleiro e de mexer os legumes. Se for necessário para não deixar o molho secar demasiado, borrife com água.",
+      "Sirva o cabrito com os legumes assados."
+    ]
+  },
+  {
+    "name": "Esparguete com feijão e tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/02/esparguete-feijão-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-com-feijao-e-tomate/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão-branco",
+        "qtd": 420,
+        "unit": "g"
+      },
+      {
+        "name": "esparguete integral Pura Vida",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "malagueta seca",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2109,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 236,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 996,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 898,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1430,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Aqueça o azeite e a polpa de tomate numa frigideira durante 2 minutos. Junte as azeitonas, envolva e mantenha em lume brando por mais 3 minutos.",
+      "Adicione o feijão escorrido, o sal, pimenta e a malagueta seca picada. Deixe cozinhar por mais 3 minutos.",
+      "Cozinhe a massa conforme as instruções da embalagem. Escorra e adicione à frigideira. Envolva bem.",
+      "Sirva a massa polvilhada com folhas de manjericão."
+    ]
+  },
+  {
+    "name": "Folhado de entrecôte Angus em cama de espargos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/folhado-de-entrecote-e-pessego-em-cama-de-espargos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/folhado-de-entrecote-angus-em-cama-de-espargos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "entrecôte de novilho Angus",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "couve pak choy",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pêssego",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "massa folhada",
+        "qtd": 230,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espargo",
+        "qtd": 440,
+        "unit": "g"
+      },
+      {
+        "name": "vinho tinto Merlot & Touriga Nacional",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 5,
+        "unit": "g"
+      },
+      {
+        "name": "gema de ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 872,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 779,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2012,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 1506,
+        "g": 230,
+        "ml": 0
+      },
+      {
+        "id": 1746,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 892,
+        "g": 440,
+        "ml": 0
+      },
+      {
+        "id": 2633,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 41,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Tempere o entrecôte com metade do sal e pimenta a gosto.",
+      "Aqueça muito bem metade do azeite numa frigideira, junte os dentes de alho esmagados e sele o entrecôte até ficar com uma crosta dourada de todos os lados. Rreserve.",
+      "Entretanto, noutra frigideira, salteie a couve pak choy com uma colher de sopa de azeite bem quente, rapidamente, deixando-a ainda al dente, tempere com metade do sal e reserve.",
+      "Corte cada um dos pêssegos em oito gomos. Coloque a manteiga num tacho, deixe derreter e caramelize os gomos de pêssego. Reserve.",
+      "Abra a massa folhada sobre película antiaderente, corte-a em quatro partes iguais e por cima, no centro, ponha quatro gomos de pêssego e, por cima, a couve. Pincele bem o entrecôte com a mostarda e disponha sobre a couve, enrole a massa folhada de maneira que feche de todos os lados e reserve no frigorífico por 15 minutos.",
+      "Abra a massa folhada sobre película antiaderente, corte-a em quatro partes iguais e por cima, no centro, ponha quatro gomos de pêssego e, por cima, a couve. Pincele bem o entrecôte com a mostarda e disponha sobre a couve, enrole a massa folhada de maneira que feche de todos os lados e reserve no frigorífico por 15 minutos.",
+      "Coloque o vinho tinto, o açúcar mascavado e o tomilho num tacho e deixe reduzir lentamente até ficar com uma textura cremosa.",
+      "Pincele o folhado com a gema de ovo batida e leve ao forno por 20 minutos.",
+      "Regue o folhado com a redução de vinho e sirva com os espargos."
+    ]
+  }
+]

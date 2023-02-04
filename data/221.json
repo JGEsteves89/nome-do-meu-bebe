@@ -1,0 +1,640 @@
+[
+  {
+    "name": "Crumble de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/crumble-salmao-pingo-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/crumble-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "salmão (lombos)",
+        "qtd": 600,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão branco",
+        "qtd": 2,
+        "unit": "emb. (500g)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "pão proteico Active",
+        "qtd": 6,
+        "unit": "fatia (180g)"
+      },
+      {
+        "name": "aveia proteica Active",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2367,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 204,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2274,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque os lombos de salmão num prato de forno. Tempere com sal, mix de pimentas, alho em pó e regue com o azeite.",
+      "Escalde o feijão fillet em água a ferver durante 4 minutos. Escorra e em seguida coloque por cima do peixe.",
+      "Pré-aqueça o forno a 190 ºC.",
+      "Descasque as cenouras e com um descascador corte em fatias fi nas longitudinais. Disponha a cenoura por cima do feijão fillet.",
+      "Para o crumble, coloque num robot de cozinha as fatias de pão, a aveia, as ervas aromáticas, o azeite e o queijo. Triture bem até obter uma areia grossa.",
+      "Coloque o crumble por cima da cenoura.",
+      "Leve ao forno cerca de 20 a 25 minutos, ou até que o crumble esteja dourado."
+    ]
+  },
+  {
+    "name": "Bacalhau no forno com camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/bacalhau-de-natal.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-no-forno-com-camarao/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de bacalhau congelado",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 700,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate em pedaços",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "couve-lombarda cortada em juliana grossa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "bread bites alho e ervas",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão congelado 40/60",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1351,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 700
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2508,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 431,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1607,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Deixe descongelar o camarão e tempere-o com o sumo do limão, uma colher de café de sal, alho em pó e pimenta moída na altura.",
+      "Lave muito bem as batatas e coza-as em água temperada com uma colher de sobremesa de sal até estarem tenras.",
+      "Ao mesmo tempo, coloque os lombos de bacalhau num tacho, junte o leite, os dentes de alho esborrachados com a pele e a folha de louro. Leve ao lume e deixe ferver suavemente durante cerca de 7 minutos. Retire do lume e deixe arrefecer.",
+      "Depois de cozidas, escorra as batatas e pele-as. Quando estiverem frias, corte em rodelas grossas e reserve.",
+      "Num tacho, leve a cebola ao lume com o azeite. Quando começar a alourar, regue com o vinho do Porto e deixe ferver cerca de 5 minutos. Adicione o tomate e a juliana de couve e tempere com uma colher de café de sal. Misture bem e cozinhe destapado durante cerca de 15 minutos sobre lume moderado, mexendo de vez em quando.",
+      "Polvilhe com a farinha e regue com o leite da cozedura do bacalhau, previamente coado. Tempere com o restante sal e deixe engrossar mexendo ocasionalmente.",
+      "Entretanto limpe o bacalhau de pele e espinhas, procurando manter as lascas inteiras.",
+      "Disponha as rodelas de batata num tabuleiro de forno, intercaladas com as lascas de bacalhau.",
+      "Por cima disponha os camarões e regue tudo com o molho preparado. Salpique com o Bread Bites e leve ao forno durante 30 minutos ou até a superfície estar dourada."
+    ]
+  },
+  {
+    "name": "Peito de peru com molho picante de chocolate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/peito-de-peru-com-molho-picante-de-chocolate-617.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-peru-molho-picante-chocolate/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 5,
+        "unit": "grão"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "peito de peru",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tortilha de milho amarela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de amêndoa ralado",
+        "qtd": 70,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de sésamo Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cravinho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "canela",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 2,
+        "unit": "grão"
+      },
+      {
+        "name": "chocolate preto",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de cozedura do peru 3 conchas",
+        "qtd": 0,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar amarelo",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1974,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1425,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2542,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2437,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1589,
+        "g": 70,
+        "ml": 0
+      },
+      {
+        "id": 2421,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 801,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 510,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 653,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2112,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 28,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 158,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque ao lume uma panela com bastante água, junte-lhe a cenoura cortada em palitos, a cebola em quartos, o aipo, um dente de alho, a folha de louro, os grãos de pimenta, o sal e o peito de peru atado. Tape e deixe ferver cerca de 1 hora.",
+      "Limpe os pimentos de sementes e películas, corte-os em pedaços e deite-os na mesma panela onde coze o peru. Junte a malagueta e deixe cozer até estarem tenros.",
+      "Coloque ao lume uma frigideira larga e alta e, quando estiver quente, introduza a tortilha e deixe-a secar sem que fique queimada.",
+      "Retire a tortilha, adicione o azeite e refogue a cebola e o alho picados, até murcharem.",
+      "Misture o pão ralado com a tortilha esmigalhada, junte as sultana, a amêndoa ralada, as sementes de sésamo, o cravinho, a canela, os grãos de pimenta e o chocolate e mexa bem. Junte a mistura ao refogado, mexa, junte a polpa de tomate e envolva.",
+      "Retire os pedaços de pimento e a malagueta do caldo de peru e junte-os ao cozinhado.",
+      "Em seguida, triture tudo com a varinha mágica, adicionando duas ou três conchas do caldo até obter um molho cremoso.",
+      "Junte o açúcar e o sal e deixe cozer 10 minutos em lume brando. Coza o arroz em água (duas vezes o volume do arroz) até esta desaparecer. Reserve.",
+      "Retire o peru do caldo, deixe-o arrefecer um pouco, corte-o em fatias finas, regue-o com um pouco de molho e salpique com os coentros picados.",
+      "Coloque o resto do molho numa molheira. Acompanhe a carne com o arroz."
+    ]
+  }
+]

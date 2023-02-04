@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Pizza de peru com maçã e rúcula",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/pizza-peru-maca-e-rucula.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-peru-com-maca-e-rucula/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "fermento de padeiro fresco",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "farinha de trigo integral Pura Vida",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo tipo 55",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de peru",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate e basílico",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "maçã Royal Gala",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1026,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 958,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 964,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1974,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 735,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1406,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2267,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Dissolva o fermento na água morna. Misture as farinhas com o tomilho e o sal e abra uma cavidade ao meio. Deite aí o azeite e o fermento dissolvido. Misture e amasse até a massa estar lisa e elástica.",
+      "Molde em bola, tape com um pano e deixe levedar em local quente.",
+      "Corte a cebola e os dentes de alho em rodelas finas e refogue-os numa frigideira, com o azeite quente, até começarem a alourar.",
+      "Adicione o peito de peru e aloure-o de ambos os lados sobre lume médio a forte. Reduza o calor, tempere com o sal e um pouco de pimenta, tape e cozinhe 10 minutos.",
+      "Retire o peru e adicione os cogumelos, cozinhando sobre lume médio. Corte o peru em fatias finas e coloque-as na frigideira, adicionando em seguida o molho de tomate. Deixe retomar fervura e retire do lume.",
+      "Pré-aqueça o forno a 180 ºC.",
+      "Estenda a massa de pizza e coloque-a sobre o tabuleiro de forno untado com azeite (ou forrado com papel vegetal), espalhando por cima o cozinhado e metade das folhas de rúcula.",
+      "Lave muito bem as maçãs, retire-lhes o caroço com um descaroçador, corte-as em rodelas finas e distribua-as sobre a pizza.",
+      "Polvilhe com o mozzarella ralado e leve ao forno cerca de 30 minutos. Sirva com as restantes folhas de rúcula."
+    ]
+  },
+  {
+    "name": "Base de pizza de quinoa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/base-pizza-de-quinoa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/base-de-pizza-de-quinoa/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de quinoa cozida",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "farelo de aveia",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de linhaça",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "fermento em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2288,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 928,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 942,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1029,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Escorra bem a quinoa e misture-a com o farelo de aveia, a farinha de linhaça, o fermento e o alho em pó. Adicione o ovo e mexa, até obter uma massa bem ligada.",
+      "Espalhe-a sobre a base de uma tarteira de fundo móvel e leve ao forno, por cerca de 20 minutos."
+    ]
+  },
+  {
+    "name": "Lombinho de porco com castanhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/lombinho-de-porco-com-castanhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-de-porco-com-castanhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombinho de porco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "castanha congelada",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "couve-de-bruxelas congelada",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "romã",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1345,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 559,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 784,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2325,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Divida o lombinho em seis porções e aloure-o de todos os lados numa frigideira funda com o azeite bem quente.",
+      "Salpique com metade do sal e do alho em pó, com os cominhos, os orégãos e pimenta moída na altura.",
+      "Reduza um pouco o lume e adicione o pau de canela, a cebola picada e as castanhas.",
+      "Escalde as couves-de-bruxelas com água a ferver e acrescente-as à frigideira.",
+      "Limpe os cogumelos com papel de cozinha e junte-os ao cozinhado. Tempere com os restantes sal e alho em pó, tape e deixe cozinhar sobre lume moderado durante 25 minutos, agitando a frigideira de vez em quando.",
+      "Entretanto, retire os bagos da romã para uma taça e na altura de servir, salpique com os bagos de romã e com alecrim."
+    ]
+  }
+]

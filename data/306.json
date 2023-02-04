@@ -1,0 +1,491 @@
+[
+  {
+    "name": "Pizza de pita com atum, milho e brócolos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/05/pizza-de-pita-com-atum-milho-e-brocolos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-pita-com-atum-milho-e-brocolos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pão pita",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de tomate biológico",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "milho doce",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 12,
+        "unit": "unid."
+      },
+      {
+        "name": "atum em azeite",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1922,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1699,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1569,
+        "g": 28,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 12,
+        "ml": 12
+      },
+      {
+        "id": 188,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 438,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Cozinhe os brócolos numa panela com água a ferver temperada com o sal durante 4 minutos.",
+      "Disponha os pães pita num tabuleiro de forno forrado com papel vegetal.",
+      "Coloque sobre cada pão uma colher de molho de tomate, uma colher de queijo mozzarella, uma colher de milho, brócolos, dois tomates cortados ao meio e finalize com um pouco de atum.",
+      "Leve ao forno por cerca de 12 minutos.",
+      "Antes de servir, regue as pizzas com o azeite e acompanhe com os restantes brócolos e tomate."
+    ]
+  },
+  {
+    "name": "Cozido à Portuguesa transmontano",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/cozido-portuguesa-transmontano.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/cozido-a-portuguesa-transmontano/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "ossos de espinhaço de porco",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "entrecosto",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "frango",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "focinho de porco",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "couve-lombarda",
+        "qtd": 1,
+        "unit": ",3 kg"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 700,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "nabo",
+        "qtd": 390,
+        "unit": "g"
+      },
+      {
+        "name": "batata",
+        "qtd": 750,
+        "unit": "g"
+      },
+      {
+        "name": "chouriça de carne",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "chouriço de sangue",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1813,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 870,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1092,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1081,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 39,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 790,
+        "g": 700,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1755,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 750,
+        "ml": 0
+      },
+      {
+        "id": 672,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 686,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 176,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere as carnes de véspera com o sal.",
+      "Numa panela com água, coloque a cozer os ossos de espinhaço depois de bem lavados. Adicione o entrecosto,o frango e o focinho de porco. Estas carnes retiram-se à medida que vão cozendo. Se tiver uma panela de pressão a cozedura é mais rápida.",
+      "Em seguida, introduza na água de cozer as carnes os legumes arranjados e descascados e deixe cozer.",
+      "Pique os chouriços com um garfo e coza-os num tacho com água a ferver por cerca de 7 minutos.",
+      "Para o arroz, descasque e pique a cebola e esborrache os alhos e aloure ligeiramente no azeite num tacho de barro que possa ir ao forno.",
+      "Retire os alhos mal comecem a alourar. Junte o arroz no refogado depois de bem lavado e escorrido e deixe fritar, sem corar, até absorver a gordura. Tempere com o sal.",
+      "Regue o arroz com o caldo onde cozeram as carnes e os legumes. O caldo deve ter o dobro do volume do arroz. Deixe levantar fervura e leve o tacho ao forno, até que o arroz fique bem seco.",
+      "Antes de servir, corte as carnes e disponha-as numa travessa, assim como os legumes.",
+      "Sirva o cozido com o arroz."
+    ]
+  },
+  {
+    "name": "Espetadas de camarão com mandioca frita",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/02/Espetada-de-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/espetadas-de-camarao-com-mandioca-frita/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "camarão 20/30",
+        "qtd": 16,
+        "unit": "unid."
+      },
+      {
+        "name": "dente de alho",
+        "qtd": 5,
+        "unit": "g"
+      },
+      {
+        "name": "abacaxi",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "óleo de coco",
+        "qtd": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "chalota",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "rum",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "leite de coco",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "lima (raspa)",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "gengibre",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 10,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 5,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "mandioca",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 485,
+        "g": 16,
+        "ml": 16
+      },
+      {
+        "id": 89,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 4,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1795,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 612,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2331,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 1287,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 1331,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1438,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque o camarão, reserve as cascas e as cabeças para a preparação do molho. Pique o alho e reserve.",
+      "Descasque o abacaxi e corte em cubos de aproximadamente 2cm.",
+      "Monte as espetadas: coloque 4 camarões e 3 cubos de abacaxi em cada espeto, tempere com sal. Numa frigideira sele as espetadas no óleo de coco bem quente e no final junte o alho picado.",
+      "Para o molho, descasque a chalota e corte em meias luas. Num tacho com o azeite bem quente, toste a cascas e as cabeças do camarão. Adicione a chalota e deixe refogar. Refresque com o rum e deixe evaporar.",
+      "Junte o leite de coco, a raspa da lima, o gengibre, 0.5 malagueta e os coentros. Deixe ferver 20 minutos.",
+      "Retire do lume, triture tudo muito bem e passe por uma peneira fina. Tempere com o sal.",
+      "Para a mandioca frita, descasque e lave bem a mandioca, corte em gomos e coza em água abundante temperada com o sal, durante 10 minutos. Retire e escorra muito bem a água.",
+      "Pré-aqueça o forno a 170 ºC."
+    ]
+  }
+]

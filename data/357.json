@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Cogumelos recheados com crumble de broa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/cogumelos-recheados-com-legumes-e-crumble-de-broa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cogumelos-recheados-com-crumble-de-broa/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cogumelo branco grande",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "mistura de legumes para saltear",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "miolo de broa de milho",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 711,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1656,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 434,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C com o grill ligado.",
+      "Limpe os cogumelos com papel de cozinha, retire-lhes os pés e, com ajuda de uma colher de café, escave cuidadosamente um pouco do seu interior.",
+      "Numa frigideira antiaderente, aqueça uma colher de sopa de azeite e aloure os \"chapéus\" dos cogumelos durante 2 minutos de cada lado.",
+      "Num tabuleiro de forno, disponha os cogumelos com a concavidade virada para cima.",
+      "Deite mais uma colher de sopa de azeite na frigideira, adicione-lhe os pés dos cogumelos e a polpa retirada, grosseiramente picados, e a mistura de legumes.",
+      "Tempere com sal, cominhos, caril, uma pitada de noz-moscada e de pimenta. Mexa, tape e deixe cozinhar durante 15 minutos em lume moderado.",
+      "Triture o miolo de broa com o dente de alho e o restante azeite.",
+      "Recheie os \"chapéus\" dos cogumelos com a mistura de legumes e cubra-os com a broa picada.",
+      "Leve ao forno durante cerca de 15 minutos ou até a broa estar alourada."
+    ]
+  },
+  {
+    "name": "Red fish no forno com laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/redfish.jpg",
+    "link": "https://www.pingodoce.pt/receitas/red-fish-no-forno-laranja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "red fish",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "amêndoa",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "laranja",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 170,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz integral",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 0,
+        "unit": "¼ unid."
+      },
+      {
+        "name": "cebola média picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2303,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 120,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 910,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 172,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Limpe o peixe de escamas, retire-lhe a espinha central, obtendo dois filetes por cada red fish.",
+      "Coloque os filetes no fundo de um tabuleiro, com a pele virada para baixo. Regue com o azeite, polvilhe com 1 colher de chá de sal, pimenta moída na altura e amêndoa finamente laminada.",
+      "Esprema o sumo de uma laranja, reservando a outra para a guarnição, sobre o peixe e leve ao forno pré-aquecido a 180 ºC durante cerca de 15 minutos.",
+      "Entretanto, aloure a cebola em azeite aromatizado com alho e louro. Junte o arroz e os pimentos limpos de sementes e cortados em pequenos cubos e envolva bem.",
+      "Adicione água a ferver (na proporção do dobro da medida do arroz), tempere com 1 c. de chá de sal e deixe levantar fervura.",
+      "Reduza o lume para o mínimo, mexa e deixe cozinhar em tacho tapado durante 20 minutos.",
+      "Desligue o fogão e deixe repousar mais cinco minutos, mantendo o tacho tapado.",
+      "Sirva o red fish com rodelas de laranja e acompanhe com o arroz integral de pimentos e os espinafres temperados com vinagre balsâmico."
+    ]
+  },
+  {
+    "name": "Peito de pato com molho de cereja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/peito-de-pato-com-molho-de-cereja.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-pato-com-molho-de-cereja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de pato",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cereja descaroçada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "ginginha",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tagliatelle fresco",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1973,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 597,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1159,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2454,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Faça golpes em losango na pele dos peitos de pato.",
+      "Aqueça bem uma frigideira antiaderente, coloque os peitos de pato com a pele virada para baixo e cozinhe 3 a 4 minutos em lume médio a forte até a pele estar alourada e estaladiça.",
+      "Vire, tempere com uma colher de café de sal e um pouco de pimenta e cozinhe em lume moderado durante mais 3 a 4 minutos. Retire do lume.",
+      "Retire a gordura da frigideira, junte as cerejas, a malagueta limpa de sementes e picada, o alho esmagado, a ginginha, o vinho tinto, os cominhos e uma colher de café de sal e deixe ferver em lume brando durante 10 minutos, mexendo de vez em quando.",
+      "Coza o tagliatelle em água temperada com o restante sal até estar al dente.",
+      "Escorra e incorpore com os espinafres e o tomate cherry cortado ao meio.",
+      "Tempere com o azeite e um pouco de pimenta e polvilhe com os orégãos.",
+      "Corte os peitos em fatias, regue com o molho de cereja e sirva com o tagliatelle."
+    ]
+  }
+]

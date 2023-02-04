@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Salmão com legumes coloridos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/salmao-com-legumes-coloridos-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-legumes-coloridos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de salmão",
+        "qtd": 360,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sumo de limão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "raiz de gengibre",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "folhas/rama de aneto ou funcho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mini-pimento doce",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "talo aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1582,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 612,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o salmão com uma colher de café de sal, o sumo de limão, a raiz de gengibre e metade do alho em pó. Salpique com folhas de aneto (reserve algumas) e deixe marinar no frigorífico, tapado.",
+      "Pré-aqueça o forno a 180 ºC.",
+      "Pele as batatas e as cenouras, corte-as em rodelas e coloque-as num tabuleiro de forno.",
+      "Lave a courgette e os mini-pimentos, corte a courgette em cubos e os pimentos em gomos ou tiras largas, limpando-os de sementes.",
+      "Lave os talos de aipo, apare-lhes as bases, retire-lhes os fios mais rijos e corte-os em lâminas finas. Descasque e corte as chalotas em gomos.",
+      "Junte os legumes preparados às batatas e às cenouras, polvilhe com o restante alho em pó e tempere com o restante sal.",
+      "Salpique com folhas de aneto e regue com quatro colheres de sopa de azeite. Misture muito bem e espalhe sobre o tabuleiro.",
+      "Borrife com duas a três colheres de sopa de água e leve ao forno cerca de 30 minutos ou até os legumes estarem tenros.",
+      "Cerca de 10 minutos antes de terminar o tempo dos legumes, escorra o salmão, coloque-o noutro tabuleiro, regue com o restante azeite, salpique com as sementes de sésamo e leve ao forno aproximadamente 10 minutos.",
+      "Sirva com os legumes e salpique com folhas frescas de aneto."
+    ]
+  },
+  {
+    "name": "Coelho à moda de Porto Santo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/coelho-moda-de-porto-santo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/coelho-a-moda-de-porto-santo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coelho",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "colorau",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 5,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho da Madeira",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 300,
+        "unit": "g (3 unid.)"
+      },
+      {
+        "name": "tomate",
+        "qtd": 360,
+        "unit": "g (3 unid.)"
+      },
+      {
+        "name": "batata cozida",
+        "qtd": 640,
+        "unit": "g (8 unid.)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 700,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 744,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2613,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 283,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 640,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por cortar o coelho em pedaços.",
+      "Tempere com sal, colorau, 2 dentes de alho esmagados, louro e vinho. Deixe marinar por duas horas.",
+      "Coloque a banha numa panela e leve ao lume. Quando estiver bem quente, refogue o restante alho.",
+      "Adicione a cebola picada e quando estiver dourada junte o tomate picado.",
+      "Acrescente o coelho escorrido e deixe estufar um pouco. Refresque com a marinada e deixe cozinhar em lume brando por 45 minutos. Durante a cozedura, se necessário, adicione um pouco de água.",
+      "Sirva o coelho com as batatas."
+    ]
+  },
+  {
+    "name": "Tarte de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085224",
+    "link": "https://www.pingodoce.pt/receitas/tarte-de-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsicha de soja",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "requeijão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "massa quebrada",
+        "qtd": 1,
+        "unit": "placa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 884,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2382,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 954,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 2308,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1827,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1531,
+        "g": 230,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 º C. Corte o alho-francês em rodelas, lave e escorra. Rale a courgette e as cenouras peladas em fios. Descasque e pique a cebola.",
+      "Refogue a cebola e o alho-francês no azeite quente. Quando estiverem moles, adicione a courgette e a cenoura raladas. Junte as ervilhas, tempere com 1 colher de sobremesa de sal, mexa, tape e deixe cozinhar sobre lume brando até os legumes estarem tenros.",
+      "Tempere com pimenta moída na altura e noz-moscada e polvilhe com a farinha. Misture bem, junte as salsichas de soja cortadas em rodelas e retire do lume.",
+      "Desfaça o requeijão, junte-lhe os ovos e tempere com uma pitada de sal e pimenta. Bata muito bem com uma vara de arames. Junte aos legumes e misture de novo.",
+      "Forre uma forma para tarte (baixa, larga e de fundo móvel) com a placa de massa quebrada. Pique o fundo da massa com um garfo e, por cima, espalhe o recheio. Vire a massa excedente sobre o recheio e cozinhe na prateleira mais baixa do forno cerca de 25 minutos."
+    ]
+  }
+]

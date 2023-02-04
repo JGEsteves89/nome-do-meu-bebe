@@ -1,0 +1,555 @@
+[
+  {
+    "name": "Árvore de esparguete e cenoura",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/11/arvore-esparguete-cenoura.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/arvore-de-esparguete-e-cenoura/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "floretes de brócolos",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "esparguete integral Pura Vida",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "hambúrguer de peixe",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo cheddar",
+        "qtd": 1,
+        "unit": "fatia"
+      },
+      {
+        "name": "alga nori",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 438,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 898,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1191,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2176,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 82,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a cenoura ao meio e uma das metades em duas fatias longitudinais.",
+      "Com a ajuda de um cortador em forma de flor, corte a restante cenoura. Reserve.",
+      "Corte o feijão-verde em pedaços pequenos e os floretes de brócolos em metades.",
+      "Aqueça água num tacho, tempere com o sal, quando estiver a ferver, junte os legumes e cozinhe-os por cerca de 5 minutos.",
+      "Escorra os legumes com uma escumadeira, e na mesma água cozinhe o esparguete conforme as instruções da embalagem.",
+      "Divida o hambúrguer em dois e faça duas almôndegas. Aqueça uma colher de azeite numa frigideira antiaderente e cozinhe as almôndegas durante 5 minutos.",
+      "Espalme ligeiramente e cubra com o queijo cheddar (recorte com uma tesoura para ficar\nmais perfeito).",
+      "Demolhe a alga noori e decore as almôndegas de forma a fazer uma abelha.",
+      "Coloque uma das abelhas na parte de cima do prato, no lado direito, e no lado esquerdo\nfaça uma árvore com a ajuda da cenoura, do esparguete e do feijão-verde.",
+      "Ao lado, ponha os floretes de brócolos. Polvilhe com pimenta e regue com o restante azeite. Repita o mesmo no outro prato."
+    ]
+  },
+  {
+    "name": "Filetes de robalo com laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089485",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-robalo-com-laranja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "robalo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "aipo",
+        "qtd": 1,
+        "unit": "talo"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "ramo"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "ramo"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "ramo"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "água",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "batata primor",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "laranja",
+        "qtd": 230,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2318,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 900
+      },
+      {
+        "id": 324,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 230,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Prepare os filetes de robalo, reservando as espinhas e as cabeças. Ponha os filetes de molho em água temperada com uma colher de sal.",
+      "Ate as ervas num molho e coloque-as numa panela com a água e o restante sal, 4 ou 5 grãos de pimenta, as espinhas e cabeças dos peixes e leve ao lume. Assim que levantar fervura, baixe a temperatura, tape e deixe ferver durante cerca de 20 minutos.",
+      "Coza as batatinhas em água temperada com o restante sal. Quando estiverem prontas, escorra-as e salteie-as numa frigideira com o restante azeite, o alho picado e um bom punhado de coentros picados.",
+      "Lave a laranja, descasque-a e corte o vidrado em tirinhas. Separe os gomos da laranja, retirando-lhe a película branca e reservando o sumo que largarem.",
+      "Leve ao lume, numa frigideira antiaderente, uma colher de azeite. Escorra os filetes de peixe, seque-os bem e, quando o azeite estiver bem quente, salteie-os de ambos os lados por alguns minutos. Reserve no calor.",
+      "Coe o caldo do peixe, junte-lhe o sumo da laranja que escorreu e onde diluiu previamente o amido de milho e leve ao lume num tacho a engrossar. Retire do lume e reserve.",
+      "Sirva os filetes de robalo com o molho do peixe e laranja, decore com as tiras da casca, os gomos da laranja e as batatinhas salteadas."
+    ]
+  },
+  {
+    "name": "Paella mista",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/paella-mista.jpg",
+    "link": "https://www.pingodoce.pt/receitas/paella-mista/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 50,
+        "unit": "gr"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mexilhão congelado em dupla concha",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimento encarnado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de porco",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "lula",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de mexilhão",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "camarão 30/50 cozido",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "arroz agulha Europa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1562,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2075,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1967,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1369,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1388,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1619,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 491,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 884,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 159,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque uma panela ao lume com a cebola em gomos, o aipo em pedaços, a cenoura em rodelas, o louro, a pimenta, o vinho e a água. Quando levantar fervura junte o sal, mergulhe a embalagem dos mexilhões, tape e baixe o lume.",
+      "Corte metade do pimento em argolas e a outra metade em cubos pequenos, limpando-as de películas brancas e sementes.",
+      "Leve ao lume um tacho para paella (ou uma frigideira larga que possa ir ao forno), coloque o azeite e as argolas de pimento. Salteie 3 a 4 minutos, retire e reserve.",
+      "Corte a carne de frango e a carne de porco em cubos e coloque-as na frigideira. Vá mexendo até que fiquem douradas.",
+      "Junte as lulas limpas cortadas em argolas. Descasque os camarões (reserve alguns inteiros) e junte-os ao cozinhado.",
+      "Adicione os dentes de alho, o tomate em cubos e sem sementes, os cubos de pimento reservados e as ervilhas descongeladas.",
+      "Retire a embalagem dos mexilhões do caldo, abra-a, coe o líquido e junte-o ao caldo, polvilhando com o açafrão. Pré-aqueça o forno a 180 ºC.",
+      "Adicione o arroz, o açafrão e alguns mexilhões sem casca ao cozinhado, mexa e deixe fritar um pouco.",
+      "Regue com 6 dl do caldo e cozinhe em 10 minutos, sem mexer. Adicione mais um pouco de caldo e leve a frigideira ao forno, deixando cozinhar mais 10 minutos.",
+      "Decore com as argolas de pimentos, os mexilhões com concha e os camarões reservados. Polvilhe com salsa picada e sirva de imediato."
+    ]
+  }
+]

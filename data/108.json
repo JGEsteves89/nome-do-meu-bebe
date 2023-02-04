@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Hambúrguer com queijo da Ilha",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086506",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-com-queijo-da-ilha/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "hambúrguer de vitela",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "batata para fritar",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 0.5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cogumelo branco de Paris laminado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pão de hambúrguer",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "óleo alimentar",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1193,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 322,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 710,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1891,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2501,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2197,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 1791,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os hambúrgueres com a colher de sobremesa de sal.",
+      "Descasque as batatas, corte-as em palitos muito finos e reserve-os em água.",
+      "Aqueça uma chapa, lisa ou ondulada, e grelhe os hambúrgueres de ambos os lados, idealmente deixando-os mal passados.",
+      "Aqueça o azeite numa frigideira, adicione os dentes de alho e salteie os cogumelos, temperando-os com a colher de café de sal. Reserve.",
+      "Abra o pão ao meio e coloque a metade da base no prato, dispondo por cima o tomate em rodelas.",
+      "Num prato de forno, coloque o hambúrguer e, por cima deste, os cogumelos. Salpique com o queijo da Ilha ralado e leve ao forno até derreter ligeiramente.",
+      "Entretanto, frite as batatas e escorra-as bem em papel absorvente.",
+      "Retire o hambúrguer do forno e coloque-o sobre o pão com tomate.",
+      "Salpique com a pimenta e decore com o tomate cereja e o alecrim, colocando a outra metade de pão por cima ou ao lado do hambúrguer. Acompanhe com as batatas fritas e a rúcula."
+    ]
+  },
+  {
+    "name": "Almôndegas de peru com espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/03/almondegas-de-peru.jpg",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-de-peru-com-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "espinafre em folha congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado fresco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola finamente picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "peito de peru",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "água",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 911,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1923,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1974,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2488,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa taça, junte os espinafres, o ovo, o pão ralado, a cebola, o alho e o peito de peru picados, e metade do sal. Misture tudo bem.",
+      "Molde as almôndegas, formando pequenas bolas. Reserve.",
+      "Num tacho, aqueça a água e deite por cima do cuscuz. Adicione o restante sal. Tape o tacho e deixe descansar durante 5 minutos. Solte o cuscuz com a ajuda de um garfo.",
+      "Aqueça o azeite numa frigideira e frite as almôndegas durante cerca de 5 minutos, ou até estarem douradas.",
+      "Sirva as almôndegas com o cuscuz e o tomate cherry cortado em metades."
+    ]
+  },
+  {
+    "name": "Abóbora recheada com legumes e quinoa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/Abóbora-recheada-legumes-quinoa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/abobora-recheada-com-legumes-e-quinoa/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sementes de abóbora Pura Vida",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abóbora menina pequena",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "legumes salteados com quinoa congelados",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alecrim seco",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 50,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2405,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 16,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1277,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 71,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 749,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2045,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 50,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Corte a abóbora ao meio e retire as sementes.",
+      "Coloque a abóbora numa panela com rede de cozer a vapor e deixe cozinhar sobre lume moderado. Reserve.",
+      "Entretanto, numa frigideira antiaderente, deite o azeite e todo o conteúdo da embalagem dos legumes com quinoa. Cozinhe em lume médio, mexendo bem até toda a água dos legumes ter evaporado e ficar tudo salteado.",
+      "Enquanto isso, retire cuidadosamente o interior das metades da abóbora com a ajuda de uma colher e envolva esse “miolo” com os legumes. Reserve a casca da abóbora inteira. Tempere com o sal, o alecrim e as especiarias, e deixe terminar de cozinhar.",
+      "Forre um tabuleiro de forno com papel vegetal e recheie as abóboras com o preparado. Polvilhe com queijo ralado e leve ao forno a gratinar.",
+      "Quando for servir, polvilhe com as sementes de abóbora."
+    ]
+  }
+]

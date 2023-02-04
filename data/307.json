@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Hambúrguer Portugal no pão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/06/hamburguer-portugal-no-pao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-portugal-no-pao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pão de hambúrguer com sementes",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "hambúrguer Angus",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinheira",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "agrião",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "queijo flamengo",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1892,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1189,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 981,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 45,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2227,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1817,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Tempere os hambúrgueres com os dentes de alho, sal e pimenta.",
+      "Pique a farinheira e coza-a num tacho com água durante 12 minutos. Escorra, abra a farinheira ao meio e retire o interior. Reserve.",
+      "Frite os hambúrgueres numa frigideira anti-aderente com um fio de azeite. Cozinhe de ambos os lados durante cerca de 12 minutos.",
+      "Noutra frigideira anti-aderente com um fio de azeite, estrele os ovos de codorniz.",
+      "Sirva os hambúrgueres da seguinte forma: pão, agrião, farinheira, hambúrguer e ovo de codorniz e termine com o pão.",
+      "Se desejar adicione mostarda."
+    ]
+  },
+  {
+    "name": "Peito de frango recheado com molho de cogumelos",
+    "image": "https://www.youtube-nocookie.com/embed/S7P7j2b-OwM",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-recheado-com-molho-de-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango recheado com ameixa e queijo da ilha",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelo Marron",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 4,
+        "unit": "unid. (120 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "copo"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "natas",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2704,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 723,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1804,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 ºC e coloque os peitos de frango num prato de forno. Em redor, coloque os cogumelos em pedaços e as chalotas em quartos. Tempere com o sal, o alho picado e regue com o vinho branco e o azeite. Polvilhe com orégãos.",
+      "Tape os peitos com papel de alumínio, um a um, e em seguida leve ao forno por 30 minutos. Retire o papel e deixe cozinhar por, mais ou menos, 10 minutos até ficarem dourados.",
+      "Retire os cogumelos e as chalotas do prato de forno, coloque num tacho alto e adicione as natas. Deixe ferver e, em seguida, com a ajuda de uma varinha mágica, triture de forma a obter um molho cremoso. Antes de servir, retire a corda e regue com o molho de cogumelos."
+    ]
+  },
+  {
+    "name": "Quiche de atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/10/quiche-de-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quiche-de-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa quebrada fresca",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho picado",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento vermelho em tiras",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "atum em conserva",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1532,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2088,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 190,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 170 ºC.",
+      "Forre uma forma de mola com a massa. Pique a massa para que não crie bolhas quando estiver no forno.",
+      "Numa frigideira, aloure o alho no azeite.",
+      "Acrescente os pimentos às tiras e salteie bem.",
+      "Retire do fogo e deixe arrefecer ligeiramente.",
+      "Numa tigela, bata bem os ovos com as natas.",
+      "Junte o atum escorrido, os pimentos salteados e tempere com sal e pimenta.",
+      "Envolva bem todos os ingredientes e deite na forma.",
+      "Leve ao forno durante 30 minutos, ou até dourar.",
+      "Acompanhe com uma salada refrescante e variada."
+    ]
+  }
+]

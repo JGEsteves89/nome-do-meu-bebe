@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Cavala com salada de batata",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/lombos-de-cavala-com-salada-morna-de-batata.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cavala-com-salada-de-batata/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de cavala",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "batata primor",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "maionese light",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "iogurte natural",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1359,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 324,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1422,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1240,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Peça na peixaria para amanharem e escalarem duas cavalas, de modo a obter quatro lombos. Reserve.",
+      "Num tacho, coza as batatas em água temperada com sal até estarem macias.",
+      "Numa tigela, misture a maionese com o iogurte. Descasque os dentes de alho, esmague-os e junte-os à mistura de maionese. Tempere com pimenta e reserve.",
+      "Coloque os lombos de cavala sobre papel de cozinha e enxugue-os bem.",
+      "Numa frigideira antiaderente, aloure em azeite os lombos de cavala com a pele virada para baixo em lume médio a forte.",
+      "Tempere com sal, vire os lombos e deixe cozinhar mais 1 a 2 minutos.",
+      "Escorra bem as batatas, adicione-lhes a mistura de maionese e o conteúdo da embalagem de salada e mexa bem.",
+      "Coloque no prato de servir, dispondo por cima os lombos de cavala. Salpique com salsa picada."
+    ]
+  },
+  {
+    "name": "Filetes de peixe-gato riscado em molho de lima",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/05/filetes-peixe-gato-riscado-molho-lima.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-peixe-gato-riscado-em-molho-de-lima/",
+    "portions": 30,
+    "ingredients": [
+      {
+        "name": "filete de peixe-gato riscado",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "lima (raspa e sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "massa curvas riscadas",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pepino fino",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "malagueta piripíri",
+        "qtd": 0,
+        "unit": "¼ unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1060,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1485,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1984,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1427,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os filetes em cubos grandes e junte-lhes o leite, o dente de alho espremido, a raspa da casca e o sumo da lima, 0.5 colher de café de sal e uma pitada de pimenta moída na altura.",
+      "Coza a massa em água a ferver temperada com o restante sal durante cerca de 10 minutos.",
+      "Entretanto, descasque e pique a cebola e aloure-a com o azeite numa frigideira antiaderente.",
+      "Corte o pepino em lâminas finas e o tomate, já limpo de sementes, em cubos.",
+      "Escorra o peixe, junte-o à cebola e salteie sobre lume forte durante cerca de 2 minutos.",
+      "Junte o amido de milho e o vinho branco à marinada do peixe e mexa até dissolver. Deite sobre o peixe, reduza o lume e ferva durante 4 a 5 minutos, agitando a frigideira de vez em quando.",
+      "Escorra a massa, misture-a com o pepino e com o tomate e coloque num prato. Por cima, deite o peixe com o molho, mexa delicadamente e salpique com a malagueta picada."
+    ]
+  },
+  {
+    "name": "Feijoada de polvo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/feijoada-de-polvo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/feijoada-de-polvo/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "polvo congelado",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "feijão encarnado",
+        "qtd": 850,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2123,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1000,
+        "g": 850,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ponha ao lume uma panela com o polvo, o alho-francês cortado ao meio, a folha de louro e 1 dl de água. Deixe cozer até o polvo ficar tenro.",
+      "Corte o aipo em pedaços pequenos e as cenouras em meias-luas. Quando o polvo estiver pronto, deixe arrefecer e corte-o em pedaços.",
+      "Leve ao lume um tacho com o azeite e, quando estiver quente, refogue o aipo com a cenoura. Junte o chouriço cortado em rodelas e mexa. Adicione o polvo em pedaços e tempere com o sal e uma pitada de pimenta moída no momento.",
+      "Escorra o feijão e junte-o ao cozinhado, mexendo. Deixe apurar cerca de 5 minutos, salpique com a salsa picada e sirva de imediato."
+    ]
+  }
+]

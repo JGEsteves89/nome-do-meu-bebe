@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Muffins de ovo com brócolos e cheddar",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/Muffins-de-ovo-com-brócolos-e-cheddar.jpg",
+    "link": "https://www.pingodoce.pt/receitas/muffins-de-ovo-com-brocolos-e-cheddar/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "brócolos em floretes pequenos",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "natas magras",
+        "qtd": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "queijo cheddar fatiado",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "salada camponesa",
+        "qtd": 0,
+        "unit": "¼ emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 438,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1763,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 2177,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2353,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Cozinhe os brócolos em água a ferver durante 2 minutos. Escorra e reserve.",
+      "Unte quatro formas de queque com uma colher de sopa de azeite.",
+      "Parta os ovos para dentro de uma tigela, adicione as natas e tempere com uma colher de chá de sal, o alho em pó, a pimenta e o cebolinho seco. Misture.",
+      "Junte o queijo já ralado e os brócolos cozidos. Envolva bem.",
+      "Distribua este preparado pelas formas e leve ao forno por 15 a 20 minutos.",
+      "Retire os muffins das formas e coloque nas marmitas, acompanhados da salada.",
+      "Leve o tempero da salada à parte. Misture num frasco o restante azeite, o vinagre e o restante sal e pimenta. Antes de verter sobre a salada, agite bem."
+    ]
+  },
+  {
+    "name": "Risotto de cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086533",
+    "link": "https://www.pingodoce.pt/receitas/risotto-de-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "talos de aipo",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelo Portobello",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "queijo brie",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 728,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 174,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2173,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque a cebola e pique-a finamente. Lave os talos de aipo e corte-os em lâminas finas. Limpe os cogumelos e corte-os grosseiramente.",
+      "Num tacho com azeite, aloure suavemente a cebola e o aipo. Em lume brando, cozinhe cerca de 10 minutos sem deixar alourar. Acrescente o arroz.",
+      "Deixe fritar, mexendo de vez em quando, até ficar translúcido. Regue com o vinho branco, adicione os cogumelos e cozinhe, mexendo frequentemente, até absorver o líquido.",
+      "Ferva a água com o sal e adicione-a, a pouco e pouco, ao arroz, mexendo à medida que for sendo absorvida.",
+      "Assim que o arroz estiver cozido, o que deve demorar cerca de 20 minutos, retire-o do lume, junte-lhe o queijo cortado em pedaços pequenos e as folhas de rúcula e envolva.",
+      "Tempere com pimenta moída no momento e sirva sem demora."
+    ]
+  },
+  {
+    "name": "Bacalhau com broa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089449",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-com-broa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "couve-portuguesa",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "bacalhau congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "broa de milho",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 790,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 256,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 434,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Coza as postas de bacalhau em água a ferver, tendo o cuidado de não as deixar cozer muito. Retire do lume e reserve a água.",
+      "Depois de arrefecerem um pouco, limpe as postas de peles e espinhas e reduza a lascas. Reserve.",
+      "Lave bem a couve, corte em tiras finas e coza na água do bacalhau 8 a 10 minutos. Escorra bem, depois de cozida.",
+      "Corte a cebola e 2 dentes de alho em rodelas finas e leve a refogar numa frigideira com 4 colheres de sopa de azeite. Adicione o pimentão doce, o bacalhau e a couve cozida, envolvendo muito bem.",
+      "Com uma faca bem afiada, abra uma tampa na parte de cima da broa e escave com uma colher, retirando todo o miolo. Junte-o ao preparado de bacalhau, cebola e couve.",
+      "Rectifique os temperos e coloque o bacalhau preparado dentro da broa, fechando-a com a tampa de broa.",
+      "Leve ao forno a 200 ºC durante 5 minutos.",
+      "Tire do forno, retire a tampa, regue com uma mistura de 2 colheres de sopa de azeite quente, 1 alho e coentros finamente picados."
+    ]
+  }
+]

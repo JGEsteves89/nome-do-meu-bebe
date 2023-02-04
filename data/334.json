@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Perna de peru com maçã e pimentos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/perna-de-peru-com-maca-e-pimentos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/perna-de-peru-com-maca-e-pimentos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "açúcar mascavado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "perna de peru",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 3,
+        "unit": "dl"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "maçã reineta",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "mix de pimentos",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 250,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 38,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2003,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 450
+      },
+      {
+        "id": 577,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1405,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1683,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 835,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 140° C.",
+      "Numa tijela, prepare uma mistura de temperos com azeite, sal, açúcar mascavado e mostarda.",
+      "Sobre uma folha de papel de alumínio, coloque a perna de peru, limpa de pele e gorduras, e barre-a com a mistura de temperos.",
+      "Junte 0,5 dl de água à restante mistura, mexa bem e reserve. Embrulhe a carne em folha de alumínio, coloque-a sobre um tabuleiro e leve ao forno durante 2 horas e meia.",
+      "Corte as cebolas em gomos finos. Descasque as maçãs corte-as em quartos, elimine os caroços e fatie-as finamente. Misture tudo.",
+      "Num tabuleiro de forno forrado com papel vegetal, espalhe a mistura de cebola e maçã e salpique com as folhas de louro partidas.",
+      "Abra os pimentos ao meio, limpe-os de sementes e espalhe-os sobre o tabuleiro.",
+      "Regue com a restante mistura de temperos, salpique com o vinagre e leve ao forno, 90 minutos após ter colocado a carne. Mexa de vez em quando.",
+      "Retire o tabuleiro com a maçã e os pimentos do forno, abra a folha de alumínio da perna de peru e aumente a temperatura do forno para os 180°C. Deixe cozinhar mais 30 minutos.",
+      "Acompanhe com cuscuz."
+    ]
+  },
+  {
+    "name": "Pizza do mar",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/pizza-do-mar.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-do-mar/",
+    "portions": 12,
+    "ingredients": [
+      {
+        "name": "miolo de camarão congelado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de mexilhão congelado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "base para pizza integral",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "bacon em cubos pequenos",
+        "qtd": 8,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha ralado",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1606,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1620,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 298,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 270,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2197,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC",
+      "Coloque o miolo de camarão e o de mexilhão num passador e deixe descongelar.",
+      "Numa bancada enfarinhada, estenda a massa com ajuda de um rolo.",
+      "Forre 2 tabuleiros com papel vegetal. Disponha a massa nos tabuleiros.",
+      "Corte os pimentos em rodelas e limpe-os de sementes e películas brancas.",
+      "Numa frigideira, salteie o bacon em azeite até estar ligeiramente tostado.",
+      "Distribua a polpa de tomate pelas pizzas. Por cima acrescente as rodelas dos pimentos, o bacon, o miolo de camarão e o de mexilhão, o queijo e as azeitonas às rodelas.",
+      "Polvilhe com os orégãos e leve ao forno durante 30 minutos.",
+      "Retire as pizzas e polvilhe com cebolinho picado. Sirva de imediato."
+    ]
+  },
+  {
+    "name": "Legumes com salsicha e ovos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/legumes-com-salsicha-e-ovos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/legumes-com-salsicha-e-ovos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "sobras de legumes assados",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "salsicha alemã",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "batata-doce palha",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento conservado em vinagre",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1269,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2380,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 334,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2072,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve as sobras de legumes assados ao lume numa frigideira e deixe aquecer bem.",
+      "Junte as salsichas bem escorridas e cortadas em rodelas e salteie sobre lume forte durante 3 a 4 minutos, mexendo ocasionalmente.",
+      "Junte as batatas e mexa.",
+      "Entretanto, parta os ovos para uma taça e bata-os com um garfo até estarem desfeitos.\nDeite os ovos em fio sobre a mistura de legumes e salsichas e mexa com uma espátula até coagularem.",
+      "Decore com tiras de pimento assado e salsa picada."
+    ]
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Salteado de frango com ananás",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/02/frango-salteado-ananas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salteado-de-frango-com-ananas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "gengibre ralado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ananás dos Açores",
+        "qtd": 3,
+        "unit": "fatia"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz basmati Take Away",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1153,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 98,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 145,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 2420,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 164,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os peitos de frango aos cubos. Tempere-os com sal, pimenta e alho. Adicione o amido de milho e o molho de soja.",
+      "Numa frigideira, salteie o gengibre ralado no azeite, adicione o frango e deixe cozinhar cerca de 4 minutos.",
+      "Junte o alho-francês, cortado em rodelas, e o ananás cortado em cubos e envolva. Se necessário, acrescente um pouco de água.",
+      "Polvilhe com as sementes de sésamo e o cebolinho, previamente picado.",
+      "Sirva com o arroz basmati do Take Away."
+    ]
+  },
+  {
+    "name": "Bife de vitela à portuguesa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/09/bife-de-vitela-a-portuguesa.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bife-de-vitela-a-portuguesa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de vitela",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 4,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "presunto",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 3,
+        "unit": "dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 385,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1384,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2148,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 302,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 300
+      }
+    ],
+    "steps": [
+      "Numa frigideira, aloure no azeite o louro e os alhos esmagados com casca.",
+      "Ponha os bifes na frigideira e frite-os até atingirem o ponto desejado. Retire e reserve.",
+      "Na mesma frigideira, junte as tiras de presunto para fritarem ligeiramente e retire.",
+      "Acrescente o vinho branco ao azeite na frigideira e mantenha no lume alguns minutos até reduzir.",
+      "Descasque as batatas, corte-as em rodelas grossas e frite-as em azeite.",
+      "Emprate o bife, colocando por cima uma fatia de presunto frito. Enfeite com a folha de louro e os dentes de alho esmagados. Disponha à volta as batatas fritas.",
+      "Regue com o molho e salpique com salsa picada. Por cima do presunto verta algumas gotas de vinagre."
+    ]
+  },
+  {
+    "name": "Pregado na grelha com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/07/pregado617x370-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pregado-na-grelha-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pimento grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento alongado",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pregado",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pão de centeio",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2067,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2068,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1078,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2140,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1872,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave os pimentos e corte o amarelo em quatro partes e o vermelho ao meio, sem retirar as sementes. Lave as courgettes e corte-as em troços. Reserve.",
+      "Aqueça bem a grelha, disponha nela os legumes e deixe os grelhar em lume forte. Retire-os para um prato ou travessa de servir e salpique-os com o azeite e a flor de sal. Reserve.",
+      "Tempere o pregado com o sal e coloque-o na grelha bem quente.",
+      "Quando estiver grelhado, volte-o com a ajuda de outra grelha e deixe grelhar até estar pronto. Retire e reserve.",
+      "Corte o pão em quatro fatias e toste-as na grelha, salpicadas com o alho picado.",
+      "Retire, disponha os legumes sobre o pão e polvilhe com os orégãos.",
+      "Sirva as tostas a acompanhar o pregado."
+    ]
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "name": "Cantaril com puré e molho de espumante",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/10/cantaril-pure-molho-espumante.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cantaril-com-pure-e-molho-de-espumante/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cantaril",
+        "qtd": 1,
+        "unit": ",2 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alface-coração",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "aipo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cabeça e espinhas do cantaril",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "grãos de pimenta preta em grão",
+        "qtd": 5,
+        "unit": "grão"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "espumante Rosé Bruto",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "chalota",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "feijão-branco cozido",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "poejo",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta rosa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 513,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 80,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 62,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 513,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 922,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 612,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 998,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1783,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2103,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2053,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Amanhe e lave o cantaril, eliminando a totalidade das escamas.",
+      "Retire os lombos do cantaril, reserve a cabeça e coloque as espinhas em água fria (a sangrar).",
+      "Corte os lombos em quatro pedaços uniformes. Tempere com a colher de chá de sal.",
+      "Aqueça duas colheres de azeite numa frigideira e quando estiver quente, marque o peixe do lado da pele. Depois de bem marcado, volte o peixe e tape com papel de alumínio.",
+      "Para o caldo de peixe, lave e corte grosseiramente o aipo, o alho-francês e a cenoura para uma panela. Junte a cabeça e as espinhas do cantaril, os grãos de pimenta, a folha de louro e os dentes de alho esmagados. Encha com água fria e deixe cozinhar em lume brando por 15 minutos, sem ferver.",
+      "Passe por um escorredor e reserve.",
+      "De seguida prepare o molho de espumante. Deite o vinho num tacho e junte-lhe a chalota descascada e picada. Deixe levantar fervura e acrescente o caldo de peixe. Deixe reduzir a metade. Adicione as natas e deixe reduzir. Tempere com uma colher de chá de sal.",
+      "Abra as alfaces ao meio tempere com o restante azeite e grelhe numa chapa.",
+      "Entretanto prepare o puré. Numa frigideira coloque metade da manteiga e as chalotas picadas. Deixe suar. Junte o feijão-branco e salteie. Reduza a puré no liquidificador. Deite na frigideira, tempere com pimenta e noz-moscada. Adicione a restante manteiga e envolva.",
+      "Disponha o puré no centro de um prato e sobre ele o peixe, com a pele para cima, e a alface. Regue com um pouco de molho de espumante em volta do puré e polvilhe com o poejo e pimenta-rosa."
+    ]
+  },
+  {
+    "name": "Tomate recheado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/10/tomate-recheado.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tomate-recheado/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "cebola picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne de vaca picada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama grande (maduro, mas firme)",
+        "qtd": 360,
+        "unit": "g"
+      },
+      {
+        "name": "courgette ralada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sobras de arroz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 543,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa frigideira anti-aderente, aloure a cebola no azeite quente. Junte a carne e salteie, mexendo frequentemente em lume médio-forte, até esta perder a cor vermelha.",
+      "Lave o tomate, corte-lhe uma tampa (reserve) e, cuidadosamente, escave o interior. Pique a polpa retirada e junte-a à carne. Adicione a courgette, o sal e os cominhos e cozinhe sobre lume moderado, cerca de 15 minutos.",
+      "Misture a carne com o arroz e o cebolinho e distribua pelas “caixas” de tomate. Coloque a tampa e sirva morno ou frio."
+    ]
+  },
+  {
+    "name": "Crepes de espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/09/crepes-espinafres.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/crepes-de-espinafres/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "farinha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta-de-caiena",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mistura de cogumelos congelados",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pinhão torrado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tahini",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 931,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2036,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1650,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2095,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2458,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2327,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por preparar a massa. Num robot de cozinha, misture todos os ingredientes e bata bem até obter uma massa homogénea. Deixe repousar por 15 minutos.",
+      "Enquanto isso, prepare o recheio. Aqueça duas colheres de sopa de azeite com os alhos picados e o alecrim numa frigideira durante 1 minuto. Adicione os cogumelos e cozinhe em lume brando por 10 minutos. Tempere com o sal e pimenta-preta a gosto.",
+      "Para o molho, coloque\nnuma taça todos os\ningredientes e misture.\nReserve.",
+      "Para fazer os crepes, unte uma frigideira com uma colher de sopa de azeite e deite nela uma concha de massa, rode a frigideira e deixe que a massa prenda ao fundo. Vire de lado e deixe cozinhar mais um bocado. Retire e repita o processo para os restantes crepes.",
+      "Recheie os crepes com a mistura de cogumelos, dobre e polvilhe com os pinhões torrados. Regue com o molho e sirva com a rúcula."
+    ]
+  }
+]

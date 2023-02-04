@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Batatas recheadas com requeijão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/07/batatas-recheadas-com-requeijao-abacate-e-espinafres.jpg",
+    "link": "https://www.pingodoce.pt/receitas/batatas-recheadas-com-requeijao-abacate-e-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata grande",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "requeijão",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "abacate maduro",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 302,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2315,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 907,
+        "g": 170,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Coza as batatas em água temperada com metade do sal durante 20 minutos ou até estarem tenras. Tenha atenção para não deixar cozer demasiado.",
+      "Coloque o requeijão e a polpa dos abacates numa taça, esmague-os bem e tempere com o restante sal e um pouco de pimenta.",
+      "Aqueça o azeite numa frigideira, salteie os espinafres até murcharem e, em seguida, adicione-os ao requeijão, envolvendo bem.",
+      "Pré-aqueça o forno a 180 ºC.",
+      "Escorra as batatas, abra-as ao meio e retire-lhes parte do interior.",
+      "Recheie-as com o preparado de requeijão e leve ao forno cerca de 12 minutos."
+    ]
+  },
+  {
+    "name": "Massas tricolores com frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/lacos-tricolores.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massas-tricolores-com-frango/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "peito de frango em tiras",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês fino",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ervilhas congeladas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "massa farfalle",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "coentros manjericão ou hortelã fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "iogurte grego natural",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "queijo fresco com ervas para barrar",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 884,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 1499,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1228,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2236,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1703,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere as tiras de frango com uma colher de café de sal, o tomilho, o alho em pó e uma pitada de pimenta.",
+      "Misture bem, regue com o sumo do limão e o mel e envolva bem.",
+      "Corte o alho-francês em rodelas finas, lave e escorra. Reserve.",
+      "Aqueça metade do azeite numa frigideira larga e salteie as tiras de frango em lume médio a forte até estarem douradas. Retire-as para outro recipiente e reserve.",
+      "Deite o restante azeite na frigideira, junte o alho-francês e as ervilhas e tempere com uma colher de café de sal.",
+      "Tape e deixe suar, em lume brando, cerca de 15 minutos ou até as ervilhas estarem tenras. Adicione as tiras de frango e o tomate cortado ao meio e cozinhe em lume brando mais 2 a 3 minutos.",
+      "Coza os laços em água a ferver temperada com o restante sal cerca de 6 minutos ou até estarem al dente.",
+      "Para os molhos, aqueça o azeite numa frigideira anti-aderente, junte os dentes de alho, finamente picados, e quando começarem a alourar adicione o iogurte. Deixe aquecer em lume muito brando, mexendo sempre.",
+      "Divida o preparado em duas porções e junte a uma delas o queijo com ervas e à outra o molho de tomate. Misture muito bem e coloque em duas taças, tendo o cuidado de as manter quentes.",
+      "Junte a massa escorrida, mas com um pouco de água, ao cozinhado de legumes e frango e envolva. Salpique com as folhas de ervas aromáticas e sirva de imediato com um dos molhos."
+    ]
+  },
+  {
+    "name": "Sopa de noodles picante",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/11/sopa_noodles_picante.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-noodles-picante/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola congelada",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho congelado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta vermelha picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mistura chinesa de vegetais congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "molho de caril",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "leite de coco",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "noodles de frango",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 1,
+        "unit": "molho"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 567,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 91,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1639,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1692,
+        "g": 0,
+        "ml": 220
+      },
+      {
+        "id": 1287,
+        "g": 0,
+        "ml": 400
+      },
+      {
+        "id": 1775,
+        "g": 0,
+        "ml": 170
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza os peitos de frango em água com metade do sal durante 10 min. Escorra-os, desfie-os e reserve.",
+      "Num tacho, refogue a cebola e o alho em azeite. Junte a malagueta picada, deixe cozinhar por 1 minuto e adicione a mistura chinesa e o restante sal, deixando cozinhar mais 4 minutos.",
+      "Acrescente o molho de caril, o leite\nde coco e misture bem. Deixe ferver.",
+      "Envolva os noodles e deixe cozinhar conforme as instruções da embalagem.",
+      "Junte o frango desfiado e sirva polvilhado com coentros picados."
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Tagliatelle com salmão e pesto",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/02/massa-tagliatelle-salmao-pesto.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-salmao-pesto/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tagliatelle em novelos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "molho pesto",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona às rodelas",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",1 L"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "aneto",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salmão fumado",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2452,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1711,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 225,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2369,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque a massa num tacho largo, adicione o pesto, o tomate seco cortado em tiras, as azeitonas, o sal e a água.",
+      "Tape e leve a lume forte até levantar fervura.",
+      "Retire a tampa, baixe o lume e continue a cozedura, mexendo de vez em quando até a massa estar cozida, mas al dente.",
+      "Salpique com um pouco de pimenta e aneto picado, misture com o salmão cortado em tiras e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Crepes de beterraba com guacamole",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/06/crepes-de-beterraba-com-guacamole.jpg",
+    "link": "https://www.pingodoce.pt/receitas/crepes-de-beterraba-com-guacamole/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "beterraba",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "água",
+        "qtd": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "água",
+        "qtd": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "ovo S",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha integral",
+        "qtd": 175,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pepino",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "guacamole",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "rúcula",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "pimenta rosa",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 365,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 250
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 1827,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 969,
+        "g": 175,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1984,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1187,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2329,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2053,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Deite a beterraba cortada em pedaços e 250 ml de água no copo da varinha mágica ou num processador de alimentos e triture até obter um sumo líquido.",
+      "Deite numa taça o sumo de beterraba e os ovos. Em seguida adicione a farinha, a restante água, o sal e uma colher de sopa de azeite. Misture e deixe descansar a massa durante 15 minutos.",
+      "Enquanto isso, com a ajuda de um descascador de legumes, corte o pepino em fatias finas e reserve.",
+      "Corte o tomate em cubos e misture com o guacamole. Reserve.",
+      "Unte uma frigideira com o restante azeite, aqueça e deite nela uma concha de massa, espalhe-a bem e quando estiver cozinhada vire-a.",
+      "Retire o crepe para um prato. Repita este processo com a restante massa, até que estejam preparados todos os crepes.",
+      "Para rechear, barre metade do crepe com a mistura de tomate e guacamole, adicione as fatias de pepino e coloque por cima rúcula. Termine com pimenta-rosa."
+    ]
+  },
+  {
+    "name": "Atum grelhado com molho de fricassé",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/atum-grelhado-com-molho-de-fricasse.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/atum-grelhado-com-molho-de-fricasse/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de atum",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "0.5 c. de sopa"
+      },
+      {
+        "name": "batata-doce (média e fina)",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tomate em cacho",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "gema de ovo S",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 374,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 328,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2505,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 237,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os bifes de atum de ambos os lados com meia colher de chá de sal, o alho em pó e pimenta moída na altura.",
+      "Esmague metade dos dentes de alho, deite-os numa frigideira larga, junte duas colheres de sopa de azeite e leve ao lume. Quando começarem a alourar, adicione a batata-doce cortada em rodelas finas. Salpique com meia colher de chá de sal, tape e deixe cozinhar sobre lume moderado.",
+      "Corte a courgette em rodelas com a mesma espessura, junte-as às batatas e tempere com pimenta moída na altura e meia colher de chá de sal. Cozinhe tapado, mexendo ocasionalmente durante cerca de 20 minutos ou até os legumes estarem tenros. Nessa altura, junte-lhes o tomate cortado em rodelas e cozinhe durante mais 2 a 3 minutos destapado e sobre lume forte.",
+      "Entretanto prepare o fricassé, levando ao lume a cebola descascada e picada com uma colher de sopa de azeite e os restantes dentes de alho picados, e cozinhe sobre lume moderado até a cebola começar a alourar.",
+      "Aqueça muito bem um grelhador, regue com o restante azeite e grelhe os bifes de atum rapidamente de todos os lados (não cozinhe demasiado, para não ficar seco).",
+      "Desfaça as gemas com o sumo de limão numa taça, junte-lhes metade da salsa picada e adicione ao tacho com a cebola, mexendo sempre. Acrescente um pouco da água a ferver até o molho ter a consistência pretendida. Tempere com pimenta moída na altura e com o restante sal.",
+      "Disponha os bifes de atum sobre os legumes, regue com o fricassé, salpique com a restante salsa picada e com as azeitonas."
+    ]
+  }
+]

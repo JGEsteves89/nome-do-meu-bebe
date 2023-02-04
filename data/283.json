@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Sopa fria de manjericão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/09/sopa-fria-de-manjericao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-fria-de-manjericao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",2 L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta preta em grão",
+        "qtd": 2,
+        "unit": "grão"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão em folha",
+        "qtd": 20,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2050,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 302,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1441,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Leve ao lume uma panela com o alho-francês cortado em rodelas, a cenoura em palitos, o talo de aipo em pedaços, o dente de alho, a água, o sal e a pimenta. Tape e deixe cozer em lume brando durante 30 minutos.",
+      "Coe o caldo para outra panela, onde deverá cozer as batatas descascadas e cortadas em cubos, os brócolos em ramos e a cebola em gomos.",
+      "Quando as batatas estiverem macias, introduza as folhas de manjericão, previamente lavadas e bem enxutas. Triture com a varinha mágica.",
+      "Deixe arrefecer a sopa antes de a guardar no frigorífico. Sirva fria."
+    ]
+  },
+  {
+    "name": "Wraps de espinafres e peito de peru",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/09/wraps-espinafres-peito-peru.jpg",
+    "link": "https://www.pingodoce.pt/receitas/wraps-de-espinafres-e-peito-de-peru/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "tortilha",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo fresco com ervas para barrar",
+        "qtd": 4,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "peito de peru com ervas",
+        "qtd": 8,
+        "unit": "fatia"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura ripada",
+        "qtd": 0.5,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2546,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2237,
+        "g": 28,
+        "ml": 0
+      },
+      {
+        "id": 1975,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 591,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Barre os wraps com o queijo-creme.",
+      "Coloque por cima as fatias de peito de peru, os espinafres e a cenoura ralada.",
+      "Dobre as laterais e a parte de baixo e enrole os wraps. Distribua-os pelas duas marmitas."
+    ]
+  },
+  {
+    "name": "Polvo braseado com arroz do mesmo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/10/polvo-braseado-arroz-mesmo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-braseado-arroz-do-mesmo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de cozedura do polvo 7,5 dl",
+        "qtd": 0,
+        "unit": "g"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal (se necessário)",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "polvo cozido",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2484,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2124,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 175,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pique a cebola, os dentes de alho e o alho-francês e leve a alourar num tacho com metade do azeite.",
+      "Limpe o tomate de peles e sementes, pique-o em pedaços pequenos e deite-o no tacho. Deixe cozinhar mexendo de vez em quando, até o tomate estar macio.",
+      "Regue com o caldo da cozedura do polvo e, quando levantar fervura, introduza o arroz.",
+      "Tempere com o sal, se achar necessário, tape e cozinhe cerca de 15 minutos.",
+      "Retire do lume, regue com o sumo do limão e polvilhe, generosamente, com coentros picados. Mexa e deixe repousar tapado cerca de 5 minutos.",
+      "Aqueça bem uma chapa para grelhados, pincele os tentáculos do polvo com um pouco de azeite e coloque-os na chapa bem quente, cerca de 2 minutos, virando-os de vez em quando.",
+      "Retire o polvo, aqueça o restante azeite na chapa e deite-o sobre os tentáculos do polvo.",
+      "Acompanhe o polvo com o arroz e a salada."
+    ]
+  }
+]

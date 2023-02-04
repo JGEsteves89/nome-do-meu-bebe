@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Tagliatelle al pomodoro",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/08/tagliatelle-al-pomodoro.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-al-pomodoro/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tagliatelle fresco",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "polpa de tomate manjericão e orégãos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo grana padano",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "folhas de manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2454,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2115,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2249,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pique os dentes de alho e coloque numa frigideira com um pouco de azeite.",
+      "Deixe cozinhar por 2 minutos em lume brando.",
+      "Adicione o molho de tomate, tempere a gosto com sal e pimenta e deixe apurar por cerca de 5 minutos.",
+      "Enquanto isso cozinhe o tagliatelle conforme as instruções da embalagem.",
+      "Escorra e adicione à frigideira. Envolva bem.",
+      "Coloque a massa em tigelas, polvilhe com queijo grana panado e folhas de manjericão."
+    ]
+  },
+  {
+    "name": "Calzone de sardinha",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/calzone-de-sardinha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/calzone-de-sardinha/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "fermento de padeiro",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo integral",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "açúcar",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sardinha sem pele e sem espinhas em tomate",
+        "qtd": 3,
+        "unit": "emb."
+      },
+      {
+        "name": "alface",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "pepino de conserva",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho em conserva",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1024,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 954,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 957,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 27,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2395,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 1985,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2090,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Numa tigela, dissolva o fermento de padeiro em água morna.",
+      "Numa taça larga, misture as farinhas com o açúcar, o sal, o tomilho e o alho em pó. Abra uma cavidade ao meio, deite aí o fermento misturado no azeite, misture bem e amasse.",
+      "Divida a massa em 6 porções e estenda cada uma delas em forma de disco. Recheie com os lombos de sardinhas e o molho de tomate da conserva.",
+      "Dobre os discos ao meio, pressionando bem os bordos.",
+      "Num tabuleiro forrado com papel vegetal, disponha os calzoni e deixe repousar, tapados, durante 30 minutos à temperatura ambiente.",
+      "Pincele os calzoni com o molho de tomate da conserva e leve ao forno durante 30 minutos.",
+      "Separe as folhas da alface, lave, escorra e ripe para uma taça.",
+      "Adicione o tomate, lavado e cortado em gomos, os pepinos cortados em rodelas finas e o pimento cortado em tiras e tempere com os orégãos.",
+      "Sirva a acompanhar os calzoni."
+    ]
+  },
+  {
+    "name": "Fondue de queijo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/fondue-de-queijo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/fondue-de-queijo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sobras de queijo Gruyère ralado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de queijo Brie ou Camembert",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sobras de queijo mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cornichons",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pão torrado",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "batata cozida",
+        "qtd": 600,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 141,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2251,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2173,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2256,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 761,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 1938,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 600,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque o amido de milho, o vinho branco e o alho esmagado numa panela antiaderente própria para fondue. Misture bem e leve ao lume.",
+      "Adicione as sobras de queijos e deixe ferver. Tempere com pimenta e tomilho.",
+      "Ponha a panela sobre a lamparina e mergulhe no queijo aquecido os cornichons, o pão torrado e as batatas cozidas"
+    ]
+  }
+]

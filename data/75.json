@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Tataki de atum e de salmão braseados",
+    "image": "https://www.youtube-nocookie.com/embed/DyizkV8sCec",
+    "link": "https://www.pingodoce.pt/receitas/tataki-de-atum-e-de-salmao-braseados/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "saku de salmão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "saku de atum",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lima (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta rosa moída",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta preta moída",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "óleo de sésamo",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "molho de soja",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2751,
+        "g": 100,
+        "ml": 100
+      },
+      {
+        "id": 2752,
+        "g": 100,
+        "ml": 100
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2053,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1799,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2420,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1696,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o saku de salmão e de atum com o sumo de lima, o sal e as pimentas.",
+      "Numa frigideira, coloque o óleo de sésamo e, quando estiver quente, sele os sakus de modo a ficarem dourados por fora, mas crus por dentro.",
+      "Retire e deixe arrefecer ligeiramente. Passe-os pelas sementes de sésamo de modo a envolver bem os sakus. Em seguida corte-os em fatias finas e disponha num prato de servir.",
+      "Numa taça, misture o molho de soja e o sumo de limão. Sirva os sakus fatiados com o molho. Polvilhe com o cebolinho picado."
+    ]
+  },
+  {
+    "name": "Noodles com molho de manteiga de amendoim",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/noodles-com-molho-de-manteiga-de-amendoim-pingo-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/noodles-com-molho-de-manteiga-de-amendoim/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid. (200 g)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid. (300 g)"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "couve-roxa",
+        "qtd": 1,
+        "unit": "/2 unid. (500 g)"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão congelado",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "noodles",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manteiga de amendoim cremosa",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta-de-caiena",
+        "qtd": 1,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 792,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1606,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1774,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1442,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1453,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2036,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte a courgette, a cenoura e o pimento em palitos finos. Reserve.",
+      "Corte a couve-roxa e a cebola em fatias finas. Adicione aos restantes legumes. Reserve.",
+      "Aqueça o azeite num wok e salteie o dente de alho picado e a malagueta, limpa de sementes e picada. Junte o miolo de camarão já descongelado e cozinhe por 4 minutos. Retire e reserve.",
+      "Adicione ao wok os legumes preparados e cozinhe por mais 5 minutos.",
+      "Prepare os noodles conforme as instruções da embalagem. Escorra e junte ao wok, envolvendo bem. Polvilhe com os coentros frescos e manjericão.",
+      "Para o molho, junte todos os ingredientes num frasco e agite bem. Envolva o molho na massa."
+    ]
+  },
+  {
+    "name": "Paella de frango",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/paella-de-frango.jpg",
+    "link": "https://www.pingodoce.pt/receitas/paella-de-frango/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "coxa de frango com perna",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "ramo de salsa",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lulas congeladas em argolas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimento verde pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "mini-pimento doce",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "polpa de tomate com manjericão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "feijão-verde redondo cortado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 796,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1392,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1582,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2114,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1021,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 160,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tire a pele às coxas de frango, desosse-as e corte-as em pedaços (ou peça-o no talho).",
+      "Lave e pele as cenouras e coloque a casca num tacho, juntamente com os ossos e a pele do frango, o talo de aipo, um dente de alho esborrachado e o louro.",
+      "Junte a água, tempere com uma colher de sobremesa de sal e leve a ferver em lume moderado.",
+      "Pique finamente a cebola e os restantes dentes de alho. Corte as cenouras em cubos. Reserve as folhas da salsa e pique finamente os talos. Reserve seis rodelas de chouriço, tire a pele ao restante e pique-o. Reserve tudo.",
+      "Aqueça o azeite na paelheira e junte os pedaços de frango e o chouriço. Salteie em lume forte cerca de 1 a 2 minutos, mexendo frequentemente.",
+      "Adicione as lulas descongeladas e enxutas, polvilhe com o pimentão-doce e salteie mais 1 minuto. Junte a cebola, o alho, a cenoura e os talos de salsa picados, tempere com o restante sal e misture. Reduza um pouco o lume.",
+      "Junte os pimentos, limpos de sementes e cortados em tiras, a polpa de tomate e o feijão-verde. Assim que retomar fervura, adicione o arroz, e cozinhe, mexendo mais 2 a 3 minutos.",
+      "Regue com o caldo da cozedura dos ossos, previamente coado (800 ml), e deixe cozer, em lume médio, cerca de 15 minutos.",
+      "Retire do lume, deixe repousar 5 a 10 minutos antes de servir. Salpique com as folhas de salsa reservadas."
+    ]
+  }
+]

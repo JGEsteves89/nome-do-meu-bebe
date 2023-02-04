@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Polvo grelhado com chips de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/polvo-grelhado-com-pasta-de-azeitona.jpg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-grelhado-com-pasta-de-azeitona-e-chips-de-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "chalota",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta em grão",
+        "qtd": 5,
+        "unit": "grão"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "courgette",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeitona preta descaroçada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alcaparras",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2040,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 328,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 233,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 66,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 140° C.",
+      "Numa panela grande, coza o polvo com as chalotas descascadas, os grãos de pimenta, o louro e um pouco de água, em lume brando, durante 45 minutos ou até estar tenro.",
+      "Corte as courgettes, as cenouras e as batatas-doces em rodelas finas.",
+      "Num tabuleiro forrado com papel vegetal e pincelado com um pouco de azeite, espalhe por cima os legumes, tempere com o sal e leve ao forno 45 minutos",
+      "Triture as azeitonas com as alcaparras, o tomate seco, os coentros, os dentes de alho e azeite, até obter uma pasta.",
+      "Escorra o polvo, deixe-o arrefecer e corte-o em pedaços.",
+      "Num grelhador pincelado com azeite, grelhe rapidamente os pedaços de polvo."
+    ]
+  },
+  {
+    "name": "Salsichas frescas com couve-lombarda",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/01/salsichas-frescas-couve-lombarda.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salsichas-frescas-com-couve-lombarda/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "couve-lombarda média",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsicha fresca",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "bacon em tiras",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama médio",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 789,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2384,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 271,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 163,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Separe as folhas de couve, lave-as e apare os talos. Escolha as doze folhas maiores e sem rasgos, e escalde-as em água a ferver durante cerca de 6 minutos. Corte as restantes em juliana e reserve.",
+      "Torça as salsichas frescas ao meio e corte-as de modo a obter doze salsichas.",
+      "Aloure-as de todos os lados numa frigideira funda com o azeite, durante cerca de 10 minutos. Retire-as para um prato e deite na frigideira o bacon. Junte a cebola e os dentes de alho, finamente picados, e o talo de aipo cortado em lâminas finas. Deixe cozinhar, sobre lume moderado, até a cebola estar translúcida.",
+      "Pele as cenouras, corte-as em cubos e acrescente à frigideira. Adicione o tomate, limpo de sementes e picado em pedaços pequenos, o louro, uma colher de chá de sal e pimenta. Tape e deixe cozinhar sobre lume brando.",
+      "Entretanto, enrole cada salsicha numa folha de couve e prenda com um palito.",
+      "Adicione a polpa de tomate à frigideira e misture bem. Introduza no cozinhado os rolos de salsicha e a juliana de couve. Junte dois a três pés de tomilho e cozinhe com a frigideira tapada, sobre lume moderado a brando, durante cerca de 30 minutos ou até a couve estar tenra.",
+      "Ao mesmo tempo prepare o arroz basmati em água a ferver (abundante,) temperada com o restante sal, durante 12 minutos.",
+      "Sirva as salsichas com o arroz salpicado com cebolinho picado."
+    ]
+  },
+  {
+    "name": "Caldo de panela",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/06/caldos-de-panela.jpg",
+    "link": "https://www.pingodoce.pt/receitas/caldo-de-panela/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "feijão encarnado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "orelha de porco",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "focinho de porco",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 8,
+        "unit": "folha"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "arroz",
+        "qtd": 8,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1000,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1812,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1081,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 790,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "No dia anterior, coloque o feijão de molho em água e tempere as carnes com metade do sal.",
+      "Antes de preparar, escorra o feijão e coloque-o numa panela, juntamente com as carnes, o azeite e a couve cortada em pedaços.",
+      "Tempere com o restante sal e deixe cozer durante cerca de 1 hora.",
+      "Quando as carnes estiverem cozidas, junte a hortelã e o arroz. Deixe cozinhar até que o arroz esteja cozido."
+    ]
+  }
+]

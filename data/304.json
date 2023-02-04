@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Peito de frango com crocante de cornflakes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/peito-de-frango-com-crocante-de-conflakes.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/peito-frango-crocante-cornflakes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mostarda Dijon",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "maçã",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "corn flakes sem glúten",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "brócolos (em ramos)",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1744,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1393,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 760,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Tempere os peitos de frango com uma colher de chá de sal e um pouco de pimenta e alho moídos.",
+      "Misture o sumo do limão com o mel e a mostarda, deite sobre os peitos de frango e misture bem.",
+      "Lave a maçã, retire-lhe os caroços e corte-a em quatro rodelas. Aqueça um pouco de azeite numa frigideira anti-aderente e aloure as rodelas de maçã de ambos os lados. Retire-as e coloque-as num tabuleiro de louça.",
+      "Deite o restante azeite na frigideira, introduza os peitos de frango escorridos e aloure-os de ambos os lados em lume médio a forte. Junte o líquido da marinada e deixe ferver 1 a 2 minutos.",
+      "Pique grosseiramente os cornflakes, misture-os com o queijo ralado e a salsa picada. Coloque os peitos de frango sobre as rodelas de maçã e, por cima, espalhe a mistura anterior. Leve ao forno cerca de 15 minutos.",
+      "Lave os brócolos, coloque-os numa taça de vidro e coza-os, tapados com película aderente, no micro-ondas, na potência máxima durante 6 a 7 minutos. Reserve.",
+      "Misture o restante sal com a água a ferver, deite sobre os cuscuz, tape com película aderente e deixe hidratar. Na altura de servir solte os cuscuz com um garfo.",
+      "Sirva os peitos de frango acompanhados dos cuscuz e dos brócolos."
+    ]
+  },
+  {
+    "name": "Borrego guisado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085345",
+    "link": "https://www.pingodoce.pt/receitas/borrego-guisado/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "borrego magro e cortado em cubos",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de tomate e manjericão",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "feijão-verde",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 426,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1703,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1016,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela, misture a carne, o vinho, o alho esmagado, o pimentão, o sal e um pouco de pimenta. Mexa e leve ao frigorífico a marinar durante 2 horas.",
+      "Num tacho com 3 colheres de azeite bem quente, core a carne, mexendo para que fique dourada. Adicione a marinada, tape e deixe cozer em lume muito brando.",
+      "Descasque as batatas e corte-as em cubos. Deite o molho de tomate na carne, mexa e adicione também as batatas. Tape e deixe suar cerca de 1 hora ou até a carne e as batatas estarem tenras.",
+      "Lave muito bem o feijão-verde, corte-o em tiras no sentido do comprimento e coza-o em água temperada com um pouco de sal. Depois de cozido, escorra-o e tempere com o restante azeite. Sirva o guisado com o feijão-verde."
+    ]
+  },
+  {
+    "name": "Soufflés de couve-flor",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/soufle-de-couve-flor.jpg",
+    "link": "https://www.pingodoce.pt/receitas/souffles-de-couve-flor/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "couve-flor",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 786,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 141,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 170° C e pincele seis formas individuais com azeite.",
+      "Pique a cebola e o alho-francês em pedaços finos.",
+      "Numa panela, leve a alourar, em 2 colheres de sopa de azeite, a cebola e o alho-francês. Tape e deixe cozinhar em lume brando.",
+      "Separe a couve-flor em ramos, corte os talos em pedaços pequenos e lave bem. Coloque na panela, tempere com sal e caril em pó e mexa bem.",
+      "Tape e deixe cozinhar em lume muito brando durante 25 minutos ou até a couve-flor estar macia.",
+      "Triture os legumes, grosseiramente, com a varinha mágica e reserve numa tigela.",
+      "Separe as gemas das claras, desfaça as gemas com o amido de milho e junte-as aos legumes, mexendo bem. Tempere com a pimenta e a noz-moscada.",
+      "Bata as claras em castelo e envolva-as, delicadamente, na mistura de legumes. Distribua-a pelas formas e leve ao forno durante 35 minutos.",
+      "Numa frigideira larga, aloure o alho picado em azeite. Acrescente o tomate cherry e salteie durante 1 a 2 minutos, agitando a frigideira de vez em quando.",
+      "Polvilhe com o tomilho e sirva a acompanhar os soufflés."
+    ]
+  }
+]

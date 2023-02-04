@@ -1,0 +1,536 @@
+[
+  {
+    "name": "Bacalhau à Zé do Pipo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/09/bacalhau-a-ze-do-pipo.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-ze-do-pipo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata para cozer",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "posta de bacalhau",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "leite meio-gordo (para o puré)",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "azeite (para o refogado)",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola média",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "maionese",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "pickles",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeitona preta laminada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2128,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1419,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2025,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 231,
+        "g": 20,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Coloque o bacalhau num tabuleiro de forno e tempere com o leite, o azeite, 2 dentes de alho laminados, o louro e a pimenta. Deixe marinar no mínimo 30 minutos.",
+      "Descasque as batatas, corte-as ao meio, lave-as e coza-as em água temperada Com o sal durante 20 minutos.",
+      "Leve o bacalhau ao forno durante 20 minutos, a cozinhar na marinada.",
+      "Escorra as batatas, reduza-as a puré. Adicione o ovo batido e mexa bem. Acrescente as 4 colheres de sopa de leite e misture até ficar um puré macio e consistente.",
+      "Retire o bacalhau do forno, escorra as postas do leite e coloque noutro tabuleiro. Reserve.",
+      "Corte a cebola em meias rodelas e pique um dente de alho. Refogue a cebola e o alho picado numa frigideira com o restante azeite. Tempere com sal e pimenta.",
+      "Coloque a cebolada por cima das postas do bacalhau. Barre a superfície da cebola com a maionese. Polvilhe com pão ralado e salpique com os pickles previamente picados.",
+      "Coloque o puré de batata num saco de pasteleiro com boquilha frisada e disponha em montinhos à volta do bacalhau. Termine decorando com azeitonas.",
+      "Leve ao forno a 180 ºC no modo gratinar durante 10 minutos. Sirva de seguida."
+    ]
+  },
+  {
+    "name": "Filetes de linguado com fricassé de cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/filetes-de-linguado-em-crosta-de-massa-folhada-com-fricasse-de-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/filetes-de-linguado-com-fricasse-de-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "linguado",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "polpa de tomate com cebola e alho",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "massa folhada refrigerada",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelo desidratado",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1334,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2109,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1507,
+        "g": 230,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 717,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Com ajuda de uma faca afiada, retire os lombos ao linguado. Corte ao meio, tempere com o sal e reserve.",
+      "Numa frigideira antiaderente, aloire em azeite a meia cebola e 2 dentes de alho picados.",
+      "Refresque com 1 dl de vinho branco, adicione a polpa de tomate e o alho-francês em meias-luas. Deixe cozinhar em lume brando até o líquido evaporar quase todo. Reserve.",
+      "Divida a massa folhada em quatro rectângulos, colocando no centro de cada 1 uma colherada de alho-francês e por cima 1 filete de linguado dobrado.",
+      "Dobre a massa de modo a tapar o peixe. Pincele com o ovo previamente batido e leve ao forno cerca de 10 a 12 minutos.",
+      "Para o fricassé, coloque os cogumelos desidratados dentro de água fria e deixe hidratar. Reserve a água.",
+      "Numa frigideira antiaderente, refogue em azeite meia cebola e 2 dentes de alho picados. Quando começarem a murchar, acrescente os cogumelos desidratados e os Portobello laminados.",
+      "Deixe refogar e refresque com o restante vinho. Adicione a água dos cogumelos, as natas e as folhas de alecrim. Tempere com sal e deixe o molho espessar.",
+      "Sirva os filetes sobre o fricassé de cogumelos."
+    ]
+  },
+  {
+    "name": "Carpaccio de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/carpaccio-de-selmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/carpaccio-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de salmão em fatias finas",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "lima",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate coração-de-boi maduro",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "manjericão picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "hortelã picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1331,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2499,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      }
+    ],
+    "steps": [
+      "Num prato, regue o salmão com o sumo da lima e do limão, salpique com o sal, um pouco de pimenta e o cebolinho.",
+      "Tape com película aderente e leve ao frigorífico.",
+      "Corte uma tampa ao tomate e com a ajuda de uma colher de chá retire-lhe as sementes.",
+      "Misture as ervas com os dentes de alho picados e o sal e distribua o preparado no interior do tomate.",
+      "Num tacho, coloque os tomates, regue com azeite e deixe cozinhar, tapado e em lume brando, durante 30 minutos.",
+      "Num tabuleiro, misture o cuscuz, o sal e a hortelã picada e regue com a água quente.",
+      "Mexa com um garfo e tape com película aderente.",
+      "Solte o cuscuz com um garfo e sirva-o a acompanhar o salmão e o tomate ainda morno."
+    ]
+  }
+]

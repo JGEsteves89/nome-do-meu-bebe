@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Almôndegas de ervilha em tomatada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/07/almondegas-de-ervilha-em-tomatada-com-esparguete.jpg",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-de-ervilha-em-tomatada/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "almôndegas de ervilha veggie style",
+        "qtd": 1,
+        "unit": "emb. (200 g)"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "0.5 c. de sopa"
+      },
+      {
+        "name": "cebola picada congelada",
+        "qtd": 2,
+        "unit": "0.5 c. de sopa (40 g)"
+      },
+      {
+        "name": "alho picado congelado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "aipo em talo",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "pimento vermelho limpo",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "esparguete",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "courgette média",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "mistura de sementes Pura Vida",
+        "qtd": 1,
+        "unit": "c. de sobremesa (5 g)"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 105,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 575,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 96,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 64,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2113,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 900,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1676,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Salteie as almôndegas durante cerca de 6 minutos numa frigideira antiaderente com uma colher de sopa de azeite, sobre lume médio, agitando a frigideira de vez em quando para que fiquem douradas por igual. Retire da frigideira e reserve.",
+      "Deite metade do restante azeite na mesma frigideira, adicione a cebola, metade do alho e o talo de aipo cortado em fatias finas. Cozinhe durante 5 minutos, ou até os legumes estarem moles. Regue com o vinho.",
+      "Deixe evaporar e junte a polpa de tomate e o pimento cortado em cubos pequenos. Tempere com pimenta moída no momento, tape e deixe ferver suavemente durante cerca de 15 minutos.",
+      "Ao mesmo tempo introduza o esparguete em água a ferver temperada com o sal e coza durante 10 minutos.",
+      "Entretanto, corte a curgete em fatias finas a todo o comprimento e depois em tiras. Junte a curgete ao esparguete, deixe retomar fervura e escorra de imediato.",
+      "Deite o restante azeite e alho no mesmo tacho e deixe o alho fritar um pouco. Adicione o esparguete escorrido e misture bem.",
+      "Introduza as almôndegas no molho de tomate, deixe aquecer. Sirva sobre o esparguete, salpique com a mistura de sementes e a salsa picada."
+    ]
+  },
+  {
+    "name": "Salteado de camarão com molho de laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/01/salreado-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salteado-de-camarao-com-molho-de-laranja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "camarão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "alho picado congelado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sumo de laranja",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "laranja (raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "bimi",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "linguine",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "doce de laranja",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 483,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 96,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2441,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1339,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 854,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o camarão com o alho, metade do sal, um pouco de pimenta, o sumo e a raspa da laranja e deixe marinar 5 minutos.",
+      "Coza os bimis em água a ferver durante 4 minutos. Escorra-os, corte-os em pedaços e reserve.",
+      "Coza a massa conforme as instruções da embalagem com uma colher de chá de sal.",
+      "Aqueça o azeite numa frigideira, escorra os camarões (reserve a marinada), salteie-os na frigideira em lume forte e deixe cozinhar cerca de 4 minutos ou até estarem bem corados.",
+      "Junte os pimentos limpos e cortados, refresque com a marinada, adicione a colher de compota, envolva e deixe derreter.",
+      "Tempere com um pouco de pimenta, adicione os bimis cozidos e envolva tudo muito bem.",
+      "Salpique com o cebolinho picado e acompanhe com a massa."
+    ]
+  },
+  {
+    "name": "Frango do campo com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/frango-do-campo-com-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-do-campo-legumes/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "frango do campo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bacon",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "vinho tinto",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "nabo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo Portobello pequeno",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "carcaça rústicas",
+        "qtd": 240,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1095,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 269,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2631,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1755,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 7,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 728,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 520,
+        "g": 240,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte o frango em pedaços (ou peça no talho para o cortarem).",
+      "Aqueça uma colher de sopa de azeite num tacho largo, junte o bacon e deixe alourar em lume médio a forte, mexendo de vez em quando. Passe os pedaços de frango por duas colheres de farinha e aloure-os bem de todos os lados.",
+      "Descasque as cebolas e corte-as em gomos grossos, esborrache os dentes de alho e tire-lhes a pele. Reserve.",
+      "Salpique o frango com metade do sal e adicione a cebola e os dentes de alho. Tape, reduza o lume e deixe suar 10 a 15 minutos.",
+      "Adicione o tomate, limpo de sementes e cortado em pedaços, regue com o vinho, adicione a restante farinha (previamente dissolvida com um pouco de água) e junte o pau de canela. Tape e cozinhe mais uma hora e meia, em lume brando.",
+      "Descasque os nabos e corte-os em palitos, assim como a abóbora, e limpe os cogumelos com papel de cozinha.",
+      "Junte os legumes ao cozinhado e tempere com o restante sal e um pouco de pimenta. Salpique com tomilho (reserve algum) e cozinhe com a tampa entreaberta mais 30 minutos ou até os legumes estarem tenros.",
+      "Corte o pão em fatias, pincele a superfície com o restante azeite e torre-as levemente no forno.",
+      "Decore o cozinhado com ramos do tomilho reservado e sirva com o pão."
+    ]
+  }
+]

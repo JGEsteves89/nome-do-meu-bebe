@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Tagliatelle com salmão fumado e natas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/07/tagliatelle-com-salmao-fumado-e-natas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tagliatelle-com-salmao-fumado-e-natas/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "brócolos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola picada congelada",
+        "qtd": 3,
+        "unit": "c. de sopa (40 g)"
+      },
+      {
+        "name": "alho picado congelado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "natas sem lactose",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tagliatelle fresco",
+        "qtd": 1,
+        "unit": "emb. (250 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salmão fumado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 438,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 575,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 96,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 20
+      },
+      {
+        "id": 1770,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1332,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2039,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2454,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2371,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 4,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave e separe os ramos de brócolos, coloque-os num recipiente que possa ir ao micro-ondas e coza-os tapados durante 6 a 7 minutos na potência máxima.",
+      "Aqueça o azeite num tacho pequeno, junte a cebola e o alho e deixe cozinhar sobre lume moderado cerca de 5 minutos. Adicione o vinho branco e ferva durante 2 minutos. Junte as natas e o sumo de limão, tempere com pimenta moída no momento e deixe ferver suavemente até o molho ficar um pouco espesso.",
+      "Ao mesmo tempo introduza a massa num tacho com água a ferver temperada com o sal e coza durante 3 minutos.",
+      "Corte o salmão fumado em tiras, adicione-o ao molho e deixe aquecer bem. Junte a massa escorrida, os brócolos cozidos e metade do cebolinho e envolva tudo no molho.",
+      "Sirva polvilhado com o restante cebolinho."
+    ]
+  },
+  {
+    "name": "Robalo com funcho e laranja",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/robalo-com-funcho-e-laranja-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/robalo-com-funcho-e-laranja/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "robalo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "bolbo de funcho",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "laranja",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeitona preta",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2318,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1264,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2069,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 231,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Lave e enxugue os robalos, tempere com uma colher de sopa de sal e coloque-os num tabuleiro do forno forrado com papel vegetal.",
+      "Limpe o funcho (reserve as folhas e os talos verdes) e corte-os em gomos finos.",
+      "Corte duas laranjas em rodelas e o pimento em tiras.",
+      "Disponha os legumes, as rodelas de laranja e as azeitonas à volta do robalo, tempere tudo com o restante sal, regue com o azeite e o vinho e leve ao forno cerca de 35 minutos.",
+      "Depois de pronto, polvilhe com as folhas e os talos reservados picados e sirva."
+    ]
+  },
+  {
+    "name": "Folhado de frango com arroz de espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/folhado-de-frango-com-arroz-de-espinafres.png",
+    "link": "https://www.pingodoce.pt/receitas/folhado-de-frango-com-arroz-de-espinafres/",
+    "portions": 5,
+    "ingredients": [
+      {
+        "name": "folhado de frango e legumes congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz Thai Jasmine",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "e 0.5 c. de chá"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 0.5,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1085,
+        "g": 550,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 126,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 181,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200° C.",
+      "Prepare o folhado de frango e legumes, seguindo as indicações da embalagem. Antes de colocar no forno, pincele a superfície do folhado com o mel e salpique com as amêndoas laminadas.",
+      "Introduza o arroz em água a ferver, temperada com 3 a 4 tiras de casca da laranja e o sal. Mexa com um garfo e coza tapado durante 10 a 12 minutos.",
+      "Retire as cascas da laranja e envolva as folhas de espinafres no arroz, deixando repousar 5 minutos fora do lume.",
+      "Disponha o arroz numa travessa e enfeite com a laranja cortada em gomos.",
+      "Sirva com o folhado de legumes."
+    ]
+  }
+]

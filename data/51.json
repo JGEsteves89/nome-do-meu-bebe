@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Coxas de frango assadas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086431",
+    "link": "https://www.pingodoce.pt/receitas/coxas-de-frango-assadas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 8,
+        "unit": "dente"
+      },
+      {
+        "name": "coxa de frango",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "laranja",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "abóbora butternut",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "arroz basmati",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 3,
+        "unit": "haste"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 795,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1264,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 10,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 162,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2529,
+        "g": 60,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC. Esmague e pele os dentes de alho. Introduza-os, um a um, entre a pele e a carne de cada uma das coxas de frango, colocando-as num tabuleiro.",
+      "Retire o vidrado da casca das laranjas com um pelador ou uma faca e reserve.",
+      "Descasque completamente as laranjas e corte-as em rodelas finas. Aproveite e reserve todo o sumo que escorrer. Introduza as rodelas de laranja entre a pele e a carne das coxas de frango temperando-as, depois, com 1 colher de café de sal e a pimenta.",
+      "Limpe a abóbora de sementes e coloque-a num tabuleiro, com a parte cortada virada para cima. Salpique com 1 colher de café de sal, pimenta e o alho em pó.",
+      "Leve o frango e a abóbora ao forno durante 45 minutos. 15 minutos antes de terminar a assadura, coza o arroz em água a ferver temperada com o restante sal. Depois de cozido, passe-o por água corrente, escorra-o bem, junte-lhe a salsa picada e mexa. Reserve.",
+      "Deite o azeite numa frigideira pequena, junte-lhe 2 a 3 tiras de casca de laranja e aqueça em lume brando.",
+      "Quando começar a ferver, retire do lume e adicione as folhas de 2 a 3 pés de tomilho fresco e o sumo de laranja reservado.",
+      "Sirva as coxas de frango e a abóbora assadas regadas com o azeite de laranja e acompanhe com o arroz."
+    ]
+  },
+  {
+    "name": "Hambúrguer de salmão com massas recheadas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/09/hamburguer-salmao-conchas-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-de-salmao-com-massas-recheadas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "filete de salmão",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "beterraba",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "brócolos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "ricotta",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "massa lumaconi",
+        "qtd": 120,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1065,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2342,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 365,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2344,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2316,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1520,
+        "g": 120,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Prepare os vegetais: pique a cebola, corte o alho-francês em meias luas, corte a courgette e a beterraba aos cubos e rale a cenoura. Retire o talo e as folhas aos brócolos (reserve e utilize por exemplo numa sopa). Reserve.",
+      "Leve uma frigideira ao lume com 1 colher e sobremesa de azeite, adicione a cebola e o alho-francês e deixe refogar, tempere com meia colher de sobremesa de sal.",
+      "Junte a courgette e a beterraba, cubra com água e deixe cozer por 20 minutos.",
+      "Retire do lume e triture num robot de cozinha, até que fique com uma consistência de molho. Reserve.",
+      "Coza os brócolos em água temperada com 1 colher de sobremesa de sal cerca de 12 minutos. Retire e corte em pequenos pedaços.",
+      "Coza a massa em água temperada com meia colher de sobremesa de sal cerca de 5 a 6 minutos. Retire do lume, escorra bem e reserve.",
+      "Numa frigideira antiaderente coloque 1 colher de sobremesa de azeite e salteie os brócolos e a cenoura. Adicione a o queijo ricotta e tempere com metade do sal fino e envolva. Recheie as massas com este preparado de queijo e legumes.",
+      "Para o hambúrguer: pique grosseiramente o salmão com uma faca e molde em forma de hambúrguer, tempere com o restante sal fino. Coloque numa frigideira antiaderente com o restante azeite e deixe cozinhar a gosto.",
+      "Para servir, coloque a gosto o molho de beterraba e por cima disponha as conchas recheadas e o hambúrguer de salmão."
+    ]
+  },
+  {
+    "name": "Crepe de clara de ovo com tomate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/03/crepe-de-clara-de-ovo-com-tomate.jpg",
+    "link": "https://www.pingodoce.pt/receitas/crepe-de-clara-de-ovo-com-tomate/",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "óleo",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "clara de ovo Active",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 80,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "queijo mozzarella com leite de búfala",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mix de sementes",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebolinho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1790,
+        "g": 0,
+        "ml": 3
+      },
+      {
+        "id": 693,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2327,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 2257,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1078,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 2680,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 585,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Unte uma frigideira antiaderente com o óleo, aqueça bem e em seguida deite a clara de ovo. Espalhe bem e deixe cozinhar até ficar sólida.",
+      "Vire do outro lado e deixe cozinhar por mais 1 minuto.",
+      "Num prato, coloque num dos lados do crepe a rúcula, o tomate em fatias e por cima o queijo mozzarella também fatiado. Feche com o outro lado.",
+      "Tempere com flor de sal, pimenta, azeite e finalize com o mix de sementes e um pouco de cebolinho picado."
+    ]
+  }
+]

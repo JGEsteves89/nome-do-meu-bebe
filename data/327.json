@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Hambúrgueres de peixe",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/hamburgueres-de-peixe.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/hamburgueres-de-peixe/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "batata cozida",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de salmão",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "lombo de pescada",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal fino",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeitona recheada com pimento",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alface",
+        "qtd": 400,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 302,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1373,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1366,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1923,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2342,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 241,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 73,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Esmague a batata cozida com um garfo dentro de uma tigela.",
+      "Coloque o grão cozido e o peixe cortado em bocados no robot de cozinha, triture e adicione à batata esmagada, misturando bem.",
+      "Adicione o ovo, o pão ralado e a salsa picada e envolva tudo.",
+      "Molde 6 hambúrgueres e coloque-os num tabuleiro de forno forrado com papel vegetal pincelado com 1 colher de sopa de azeite.",
+      "Pré-aqueça o forno a 180 ºC. Quando atingir a temperatura desejada, coloque o tabuleiro no forno durante 15 minutos.",
+      "Depois de cozinhados, decore os hambúrgueres como se fossem uma cara sorridente. As azeitonas fazem de olhos, o milho é a boca, as pontas das cenoura são o nariz e a cenoura ralada serve para fazer o cabelo.",
+      "Sirva acompanhados por uma salada de alface, temperada com o restante azeite a que deverá juntar o que sobrou da cenoura ralada e do milho."
+    ]
+  },
+  {
+    "name": "Rolo de atum com espinafres e batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/rolo-de-atum-com-segurelha-espinafres-e-batata-doce.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/rolo-atum-espinafres-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata-doce",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "lombo de atum",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "segurelha fresca",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite (para fritar)",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "pão ralado com alho e ervas",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "moscatel",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "maçã Granny Smith",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 3,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 328,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1347,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2399,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 907,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 1925,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1732,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1404,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Lave as batatas-doces e coza-as com a casca num tacho com água. Deixe arrefecer um pouco, corte-as ao meio, retire-lhes a polpa e esmague-as com um garfo ou esmagador. Reserve.",
+      "Corte os lombos de atum em pedaços e marine-os com folhas de segurelha (reserve algumas), metade do azeite e do sal, vinho branco, o louro e a malagueta laminada (reserve alguma), previamente limpa de sementes.",
+      "Aqueça o restante azeite numa frigideira e core o atum de todos os lados, cerca de 1 minuto.",
+      "Retire o atum, introduza os espinafres, salpique com o restante sal e deixe saltear cerca de meio minuto.",
+      "Coloque um pedaço de película aderente sobre a bancada, polvilhe-a com um pouco do pão ralado e espalhe a esmagada de batata-doce.",
+      "Por cima disponha os espinafres salteados e sobre estes os pedaços de atum. Enrole como se fosse uma torta com a ajuda da película aderente e leve ao frigorífico entre 5 a 10 minutos",
+      "Retire a película e passe o rolo de atum pelo ovo batido e, em seguida, pelo restante pão ralado e frite o numa frigideira com o azeite bem quente.",
+      "Coloque num tacho o Moscatel e a maçã descascada e cortada em cubos muito pequenos.",
+      "Adicione o vinagre de sidra e o mel e ferva cerca de 5 minutos.",
+      "Sirva o atum fatiado salpicado com a redução de Moscatel e decore com as folhas de segurelha e os aros de malagueta reservados."
+    ]
+  },
+  {
+    "name": "Peito de peru recheado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/12/peito-peru-recheado-pistachios-salsicha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-peru-recheado/",
+    "portions": 10,
+    "ingredients": [
+      {
+        "name": "peito de peru",
+        "qtd": 1,
+        "unit": ",3 kg"
+      },
+      {
+        "name": "salsicha fresca",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "chalota picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pistácio salgado",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "tâmara sem caroço",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "salsa fresca picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeitona verde recheada com pimento",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pão ralado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda Dijon",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mostarda Dijon",
+        "qtd": 0.5,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mel",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": ",5 c. de sopa"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "maçãlden média (ou Royal Gala)",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "estrela-de-anis",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 2,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1974,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2384,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 612,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2101,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2465,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 252,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1923,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1744,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 1744,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1400,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 926,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2529,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 350,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 125º C.",
+      "Abra o peito de peru ao meio, espalmando-o bem.",
+      "Tire a pele às salsichas e coloque-as numa tigela. Junte a chalota, o miolo de pistácios grosseiramente picado, as tâmaras e o tomate seco cortados em pequenos pedaços, a salsa e as azeitonas cortadas em rodelas finas.",
+      "Tempere com o alho em pó, uma colher de chá de sal e pimenta moída na altura. Adicione o ovo e misture muito bem. Junte o pão ralado e volte a misturar.",
+      "Molde o preparado em rolo sobre o centro do peito de peru, enrole a carne e amarre com fio de cozinha, à laia de paio. Coloque a carne num tabuleiro de forno.",
+      "Entretanto, numa taça, misture duas colheres de mostarda com o mel, duas colheres de sopa de vinagre de sidra, o vinho do Porto e o restante sal e envolva a carne neste preparado. Deixe marinar algumas horas ou de um dia para o outro.",
+      "Antes de levar a carne ao forno, lave as maçãs, corte-as em gomos eliminando os caroços e disponha-as à volta da carne. Junte a estrela-de-anis e deixe cozinhar durante cerca de 90 minutos, virando a carne duas a três vezes durante esse tempo.",
+      "Retire a carne do forno e coloque-a sobre uma tábua. Elimine o fio de cozinha, pincele com o molho da sua cozedura e corte em fatias.",
+      "Na altura de servir, deite o azeite numa saladeira e misture-o com a restante mostarda, vinagre e com o tomilho. Adicione a salada e mexa muito bem.",
+      "Acompanhe a carne com as maçãs e a salada."
+    ]
+  }
+]

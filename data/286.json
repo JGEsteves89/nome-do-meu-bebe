@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Pataniscas de sardinhas com arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/pataniscas-de-sardinhas-com-arroz.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/pataniscas-sardinhas-grao-arroz/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "sardinha em azeite",
+        "qtd": 3,
+        "unit": "emb."
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura ralada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "farinha",
+        "qtd": 7,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "arroz agulha",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeitona verde descaroçada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "orégão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "mistura de alface fresca",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimento assado",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2392,
+        "g": 360,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 931,
+        "g": 49,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 158,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 245,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1807,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1645,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2067,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Escorra as sardinhas, retire da lata e corte-as em pedaços, retirando-lhes a espinha.",
+      "Coloque o grão numa tigela, esmague-o com um garfo ou esmagador, junte-lhe a cenoura, a cebola finamente picada, a farinha e o sal e misture bem.",
+      "Adicione os ovos batidos, a raspa do limão e os coentros e mexa bem até estar tudo bem envolvido.",
+      "Pincele uma frigideira antiaderente com azeite e, quando estiver bem quente, introduza colheradas de massa e deixe fritar de ambos os lados.",
+      "Retire e escorra as pataniscas sobre papel absorvente.",
+      "Leve ao lume um tacho com água (duas vezes o volume do arroz) e quando levantar fervura junte o sal e o arroz, deixando cozer cerca de 10 minutos.",
+      "Coloque ao lume uma frigideira larga com o azeite e refogue os dentes de alho picados com o tomate, sem pele e cortado em cubos pequenos, e cozinhe até o tomate estar desfeito.",
+      "Junte as azeitonas cortadas ao meio, o arroz cozido e bem escorrido e salteie 2 ou 3 minutos.",
+      "Retire do lume e polvilhe com orégãos frescos",
+      "Sirva a acompanhar as pataniscas com a mistura de alfaces e o pimento cortado em tiras."
+    ]
+  },
+  {
+    "name": "Entrecosto com molho barbecue",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/02/entrecosto-molho-barbecue.png",
+    "link": "https://www.pingodoce.pt/receitas/entrecosto-com-molho-barbecue/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "açúcar amarelo",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "entrecosto (piano)",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "ketchup",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "maçaroca de milho",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 28,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 572,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 870,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 1259,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1412,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 130 °C.",
+      "Coloque o açúcar, o alho, a cebola, o sal, a malagueta, os cominhos e a paprika numa taça. Misture bem e de seguida esfregue bem as tiras de entrecosto com a mistura.",
+      "Noutra taça, envolva o ketchup com a mostarda e o mel.",
+      "Ponha o entrecosto sobre uma folha de papel de alumínio, pincele com a mistura de ketchup e embrulhe. Leve ao forno por 2 horas.",
+      "Quando faltarem 20 minutos para acabar o tempo coloque no forno as maçarocas e deixe-as cozinhar.",
+      "Retire as maçarocas do forno e reserve. Abra o papel de alumínio, pincele com a restante mistura de ketchup, ligue o grill e cozinhe por mais 5 minutos.",
+      "Sirva com o milho fatiado e polvilhe com coentros picados."
+    ]
+  },
+  {
+    "name": "Pizza fechada de atum com salada",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/05/pizza-calzone-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/calzone-de-atum-com-salada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "massa de pizza refrigerada",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate frito",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelos laminados em conserva",
+        "qtd": 185,
+        "unit": "g"
+      },
+      {
+        "name": "atum em azeite",
+        "qtd": 2,
+        "unit": "emb."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1496,
+        "g": 260,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 910,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 736,
+        "g": 185,
+        "ml": 0
+      },
+      {
+        "id": 188,
+        "g": 240,
+        "ml": 0
+      },
+      {
+        "id": 2256,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1745,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2596,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2047,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Desenrole a placa de massa mantendo-a sobre a folha de papel vegetal onde vem enrolada. Com a ajuda de um rolo dê-lhe a forma de um rectângulo.",
+      "Coloque a massa com o papel vegetal num tabuleiro de forno. Espalhe por cima o tomate frito, deixando livre um bordo de 1 cm de cada lado.",
+      "Ponha sobre o tomate metade das folhas de espinafres cortadas em tiras largas, os cogumelos bem escorridos e o atum, igualmente bem escorrido e desfeito em lascas. Salpique com o queijo mozzarella.",
+      "Com a ajuda do papel vegetal, dobre os 2 lados da massa sobre o recheio, unindo os bordos e para que a massa fique com 1/3 da largura. Vire a abertura para baixo e dobre as pontas para o recheio não sair.",
+      "Pique a superfície da massa com um garfo ou com a ponta de uma faca para que o vapor possa escapar e leve ao forno durante 20 minutos.",
+      "Entretanto, com a ajuda do descascador de legumes ou de uma mandolina, corte a abóbora crua em tiras muito finas. Reserve.",
+      "Numa taça, misture muito bem a mostarda com o mel, o vinagre e o azeite. Polvilhe com pimenta moída na altura e adicione a abóbora e as restantes folhas de espinafres, envolvendo-as delicadamente no tempero.",
+      "Sirva o calzone acompanhado com a salada preparada."
+    ]
+  }
+]

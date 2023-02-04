@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Salmão em papelote",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/salmao-com-cuscuz-em-papelote.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salmao-em-papelote/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "salmão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "couve-branca em juliana",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": "dl"
+      },
+      {
+        "name": "cuscuz",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomate rama",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "aneto",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2367,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 780,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 835,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2502,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 149,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Divida os lombos de salmão em quatro porções e tempere-os com sal, um pouco de pimenta e o vinagre balsâmico.",
+      "Numa frigideira antiaderente, aqueça metade do azeite numa o alho-francês, a couve-branca e o tomate seco em tiras finas.",
+      "Tempere com o sal, tape e deixe suar em lume brando até os legumes estarem macios.",
+      "Junte a água a ferver e o cuscuz. Misture bem, tape e retire do lume. Deixe hidratar cerca de 5 minutos.",
+      "Corte quatro quadrados de folha de alumínio, pincele o centro com azeite e disponha rodelas finas de tomate, bem enxutas, em roseta.",
+      "Solte os cuscuz com um garfo e distribua-os pelas rodelas de tomate.",
+      "Coloque os lombos de salmão sobre os cuscuz e salpique com o cebolinho cortado e as folhas de aneto. Feche bem os papelotes.",
+      "Num tabuleiro de forno, leve os papelotes ao forno durante 15 minutos.",
+      "Abra os papelotes nos pratos de servir e acompanhe com o limão cortado em gomos."
+    ]
+  },
+  {
+    "name": "Rojões à minhota",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/03/rojoes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/rojoes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "rojões de porco",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "toucinho fumado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "colorau doce",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite virgem",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "batata",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2322,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2557,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 745,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 216,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 746,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 302,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa tigela, tempere as carnes com o sal, a pimenta, o colorau e o vinho branco. Deixe marinar pelo menos 60 minutos.",
+      "Numa frigideira derreta a banha e o azeite, coloque as carnes e tempere com os cominhos.",
+      "Deixe cozinhar durante 10 minutos em lume médio até a carne ficar dourada. Reserve a carne e guarde a gordura depositada na frigideira.",
+      "Entretanto coza as batatas com pele. Depois de cozidas, retire a pele e corte aos cubos do tamanho dos rojões.",
+      "Adicione à frigideira e aloure as batatas na gordura dos rojões.",
+      "Sirva polvilhado com salsa picada."
+    ]
+  },
+  {
+    "name": "Pizza de frigideira com requeijão e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/08/pizza-frigideira-requeijao-legumes.png",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-frigideira-com-requeijao-e-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pimento vermelho pequeno",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "base para pizza",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "requeijão de ovelha e cabra",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta moída na altura",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salada alentejana",
+        "qtd": 150,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2088,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 299,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 912,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2311,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1078,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2352,
+        "g": 150,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Limpe o pimento de sementes e corte-o em tiras largas. Lave a courgette e corte-a em fatias finas a todo o comprimento.",
+      "Numa taça, misture o azeite com os orégãos, o tomilho e o alho espremido.",
+      "Pincele um dos lados da base de pizza com um pouco da mistura anterior e coloque-a sobre uma frigideira bem quente com a parte untada virada para baixo. Pincele a parte de cima com mais um pouco da mistura e deixe alourar a massa de ambos os lados.",
+      "Entretanto, aqueça muito bem um grelhador, pincele-o com um pouco da mistura do azeite temperado, e grelhe as tiras de pimento e as fatias de courgette.",
+      "Depois de cozinhar a base da pizza de ambos os lados, espalhe sobre ela as folhas de espinafre e por cima distribua o requeijão desfeito em pedaços e os legumes grelhados. Salpique com a flor de sal e pimenta moída na altura e regue com o restante azeite temperado.",
+      "Acompanhe com a salada alentejana."
+    ]
+  }
+]

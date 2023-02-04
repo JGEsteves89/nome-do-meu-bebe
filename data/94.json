@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Frango com legumes e quinoa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/10/frango-com-legumes-e-quinoa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-com-legumes-e-quinoa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango médio",
+        "qtd": 400,
+        "unit": "g (2 unid.)"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimentão-doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "bimi",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "courgette pequena",
+        "qtd": 2,
+        "unit": "unid. (280 g)"
+      },
+      {
+        "name": "limão",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "quinoa temperada",
+        "qtd": 1,
+        "unit": "emb. (250 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2059,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 391,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2710,
+        "g": 250,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte os peitos de frango ao meio, a todo o comprimento. Tempere com metade do sal, pimenta moída no momento e com o pimentão-doce.",
+      "Aqueça metade do azeite num tacho, ou frigideira funda, e aloure a carne de ambos os lados sobre lume médio a forte.",
+      "Reduza o lume e adicione o restante azeite, os dentes de alho espremidos e a cebola.",
+      "Corte os bimis em pedaços mais pequenos e a courgette em rodelas. Junte-os ao tacho, tempere com o restante sal, tape e deixe cozinhar sobre lume moderado durante cerca de 20 minutos.",
+      "Retire do lume, regue com o sumo do limão e salpique com pimenta moída no momento.",
+      "Acompanhe com a quinoa aquecida."
+    ]
+  },
+  {
+    "name": "Arroz de lulas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/04/arroz-lulas-2.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-de-lulas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lula limpa congelada",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "mistura mini-pimento tricolor",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "frasco de molho de tomate e basílico",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 8,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1390,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1679,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1702,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 166,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1200
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Salteie as lulas já descongeladas num tacho com o azeite quente durante 2 minutos.",
+      "Limpe os pimentos de sementes, corte-os em tiras e adicione-os às lulas.",
+      "Junte o molho de tomate e a água a ferver e, assim que retomar fervura, introduza o arroz, tempere com o sal, mexa e deixe cozer tapado cerca de 15 minutos.",
+      "Retire do lume, junte folhas de manjericão e sirva de imediato."
+    ]
+  },
+  {
+    "name": "Salada de courgette grelhada",
+    "image": "https://www.youtube-nocookie.com/embed/TXFTSM_ESQo",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-courgette-grelhada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite virgem extra",
+        "qtd": 30,
+        "unit": "ml + 1 c. de sobremesa"
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid. (130 g)"
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "requeijão de ovelha e cabra",
+        "qtd": 1,
+        "unit": "unid. (200 g)"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1442,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2311,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1078,
+        "g": 11,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte as courgettes em fatias longitudinais não muito finas.",
+      "Pincele um grelhador com a colher de sobremesa de azeite. Grelhe as fatias de courgette durante 2 minutos de cada lado.",
+      "Disponha as fatias numa travessa.",
+      "Para o molho, coloque as ervas aromáticas, o sumo e a raspa de limão, e o restante azeite num robot de cozinha. Triture até obter um molho verde e deite numa taça.",
+      "Limpe a malagueta de sementes e pique-a.",
+      "Desfaça o requeijão sobre a courgette, tempere com a flor de sal, o mix de pimentas e polvilhe com a malagueta picada. Sirva com o molho de ervas."
+    ]
+  }
+]

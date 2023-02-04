@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Cozido à portuguesa no pão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/cozido-a-portuguesa-no-pao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cozido-a-portuguesa-no-pao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "água fria",
+        "qtd": 0,
+        "unit": ",4 dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cozido à portuguesa 2 kg",
+        "qtd": 0,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha de trigo tipo 55",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "banha de porco",
+        "qtd": 25,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 964,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160°C.",
+      "Numa taça larga, junte a farinha com a banha (à temperatura ambiente).",
+      "Acrescente 2 colheres de sopa de azeite, a água fria e o sal. Amasse todos os ingredientes com a mão até estarem bem envolvidos.",
+      "Coloque a massa no frigorífico e deixe-a repousar durante 20 minutos.",
+      "Limpe a carne do cozido de ossos, retire a pele aos enchidos e corte-os em cubos uniformes com cerca de 1 cm.",
+      "Proceda da mesma forma com os legumes. Reserve o caldo do cozido.",
+      "Misture as carnes, os legumes e o feijão, polvilhe com a hortelã picada e envolva tudo muito bem.",
+      "Numa bancada enfarinhada, estique a massa com a ajuda de um rolo, forre com ela uma forma tipo bolo-inglês e encha-a com a mistura de legumes e carnes, comprimindo muito bem o recheio.",
+      "Tape com a massa, deixando um pequeno buraco para respirar. Pincele com restante azeite e leve ao forno durante cerca de 35 a 40 minutos.",
+      "Na altura de servir, regue com o caldo do cozido reservado."
+    ]
+  },
+  {
+    "name": "Frango oriental com batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/04/frango-oriental-batata-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/frango-oriental-com-batata-doce/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "malagueta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "frango do campo",
+        "qtd": 2,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "batata-doce laranja",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "beterraba",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sementes de sésamo torradas",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "hummus",
+        "qtd": 180,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1945,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1426,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1096,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 333,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 365,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2422,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1199,
+        "g": 180,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190° C.",
+      "Misture numa taça o mel, o alho, a paprika, os cominhos, a malagueta em pó, o sumo de limão e pimenta-preta. Misture.",
+      "Coloque o frango, já cortado em pedaços, num tabuleiro de forno, tempere com o sal e regue com a mistura anterior. Esfregue bem o frango.",
+      "Corte as batatas em rodelas e disponha-as em redor do frango.",
+      "Descasque as beterrabas, corte-as em quartos e adicione ao tabuleiro.",
+      "Regue com o azeite e leve ao forno por 45 minutos.",
+      "Polvilhe com as sementes de sésamo e com a rúcula. Acompanhe com o hummus."
+    ]
+  },
+  {
+    "name": "Risotto de línguas de bacalhau",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/risotto-de-espigos-de-nabo-e-linguas-de-bacalhau.jpg",
+    "link": "https://www.pingodoce.pt/receitas/risotto-de-linguas-de-bacalhau/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 160,
+        "unit": "g"
+      },
+      {
+        "name": "molho de cebolinho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "língua de bacalhau",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "grelo de nabo",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 7,
+        "unit": "dente"
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "arroz para risotto",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2271,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1333,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 1176,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 1444,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 174,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 18,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Demolhe as línguas de bacalhau de véspera, mudando a água várias vezes.",
+      "Escolha os espigos dos grelos mais tenros, lave e reserve.",
+      "Num tacho, escalde as línguas de bacalhau em água a ferver durante 2 minutos, retire e reserve a água da cozedura.",
+      "Noutro tacho, aloure a cebola em azeite, juntamente com os alhos picados e o louro. Refresque com metade do vinho branco e, em seguida, junte a manteiga.",
+      "Envolva e incorpore o arroz, mexendo sempre.",
+      "Introduza os espigos, tempere com o sal e refresque com um pouco do caldo da cozedura das línguas. Junte o restante vinho branco e deixe cozinhar em lume brando.",
+      "Limpe o tomate de pele e sementes, corte em cubos e junte ao arroz, refrescando com mais um pouco de caldo.",
+      "À medida que o líquido for evaporando adicione pequenas quantidades de caldo, repetindo até o arroz estar quase cozido.",
+      "Misture as línguas de bacalhau, polvilhe com metade do parmesão e envolva.",
+      "Sirva de imediato com o cebolinho picado e o restante parmesão ralado."
+    ]
+  }
+]

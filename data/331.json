@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Quinoa com camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/quinoa-com-camarao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/quinoa-com-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "miolo de camarão grande",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "paprika",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "quinoa Pura Vida",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "caldo de legumes",
+        "qtd": 2,
+        "unit": "cháv."
+      },
+      {
+        "name": "limão (sumo e raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1612,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1426,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1945,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2292,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 476,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa frigideira, aqueça as duas colheres de sopa de azeite e salteie os dentes de alho descascados e picados.",
+      "Adicione o camarão descongelado, envolva e deixe cozinhar por 3 minutos. Junte o pó de malagueta e retire para um prato. Reserve.",
+      "Coloque o restante azeite na mesma frigideira, acrescente a cebola descascada e picada, e deixe cozinhar por mais 2 minutos.",
+      "Adicione a paprica, envolva e junte a quinoa e tempere com pimenta a gosto.",
+      "Prepare o caldo de legumes diluindo um cubo em duas chávenas de água.",
+      "Regue a quinoa com o caldo de legumes e misture. Deixe ferver e quando começar a borbulhar tape e deixe cozinhar por 12 a 15 minutos.",
+      "Quando a quinoa estiver cozinhada, adicione a raspa e o sumo de limão.",
+      "Solte a quinoa com a ajuda de um garfo, adicione os camarões e os coentros picados e envolva."
+    ]
+  },
+  {
+    "name": "Lombinho de porco com castanhas e maçã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/07/lombinho-de-porco-com-castanhas-e-maca.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-de-porco-com-castanhas-e-maca/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "maçã",
+        "qtd": 180,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa em cubos",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "batata-doce em rodelas",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lombinho de porco",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "castanha cozida em vácuo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca picada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1393,
+        "g": 180,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1345,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 560,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180 °C.",
+      "Corte a maçã e três chalotas descascadas em gomos, coloque-as num tabuleiro de louça.",
+      "Adicione a abóbora e a batata-doce, tempere com metade do sal, com os cominhos e pimenta moída na altura. Junte três a quatro pés de tomilho fresco e misture.",
+      "Regue com metade do azeite, borrife com três a quatro colheres de sopa de água e leve ao forno.",
+      "Entretanto, aqueça o restante azeite numa frigideira larga. Introduza o lombinho, tempere-o com o restante sal e pimenta moída na altura e aloure de todos os lados sobre lume médio a forte.",
+      "Retire a carne e deite na frigideira a restante chalota descascada e picada, os dentes de alho descascados e espremidos, as castanhas cozidas esmagadas grosseiramente e salteie durante 2 a 3 minutos mexendo ocasionalmente. Regue com o vinho do Porto, misture bem e adicione salsa picada.",
+      "Dê um golpe no lombinho a todo o comprimento, recheie com o preparado de castanhas, amarre o lombinho com fio de cozinha e coloque-o no tabuleiro no meio dos legumes. Leve ao forno por mais 15 a 20 minutos.",
+      "Salpique com tomilho."
+    ]
+  },
+  {
+    "name": "Arroz à valenciana",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/03/arroz-a-valenciana.jpg",
+    "link": "https://www.pingodoce.pt/receitas/arroz-a-valenciana/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "carne de porco",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "cabeça"
+      },
+      {
+        "name": "gengibre em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite virgem",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "caldo de marisco",
+        "qtd": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "ervilhas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "lulas às rodelas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "açafrão em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "arroz",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "camarão",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta vermelha",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 536,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1154,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 216,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 479,
+        "g": 0,
+        "ml": 300
+      },
+      {
+        "id": 882,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1391,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 20,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 483,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2056,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere as carnes de porco e de frango com metade do sal, o alho picado e o gengibre em pó. Reserve.",
+      "Num tacho refogue a cebola picada com o azeite e adicione as carnes. Deixe alourar durante 2 minutos e refresque com o vinho branco.",
+      "Junte o caldo de marisco e de seguida junte as ervilhas, as lulas e o açafrão. Quando começar a ferver junte o arroz e deixe cozinhar durante 10 minutos .",
+      "Numa frigideira frite os camarões na manteiga e tempere com o restante sal e a pimenta.",
+      "Quando o arroz estiver seco, retire do lume e sirva numa travessa.",
+      "Decore com os camarões fritos."
+    ]
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Panquecas de batata com ovos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/panquecas-de-batata.jpg",
+    "link": "https://www.pingodoce.pt/receitas/panquecas-de-batata/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata para cozer",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de café"
+      },
+      {
+        "name": "salsa picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2271,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2488,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza as batatas.",
+      "Pique finamente a cebola e refogue-a numa frigideira antiaderente com\numa colher de chá de azeite.",
+      "Descasque as batatas cozidas, esmague-as e adicione-as à cebola refogada.",
+      "Junte o queijo parmesão, tempere com uma pitada de noz-moscada, uma colher\nde café de sal e a salsa picada.",
+      "Envolva bem e molde quatro panquecas, pressionando bem.",
+      "Pré-aqueça o forno a 200 ºC.",
+      "Corte as courgettes em cubos pequenos e salteie rapidamente na mesma frigideira onde refogou a cebola.",
+      "Tempere com a restante colher de café de sal e reserve. Lave e corte o tomate ao meio ou em quartos. Reserve.",
+      "Disponha as quatro panquecas de batata num tabuleiro forrado com papel vegetal e leve ao forno durante cerca de 10 minutos.",
+      "Estrele os ovos numa frigideira antiaderente untada com o restante azeite e coloque um ovo em cima de cada uma das panquecas. Polvilhe com o cebolinho picado e sirva."
+    ]
+  },
+  {
+    "name": "Peru com couve-roxa e batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/peru-com-couve-roxa-e-batata-doce-2.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/peru-com-couve-roxa-e-batata-doce/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "perna de peru",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "aipo",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "couve-roxa",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "courgette grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2003,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 62,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 328,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 792,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 584,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Faça um golpe na articulação da perna de peru e limpe-a de canículas.",
+      "Descasque a cebola e corte-a em meias-luas finas.",
+      "Lave os talos de aipo e corte-os em fatias finas.",
+      "Esmague os dentes de alho e tire-lhes a pele.",
+      "Aqueça o azeite num tacho, introduza a carne e aloure-a de ambos os lados em\nlume médio a forte.",
+      "Tempere com uma colher de sobremesa de sal e um pouco de pimenta, junte o pau de canela, a folha de louro e os legumes preparados.",
+      "Tape e cozinhe em lume muito brando cerca de 1 hora e 15 minutos.",
+      "Adicione a batata descascada e cortada em cubos, a couve-roxa em tiras largas e a courgette em palitos.",
+      "Junte o restante sal e deixe cozinhar tapado mais 30 minutos ou até os\nlegumes estarem tenros.",
+      "Decore com cebolinho picado."
+    ]
+  },
+  {
+    "name": "Escalopes de frango com arroz selvagem",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/escalopes-de-frango-com-molho-de-roma-e-arroz-selvagem.jpg",
+    "link": "https://www.pingodoce.pt/receitas/escalopes-de-frango-com-arroz-selvagem/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "peito de frango cortado em escalopes",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "mistura de 5 pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "romã",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "farinha",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1642,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2325,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 180,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2357,
+        "g": 175,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os escalopes com uma colher de chá de sal, um pouco de pimenta e o sumo do limão.",
+      "Abra as romãs ao meio, esprema duas metades e reserve os bagos limpos das restantes. Reserve.",
+      "Coloque ao lume uma panela com bastante água e, quando levantar fervura, tempere com o restante sal, incorpore o arroz e deixe cozer cerca de 15 a 20 minutos.",
+      "Passe a carne pela farinha de ambos os lados.",
+      "Aqueça o azeite numa frigideira, junte o alho-francês em rodelas e deixe saltear 2 minutos.",
+      "Introduza os escalopes e aloure-os de ambos os lados.",
+      "Regue com o sumo das romãs e mantenha no lume até reduzir um pouco.",
+      "Escorra o arroz e envolva-o com a colher de sopa de cebolinho picado.",
+      "Disponha os escalopes no prato com o molho, polvilhados com um pouco de cebolinho picado e os bagos de romã reservados.",
+      "Sirva com o arroz e acompanhe com a salada."
+    ]
+  }
+]

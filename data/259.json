@@ -1,0 +1,696 @@
+[
+  {
+    "name": "Polvo panado com polenta de camarão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/06/polvo-panado-com-polenta-de-camarao.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/polvo-panado-com-polenta-de-camarao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "polvo",
+        "qtd": 3,
+        "unit": "kg"
+      },
+      {
+        "name": "tomate grande",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "malagueta",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "óleo para fritar",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "farinha de milho",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão em pó fumado",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sêmola de milho fina",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "camarão",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "coentros",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "cebola",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "sêmola de milho fina",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "maionese",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "açafrão em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinha",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bimi",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "espinafre",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2122,
+        "g": 3000,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2088,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1800,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 945,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2066,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2424,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 483,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2424,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1424,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 20,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 580,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 391,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 907,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1077,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Lave bem o polvo e retire-lhe a cabeça.",
+      "Coloque num tacho o tomate, uma cebola e cabeça de alho descascados e cortados ao meio, o alho-francês, a malagueta aberta, as folhas de louro e o pimento vermelho limpo de sementes e pedúnculo. Ponha o polvo no centro do tacho e cubra de água. Leve a cozer em lume brando até que os tentáculos fiquem tenros. Retire o polvo, deixe arrefecer ligeiramente e separe os tentáculos. Reserve.",
+      "Aqueça o óleo numa frigideira.",
+      "Entretanto, junte a farinha de milho e o pimentão em pó fumado numa taça, noutra bata ligeiramente o ovo com sal e por fim deite noutra a sêmola. Passe os tentáculos pela mistura de farinha de milho, em seguida passe pelo ovo e depois pela sêmola. Frite os tentáculos no óleo bem quente e coloque-os sobre papel absorvente para eliminar o excesso de gordura.",
+      "Para a polenta, descasque os camarões e reserve as cascas. Corte-os em pedaços.",
+      "Esmague ligeiramente cinco dentes de alho deixando a casca e numa frigideira com duas colheres de azeite cozinhe-o até “estalar”. Ponha as cascas do camarão no azeite bem quente até que este ganhe cor. Refresque com sumo de limão, o vinho branco e coloque os coentros inteiros. Adicione água e tempere com sal. Deixe cozinhar em lume muito baixo e, passados 20 minutos, triture e coe num passador muito fino. Reserve o caldo para a polenta",
+      "Numa frigideira bem quente, salteie os camarões com duas colheres de azeite e tempere com sal. Reserve.",
+      "Entretanto, descasque e pique a cebola e um dente de alho e no restante azeite deixe refogar. Junte a sêmola de milho e vá regando com o caldo de camarão, até que a sêmola fique cozinhada e cremosa. Junte os camarões no final e reserve.",
+      "Para o acompanhamento, descasque e pique finamente o alho e envolva-o com a maionese. Polvilhe com o açafrão em pó. Reserve. Descasque e corte as cebolinhas ao meio e numa frigideira com o azeite caramelize as cebolinhas (do lado do corte) e os bimis até ganharem cor e ficarem al dente. Adicione os espinafres, envolva rapidamente, tempere com a raspa de limão e a flor de sal e reserve.",
+      "Sirva num prato decorado com pontos de maionese de alho e açafrão. Coloque no centro a polenta de camarão e por cima os bimis, as cebolinhas e os espinafres. Disponha por cima um tentáculo panado e decore com raspa de limão."
+    ]
+  },
+  {
+    "name": "Pizza de couve-flor com fiambre",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/08/pizza-couve-flor-com-fiambre.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-de-couve-flor-com-fiambre/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "arroz integral",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "couve-flor",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "clara de ovo S",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "orégão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre de peru",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ervilhas",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate mini alongado maduro",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "manjericão",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 172,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 786,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2267,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2271,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1804,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2267,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1039,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 882,
+        "g": 14,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 ºC.",
+      "Cozinhe o arroz conforme as instruções da embalagem e água com o sal.",
+      "Para a base da pizza, rale a couve-flor num robot de cozinha até obter uma areia grossa.",
+      "Coloque numa taça, tape e leve ao micro-ondas a cozinhar por 3 a 4 minutos. Retire, mexa e volte a colocar no micro-ondas por mais 4 minutos. Deixe arrefecer ligeiramente.",
+      "Coloque a couve-flor num pano e esprema de forma a retirar toda a água. Deite-a numa taça e adicione-lhe as claras de ovo, os queijos, os orégãos, a pimenta e o sal. Misture.",
+      "Com a ajuda de um lápis e de uma base de tarte, desenhe dois discos, com cerca de 20 cm cada, no papel vegetal.",
+      "Divida e espalhe a base pelos dois discos e leve ao forno durante 30 minutos.",
+      "Retire as bases do forno e polvilhe-as com o queijo ralado. Espalhe sobre o queijo o fiambre e as ervilhas. Coloque no forno por mais 10 minutos.",
+      "Retire as pizzas do forno e decore-as com o tomate cortado em metades e com folhas de manjericão.",
+      "Sirva de imediato, acompanhadas com o arroz."
+    ]
+  },
+  {
+    "name": "Peito de frango grelhado com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/12/peito-de-frango-grelhado.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-grelhado-com-legumes/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "cogumelos inteiros de conserva",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "massa cuscuz",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "hastes de salsa",
+        "qtd": 5,
+        "unit": "unid."
+      },
+      {
+        "name": "malagueta vermelha",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de framboesa",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "laranja em gomos",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "endívia",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "coração de alface",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês pequeno sem rama",
+        "qtd": 3,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 734,
+        "g": 355,
+        "ml": 0
+      },
+      {
+        "id": 1487,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 5
+      },
+      {
+        "id": 1434,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2593,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1967,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 869,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 73,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 98,
+        "g": 3,
+        "ml": 3
+      }
+    ],
+    "steps": [
+      "Tempere os peitos de frango com metade do sal e um pouco de pimenta.",
+      "Lave as endívias, os corações de alface e os alhos-franceses, corte-os ao meio e salpique-os com o restante sal e pimenta.",
+      "Pincele o frango e os legumes com o azeite, regue-os com o sumo de limão e grelhe tudo num grelhador ou chapa para grelhados. Retire e reserve.",
+      "Escorra bem os cogumelos e corte-os em quartos. Reserve.",
+      "Coza a massa com água temperada com uma colher de café de sal até estar al dente.",
+      "Escorra-a, coloque numa saladeira e adicione os alhos e a salsa picados, a malagueta limpa de sementes e cortada em rodelas e os cogumelos reservados.",
+      "Tempere com o azeite e o vinagre e envolva bem.",
+      "Sirva com os gomos de laranja a acompanhar o frango e os legumes grelhados."
+    ]
+  }
+]

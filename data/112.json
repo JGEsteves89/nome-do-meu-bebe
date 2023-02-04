@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Salada de batata com feijão-verde",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/05/salada-batata-com-feijao-verde.jpg",
+    "link": "https://www.pingodoce.pt/receitas/salada-de-batata-com-feijao-verde/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "feijão-verde",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "batata primor",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "maionese com baixo teor de sal",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1016,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 324,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 1817,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 1420,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Retire as fibras laterais ao feijão-verde e corte-o em fatias finas. Reserve.",
+      "Corte as batatas ao meio e coloque-as num tacho com água. Junte o feijão-verde e deixe cozinhar por 15 a 20 minutos. Depois de cozidos, escorra e deite numa saladeira. Deixe que arrefeçam.",
+      "Ponha os ovos num tacho com água e deixe cozinhar durante 5 minutos.",
+      "Junte à saladeira a maionese de tomilho, a pimenta e envolva. Leve ao frio.",
+      "Entretanto, descasque os ovos, corte-os ao meio e disponha-os por cima da salada. Polvilhe com tomilho fresco."
+    ]
+  },
+  {
+    "name": "Lombinhos de porco com presunto e queijo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/lombinho-de-porco-com-queijo-ovelha.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-porco-presunto-queijo/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "espinafre em folha",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "lombinho de porco",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "presunto fatiado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite das Nossas Planícies",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "abacaxi",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "queijo ovelha amanteigado",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 910,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 39,
+        "ml": 0
+      },
+      {
+        "id": 1345,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 2154,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 211,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 4,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2270,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 180,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Escalde as folhas de espinafres numa panela com água a ferver temperada com uma colher de sal durante meio minuto.",
+      "Retire-os com uma escumadeira, passe por água fria, escorra e coloque-os sobre papel absorvente.",
+      "Abra o lombinho ao meio sem o rasgar, disponha os espinafres de forma uniforme e sobre estes as fatias de presunto.",
+      "Enrole o lombinho e espete palitos nos bordos para não abrir. Tempere com uma colher de sopa de sal e um pouco de pimenta. Reserve.",
+      "Aqueça o azeite numa frigideira anti-aderente e core o abacaxi, previamente cortado em rodelas, dos dois lados.",
+      "Retire o abacaxi e introduza o lombinho na frigideira, corando dos dois lados cerca de 10 minutos.",
+      "Pré-aqueça o forno a 250 ºC.",
+      "Lamine o lombinho e disponha-o sobre as rodelas de abacaxi. Por cima, coloque o queijo fatiado e leve ao forno a gratinar até alourar.",
+      "Coza o arroz selvagem na água temperada com o restante sal cerca de 18 a 20 minutos.",
+      "Passe por um passador e sirva de imediato a acompanhar o lombinho polvilhado com tomilho."
+    ]
+  },
+  {
+    "name": "Porção de bacalhau no forno com legumes",
+    "image": "https://www.youtube-nocookie.com/embed/-ajKY3LSmp4",
+    "link": "https://www.pingodoce.pt/receitas/porcao-de-bacalhau-no-forno-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "porção de bacalhau",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "espargo",
+        "qtd": 1,
+        "unit": "molho"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate rama",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola branca",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta rosa",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho",
+        "qtd": 0,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2659,
+        "g": 600,
+        "ml": 4
+      },
+      {
+        "id": 892,
+        "g": 220,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Num prato de forno faça uma cama de legumes, disponha o alho francês e os espargos em pedaços, o tomate às fatias e a cebolas e metades.",
+      "Coloque por cima as porções de bacalhau e tempere com sal, alho em pó, pimenta rosa e tomilho.",
+      "Regue com azeite e leve ao forno por 20 minutos."
+    ]
+  }
+]

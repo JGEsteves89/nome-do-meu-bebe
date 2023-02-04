@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Empanada de polvo à galega",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/empanada-de-polvo-a-galega.jpg",
+    "link": "https://www.pingodoce.pt/receitas/empanada-polvo-galega/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho seco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate seco em conserva",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "polvo cozido",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "farinha",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de cozedura do polvo 1 dl",
+        "qtd": 0,
+        "unit": "g"
+      },
+      {
+        "name": "gema de ovo S",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2532,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2525,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2122,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1827,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a farinha com o sal e o tomilho seco num robot de cozinha. Junte o azeite (pode usar o azeite da conserva do tomate seco), o vinagre e a água e misture até formar uma massa.",
+      "Mude para uma tigela, molde em bola, cubra com um pano e deixe descansar enquanto prepara o recheio.",
+      "Descasque a cebola e pique-a finamente. Reserve. Lave o alho, pique-o e introduza-o, juntamente com a cebola, numa frigideira com o azeite e leve ao lume.",
+      "Rale a cenoura em fios e corte o pimento, já limpo de sementes, em tiras finas e coloque-as na frigideira. Tape e deixe cozinhar cerca de 10 minutos ou até os legumes estarem macios.",
+      "Pique o tomate seco e o polvo cozido em pedaços pequenos e adicione-os aos legumes. Polvilhe com o pimentão-doce e a farinha, mexa e regue com o caldo da cozedura do polvo.",
+      "Deixe engrossar, mexendo frequentemente. Retire do lume e deixe arrefecer.",
+      "Pré-aqueça o forno a 180° C.",
+      "Divida a massa em duas porções, uma ligeiramente maior do que a outra. Estenda a maior em círculo e forre com uma forma de fundo móvel (28 cm de diâmetro).",
+      "Por cima, espalhe o recheio já frio e cubra com a restante massa, estendida em círculo e com o diâmetro da forma.",
+      "Una bem os bordos da massa, abra um orifício ao centro, pincele a superfície com a gema desfeita e leve ao forno pré-aquecido a 180° C cerca de 45 minutos. Acompanhe com a rúcula."
+    ]
+  },
+  {
+    "name": "Tortilha de batata e legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/05/tortilha-com-sobras-de-batata-e-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tortilha-de-batata-e-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata cozida",
+        "qtd": 2,
+        "unit": "unid. (250 g)"
+      },
+      {
+        "name": "legumes cozidos (couves, brócolos, cenoura)",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mini tomate em rama",
+        "qtd": 8,
+        "unit": "unid. (100 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 302,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1268,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 1822,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 1576,
+        "g": 8,
+        "ml": 8
+      }
+    ],
+    "steps": [
+      "Corte as batatas e os legumes em pedaços pequenos.",
+      "Aloure a cebola e o alho picados, com o azeite, numa frigideira larga antiaderente e que possa ir ao forno.",
+      "Adicione os legumes e salteie sobre lume médio durante cerca de 10 minutos, mexendo ocasionalmente.",
+      "Pré-aqueça o forno a 200 °C, na função ventilada.",
+      "Parta os ovos para uma tigela e tempere-os com o sal, a noz-moscada e pimenta moída na altura. Junte-lhes metade da salsa picada e bata-os até estarem completamente desfeitos.",
+      "Deite-os sobre o cozinhado, agitando um pouco a frigideira e cozinhe durante 2 a 3 minutos sobre lume moderado.",
+      "Por cima, disponha o tomate cortado ao meio e leve a tortilha ao forno por mais cerca de 20 minutos para acabar de cozinhar."
+    ]
+  },
+  {
+    "name": "Borrego com grão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086501",
+    "link": "https://www.pingodoce.pt/receitas/borrego-com-grao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "farinha de trigo tipo 55 sem fermento",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos moídos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "canela em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "borrego limpo e em cubos",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinha pequena",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "grão cozido",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "hortelã",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 966,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 748,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 509,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 426,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 580,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1167,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture a farinha com as especiarias e passe os cubos de borrego pela mistura.",
+      "Deite o azeite um tacho, aqueça bem e introduza a carne, deixando alourar de todos os lados sobre lume médio a forte e mexendo sempre.",
+      "Junte o alho-francês, as cebolinhas cortadas ao meio e as cenouras às rodelas. Tempere com o sal, adicione a folha de louro e um pouco de água, tape e deixe cozinhar sobre lume muito brando durante 30 minutos. Sempre que for necessário, junte um pouco de água bem quente.",
+      "Adicione o grão e 1 ou 2 pés de hortelã, verifique a água e deixe cozinhar suavemente, com o tacho tapado, mais 30 minutos ou até a carne estar tenra.",
+      "Na altura de servir, salpique com uma mão-cheia de folhas de coentros e de hortelã fresca."
+    ]
+  }
+]

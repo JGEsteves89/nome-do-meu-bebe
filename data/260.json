@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Cordon Bleu com puré de beterraba",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/10/cordon-bleau-com-pure-de-beterraba-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/cordon-bleu-com-pure-de-beterraba/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "Cordon Bleu congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "puré de batata congelado",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "beterraba cozida",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "queijo da Ilha ralado em fios",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "rúcula",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 758,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2162,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 366,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2199,
+        "g": 45,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Prepare o Cordon-Bleu e o puré de batata, seguindo as indicações das embalagens.",
+      "Reduza as beterrabas a puré, reservando todo o líquido da sua conserva.",
+      "Quando o puré de batata estiver preparado adicione-lhe o queijo e o puré de beterraba cozida, mexendo bem.",
+      "Sirva o Cordon-Bleu acompanhado com o puré temperado com pimenta e a salada de rúcula temperada com azeite."
+    ]
+  },
+  {
+    "name": "Empadão de aletria",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/06/empadao-de-aletria.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/empadao-de-aletria/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "aletria",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "miolo de broa",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona recheada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "molho bechamel",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 72,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 732,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 433,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 240,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1691,
+        "g": 0,
+        "ml": 200
+      }
+    ],
+    "steps": [
+      "Coza a aletria em água temperada com uma colher de sobremesa de sal até estar al dente. Escorra e reserve.",
+      "Corte a abóbora e os cogumelos em cubos pequenos e salteie-os no azeite bem quente cerca de 10 minutos.",
+      "Tempere com o restante sal e folhas de tomilho fresco.",
+      "Pré-aqueça o forno a 180 ˚C na função grill.",
+      "Esfarele o miolo de broa e misture-o com as azeitonas finamente picadas.",
+      "Espalhe metade da aletria num tabuleiro de forno e regue com metade do béchamel.",
+      "Por cima disponha os legumes e cubra com a aletria e o béchamel que sobraram.",
+      "Polvilhe com a mistura de broa e azeitonas e leve ao forno cerca de 20 minutos ou até a superfície estar alourada."
+    ]
+  },
+  {
+    "name": "Peito de frango com risotto de vegetais",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/peito-frango-risotto.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peito-de-frango-com-risotto-de-vegetais/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "pimentão doce em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "peito de frango",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz risotto",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "vegetais grelhados congelados",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "água",
+        "qtd": 8,
+        "unit": "dl"
+      },
+      {
+        "name": "receita de pesto de coentros e rúcula selvagem 2 c. de sopa",
+        "qtd": 0,
+        "unit": "dl"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2061,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 525,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1967,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 178,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2585,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1200
+      }
+    ],
+    "steps": [
+      "Num prato fundo, misture o pimentão com o caril, metade do sal e do alho em pó. Envolva os peitos de frango completamente nesta mistura. Se forem grandes, abra-os ao meio.",
+      "Deite metade do azeite num tacho, deixe aquecer e adicione o arroz, frite durante 1 minuto e regue com o vinho branco. Deixe o arroz absorver o líquido, mexendo frequentemente.",
+      "Junte a mistura de vegetais já descongelada, tempere com o restante sal e alho em pó e envolva bem. Regue com um pouco de água a ferver, até cobrir os ingredientes e vá mexendo.",
+      "Quando o arroz começar a secar, junte mais um pouco de água a ferver e continue a mexer e a juntar água durante cerca de 20 minutos, até o arroz estar cozido, mas cremoso.",
+      "Enquanto isso, aqueça o restante azeite numa frigideira, introduza o frango e aloure de ambos os lados sobre lume médio a forte. Reduza um pouco o lume, tape e deixe cozinhar durante cerca de 10 minutos.",
+      "Junte o pesto de coentros e rúcula ao arroz e envolva bem.",
+      "Fatie o peito de frango e sirva com o risotto."
+    ]
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Bacalhau na abóbora",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/bacalhau-na-abobora.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bacalhau-na-abobora/",
+    "portions": 10,
+    "ingredients": [
+      {
+        "name": "abóbora inteira",
+        "qtd": 2,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 5,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão grande",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "malagueta vermelha piripíri",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "lombo de bacalhau demolhado",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "farinha",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "miolo de broa de milho picado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 500,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 7,
+        "g": 2000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 25,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 1612,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1435,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1353,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 600
+      },
+      {
+        "id": 931,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 434,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 180,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Corte uma tampa à abóbora, elimine as sementes e escave cuidadosamente o seu interior deixando cerca de um dedo de polpa agarrado à casca. Corte a restante polpa em cubos e espalhe-os sobre um tabuleiro de forno forrado com papel vegetal. Salpique com uma colher de chá de sal, o alho em pó e o tomilho. Regue com duas colheres de sopa de azeite, mexa bem e leve ao forno durante cerca de 40 minutos.",
+      "Tempere o interior da abóbora com cerca de 0.5 colher de chá de sal e coloque-a juntamente com a tampa, sobre outro tabuleiro, igualmente forrado com papel vegetal, com a parte cortada virada para baixo, e leve ao forno.",
+      "Tempere o miolo de camarão com 0.5 colher de chá de sal, os dois dentes de alho espremidos e a malagueta, limpa de sementes e picada.",
+      "Coloque os lombos de bacalhau num tacho, junte a folha de louro, um dente de alho, a parte verde do alho-francês e o leite. Leve a ferver suavemente durante cerca de 8 minutos. Retire do lume e deixe o bacalhau arrefecer dentro do leite.",
+      "Aqueça uma colher de sopa de azeite num tacho e aloure rapidamente os camarões de ambos os lados. Retire-os e reserve. Deite o restante azeite no tacho, adicione a parte branca do alho-francês bem picada e deixe cozinhar, mexendo de vez em quando, até estar macio. Polvilhe com a farinha, mexa bem e regue com o leite em que cozeu o bacalhau, previamente coado.",
+      "Ligue o forno a 180 °C.",
+      "Entretanto, limpe o bacalhau de pele e espinhas, desfaça-o em lascas grandes.",
+      "Junte os cubos de abóbora assada ao molho e tempere com as duas colheres de chá de sal, pimenta moída na altura e noz-moscada.",
+      "Recheie a abóbora com camadas alternadas de molho, lascas de bacalhau e camarão. Termine com uma camada de molho e polvilhe-a com a broa picada previamente misturada com as amêndoas e os coentros picados. Leve ao forno durante mais 10 minutos para gratinar a superfície.",
+      "Sirva com o arroz cozinhado com o restante sal."
+    ]
+  },
+  {
+    "name": "Bowl de batata-doce com especiarias",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/bowl-de-batata-doce-com-especiarias.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/bowl-de-batata-doce-com-especiarias/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "batata-doce laranja",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "colorau",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cominhos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "couve-portuguesa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "feijão encarnado cozido (frasco)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "milho cozido em conserva",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "pepino",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "vinagre de vinho branco",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mistura de pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 333,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 744,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 746,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 790,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1002,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1568,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1984,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2599,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1661,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 190 °C.",
+      "Corte a batata-doce aos cubose coloque-a num tabuleiro de forno.",
+      "Tempere com sal, colorau, cominhos,tomilho e alho em pó. Regue com uma colher de azeite e misture.",
+      "Leve ao forno durante 30 minutosou até a batata estar cozinhada.",
+      "Escalde a couve-portuguesa em água a ferver por 5 minutos.",
+      "Escorra o feijão e o milho. Corte o pepino aos cubos e o tomate em metades.",
+      "Escalfe os ovos numa frigideira com um dedo de altura de água e umas gotas de vinagre.",
+      "Disponha todos os ingredientes nas duas tigelas lado a lado.",
+      "Termine com o ovo no centro. Regue com o restante azeite, tempere com o mix de pimentas e folhas de coentros."
+    ]
+  },
+  {
+    "name": "Base de pizza de batata-doce",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/10/base-pizza-de-batata-doce.jpg",
+    "link": "https://www.pingodoce.pt/receitas/base-de-pizza-de-batata-doce/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "farinha",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "fermento em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 931,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 1029,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Aqueça o forno a 200 ºC.",
+      "Esmague as batatas (de preferência num processador), misture-as com a farinha e o fermento e tempere com pimenta.",
+      "Unte as mãos com o azeite, molde o puré em dois discos finos, coloque-os num tabuleiro forrado com papel vegetal e leve ao forno, por cerca de 20 minutos."
+    ]
+  }
+]

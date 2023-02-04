@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Posta Barrosã",
+    "image": "https://www.youtube-nocookie.com/embed/wpFK7u6l0VM",
+    "link": "https://www.pingodoce.pt/receitas/posta-barrosa/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "batata para assar",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "grelos",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 4,
+        "unit": "dente"
+      },
+      {
+        "name": "vitela barrosã",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "vinagre de vinho tinto",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 318,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 1178,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 12,
+        "ml": 0
+      },
+      {
+        "id": 2640,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2602,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 200 °C.",
+      "Num tacho, coza as batatas com uma colher de chá de sal até estarem tenras.",
+      "Escorra as batatas, dê-lhes um murro e coloque-as num tabuleiro de forno. Regue com uma colher de sopa de azeite.",
+      "Leve ao forno por cerca de 20 minutos ou até estarem assadas a gosto.",
+      "Entretanto cozinhe os grelos em água temperada com uma colher de chá de sal. Quando estiverem cozidos, escorra e salteie numa frigideira com um dente de alho picado e uma colher de sopa de azeite.",
+      "Grelhe a carne numa chapa ou sobre brasas, sem qualquer tempero. Quando surgirem gotas de sangue à superfície, vire as postas sem as picar e deixe grelhar do outro lado. Esta carne costuma ser servida mal passada, pelo que o tempo sobre o lume deve ser breve, para ficar tenra e suculenta. Se preferir média ou bem passada, deixe mais tempo sobre as brasas ou na chapa, virando-a de vez em quando.",
+      "Depois de grelhadas, coloque as postas numa travessa, e salpique-as, de ambos os lados, com o restante sal. Reserve em lugar quente.",
+      "No fundo da travessa, vai surgir um suco libertado pela carne que será aproveitado para o molho.",
+      "Para fazer o molho, misture os restantes azeite e dentes de alho picados, o vinagre e envolva muito bem. Acrescente os sucos da carne e mexa.",
+      "Sirva as postas com o molho, as batatas e os grelos."
+    ]
+  },
+  {
+    "name": "Carne estufada",
+    "image": "https://www.youtube-nocookie.com/embed/_tVVJ3XX8gE",
+    "link": "https://www.pingodoce.pt/receitas/carne-estufada/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 6,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne para estufar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "caldo de carne",
+        "qtd": 240,
+        "unit": "ml"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 90
+      },
+      {
+        "id": 549,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2484,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 472,
+        "g": 0,
+        "ml": 240
+      }
+    ],
+    "steps": [
+      "Coloque 4 colheres de sopa de azeite num tacho em lume forte.",
+      "Adicione a carne para estufar e tempere com sal e pimenta.",
+      "Sele a carne mexendo ocasionalmente.",
+      "Retire a carne do tacho e reserve.",
+      "No mesmo tacho e sem lavar, coloque 2 colher de sopa de azeite.",
+      "Pique a cebola e os alhos e adicione, deixe alourar ligeiramente.",
+      "Corte as cenouras em juliana e o tomate em cubos. Junte ao preparado envolvendo cuidadosamente.",
+      "Adicione a carne reservada, a folha de louro e o caldo de carne.",
+      "Tape e deixe cozinhar lentamente durante 30 a 40 minutos."
+    ]
+  },
+  {
+    "name": "Tarte de polvo",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089576",
+    "link": "https://www.pingodoce.pt/receitas/tarte-de-polvo/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "polvo congelado",
+        "qtd": 1,
+        "unit": ",5 kg"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cebola-roxa",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 0,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "ramo de alecrim",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salada premium",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2123,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 150
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2363,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Coloque o polvo congelado numa panela com água, juntamente com o alho-francês cortado ao meio e a folha de louro. Coza em lume forte até ficar tenro. Reserve.",
+      "Coloque a farinha e a colher de café de sal numa tigela.",
+      "Leve a água e o azeite ao lume até levantar fervura, retire e misture com a farinha, mexendo energicamente com uma colher de pau até a massa descolar das paredes da tigela.",
+      "Trabalhe a massa com as mãos até estar morna. Faça uma bola, embrulhe-a com a película aderente e reserve.",
+      "Corte a cebola em gomos e as cenouras em rodelas. Separe os tentáculos do polvo e a cabeça e corte tudo em pedaços pequenos.",
+      "Leve ao lume um tacho com uma colher de azeite, adicione a cebola e as cenouras cortadas e deixe refogar um pouco.",
+      "Triture a sopa com a varinha mágica, rectifique os temperos e a água, se achar que está demasiado espessa. Tempere com pimenta moída qb.",
+      "Pré-aqueça o forno a 220 ºC.",
+      "Divida a massa em 2 porções e, com a ajuda do rolo, estenda-a em 2 rodelas finas. Coloque uma das rodelas num tabuleiro do forno, previamente forrado com papel vegetal, cubra-a com o preparado de polvo e tape com a outra rodela.",
+      "Feche as bordas da tarte, calcando bem a massa. Pincele com o leite e salpique com as folhas de alecrim. Leve ao forno cerca de 20 minutos ou até ficar dourada. Sirva com a mistura de salada temperada com o azeite."
+    ]
+  }
+]

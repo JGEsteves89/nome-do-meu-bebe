@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Pizza rápida de salmão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/pizza-salmao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pizza-rapida-de-salmao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "lombo de salmão",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal aromatizado com citrinos",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre balsâmico",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "wrap",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo creme com ervas",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cebola-roxa pequena",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 75,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1373,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2340,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2589,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2647,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2186,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 735,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2488,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 577,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2327,
+        "g": 75,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 180° C.",
+      "Tempere os lombos de salmão com o sal aromatizado (ver receita) e regue com o vinagre, previamente misturado com o mel. Reserve.",
+      "Coloque os wraps num tabuleiro do forno e barre-os com o queijo.",
+      "Por cima, distribua os cogumelos laminados, o tomate cortado ao meio e a cebola cortada em rodelas finas. Leve ao forno cerca de 10 minutos.",
+      "Aqueça o azeite numa frigideira anti-aderente e, quando estiver bem quente, introduza os lombos de salmão escorridos.",
+      "Deixe cozinhar cerca de 1 minuto, de todos os lados.",
+      "Retire o peixe, deite o líquido da marinada na frigideira e deixe ferver um pouco.",
+      "Retire as pizzas do forno e, por cima, distribua as folhas de rúcula e o salmão em lascas ou cortado em fatias.",
+      "Regue com o líquido da marinada."
+    ]
+  },
+  {
+    "name": "Almôndegas com legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085306",
+    "link": "https://www.pingodoce.pt/receitas/almondegas-com-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "couve-lombarda",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "abóbora limpa",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "almôndegas pré-preparadas",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de trigo",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pés de tomilho",
+        "qtd": 2,
+        "unit": "pé"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "puré de batata congelado",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "leite magro",
+        "qtd": 1,
+        "unit": "dl"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 789,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 7,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 106,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 954,
+        "g": 28,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 2529,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2161,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 1300,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 126,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque e pique a cebola. Elimine o talo central e corte a couve-lombarda em tiras largas, lave e escorra. Tire a casca à abóbora e corte-a em dados.",
+      "Passe as almôndegas por farinha, sacudindo bem o excesso.",
+      "Num tacho com azeite aloure as almôndegas de todos os lados, fazendo-as rodar ao agitar o tacho.",
+      "Junte a cebola picada, os cubos de abóbora, as tiras de lombarda e os pés de tomilho.",
+      "Tempere com o sal e pimenta moída no momento, tape e deixe cozinhar sobre lume muito brando cerca de 25 minutos, agitando o tacho de vez em quando.",
+      "Ao mesmo tempo, prepare o puré de batata, seguindo as instruções da embalagem.",
+      "Aloure as lâminas de amêndoas numa frigideira antiaderente.",
+      "Mude as almôndegas para um recipiente e polvilhe com as amêndoas e algumas folhinhas frescas de tomilho. Sirva acompanhadas do puré de batata."
+    ]
+  },
+  {
+    "name": "Massa com atum",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/04/massa-com-atum.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-com-atum/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "talharim",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 75,
+        "unit": "ml"
+      },
+      {
+        "name": "cebola média",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate médio maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "polpa de tomate",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "atum em conserva",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "natas",
+        "qtd": 100,
+        "unit": "ml"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2459,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 564,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 2108,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 190,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 100
+      }
+    ],
+    "steps": [
+      "Coza a massa em água a ferver temperada com sal, durante 7 min ou até estar al dente. Escorra e misture uma colher de sopa de azeite para a massa não colar.",
+      "Numa frigideira faça um refogado com o restante azeite, a cebola cortada em meias luas e o alho picado.",
+      "Acrescente o tomate limpo de peles e sementes e a polpa de tomate, deixando refogar mais um pouco. Junte o atum escorrido, vá mexendo, tempere com sal e pimenta e deixe apurar.",
+      "Acrescente as natas, mexendo sempre para não ferverem.",
+      "Por fim, adicione a massa e envolva bem todos os ingredientes."
+    ]
+  }
+]

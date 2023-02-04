@@ -1,0 +1,489 @@
+[
+  {
+    "name": "Salada tropical com molho de abacate",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/02/salada-tropical-molho-abacate.png",
+    "link": "https://www.pingodoce.pt/receitas/salada-tropical-com-molho-de-abacate/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "ovo de codorniz",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "miolo de camarão",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "massa fusilli integral",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "salada variada",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 3,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "abacate maduro",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros (folhas)",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "iogurte magro natural",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1818,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 1603,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1512,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2362,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 2437,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1239,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Introduza os ovos num tacho com água 5 minutos depois de a água começar a ferver. Retire os ovos com uma escumadeira.",
+      "Noutro tacho, coloque água abundante a ferver, tempere com sal e coza o miolo de camarão durante 2 minutos.",
+      "Retire o camarão com uma escumadeira e deite a massa no tacho. Deixe cozer até que esteja al dente.",
+      "Enquanto isso, prepare o molho. Lave e prepare todos os ingredientes, coloque-os num processador de alimentos e triture até obter uma pasta homogénea. Reserve no frigorífico.",
+      "Ponha o conteúdo da embalagem de salada, previamente lavada, numa taça. Junte a massa cozida, o miolo de camarão cozido, as amêndoas e as sultana. Envolva tudo.",
+      "Coloque ao centro o molho de abacate com iogurte, enfeite com os ovos de codorniz descascados e cortados ao meio. Finalize com um pouco mais de pimenta e tempere com azeite e vinagre."
+    ]
+  },
+  {
+    "name": "Massada de pota e berbigão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/massa-a-pescador.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massada-de-pota-e-berbigao/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "tiras de pota congeladas",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "pimentão",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola doce grande",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "bacon em tiras",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "berbigão congelado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "polpa de tomate com manjericão e orégãos pingo doce",
+        "qtd": 0.5,
+        "unit": "emb."
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "água",
+        "qtd": 1,
+        "unit": "L"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "macarrão riscado",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "chouriço de carne",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manjericão fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2479,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2057,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 570,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 272,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 362,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2113,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1000
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1414,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 678,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque as tiras de pota dentro de um coador de rede e retire-lhes a película branca enquanto estiverem ainda meio congeladas.",
+      "Corte as tiras mais grossas de modo a ficarem todas com o mesmo tamanho e enxugue-as bem com papel de cozinha. Salpique com pimentão e reserve.",
+      "Descasque a cebola e os dentes de alho e pique-os finamente. Corte o alho-francês em rodelas e lave muito bem.",
+      "Aqueça o azeite num tacho, junte a cebola, o alho e o alho-francês e deixe alourar sobre lume moderado juntamente com o bacon e a folha de louro.",
+      "Entretanto, pele as cenouras e corte-as em meias rodelas e deite no tacho. Tape e deixe suar durante cerca de 5 minutos.",
+      "Adicione o berbigão e as tiras de pota, e cozinhe destapado e sobre lume médio a forte durante mais 10 minutos, mexendo frequentemente.",
+      "Junte o pimento, já limpo de sementes e cortado em pedaços, a polpa de tomate e o vinho e ferva durante mais 5 minutos.",
+      "Acrescente a água ao tacho, mexa e assim que levantar fervura tempere com o sal e introduza a massa e o chouriço cortado em rodelas. Mexa, tape e deixe cozinhar durante cerca de 15 minutos ou até a massa estar al dente.",
+      "Retire do lume e adicione folhas de coentros e de manjericão. Envolva.",
+      "Sirva polvilhado com mais coentros picados."
+    ]
+  },
+  {
+    "name": "Ravioli com espargos e cogumelos salteados",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/10/raviol-com-espargos-e-cogumelos-salteados-1.jpg",
+    "link": "https://www.pingodoce.pt/receitas/ravioli-com-espargos-e-cogumelos-salteados/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelos laminados",
+        "qtd": 250,
+        "unit": "g (1 emb.)"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 2,
+        "unit": "pétala (25 g)"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "ravioli recheados com ricota e trufa",
+        "qtd": 1,
+        "unit": "emb. (250 g)"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "espargo verde",
+        "qtd": 1,
+        "unit": "molho (320 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 738,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2784,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1624,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 894,
+        "g": 220,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Elimine a base fibrosa dos espargos, deixe a parte espigada inteira e corte a restante em pedaços com cerca de 0,5 cm.",
+      "Esprema o dente de alho e leve ao lume com o azeite numa frigideira larga. Quando começar a alourar, adicione os espargos, os cogumelos e o tomate seco cortado em tiras.",
+      "Tempere com uma colher de café de sal e com pimenta moída no momento. Salteie sobre lume médio, mexendo ocasionalmente durante cerca de 5 minutos.",
+      "Ao mesmo tempo coza os ravioli em água a ferver temperada com o restante sal durante cerca de 5 minutos.",
+      "Retire os ravioli com uma escumadeira e deite-os na frigideira. Adicione 2 a 3 colheres de sopa da água da sua cozedura e envolva tudo muito bem. Salpique com o miolo de noz grosseiramente partido e sirva sem demora."
+    ]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Peru estufado",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/07/peru-estufado.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peru-estufado/",
+    "portions": 20,
+    "ingredients": [
+      {
+        "name": "cebolinha pequena",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "peru em cubos",
+        "qtd": 450,
+        "unit": "g"
+      },
+      {
+        "name": "bacon em cubos",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo branco pequeno",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mostarda à antiga",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "salsa",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "malagueta picada",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 580,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2007,
+        "g": 450,
+        "ml": 0
+      },
+      {
+        "id": 270,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 40
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 709,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1737,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 80
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1425,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Encaixe a borboleta na lâmina e introduza no copo as cebolinhas, os alhos descascados, o peru e o bacon em cubos.",
+      "Regue com o azeite e tempere com sal e um pouco de pimenta.",
+      "Junte o tomate cortado ao meio, os cogumelos e a mostarda.",
+      "Regue com o vinho branco e o Porto e junte o louro.",
+      "Cozinhe 30 minutos, na velocidade 1 inversa, a 100° C.",
+      "Nos últimos 5 minutos retire o copo medidor da tampa.",
+      "Mude para o recipiente de servir, retire o louro e polvilhe com folhas de salsa e a malagueta."
+    ]
+  },
+  {
+    "name": "Sopa de cantaril com arroz",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/sopa-de-arroz-com-cantaril.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-arroz-e-cantaril/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "água",
+        "qtd": 2,
+        "unit": ",2 L"
+      },
+      {
+        "name": "pimenta branca em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "óleo de amendoim",
+        "qtd": 0,
+        "unit": ",3 dl"
+      },
+      {
+        "name": "alho",
+        "qtd": 10,
+        "unit": "dente"
+      },
+      {
+        "name": "arroz agulha Europa",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "pés de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinha nova",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "amendoim torrado sem sal",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho de cebolinho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "molho de coentros",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "cantaril",
+        "qtd": 1,
+        "unit": ",2 kg"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 2000
+      },
+      {
+        "id": 2031,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1794,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 159,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 98,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 580,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 136,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 513,
+        "g": 1000,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Amanhe o cantaril e lave.",
+      "Com uma faca afiada, corte-lhe a cabeça e, em seguida, os filetes de ambos os lados, mantendo sempre a lâmina bem encostada à espinha.",
+      "Reserve a cabeça e as espinhas.",
+      "Corte os filetes em cubos uniformes, mantendo a pele. Reserve.",
+      "Numa panela, leve ao lume 2,2l de água, junte os grãos de pimenta, as espinhas e a cabeça do peixe. Deixe cozinhar em lume brando durante 20 minutos.",
+      "Num tacho, aqueça o óleo de amendoim, junte os dentes de alho laminados e deixe alourar ligeiramente.",
+      "Acrescente 2l do caldo do peixe, coado num passador.",
+      "Quando ferver junte o arroz, o aipo, o alho-francês e a cebola laminada.",
+      "Após 15 minutos, incorpore os cubos de cantaril, o amendoim e tempere com sal.",
+      "Cozinhe lentamente até o arroz estar bem cozido. Polvilhe com o cebolinho e os coentros picados e sirva bem quente."
+    ]
+  },
+  {
+    "name": "Tagliatelle com cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/tagliatelle-com-cogumelos.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-com-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cogumelos Portobello pequenos",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelos Pleurotus",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomate seco",
+        "qtd": 4,
+        "unit": "pétala"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ovo de codorniz",
+        "qtd": 8,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tagliatelli fresco com orégãos",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 320,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 740,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 739,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2524,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1817,
+        "g": 8,
+        "ml": 8
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2456,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 320,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Limpe os cogumelos com papel de cozinha. Corte os portobello em pedaços e rasgue os pleurothus em tiras. Reserve.",
+      "Esmague os dentes de alho, tire-lhes a pele e pique-os finamente. Corte o tomate seco em tirinhas. Lave e corte a courgette em cubos.",
+      "Lave muito bem os ovos e coloque-os numa panela onde possa cozer também a massa. Cubra com água, tempere com 1 colher de sobremesa de sal e leve a ferver durante 5 minutos.",
+      "Aqueça o azeite numa frigideira larga, junte-lhe os dentes de alho e o tomate seco, os cogumelos e a courgette. Salteie sobre lume médio a forte, mexendo várias vezes, até os legumes estarem tenros mas al dente. Reserve.",
+      "Retire os ovos, introduza a massa na mesma água e ferva durante 2 minutos. Escorra a massa num passador.",
+      "Junte a massa aos legumes, acrescente o tomate cereja, lavado e cortado ao meio, tempere com pimenta moída e perfume com folhas de tomilho fresco.",
+      "Misture bem, enfeite com os ovos descascados e cortados ao meio e sirva sem demora."
+    ]
+  }
+]

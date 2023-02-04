@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Recheio de farofa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/11/recheio-de-farofa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/recheio-de-farofa/",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "miúdos de peru",
+        "qtd": 400,
+        "unit": "g"
+      },
+      {
+        "name": "manteiga",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cebola",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 6,
+        "unit": "unid."
+      },
+      {
+        "name": "presunto picado",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona verde recheada com pimento",
+        "qtd": 125,
+        "unit": "g"
+      },
+      {
+        "name": "farinha de mandioca",
+        "qtd": 650,
+        "unit": "g"
+      },
+      {
+        "name": "sal grosso",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "ovo L",
+        "qtd": 4,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1680,
+        "g": 400,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 2501,
+        "g": 6,
+        "ml": 6
+      },
+      {
+        "id": 2148,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 252,
+        "g": 125,
+        "ml": 0
+      },
+      {
+        "id": 944,
+        "g": 650,
+        "ml": 0
+      },
+      {
+        "id": 2344,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 4,
+        "ml": 4
+      }
+    ],
+    "steps": [
+      "Lavar e limpar os miúdos de peru.",
+      "Numa frigideira, derreta a manteiga. Adicione a cebola, previamente picada, e o tomate cortado em pequenos pedaços, e deixe suar. Junte os miúdos de peru e deixar estufar.",
+      "Retire os miúdos, e com a ajuda de uma picadora, pique-os bem.",
+      "Num tacho, junte o molho do estufado, os miúdos picados, o presunto picado, as nozes, as azeitonas picadas e a farinha de mandioca, e misture tudo bem. Tempere com sal e pimenta, e volte a misturar.",
+      "Adicione os coentros picados e os ovos, previamente cozidos e cortados em pedaços pequenos, e envolva tudo.",
+      "Retire do lume e recheie o peru, depois de marinado.",
+      "Tapar com papel de alumínio e levar ao forno a assar conforme a receita de peru assado."
+    ]
+  },
+  {
+    "name": "Tagliatelle com castanhas e bacon",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/11/tagliatelle-com-castanhas-e-cogumelos.jpg",
+    "link": "https://www.pingodoce.pt/receitas/massa-tagliatelle-com-castanhas/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "talos fatiados de aipo",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "bacon em cubos",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "castanha cozida",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tagliatelle",
+        "qtd": 400,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 62,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 270,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 556,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2451,
+        "g": 400,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa frigideira, aqueça o azeite e refogue o aipo, a cebola e os dentes de alho até começarem a alourar.",
+      "Adicione o bacon e deixe fritar 2 minutos.",
+      "Junte as castanhas, previamente separadas em metades, e envolva tudo muito bem.",
+      "Tempere com uma colher de chá de sal, um pouco de pimenta e folhas de alecrim (reserve algum). Reserve.",
+      "Coza a massa em água temperada com o restante sal até estar al dente.",
+      "Escorra-a, adicione-a à frigideira e envolva bem.",
+      "Sirva de imediato salpicada com o alecrim reservado."
+    ]
+  },
+  {
+    "name": "Febras com molho de café",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/05/febras-com-molho-cafe.jpg",
+    "link": "https://www.pingodoce.pt/receitas/febras-com-molho-de-cafe/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "febras de porco",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mistura de pimenta em moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "manteiga",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "natas",
+        "qtd": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "café solúvel",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "molho inglês",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "salsa fresca",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz selvagem",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "salada alentejana",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 994,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1664,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1444,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 469,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 141,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 1708,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 180,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2352,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Tempere as febras com alho picado, sal e pimenta.",
+      "Derreta a manteiga numa frigideira, deixe aquecer e frite as febras durante 4 minutos.",
+      "Enquanto isso, numa taça, misture as natas com o leite, o café, a mostarda, o amido de milho e o molho inglês. Reserve.",
+      "Refresque a carne com o vinho, deixe evaporar e adicione a mistura das natas.",
+      "Deixe ferver e polvilhe com a salsa picada.",
+      "Sirva com o arroz selvagem, cozinhado conforme as instruções da embalagem. Acompanhe com salada temperada."
+    ]
+  }
+]

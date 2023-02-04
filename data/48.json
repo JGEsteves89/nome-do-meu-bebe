@@ -1,0 +1,528 @@
+[
+  {
+    "name": "Crepiocas de legumes",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/09/crepiocas-de-legumes.jpg",
+    "link": "https://www.pingodoce.pt/receitas/crepiocas-de-legumes/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "tapioca hidratada",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "mix de pimentas",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "orégão seco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 1,
+        "unit": "c. sobremesa"
+      },
+      {
+        "name": "pepino",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "tomate de rama",
+        "qtd": 2,
+        "unit": "unid. (160 g)"
+      },
+      {
+        "name": "maionese com baixo teor de sal",
+        "qtd": 4,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "rúcula",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2472,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1663,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1810,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1984,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 587,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2501,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1420,
+        "g": 28,
+        "ml": 0
+      },
+      {
+        "id": 2327,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Numa taça, misture a tapioca, os ovos, o alho em pó, o mix de pimentas e orégãos a gosto.",
+      "Unte uma frigideira antiaderente com azeite e verta parte da mistura de tapioca. Espalhe pela frigideira, deixe cozinhar 1 minuto e vire de lado. Cozinhe mais 1 minuto e repita o processo com a restante massa.",
+      "Corte o pepino e a cenoura com a ajuda de um descascador de legumes para fazer fatias finnas e pique o tomate.",
+      "Espalhe uma colher de maionese por cima de cada tapioca, coloque algumas fatias de pepino e de cenoura por cima, a rúcula e o tomate picado. Tempere com a pimenta e enrole.",
+      "Sirva cortado em metades ou em fatias."
+    ]
+  },
+  {
+    "name": "Peru assado com fruta e puré de mostarda",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/12/peru-assado-3.jpg",
+    "link": "https://www.pingodoce.pt/receitas/peru-assado-fruta-pure-mostarda/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "coxa de peru com pele",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 1,
+        "unit": ",5 dl"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alecrim",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "louro",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "pera Rocha grande",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "maçã de Alcobaça pequena",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "tomate cherry",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "bolbo funcho",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "laranja",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "açafrão-da-índia",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata para cozer",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "leite meio-gordo",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "mostarda em grão",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "gema de ovo L",
+        "qtd": 1,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 798,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 100
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1993,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 1396,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2488,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 1107,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1264,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 21,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 320,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1302,
+        "g": 0,
+        "ml": 5
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1746,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1821,
+        "g": 1,
+        "ml": 1
+      }
+    ],
+    "steps": [
+      "Retire o osso da coxa do peru, ou peça no talho para o retirarem, e tempere a carne com o sal, o azeite, o vinho, os alhos, o tomilho e o alecrim (reserve alguns). Junte as folhas de louro partidas e deixe marinar cerca de 6 horas.",
+      "Pré-aqueça o forno a 140° C. Ate o peru com fio de cozinha, coloque-o num recipiente e leve-o ao forno 50 a 60 minutos.",
+      "Lave as peras, retire-lhes os caroços e corte-as em quartos. Lave as maçãs, retire-lhes os caroços e corte-as ao meio.",
+      "A 15 minutos do final da assadura da carne, disponha a fruta à volta do peru e deixe assar. Cinco minutos antes do fim do tempo, introduza também o tomate.",
+      "Lave o bolbo de funcho, corte-o em quatro partes iguais e leve-o ao lume num tacho com água, o sumo da laranja, o sal e o açafrão-da-índia.",
+      "Quando estiver macio, retire-o, enxugue com papel de cozinha e salteie-o numa frigideira com o azeite bem quente. Reserve.",
+      "Coza as batatas em água com o alho e o sal. Escorra a água, adicione o leite aquecido, o azeite e a mostarda.",
+      "Tempere com um pouco de noz-moscada e triture bem com a varinha mágica. Junte a gema de ovo e envolva muito bem.",
+      "Sirva o peru assado com o puré, um pouco de maçã e pêra assadas e um pouco de funcho salteado.",
+      "Decore com folhas do alecrim e do tomilho reservados e tomate cherry assado, e salpique com o suco do cozinhado."
+    ]
+  },
+  {
+    "name": "Trigo sarraceno com vegetais",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/04/trigo-sarraceno-com-vegetais.jpg",
+    "link": "https://www.pingodoce.pt/receitas/trigo-sarraceno-com-vegetais/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "trigo sarraceno",
+        "qtd": 80,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 240,
+        "unit": "ml"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "beterraba",
+        "qtd": 100,
+        "unit": "g (1 unid.)"
+      },
+      {
+        "name": "mini-pimento",
+        "qtd": 80,
+        "unit": "g (4 unid.)"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 30,
+        "unit": "g"
+      },
+      {
+        "name": "tomate-cereja",
+        "qtd": 60,
+        "unit": "g (6 unid.)"
+      },
+      {
+        "name": "raminhos de brócolos cozidos",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 15,
+        "unit": "g"
+      },
+      {
+        "name": "coentros frescos",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre de sidra",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sementes de cânhamo descascadas",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "ovo M cozido",
+        "qtd": 2,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 240
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 365,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1579,
+        "g": 80,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2486,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 438,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 237,
+        "g": 15,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2597,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 1826,
+        "g": 2,
+        "ml": 2
+      }
+    ],
+    "steps": [
+      "Coloque o trigo sarraceno dentro de um coador e passe por água corrente, escorra bem e deite-o num tacho. Leve ao lume e deixe alourar um pouco, mexendo frequentemente.",
+      "Adicione a água a ferver e tempere com o sal, mexa e, quando retomar fervura, tape e deixe cozinhar durante cerca de 15 minutos sobre lume moderado.",
+      "Descasque a beterraba e corte-a em cubos, limpe os pimentos de sementes e corte em quadrados pequenos. Corte o talo de aipo em lâminas finas e o tomate-cereja ao meio.",
+      "Mude o trigo cozido para uma taça, junte os legumes preparados, os brócolos, as azeitonas e os coentros picados. Tempere com o azeite e o vinagre.",
+      "Misture bem, distribua por duas lancheiras e polvilhe com as sementes de cânhamo. Coloque por cima o ovo cozido cortado em gomos."
+    ]
+  }
+]

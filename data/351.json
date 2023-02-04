@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Migas de bacalhau e ovo em caixa de pão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/migas-de-bacalhau-e-ovo-em-caixa-de-pao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/migas-de-bacalhau-e-ovo-em-caixa-de-pao/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "posta de bacalhau demolhado",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "bolas de mistura",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "caldo da cozedura do bacalhau 3,5 dl",
+        "qtd": 0,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 5,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimenta em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "gemas de ovo M",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "salada gourmet",
+        "qtd": 1,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2129,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 418,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 75
+      },
+      {
+        "id": 2484,
+        "g": 160,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2042,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2357,
+        "g": 175,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 160° C.",
+      "Numa panela, ferva as postas de bacalhau em água temperada com a folha de louro durante 8 minutos.",
+      "Corte uma tampa aos pães e escave o miolo para dentro de uma tigela. Num tabuleiro de forno, leve os pães e as tampas ao forno, até tostarem ligeiramente.",
+      "Retire o bacalhau, coe o caldo da cozedura com um passador e deite 3,5 dl sobre o miolo de pão. Deixe absorver. Limpe o bacalhau de peles e espinhas e desfie em lascas. Reserve.",
+      "Num tacho, refogue o alho picado em azeite até alourar. Junte o miolo de pão e misture bem.",
+      "Pele o tomate, retire as grainhas, corte em cubos pequenos e junte ao pão, deixando cozinhar em lume moderado. Vá mexendo.",
+      "Adicione as lascas de bacalhau às migas, misture bem e tempere com sal e pimenta, deixando ferver até obter a consistência de um puré mole.",
+      "Retire do lume, polvilhe com uma boa porção de coentros picados e envolva.",
+      "Distribua as migas pelas caixas de pão, escave um buraco com a ajuda de uma colher de sopa e disponha as gemas, polvilhando com pimenta.",
+      "Sirva os pães com as tampas e acompanhe com a salada."
+    ]
+  },
+  {
+    "name": "Sopa de amêndoa e maçã",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/07/SB48_alta-220.jpg",
+    "link": "https://www.pingodoce.pt/receitas/sopa-de-amendoa-e-maca/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "miolo de amêndoa com pele",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pão duro (sem côdea)",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pão em fatias finas",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 7,
+        "unit": "dl"
+      },
+      {
+        "name": "vinagre de maçã",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "maçã golden ou Granny Smith",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "uva branca sem grainha",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "amêndoa laminada",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1590,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1845,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1845,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 1050
+      },
+      {
+        "id": 2595,
+        "g": 0,
+        "ml": 10
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1400,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2569,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 127,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coloque as amêndoas numa taça e cubra-as com água a ferver. Deixe de molho até as conseguir pelar.",
+      "Ao lado, corte 200 g de pão duro em pedaços para dentro do copo liquidificador. Adicione 7 dl de água, o vinagre e o sal.",
+      "Descasque os alhos e corte em lâminas. Descasque e elimine o caroço da maçã e pique-a em cubos pequenos. Junte o alho e a maçã ao pão.",
+      "Escorra as amêndoas, elimine a pele castanha e junte-as também ao copo liquidificador. Triture bem até obter um creme liso. Vá adicionando o azeite a pouco e pouco, com o liquidificador ligado numa velocidade baixa. Leve ao frigorífico.",
+      "Lave as uvas e corte-as ao meio. Reserve.",
+      "Aloure as amêndoas laminadas numa frigideira antiaderente. Reserve.",
+      "Distribua a sopa por taças. Sirva-a fria, polvilhada com pimenta moída na altura e cebolinho picado, acompanhada pelas amêndoas e as uvas."
+    ]
+  },
+  {
+    "name": "Frango salteado com pimentos",
+    "image": "https://www.youtube-nocookie.com/embed/IHcdwXV3PZg",
+    "link": "https://www.pingodoce.pt/receitas/frango-salteado-com-pimentos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "peito de frango às tiras",
+        "qtd": 2,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pimentão-doce",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "pimento amarelo",
+        "qtd": 1,
+        "unit": "unid. (150 g)"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola roxa",
+        "qtd": 2,
+        "unit": "unid. (200 g)"
+      },
+      {
+        "name": "feijão encarnado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "coentros",
+        "qtd": 0.5,
+        "unit": "molho"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "arroz integral cozido",
+        "qtd": 200,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1967,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2059,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 2088,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 2069,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 576,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 1000,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 172,
+        "g": 200,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere o frango com o sumo de limão, metade do sal e o pimentão-doce.",
+      "Aqueça metade do azeite numa frigideira e salteie o frango durante 10 minutos até estar cozinhado.",
+      "Corte os pimentos em tiras e retire-lhes as sementes. Pique os dentes de alho e corte a cebola descascada em rodelas finas.",
+      "Retire o frango da frigideira e reserve. Deite na frigideira o restante azeite e adicione o alho, juntamente com a cebola, os pimentos e o restante sal. Deixe cozinhar em lume brando durante 10 minutos.",
+      "Acrescente o feijão escorrido, envolva e volte a juntar o frango.",
+      "Polvilhe com os coentros picados e sirva com gomos de limão. Acompanhe com o arroz integral."
+    ]
+  }
+]

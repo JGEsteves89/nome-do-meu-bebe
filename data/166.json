@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Esparguete integral à bolonhesa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/10/esparguete-bolonhesa.jpg",
+    "link": "https://www.pingodoce.pt/receitas/esparguete-integral-a-bolonhesa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "carne de vaca magra picada",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "courgette",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "molho de tomate, manjericão e orégãos",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cogumelo fresco",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomate de rama maduro",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa ou coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 541,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 772,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1707,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 708,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2501,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Descasque a cebola e os dentes de alho e pique-os finamente. Corte o alho-francês em tiras a todo o comprimento, sem as separar da base, lave e pique finamente.",
+      "Aqueça o azeite num tacho, junte a cebola, o alho e o alho-francês picados e deixe cozinhar, em lume moderado, até estarem macios.",
+      "Junte a carne picada e cozinhe, em lume médio a forte, mexendo frequentemente até perder o tom rosado.",
+      "Pele as cenouras, lave a courgette e rale ambas em fios.",
+      "Junte à carne, tempere com o sal e misture bem. Cozinhe durante 15 minutos, em lume moderado, mexendo de vez em quando.",
+      "Adicione o molho de tomate e os cogumelos bem escorridos e cozinhe mais 10 a 15 minutos, mexendo de vez em quando.",
+      "Coza o esparguete em água a ferver temperada com o sal até estar al dente. Escorra, envolva com o azeite e divida por duas marmitas.",
+      "Lave o tomate, limpe-o de grainhas, corte-o em cubos pequenos e junte-o ao cozinhado de carne nos últimos 5 minutos.",
+      "No final, salpique com a salsa ou os coentros picados.",
+      "Retire metade do cozinhado para dividir pelas\nduas marmitas, colocando-o sobre a porção\nde esparguete cozido."
+    ]
+  },
+  {
+    "name": "Tarte grega de espinafres",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/06/Tarte-grega-de-espinafres.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tarte-grega-de-espinafres/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "espinafre",
+        "qtd": 600,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho-francês",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "limão (raspa)",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "hortelã (folhas)",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "noz-moscada",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "pimenta preta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "queijo feta",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "massa filo",
+        "qtd": 2,
+        "unit": "emb."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 907,
+        "g": 600,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1195,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1782,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2046,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2226,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1501,
+        "g": 500,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Comece por escaldar os espinafres em água a ferver temperada com 0.5 colher de chá de sal.",
+      "Quando estiverem prontos, escorra a água com a ajuda de um escorredor. Esprema bem com a ajuda de papel de cozinha e reserve.",
+      "Corte o alho-francês em rodelas e salteie numa frigideira com 1 colher de sopa de azeite e os 2 dentes de alho picados, durante 3 minutos.",
+      "Junte a raspa de limão, a hortelã e a salsa picadas e tempere com a noz-moscada, o restante sal e pimenta a gosto. Adicione o queijo feta esfarelado. Envolva bem e deixe arrefecer.",
+      "Pré-aqueça o forno a 160° C.",
+      "Sobreponha 3 folhas de massa filo, umas por cima das outras. Pincele com parte do azeite e coloque mais 3 folhas de massa sobre as primeiras 3. Pincele com mais azeite.",
+      "Coloque o preparado anterior sobre a camada de folhas de massa ao centro, no sentido do comprimento.",
+      "Enrole cuidadosamente a massa por cima do recheio, fazendo a forma de um chouriço.",
+      "Pincele com o restante azeite e coloque numa forma redonda, previamente forrada com papel vegetal, enrolando o \"chouriço em forma de caracol.",
+      "Leve ao forno cerca de 30 minutos ou até a massa estar dourada."
+    ]
+  },
+  {
+    "name": "Açorda de tomate com carapaus",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/08/acorda-tomate-com-carapaus.jpeg",
+    "link": "https://www.pingodoce.pt/receitas/acorda-de-tomate-com-carapaus/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "carapaus para fritar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "sal",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "óleo",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "farinha",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sobras de pão duro",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "caldo de peixe",
+        "qtd": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "tomate de conserva em pedaços",
+        "qtd": 390,
+        "unit": "g"
+      },
+      {
+        "name": "azeitona preta em rodelas",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate mini alongado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mistura de salada alentejana",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "+ 0.5 c. de sopa"
+      },
+      {
+        "name": "vinagre de fruta",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 519,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 1801,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 931,
+        "g": 21,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1845,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 480,
+        "g": 0,
+        "ml": 10000
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 2500,
+        "g": 390,
+        "ml": 0
+      },
+      {
+        "id": 237,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2514,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1671,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2594,
+        "g": 0,
+        "ml": 15
+      }
+    ],
+    "steps": [
+      "Passe os carapaus por água, enxugue-os bem com papel de cozinha e tempere-os com o sal.",
+      "Para a açorda, corte as sobras de pão duro em pedaços pequenos, coloque numa tigela e junte o caldo da cozedura da raia, previamente coado e a ferver. Deixe o pão embeber bem.",
+      "Leve ao lume o azeite com os dentes de alho descascados e esmagados, a cebola descascada e picada e a folha de louro. Quando a cebola estiver mole, junte o tomate e deixe cozinhar durante 5 a 6 minutos, mexendo ocasionalmente. Adicione o pão, misture bem, deixe ferver sobre lume médio e vá mexendo até a açorda ficar na consistência de que gosta.",
+      "Ao mesmo tempo, aqueça o óleo numa fritadeira ou frigideira funda. Passe os carapaus por farinha, sacudindo bem o excesso antes de os mergulhar no óleo quente e deixe fritar até estarem dourados. Escorra sobre papel absorvente.",
+      "Corte o tomate mini alongado ao meio e misture-o com a salada alentejana.",
+      "Quando a açorda estiver pronta, retire a folha de louro e junte-lhe as azeitonas e uma boa porção de coentros acabados de picar.",
+      "Sirva os carapaus fritos com fatias de limão e acompanhe com a açorda e com a salada temperada com o azeite e o vinagre."
+    ]
+  }
+]

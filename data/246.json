@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Guisado de peru e courgette",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2022/11/guisado-de-peru-e-courgette.jpg",
+    "link": "https://www.pingodoce.pt/receitas/guisado-de-peru-e-courgette/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "batata para cozer pequena",
+        "qtd": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sal",
+        "qtd": 3,
+        "unit": "c. de café"
+      },
+      {
+        "name": "azeite virgem extra",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cebola",
+        "qtd": 1,
+        "unit": "unid. (100 g)"
+      },
+      {
+        "name": "peito de peru em tiras",
+        "qtd": 350,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "courgette",
+        "qtd": 2,
+        "unit": "unid. (400 g)"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "farinha",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      },
+      {
+        "name": "ovo M (gema)",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "salsa",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "tomate maduro",
+        "qtd": 3,
+        "unit": "unid. (270 g)"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 320,
+        "g": 500,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 221,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 564,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 1974,
+        "g": 350,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2608,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 931,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2376,
+        "g": 10,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 240,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Coza as batatas em água temperada com duas colheres de café de sal cerca de 20 minutos ou até estarem tenras.",
+      "Ao mesmo tempo, leve ao lume um tacho com o azeite e a cebola picada, e deixe alourar. Junte o peito de peru e salteie sobre lume forte durante 1 a 2 minutos. Tempere com o restante sal, o alho em pó e pimenta moída no momento.",
+      "Adicione a courgette cortada em rodelas e regue com o vinho branco. Deixe cozinhar tapado, sobre lume moderado, cerca de 20 minutos.",
+      "Dissolva a farinha no sumo do limão, junte as gemas, misture bem e adicione ao tacho, envolvendo rapidamente. Deixe engrossar durante 2 a 3 minutos, mexendo com frequência",
+      "Deite o fricassé para um prato e salpique com a salsa picada. Sirva com as batatas cozidas e com o tomate em rodelas."
+    ]
+  },
+  {
+    "name": "Tarte de camarão e pimentos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/05/tarte-de-camarao-com-pimentos-tricolores.jpg",
+    "link": "https://www.pingodoce.pt/receitas/tarte-de-camarao-e-pimentos/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "camarão 60/80",
+        "qtd": 900,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 6,
+        "unit": "dl"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "alho-francês em rodelas",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento tricolor",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "farinha de milho integral",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 494,
+        "g": 900,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 900
+      },
+      {
+        "id": 2336,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 98,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2084,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 24,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 949,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 30
+      }
+    ],
+    "steps": [
+      "Pré-aqueça o forno a 185° C, na função calor circulante e grelha inferior.",
+      "Numa panela, leve o camarão ao lume em água a ferver temperada com o sal. Deixe retomar fervura e coza 1 minuto. Com uma escumadeira, retire os camarões e reserve o caldo da cozedura.",
+      "Para a massa, misture numa taça larga a farinha de milho, o amido de milho e o alho em pó. Acrescente o azeite, o vinagre e 1dl do caldo do camarão e misture bem até ligar todos os ingredientes.",
+      "Forre uma forma de tarte com a massa. Por cima, coloque uma folha de papel vegetal. Encha com leguminosas secas e leve ao forno durante 20 minutos. Nos últimos 10 minutos, retire o papel e as leguminosas.",
+      "Numa frigideira antiaderente, leve o alho-francês ao lume em azeite. Cozinhe tapado cerca de 10 minutos.",
+      "Corte os pimentos em rodelas finas, limpe-os de sementes. Junte ao alho-francês e deixe cozinhar, tapado, mais 10 minutos em lume brando.",
+      "Descasque os camarões (reserve o miolo), adicione as cabeças ao restante caldo da cozedura. Com a varinha mágica, triture muito bem.",
+      "Coe o caldo e junte-lhe o amido de milho, mexendo até dissolver. Verta sobre os legumes e deixe engrossar, mexendo frequentemente. Tempere com o alho em pó, o vinagre e um pouco de pimenta. Reserve alguns camarões para decoração e adicione os restantes ao recheio.",
+      "Misture bem, disponha sobre a massa e leve ao forno durante 10 minutos. Decore com os camarões reservados."
+    ]
+  },
+  {
+    "name": "Fusilli fresco com frango e cogumelos",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2019/01/rolo-de-frango-com-cogumelos-e-e-fusilli.jpg",
+    "link": "https://www.pingodoce.pt/receitas/fusilli-fresco-com-frango-e-cogumelos/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "bife de frango fino",
+        "qtd": 4,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 4,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "fiambre",
+        "qtd": 4,
+        "unit": "fatia"
+      },
+      {
+        "name": "queijo mozzarella ralado",
+        "qtd": 40,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cogumelo Portobello",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "vinho do Porto",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "fusilli fresco com ovo",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "natas",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "espinafre em folha",
+        "qtd": 0.5,
+        "unit": "emb."
+      },
+      {
+        "name": "miolo de noz",
+        "qtd": 30,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 378,
+        "g": 4,
+        "ml": 4
+      },
+      {
+        "id": 2336,
+        "g": 8,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1032,
+        "g": 112,
+        "ml": 0
+      },
+      {
+        "id": 2269,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 728,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2616,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 1112,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 1756,
+        "g": 0,
+        "ml": 200
+      },
+      {
+        "id": 910,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 1622,
+        "g": 30,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Tempere os bifes de frango com 1 colher de café de sal, pimenta moída e alho em pó. Por cima de cada bife coloque 1 fatia de fiambre e ¼ do queijo mozzarella.",
+      "Dobre as pontas do fiambre sobre o queijo, para que ao derreter não se espalhe, enrole os bifes e ate com um cordel de cozinha.",
+      "Numa frigideira aqueça bem o azeite, introduza os bifes enrolados e aloure-os bem de todos os lados, em lume forte.",
+      "Corte os cogumelos ao meio ou em quartos, consoante o tamanho, adicione-os aos bifes, temperando com mais 1 colher de café de sal e pimenta. Tape e deixe cozinhar durante mais 5 minutos.",
+      "Regue com o vinho do Porto e reduza um pouco o lume, deixando cozinhar, com a frigideira tapada, durante mais 5 minutos.",
+      "Num tacho, coza a massa em água a ferver temperada com 1 colher de café de sal.",
+      "Junte as natas aos rolos de bife, salpique com o restante sal, misture bem e deixe ferver ligeiramente, cerca de 2 minutos.",
+      "Escorra a massa, misture-a com as folhas de espinafres e coloque-a num prato.",
+      "Retire o fio com que atou os bifes e corte os rolos em rodelas, dispondo-os sobre a massa.",
+      "Regue com o molho da cozedura e salpique com o miolo de noz, grosseiramente picado."
+    ]
+  }
+]

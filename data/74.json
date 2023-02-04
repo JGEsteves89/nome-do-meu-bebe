@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Lombo de porco com citrinos e ervas aromáticas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/lombo-de-porco-com-citrinos-e-ervas-aromaticas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombo-de-porco-com-citrinos-e-ervas-aromaticas/",
+    "portions": 8,
+    "ingredients": [
+      {
+        "name": "lombo de porco (comprido e estreito)",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "alho",
+        "qtd": 6,
+        "unit": "dente"
+      },
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomilho fresco",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "laranja (raspa e sumo)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "chalota",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "sementes de funcho",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "limão pequeno",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "coentros",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "funcho (bolbo)",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "vinho branco",
+        "qtd": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "azeite",
+        "qtd": 4,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "batata-doce",
+        "qtd": 800,
+        "unit": "g"
+      },
+      {
+        "name": "courgette",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 2,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "tomate mini em rama",
+        "qtd": 300,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1369,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 18,
+        "ml": 0
+      },
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 1264,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2413,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 1107,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2611,
+        "g": 0,
+        "ml": 50
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 60
+      },
+      {
+        "id": 328,
+        "g": 800,
+        "ml": 0
+      },
+      {
+        "id": 772,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 2517,
+        "g": 300,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Esfregue bem o lombo de porco com um dente de alho esmagado. Coloque num tabuleiro de forno e polvilhe com o pimentão-doce, pimenta moída na altura e algumas folhas de tomilho. Junte a raspa da casca e sumo de uma laranja, duas chalotas descascadas e cortadas em gomos finos. Salpique com as sementes de funcho. Cubra com película aderente e deixe marinar de um dia para o outro.",
+      "Corte a restante laranja e o limão em rodelas e num tabuleiro faça uma cama com as rodelas de laranja e limão alternadas e alguns pés de coentros. Por cima, coloque o lombo de porco e, à volta, disponha as restantes chalotas, descascadas e cortadas em gomos, os dentes de alho esmagados e o bolbo de funcho cortado em lâminas. Regue tudo com o vinho branco e três colheres de sopa de azeite.",
+      "Pré-aqueça o forno a 180 °C na função ar circulante.",
+      "Lave muito bem as batatas e golpeie-as em fatias sem as separar completamente. Corte a curgete em pedaços. Coloque as batatas e a curgete à volta da carne, regue com o restante azeite e polvilhe com o alho em pó, pimenta moída na altura e mais algumas folhas de tomilho. Leve ao forno durante cerca de 1 hora. Mais ou menos 10 minutos antes de terminar o tempo, coloque o tomate entre as batatas e leve de novo ao forno.",
+      "Na altura de servir, adicione mais tomilho fresco."
+    ]
+  },
+  {
+    "name": "Frango grelhado na brasa",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449085410",
+    "link": "https://www.pingodoce.pt/receitas/frango-grelhado-na-brasa/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "frango para assar",
+        "qtd": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "alho",
+        "qtd": 3,
+        "unit": "dente"
+      },
+      {
+        "name": "limão",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "hastes de alecrim",
+        "qtd": 2,
+        "unit": "haste"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "caril em pó",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "pau de canela",
+        "qtd": 1,
+        "unit": "unid."
+      },
+      {
+        "name": "sultana dourada",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "arroz",
+        "qtd": 250,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 5,
+        "unit": "dl"
+      },
+      {
+        "name": "mel",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "vinagre",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1097,
+        "g": 1000,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 9,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 13,
+        "ml": 0
+      },
+      {
+        "id": 69,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 587,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 525,
+        "g": 7,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 1964,
+        "g": 1,
+        "ml": 1
+      },
+      {
+        "id": 2437,
+        "g": 40,
+        "ml": 0
+      },
+      {
+        "id": 157,
+        "g": 250,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 750
+      },
+      {
+        "id": 1540,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 2588,
+        "g": 0,
+        "ml": 10
+      }
+    ],
+    "steps": [
+      "Espalme bem o frango e dê-lhe uns golpes com uma faca afiada na zona atrás das asas e nas coxas.",
+      "Esborrache os dentes de alho, tire-lhes a pele, esfregue-os no frango. Esfregue também o frango com meio limão, o alecrim grosseiramente picado e salpique com metade do sal.",
+      "Prepare as brasas. Sacuda o alecrim do frango, coloque-o numa grelha e leve a assar sobre as brasas. Passados 20 minutos, volte o frango e comece a preparar o arroz.",
+      "Pele as cenouras e corte-as em cubos pequenos. Aqueça 2 colheres de sopa de azeite num tacho.",
+      "Junte os dentes de alho picados, o caril em pó, a folha de louro, o pau de canela e as cenouras. Salpique com o restante sal, tape e deixe suar sobre lume brando durante 5 minutos.",
+      "Adicione o arroz e as sultana e mexa. Regue com a água a ferver, mexa e tape o tacho. Cozinhe sobre lume muito brando durante 20 minutos. Vá virando o frango sobre as brasas de vez em quando.",
+      "Quando o frango estiver assado, pincele-o com o mel, regue-o com o sumo de meio limão e corte-o em pedaços. Sirva-o acompanhado do arroz."
+    ]
+  },
+  {
+    "name": "Lombinho de porco com uvas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/lombinho-de-porco-com-uvas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/lombinho-de-porco-com-uvas/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "pimentão doce",
+        "qtd": 1,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "amido de milho",
+        "qtd": 1,
+        "unit": "c. de sobremesa"
+      },
+      {
+        "name": "tomilho",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "lombinho de porco",
+        "qtd": 220,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "+ 0.5 c. de sopa"
+      },
+      {
+        "name": "chalota",
+        "qtd": 90,
+        "unit": "g"
+      },
+      {
+        "name": "vinho moscatel",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sobras de bagos de uva sem grainha",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "batata pequena",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 2060,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 141,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2529,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 1345,
+        "g": 220,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 612,
+        "g": 90,
+        "ml": 0
+      },
+      {
+        "id": 2626,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2577,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 323,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 10,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Misture o pimentão com o alho, o sal, o amido de milho e o tomilho e envolva o lombinho nesta mistura.",
+      "Aqueça metade do azeite numa frigideira e aloure a carne de todos os lados, sobre lume médio-forte. Reduza o lume e junte o restante azeite e as chalotas cortadas em gomos finos. Tape e cozinhe cerca de 20 minutos em lume brando, agitando a frigideira de vez em quando.",
+      "Regue com o moscatel, ferva por mais 3 ou 4 minutos e adicione as uvas, previamente lavadas, cortadas ao meio e limpas.",
+      "Lave as batatas, pique-as com um garfo, coloque-as num recipiente que possa ir ao micro-ondas, cubra com uma tampa e coza na potência máxima cerca de 6 minutos.",
+      "Corte o lombinho em fatias, salpique-o com os coentros e sirva-o com o molho de uvas. Acompanhe com as batatas."
+    ]
+  }
+]

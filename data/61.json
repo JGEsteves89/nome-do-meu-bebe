@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Hambúrguer de lentilhas",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2021/09/hamburguer-de-lentilhas.jpg",
+    "link": "https://www.pingodoce.pt/receitas/hamburguer-de-lentilhas/",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "sobras de lentilhas cozidas",
+        "qtd": 120,
+        "unit": "g"
+      },
+      {
+        "name": "polvilho doce",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "coentros picados",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cominhos em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "alho em pó",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "mostarda",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "tâmara sem caroço",
+        "qtd": 20,
+        "unit": "g"
+      },
+      {
+        "name": "pimenta",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "chalota",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de chá"
+      },
+      {
+        "name": "pão fino de 8 cereais para hambúrguer (Thins)",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "alface",
+        "qtd": 2,
+        "unit": "folha"
+      },
+      {
+        "name": "abacate",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "tomate",
+        "qtd": 80,
+        "unit": "g"
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1309,
+        "g": 120,
+        "ml": 0
+      },
+      {
+        "id": 2121,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 701,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 747,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 94,
+        "g": 4,
+        "ml": 0
+      },
+      {
+        "id": 1736,
+        "g": 0,
+        "ml": 2
+      },
+      {
+        "id": 2465,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2028,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 612,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 1909,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 73,
+        "g": 30,
+        "ml": 0
+      },
+      {
+        "id": 2,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 2484,
+        "g": 80,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Deite as lentilhas, o polvilho, os coentros, os cominhos, o alho, a mostarda e as tâmaras, cortadas em pedaços, num processador de alimentos ou robot de cozinha. Tempere com pimenta e triture bem. Mude para uma taça e misture com uma chalota, finamente picada.",
+      "Aloure a outra chalota cortada em rodelas finas numa frigideira antiaderente com 2 colheres de chá de azeite. Depois de frita, afaste-a para as bordas da frigideira.",
+      "Divida a mistura de lentilhas em duas porções, dê-lhes o formato de hambúrguer e, na mesma frigideira, frite de ambos os lados.",
+      "Coloque as folhas de alface sobre as metades inferiores dos pães, por cima disponha fatias de abacate regadas com sumo de limão, o tomate fatiado, o hambúrguer e a chalota frita. Cubra com a parte superior do pão."
+    ]
+  },
+  {
+    "name": "Pataniscas com arroz de feijão",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2020/06/pataniscas-arroz-feijao.jpg",
+    "link": "https://www.pingodoce.pt/receitas/pataniscas-com-arroz-de-feijao/",
+    "portions": 6,
+    "ingredients": [
+      {
+        "name": "lombo de bacalhau demolhado",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "alho",
+        "qtd": 1,
+        "unit": "dente"
+      },
+      {
+        "name": "farinha",
+        "qtd": 75,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 3,
+        "unit": "unid."
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 60,
+        "unit": "g"
+      },
+      {
+        "name": "cebolinho picado",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "salsa fresca picada",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sal",
+        "qtd": 1,
+        "unit": "c. de café"
+      },
+      {
+        "name": "pimenta de moinho",
+        "qtd": 1,
+        "unit": "q.b."
+      },
+      {
+        "name": "azeite",
+        "qtd": 3,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "pimento vermelho",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "pimento verde",
+        "qtd": 150,
+        "unit": "g"
+      },
+      {
+        "name": "alho picado",
+        "qtd": 2,
+        "unit": "dente"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "flor de sal",
+        "qtd": 0.5,
+        "unit": "c. de café"
+      },
+      {
+        "name": "talo de aipo",
+        "qtd": 50,
+        "unit": "g"
+      },
+      {
+        "name": "cebola picada",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "louro",
+        "qtd": 1,
+        "unit": "folha"
+      },
+      {
+        "name": "azeite",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "cenoura",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "arroz carolino",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "água",
+        "qtd": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "feijão encarnado cozido",
+        "qtd": 420,
+        "unit": "g"
+      },
+      {
+        "name": "limão (sumo)",
+        "qtd": 0.5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 1354,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 3,
+        "ml": 0
+      },
+      {
+        "id": 931,
+        "g": 75,
+        "ml": 0
+      },
+      {
+        "id": 1826,
+        "g": 3,
+        "ml": 3
+      },
+      {
+        "id": 564,
+        "g": 60,
+        "ml": 0
+      },
+      {
+        "id": 584,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2376,
+        "g": 5,
+        "ml": 0
+      },
+      {
+        "id": 2336,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 2038,
+        "g": 2,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 45
+      },
+      {
+        "id": 2088,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 2086,
+        "g": 150,
+        "ml": 0
+      },
+      {
+        "id": 89,
+        "g": 6,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 1078,
+        "g": 0,
+        "ml": 0
+      },
+      {
+        "id": 62,
+        "g": 50,
+        "ml": 0
+      },
+      {
+        "id": 564,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1384,
+        "g": 1,
+        "ml": 0
+      },
+      {
+        "id": 209,
+        "g": 0,
+        "ml": 30
+      },
+      {
+        "id": 587,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 167,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 49,
+        "g": 0,
+        "ml": 500
+      },
+      {
+        "id": 1002,
+        "g": 420,
+        "ml": 0
+      },
+      {
+        "id": 1332,
+        "g": 0,
+        "ml": 0
+      }
+    ],
+    "steps": [
+      "Ferva suavemente o bacalhau durante cerca de 7 minutos num tacho com água temperada, o louro e o alho esmagado. Retire do lume e deixe arrefecer o bacalhau dentro do caldo.",
+      "Entretanto, asse os pimentos numa chapa ou no forno. Limpe-os de peles e sementes e rasgue-os em tiras. Junte-lhes o alho picado, regue com o azeite e tempere com a flor de sal. Reserve.",
+      "Escorra o bacalhau, limpe-o de pele e espinhas e desfaça-o em lascas grandes.",
+      "Dilua a farinha com cerca de 50 ml do caldo do bacalhau. Junte os ovos e continue a mexer com um garfo até o polme estar liso. Descasque e pique a cebola, e junte-a à mistura de farinha. Adicione o cebolinho e a salsa picados, e as lascas de bacalhau. Misture bem e tempere com o sal e pimenta moída na altura. Deixe repousar.",
+      "Enquanto isso, prepare o arroz. Corte o talo de aipo em lâminas finas, descasque e pique a cebola e leve-os a cozinhar num tacho, com a folha de louro e o azeite, sobre lume moderado.",
+      "Pele as cenouras e corte-as em meias-luas finas. Deite-as no tacho, tape e deixe suar durante cerca de 5 minutos sobre lume brando. Introduza o arroz, mexa e regue com a água a ferver. Adicione o conteúdo da lata de feijão, volte a mexer e coza, tapado e sobre lume brando, durante cerca de 18 minutos.",
+      "Ao mesmo tempo, aqueça o azeite numa frigideira larga antiaderente e deite o polme de bacalhau em colheradas. Frite as pataniscas de ambos os lados até estarem douradas e escorra-as sobre papel absorvente.",
+      "Assim que o arroz estiver pronto, retire-o do lume e regue com o sumo do limão. Sirva de imediato com as pataniscas e com a salada de pimentos."
+    ]
+  },
+  {
+    "name": "\"Bolo\" de esparguete com queijo e fiambre",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2018/06/bolo-de-esparguete-com-queijo-e-fiambre.jpg",
+    "link": "https://www.pingodoce.pt/receitas/bolo-de-esparguete-com-queijo-e-fiambre/",
+    "portions": 4,
+    "ingredients": [
+      {
+        "name": "azeite",
+        "qtd": 1,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "sobras de esparguete cozido",
+        "qtd": 300,
+        "unit": "g"
+      },
+      {
+        "name": "ovo M",
+        "qtd": 2,
+        "unit": "unid."
+      },
+      {
+        "name": "queijo Mozzarella ralado",
+        "qtd": 100,
+        "unit": "g"
+      },
+      {
+        "name": "fiambre fatiado",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ricotta",
+        "qtd": 200,
+        "unit": "g"
+      },
+      {
+        "name": "molho de tomate bolonhesa",
+        "qtd": 1,
+        "unit": "emb."
+      },
+      {
+        "name": "queijo parmesão ralado",
+        "qtd": 2,
+        "unit": "c. de sopa"
+      },
+      {
+        "name": "folhas de manjericão picado",
+        "qtd": 5,
+        "unit": "unid."
+      }
+    ],
+    "rawIngredients": [
+      {
+        "id": 208,
+        "g": 0,
+        "ml": 15
+      },
+      {
+        "id": 895,
+        "g": 300,
+        "ml": 0
+      },
+      {
+        "id": 1824,
+        "g": 2,
+        "ml": 2
+      },
+      {
+        "id": 2267,
+        "g": 100,
+        "ml": 0
+      },
+      {
+        "id": 1041,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 2316,
+        "g": 200,
+        "ml": 0
+      },
+      {
+        "id": 1700,
+        "g": 340,
+        "ml": 0
+      },
+      {
+        "id": 2274,
+        "g": 20,
+        "ml": 0
+      },
+      {
+        "id": 1440,
+        "g": 5,
+        "ml": 5
+      }
+    ],
+    "steps": [
+      "Unte uma forma de mola (20 cm de diâmetro) com o azeite. Pré-aqueça o forno a 190 ºC.",
+      "Numa taça misture o esparguete com os ovos batidos. Coloque 1/3 desta mistura no fundo da forma. Polvilhe com parte do queijo ralado, fatias de fiambre e um pouco de ricotta, espalhando bem.",
+      "Por cima, coloque uma porção do molho de tomate e volte a repetir todo o processo (esparguete, mozzarella (fiambre, ricotta e molho), terminando com a massa.",
+      "Salpique com o queijo parmesão ralado e as folhas de manjericão e leve ao forno cerca de 20 minutos."
+    ]
+  }
+]
