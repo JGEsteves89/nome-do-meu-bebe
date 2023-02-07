@@ -1,19 +1,17 @@
 <template>
-	<v-app dark>
-		<v-app-bar :clipped-left="false" fixed app>
-			<v-container fluid>
-				<v-toolbar-title class="d-flex justify-center">{{ title }}</v-toolbar-title>
-			</v-container>
+	<v-app dark class="main-container-background">
+		<v-app-bar class="striped-background" :clipped-left="false" fixed app>
+			<navigation-links :banner="true" />
 		</v-app-bar>
-		<v-main>
+		<v-main class="main-container-background">
 			<v-container>
 				<Nuxt />
 			</v-container>
 		</v-main>
-		<v-footer :absolute="true" app>
-			<span>&copy; {{ new Date().getFullYear() }}</span>
+		<v-footer class="striped-background" :absolute="true" app>
+			<span class="background-text">&copy; {{ new Date().getFullYear() }}</span>
 			<v-spacer />
-			<span>José Esteves</span>
+			<span class="background-text">José Esteves</span>
 		</v-footer>
 	</v-app>
 </template>
@@ -23,9 +21,20 @@ export default {
 	name: 'DefaultLayout',
 	data() {
 		return {
-			title: 'O que fazer para jantar?',
+			title: 'Nome do meu bebé',
 		};
 	},
 };
 </script>
-<style scoped></style>
+<style>
+.background-text {
+	color: #12162d;
+	background: #ffffff;
+}
+.main-container-background {
+	background: #f88c8c;
+}
+.striped-background {
+	background: repeating-linear-gradient(-45deg, #ffffff, #ffffff 30px, #6875c0 30px, #6875c0 60px);
+}
+</style>

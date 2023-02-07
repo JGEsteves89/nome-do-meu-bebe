@@ -23,6 +23,16 @@ export default {
 		link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
 	},
 
+	env: {
+		apiKey: process.env.apikey,
+		authDomain: process.env.authDomain,
+		projectId: process.env.projectId,
+		storageBucket: process.env.storageBucket,
+		messagingSenderId: process.env.messagingSenderId,
+		appId: process.env.appId,
+		databaseURL: process.env.databaseURL,
+	},
+
 	// Global CSS: https://go.nuxtjs.dev/config-css
 	css: [],
 
@@ -50,8 +60,8 @@ export default {
 			dark: true,
 			themes: {
 				dark: {
-					primary: colors.blue.darken2,
-					accent: colors.grey.darken3,
+					primary: '#6875c0',
+					accent: '#f88c8c',
 					secondary: colors.amber.darken3,
 					info: colors.teal.lighten1,
 					warning: colors.amber.base,

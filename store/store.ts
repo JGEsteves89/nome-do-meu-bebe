@@ -1,176 +1,146 @@
-const getRecipes = (day: number) => import('~/data/' + day + '.json').then((m) => m.default || m);
+import TimeElapsed from '~/utils/TimeElapsed';
+import { initializeApp } from 'firebase/app';
+import { getDatabase, ref, set, child, get } from 'firebase/database';
+
+const getNamesData = () => import('~/data/namesData.json').then((m) => m.default || m);
 const deepCopy = (object: any) => JSON.parse(JSON.stringify(object));
+
+const firebaseConfig = {
+	apiKey: process.env.apiKey,
+	authDomain: process.env.authDomain,
+	projectId: process.env.projectId,
+	storageBucket: process.env.storageBucket,
+	messagingSenderId: process.env.messagingSenderId,
+	appId: process.env.appId,
+	databaseURL: process.env.databaseURL,
+};
+
+const app = initializeApp(firebaseConfig);
+const database = getDatabase(app);
+
 export const state = (): any => ({
-	empty: true,
-	recipesOfTheDays: {},
-	shoppingList: [],
+	father: {
+		names: null,
+		stillToVote: [],
+	},
+	mother: {
+		names: null,
+		stillToVote: [],
+	},
+	max: 0,
+	sum: 0,
 });
 
 export const getters = {
-	getRecipesOfTheDays: (state: any) => state.recipesOfTheDays,
-	getShoppingList: (state: any) => state.shoppingList,
+	getCurrentStack: (state: any) => (parent: string) => {
+		const timeCount = new TimeElapsed();
+		const res = state[parent].stillToVote.slice(0, 10);
+		timeCount.print('[Store]-getCurrentStack');
+		return res;
+	},
+	getAllNames: (state: any) => (parent: string) => Object.values(state[parent].names),
+	getNotVoted: (state: any) => (parent: string) => {
+		//console.log('getNotVoted', parent);
+		return Object.values(state[parent].names).filter((n: any) => n.voted === 0).length;
+	},
+	getResults: (state: any) => {
+		const timeCount = new TimeElapsed();
+		const results = deepCopy(state.father.names);
+		for (let [key, vote] of Object.entries(results) as any[]) {
+			vote.score += state.mother.names[key].score;
+			vote.voted += state.mother.names[key].voted;
+		}
+		timeCount.print('[Store]-getResults');
+		return Object.values(results);
+	},
+	getSum: (state: any) => state.sum,
 };
 
 export const mutations = {
-	changeRecipesOfTheDays(state: any, recipesOfTheDays: any) {
-		//console.log('mutations changeRecipesOfTheDay was called');
-		state.recipesOfTheDays = recipesOfTheDays;
-		const recipesOfTheDaysSmall: any = {};
-		for (const [date, recipe] of Object.entries(recipesOfTheDays)) {
-			const selected = (recipe as any).selected;
-			const portions = (recipe as any).alternatives[selected].portions;
-			recipesOfTheDaysSmall[date] = {
-				selected,
-				portions,
-				date: (recipe as any).date,
-			};
-		}
-		(this as any).$cookies.set('recipesOfTheDaysSmall', JSON.stringify(recipesOfTheDaysSmall), {
-			path: '/',
-			maxAge: 60 * 60 * 24 * 7,
-			sameSite: true,
-		});
-		state.empty = false;
+	setData(state: any, data: any) {
+		const timeCount = new TimeElapsed();
+		state.max = data.max;
+		state.sum = data.sum;
+		state.mother.names = data.mother.names;
+		state.mother.stillToVote = Object.values(state.mother.names)
+			.filter((n: any) => n.voted === 0)
+			.sort((a: any, b: any) => a.name.localeCompare(b.name))
+			.sort((a: any, b: any) => b.count - a.count);
+
+		state.father.names = data.father.names;
+		state.father.stillToVote = Object.values(state.father.names)
+			.filter((n: any) => n.voted === 0)
+			.sort((a: any, b: any) => a.name.localeCompare(b.name))
+			.sort((a: any, b: any) => b.count - a.count);
+		timeCount.print('[Store]-mutation-setData');
 	},
-	changeShoppingList(state: any, shoppingList: any) {
-		//console.log('mutations changeRecipesOfTheDay was called');
-		state.shoppingList = shoppingList;
-		(this as any).$cookies.set('shoppingList', JSON.stringify(shoppingList), {
-			path: '/',
-			maxAge: 60 * 60 * 24 * 7,
-			sameSite: true,
-		});
-		state.empty = false;
+	changeScore(state: any, data: any) {
+		const timeCount = new TimeElapsed();
+		//console.log('Parent', data.parent, 'changed', data.card.name, 'to', data.score);
+		const name = state[data.parent].names[data.card.name + data.card.sex];
+		name.voted = 1;
+		name.score = data.score;
+		const svIndex = state[data.parent].stillToVote.findIndex((n: any) => n.name === data.card.name && n.sex === data.card.sex);
+		state[data.parent].stillToVote.splice(svIndex, 1);
+
+		timeCount.print('[Store]-mutation-changeScore');
 	},
 };
 
 export const actions = {
-	async getRecipesOfTheDays({ state }: any, date: any) {
-		//console.log('Store getRecipesOfTheDays started', onDeactivated, new Date().getSeconds());
-		const dateString = new Date(date).toDateString();
-		if (state.recipesOfTheDays[dateString]) return;
+	async scoreName({ state }: any, data: any) {
+		const timeCount = new TimeElapsed();
+		if (!state.mother.names || !state.father.names) {
+			await (this as any).dispatch('store/loadRemoteDB');
+		}
+		const res = (this as any).commit('store/changeScore', data);
 
-		const start: any = new Date(date.getFullYear(), 0, 0);
-		const diff = (new Date(date) as any) - start;
-		const oneDay = 1000 * 60 * 60 * 24;
-		const day = Math.max(Math.min(Math.floor(diff / oneDay), 365), 0);
-		const todaysRecipes = await getRecipes(day);
-		const alternatives: any[] = Object.values(todaysRecipes);
-
-		for (const alternative of alternatives) {
-			alternative.defaultPortions = alternative.portions;
-		}
-		const recipesOfTheDay = { alternatives, selected: 0, date: new Date(date) };
-		const copy = deepCopy(state.recipesOfTheDays);
-		copy[dateString] = recipesOfTheDay;
-		//console.log('Store getRecipesOfTheDays commit', new Date().getSeconds());
-		(this as any).commit('store/changeRecipesOfTheDays', copy);
+		(this as any).dispatch('store/saveRemoteDB');
+		timeCount.print('[Store]-action-changeScore');
+		return res;
 	},
-	async changeSelection({ state }: any, info: any) {
-		//console.log('Store changeSelection started', info, new Date().getSeconds());
-		const date = new Date(info.date).toDateString();
-		//console.log('changeSelection called with', info);
-		if (!state.recipesOfTheDays[date]) {
-			await (this as any).dispatch('store/getRecipesOfTheDays', new Date(info.date));
-		}
-		const copy = deepCopy(state.recipesOfTheDays);
-		copy[date].selected = info.n;
-		//console.log('Changing selected to', info.n);
-		//console.log('Store changeSelection commit', new Date().getSeconds());
-		(this as any).commit('store/changeRecipesOfTheDays', copy);
-	},
-	async setPortions({ state }: any, info: any) {
-		//console.log('Store setPortions started', info, new Date().getSeconds());
-		const date = new Date(info.date).toDateString();
-		if (!state.recipesOfTheDays[date]) {
-			await (this as any).dispatch('store/getRecipesOfTheDay', new Date(info.date));
-		}
-		const copy = deepCopy(state.recipesOfTheDays);
-		copy[date].alternatives[copy[date].selected].portions = info.portions;
-		//console.log('Changing portions to', info.portions);
-		//console.log('Store setPortions commit', new Date().getSeconds());
-		(this as any).commit('store/changeRecipesOfTheDays', copy);
-	},
-	async generateShoppingList({ state }: any, days: any[]) {
-		//console.log('Store setPortions started', info, new Date().getSeconds());
-		for (const day of days) {
-			const date = new Date(day).toDateString();
-			if (!state.recipesOfTheDays[date]) {
-				await (this as any).dispatch('store/getRecipesOfTheDays');
-			}
-		}
-		let ingredients: any = [];
-		for (const day of days) {
-			const date = new Date(day).toDateString();
-			const selected = state.recipesOfTheDays[date].selected;
-			const selectedRecipe = state.recipesOfTheDays[date].alternatives[selected];
-			const recipeIngredients = deepCopy(selectedRecipe.ingredients);
-			for (const ingredient of recipeIngredients) {
-				ingredient.qtd = (selectedRecipe.portions * ingredient.qtd) / selectedRecipe.defaultPortions;
-			}
-			ingredients = ingredients.concat(recipeIngredients);
-		}
-		let distinctIngredients: any = [];
-		for (const ingredient of ingredients) {
-			const find = distinctIngredients.find((t: any) => t.name === ingredient.name);
-			if (find) {
-				//(find.name, find.qtd, find.unit, '+', ingredient.qtd, ingredient.unit);
-				const qtdFind = find.qtd.find((q: any) => q.unit === ingredient.unit);
-				if (qtdFind) {
-					qtdFind.qtd += ingredient.qtd;
-				} else {
-					find.qtd.push({ qtd: ingredient.qtd, unit: ingredient.unit });
-				}
-			} else {
-				ingredient.qtd = [{ qtd: ingredient.qtd, unit: ingredient.unit }];
-				distinctIngredients.push(ingredient);
-			}
-		}
-		const prettyDecimalPoint = (qtd: number) => {
-			let prettyDecimal = qtd.toString();
-			if (prettyDecimal.includes('.')) {
-				prettyDecimal = qtd.toFixed(1);
-			}
-			return prettyDecimal;
-		};
-
-		let finalShoppingList: any = distinctIngredients
-			.map((i: any) => {
-				return { name: i.name, qtd: i.qtd.map((q: any) => prettyDecimalPoint(q.qtd) + ' ' + q.unit).join(' + '), active: false };
-			})
-			.sort((a: any, b: any) => a.name > b.name);
-		(this as any).commit('store/changeShoppingList', finalShoppingList);
-	},
-	async updateShoppingList({ state }: any, shoppingList: any[]) {
-		(this as any).commit('store/changeShoppingList', deepCopy(shoppingList));
-	},
-	async getSettings({ state }: any) {
-		//console.log('Getting settings', this);
-		const allCookies = deepCopy((this as any).$cookies.getAll());
-		if (state.empty) {
-			//console.log('Restoring cookies', allCookies);
-			if (allCookies.recipesOfTheDaysSmall) {
-				//console.log('Restoring recipes');
-				for (const recipeDay of Object.values(allCookies.recipesOfTheDaysSmall) as any[]) {
-					if (new Date(new Date().toDateString()) <= new Date(new Date(recipeDay.date).toDateString())) {
-						await (this as any).dispatch('store/getRecipesOfTheDays', new Date(recipeDay.date));
+	async loadRemoteDB({ state }: any) {
+		const timeCount = new TimeElapsed();
+		if (!state.mother.names || !state.father.names) {
+			const dbRef = ref(database);
+			return get(child(dbRef, `votes/`))
+				.then(async (snapshot) => {
+					let data = snapshot.val();
+					if (!data) {
 					}
-				}
-				const copy = deepCopy(state.recipesOfTheDays);
-				for (const recipeDay of Object.values(allCookies.recipesOfTheDaysSmall) as any[]) {
-					const date = new Date(recipeDay.date).toDateString();
-					if (copy[date]) {
-						copy[date].selected = recipeDay.selected;
-						copy[date].alternatives[recipeDay.selected].portions = recipeDay.portions;
-					}
-				}
-				//console.log('Changed recipes to', copy);
-				(this as any).commit('store/changeRecipesOfTheDays', copy);
-			}
-			if (allCookies.shoppingList) {
-				//console.log('Restoring ingredients');
-				(this as any).commit('store/changeShoppingList', allCookies.shoppingList);
-			}
+					timeCount.print('[Store]-action-loadRemoteDB');
+					return await (this as any).commit('store/setData', data);
+				})
+				.catch((error: any) => {
+					console.error(error);
+				});
 		}
+	},
+	async saveRemoteDB({ state }: any) {
+		const timeCount = new TimeElapsed();
+		if (!state.mother.names || !state.father.names) {
+			await (this as any).dispatch('store/loadRemoteDB');
+		}
+		//console.log('Pai', state.father.stillToVote.length);
+		//console.log('Mãe', state.mother.stillToVote.length);
+		set(ref(database, 'votes/'), state);
+		//console.log('Saved to database');
+		timeCount.print('[Store]-action-saveRemoteDB');
+	},
+	async reset({ state }: any) {
+		//console.log('Preparing to reset all the data');
+		const resetState = await (this as any).dispatch('store/getResetState');
+		set(ref(database, 'votes/'), resetState).then(async () => {
+			await (this as any).dispatch('store/loadRemoteDB');
+		});
+	},
+	async getResetState({ state }: any) {
+		const names = await getNamesData();
+		let data = {} as any;
+		data.mother = { ...names };
+		data.father = { ...names };
+		data.max = names.max;
+		data.sum = names.sum;
+		return data;
 	},
 };
