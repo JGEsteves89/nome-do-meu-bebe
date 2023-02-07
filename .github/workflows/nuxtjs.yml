@@ -69,11 +69,8 @@ jobs:
             ${{ runner.os }}-nuxt-build-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-      - name: Static HTML export with Nuxt
-        run: ${{ steps.detect-package-manager.outputs.manager }} run generate
       - name: 'Create env file'
         run: |
-          cd ./dist
           touch .env
           echo authDomain="nome-do-meu-bebe.firebaseapp.com" >> .env
           echo projectId="nome-do-meu-bebe" >> .env
@@ -83,7 +80,8 @@ jobs:
           echo databaseURL="https://nome-do-meu-bebe-default-rtdb.europe-west1.firebasedatabase.app" >> .env
           echo apikey=${{ secrets.API_KEY }} >> .env
           cat .env
-          cd ..
+      - name: Static HTML export with Nuxt
+        run: ${{ steps.detect-package-manager.outputs.manager }} run generate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
