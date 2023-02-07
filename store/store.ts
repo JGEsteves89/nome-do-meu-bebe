@@ -95,7 +95,7 @@ export const actions = {
 		}
 		const res = (this as any).commit('store/changeScore', data);
 
-		(this as any).dispatch('store/saveRemoteDB');
+		(this as any).dispatch('store/saveRemoteDB', data.parent);
 		timeCount.print('[Store]-action-changeScore');
 		return res;
 	},
@@ -116,14 +116,14 @@ export const actions = {
 				});
 		}
 	},
-	async saveRemoteDB({ state }: any) {
+	async saveRemoteDB({ state }: any, parent: string) {
 		const timeCount = new TimeElapsed();
 		if (!state.mother.names || !state.father.names) {
 			await (this as any).dispatch('store/loadRemoteDB');
 		}
 		//console.log('Pai', state.father.stillToVote.length);
 		//console.log('Mãe', state.mother.stillToVote.length);
-		set(ref(database, 'votes/'), state);
+		set(ref(database, 'votes/' + parent + '/'), state[parent]);
 		//console.log('Saved to database');
 		timeCount.print('[Store]-action-saveRemoteDB');
 	},
